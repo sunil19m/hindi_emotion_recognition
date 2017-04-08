@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>earth - Meaning in Hindi - earth in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="earth - Meaning in Hindi, what is meaning of earth in Hindi dictionary, audio pronunciation, synonyms and definitions of earth in Hindi and English.">
+<meta name="keywords" content="earth, meaning of earth, English and Hindi for earth, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/earth/earth-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="earth" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">earth - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of earth</h2><i class="fa fa-volume-up fa-lg in au" id="en256336" style=""></i>अर्थ<div class="page-header"><h2 class="ehr">Meanings of earth in Hindi</h2><small>[<a id="t_on" href="/translate/earth/earth-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi14293"></i> <a class="in l" href="/translate/तार/तार-meaning-in-Hindi-English">तार</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[tāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14808"></i> <a class="in l" href="/translate/थल/थल-meaning-in-Hindi-English">थल</a> <span class="latin" style="display:none;">[thala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15542"></i> <a class="in l" href="/translate/दुनिया/दुनिया-meaning-in-Hindi-English">दुनिया</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[duniyā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16279"></i> <a class="in l" href="/translate/धरणी/धरणी-meaning-in-Hindi-English">धरणी</a> <span class="latin" style="display:none;">[dharaṇī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16280"></i> <a class="in l" href="/translate/धरती/धरती-meaning-in-Hindi-English">धरती</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[dharatī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16287"></i> <a class="in l" href="/translate/धरातल/धरातल-meaning-in-Hindi-English">धरातल</a> <span class="latin" style="display:none;">[dharātala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16385"></i> <a class="in l" href="/translate/धातु/धातु-meaning-in-Hindi-English">धातु</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dhātu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20372"></i> <a class="in l" href="/translate/पृथ्वी/पृथ्वी-meaning-in-Hindi-English">पृथ्वी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[pr̥thvī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi21495"></i> <a class="in l" href="/translate/प्रवृत्ति/प्रवृत्ति-meaning-in-Hindi-English">प्रवृत्ति</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[pravr̥tti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23513"></i> <a class="in l" href="/translate/बिल/बिल-meaning-in-Hindi-English">बिल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bila]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24710"></i> <a class="in l" href="/translate/भू/भू-meaning-in-Hindi-English">भू</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bhū]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24761"></i> <a class="in l" href="/translate/भूगोल/भूगोल-meaning-in-Hindi-English">भूगोल</a> <span class="latin" style="display:none;">[bhūgōla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24773"></i> <a class="in l" href="/translate/भूतल/भूतल-meaning-in-Hindi-English">भूतल</a> <span class="latin" style="display:none;">[bhūtala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24800"></i> <a class="in l" href="/translate/भूमि/भूमि-meaning-in-Hindi-English">भूमि</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bhūmi]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24819"></i> <a class="in l" href="/translate/भूयोजन/भूयोजन-meaning-in-Hindi-English">भूयोजन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bhūyōjana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25812"></i> <a class="in l" href="/translate/मही/मही-meaning-in-Hindi-English">मही</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[mahī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16279"></i> <a class="in l" href="/translate/धरणी/धरणी-meaning-in-Hindi-English">धरणी</a> <span class="latin" style="display:none;">[dharaṇī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26124"></i> <a class="in l" href="/translate/मिट्टी/मिट्टी-meaning-in-Hindi-English">मिट्टी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[miṭṭī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16280"></i> <a class="in l" href="/translate/धरती/धरती-meaning-in-Hindi-English">धरती</a> <span class="latin" style="display:none;">[dharatī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26408"></i> <a class="in l" href="/translate/मुद्रा/मुद्रा-meaning-in-Hindi-English">मुद्रा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[mudrā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16286"></i> <a class="in l" href="/translate/धरा/धरा-meaning-in-Hindi-English">धरा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[dharā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32760"></i> <a class="in l" href="/translate/संसार/संसार-meaning-in-Hindi-English">संसार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sansāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16287"></i> <a class="in l" href="/translate/धरातल/धरातल-meaning-in-Hindi-English">धरातल</a> <span class="latin" style="display:none;">[dharātala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35536"></i> <a class="in l" href="/translate/स्थल/स्थल-meaning-in-Hindi-English">स्थल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sthala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20372"></i> <a class="in l" href="/translate/पृथ्वी/पृथ्वी-meaning-in-Hindi-English">पृथ्वी</a> <span class="latin" style="display:none;">[pr̥thvī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35545"></i> <a class="in l" href="/translate/स्थान/स्थान-meaning-in-Hindi-English">स्थान</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sthāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24710"></i> <a class="in l" href="/translate/भू/भू-meaning-in-Hindi-English">भू</a> <span class="latin" style="display:none;">[bhū]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi262768"></i> <a class="in l" href="/translate/भूलोक/भूलोक-meaning-in-Hindi-English">भूलोक</a> <span class="latin" style="display:none;">[bhūlōka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24761"></i> <a class="in l" href="/translate/भूगोल/भूगोल-meaning-in-Hindi-English">भूगोल</a> <span class="latin" style="display:none;">[bhūgōla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi318364"></i> <a class="in l" href="/translate/वसुधा/वसुधा-meaning-in-Hindi-English">वसुधा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[vasudhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24773"></i> <a class="in l" href="/translate/भूतल/भूतल-meaning-in-Hindi-English">भूतल</a> <span class="latin" style="display:none;">[bhūtala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi318372"></i> <a class="in l" href="/translate/वसुन्धरा/वसुन्धरा-meaning-in-Hindi-English">वसुन्धरा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[vasundharā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24794"></i> <a class="in l" href="/translate/भूमंडल/भूमंडल-meaning-in-Hindi-English">भूमंडल</a> <span class="latin" style="display:none;">[bhūmaṇḍala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24800"></i> <a class="in l" href="/translate/भूमि/भूमि-meaning-in-Hindi-English">भूमि</a> <span class="latin" style="display:none;">[bhūmi]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26124"></i> <a class="in l" href="/translate/मिट्टी/मिट्टी-meaning-in-Hindi-English">मिट्टी</a> <span class="latin" style="display:none;">[miṭṭī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32760"></i> <a class="in l" href="/translate/संसार/संसार-meaning-in-Hindi-English">संसार</a> <span class="latin" style="display:none;">[sansāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35536"></i> <a class="in l" href="/translate/स्थल/स्थल-meaning-in-Hindi-English">स्थल</a> <span class="latin" style="display:none;">[sthala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi262768"></i> <a class="in l" href="/translate/भूलोक/भूलोक-meaning-in-Hindi-English">भूलोक</a> <span class="latin" style="display:none;">[bhūlōka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12165"></i> <a class="in l" href="/translate/जमीन/जमीन-meaning-in-Hindi-English">जमीन</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[jamīna]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi24963"></i> <a class="in l" href="/translate/भौतिक/भौतिक-meaning-in-Hindi-English">भौतिक</a> <span class="latin" style="display:none;">[bhautika]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi340790"></i> <a class="in l" href="/translate/संसारिक/संसारिक-meaning-in-Hindi-English">संसारिक</a> <span class="latin" style="display:none;">[sansārika]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi462735"></i> <a class="in l" href="/translate/बिल में भगाना/बिल में भगाना-meaning-in-Hindi-English">बिल में भगाना</a> <span class="latin" style="display:none;">[bila mēṁ bhagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391855"></i> <a class="in l" href="/translate/छिप जाना/छिप जाना-meaning-in-Hindi-English">छिप जाना</a> <span class="latin" style="display:none;">[chipa jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi400019"></i> <a class="in l" href="/translate/पृथ्वी में गाड़ देना/पृथ्वी में गाड़ देना-meaning-in-Hindi-English">पृथ्वी में गाड़ देना</a> <span class="latin" style="display:none;">[pr̥thvī mēṁ gāṛa dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi400020"></i> <a class="in l" href="/translate/मिट्टी से बन्द कर देना/मिट्टी से बन्द कर देना-meaning-in-Hindi-English">मिट्टी से बन्द कर देना</a> <span class="latin" style="display:none;">[miṭṭī sē banda kara dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13792"></i> <a class="in l" href="/translate/ढकना/ढकना-meaning-in-Hindi-English">ढकना</a> <span class="latin" style="display:none;">[ḍhakanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi434277"></i> <a class="in l" href="/translate/मिट्टी से ढकना/मिट्टी से ढकना-meaning-in-Hindi-English">मिट्टी से ढकना</a> <span class="latin" style="display:none;">[miṭṭī sē ḍhakanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/earths/earths-meaning-in-Hindi-English">earths</a> (noun plural)<br/><a href="/translate/earthed/earthed-meaning-in-Hindi-English">earthed</a> (verb past tense)<br/><a href="/translate/earthing/earthing-meaning-in-Hindi-English">earthing</a> (verb present participle)<br/><a href="/translate/earths/earths-meaning-in-Hindi-English">earths</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of earth in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)</li><li>the concerns of this life as distinguished from heaven and the afterlife</li><li>the abode of mortals (as contrasted with Heaven or Hell)</li><li>the 3rd planet from the sun; the planet we live on<br><u><em>Example</em></u><br>- he sailed around the world<br></li><li>the solid part of the earth's surface<br><u><em>Examples</em></u><br>- the earth shook for several minutes<br>- he dropped the logs on the ground<br></li><li>the loose soft material that makes up a large part of the land surface</li><li>once thought to be one of four elements composing the universe (Empedocles)</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>connect to the earth</li><li>hide in the earth like a hunted animal</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of earth</h2><p><a href="/translate/earth/earth-meaning-in-Hindi-English">earth</a>, <a href="/translate/ground/ground-meaning-in-Hindi-English">ground</a>, <a href="/translate/earthly+concern/earthly+concern-meaning-in-Hindi-English">earthly concern</a>, <a href="/translate/world/world-meaning-in-Hindi-English">world</a>, <a href="/translate/worldly+concern/worldly+concern-meaning-in-Hindi-English">worldly concern</a>, <a href="/translate/globe/globe-meaning-in-Hindi-English">globe</a>, <a href="/translate/dry+land/dry+land-meaning-in-Hindi-English">dry land</a>, <a href="/translate/land/land-meaning-in-Hindi-English">land</a>, <a href="/translate/solid+ground/solid+ground-meaning-in-Hindi-English">solid ground</a>, <a href="/translate/terra+firma/terra+firma-meaning-in-Hindi-English">terra firma</a></p><h2 class="ehr">Antonyms of earth</h2><p>No matches.</p><h2 class="ehr">More matches for earth</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earth dam/earth dam-meaning-in-Hindi-English">earth dam</a></td><td class="l"><a class="in l" href="/translate/मिट्टी का बांध/मिट्टी का बांध-meaning-in-Hindi-English">मिट्टी का बांध</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earth flax/earth flax-meaning-in-Hindi-English">earth flax</a></td><td class="l"><a class="in l" href="/translate/अदह/अदह-meaning-in-Hindi-English">अदह</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earth flax/earth flax-meaning-in-Hindi-English">earth flax</a></td><td class="l"><a class="in l" href="/translate/अज़बेस्टो/अज़बेस्टो-meaning-in-Hindi-English">अज़बेस्टो</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earth science/earth science-meaning-in-Hindi-English">earth science</a></td><td class="l"><a class="in l" href="/translate/भू-विज्ञान/भू-विज्ञान-meaning-in-Hindi-English">भू-विज्ञान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/धरती से जुड़ा हुआ/धरती से जुड़ा हुआ-meaning-in-Hindi-English">धरती से जुड़ा हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthenware/earthenware-meaning-in-Hindi-English">earthenware</a></td><td class="l"><a class="in l" href="/translate/मिट्टी/मिट्टी-meaning-in-Hindi-English">मिट्टी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthenware/earthenware-meaning-in-Hindi-English">earthenware</a></td><td class="l"><a class="in l" href="/translate/मिट्टी के बरतन/मिट्टी के बरतन-meaning-in-Hindi-English">मिट्टी के बरतन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthenware/earthenware-meaning-in-Hindi-English">earthenware</a></td><td class="l"><a class="in l" href="/translate/मिट्टी के बने हुए बरतन/मिट्टी के बने हुए बरतन-meaning-in-Hindi-English">मिट्टी के बने हुए बरतन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthenware jar/earthenware jar-meaning-in-Hindi-English">earthenware jar</a></td><td class="l"><a class="in l" href="/translate/मटका/मटका-meaning-in-Hindi-English">मटका</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthiness/earthiness-meaning-in-Hindi-English">earthiness</a></td><td class="l"><a class="in l" href="/translate/अश्लीलता/अश्लीलता-meaning-in-Hindi-English">अश्लीलता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthiness/earthiness-meaning-in-Hindi-English">earthiness</a></td><td class="l"><a class="in l" href="/translate/पार्थिवता/पार्थिवता-meaning-in-Hindi-English">पार्थिवता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthing/earthing-meaning-in-Hindi-English">earthing</a></td><td class="l"><a class="in l" href="/translate/भूयोजन/भूयोजन-meaning-in-Hindi-English">भूयोजन</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthborn/earthborn-meaning-in-Hindi-English">earthborn</a></td><td class="l"><a class="in l" href="/translate/मानवी/मानवी-meaning-in-Hindi-English">मानवी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthborn/earthborn-meaning-in-Hindi-English">earthborn</a></td><td class="l"><a class="in l" href="/translate/मरणशील/मरणशील-meaning-in-Hindi-English">मरणशील</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthborn/earthborn-meaning-in-Hindi-English">earthborn</a></td><td class="l"><a class="in l" href="/translate/आदमी का/आदमी का-meaning-in-Hindi-English">आदमी का</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/नीरस/नीरस-meaning-in-Hindi-English">नीरस</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/व्यावहारिक/व्यावहारिक-meaning-in-Hindi-English">व्यावहारिक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/सांसारिक/सांसारिक-meaning-in-Hindi-English">सांसारिक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/साधारण/साधारण-meaning-in-Hindi-English">साधारण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/इहलौकिक/इहलौकिक-meaning-in-Hindi-English">इहलौकिक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/धरती से जुड़ा हुआ/धरती से जुड़ा हुआ-meaning-in-Hindi-English">धरती से जुड़ा हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthbound/earthbound-meaning-in-Hindi-English">earthbound</a></td><td class="l"><a class="in l" href="/translate/संसारे के पाश/संसारे के पाश-meaning-in-Hindi-English">संसारे के पाश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthen/earthen-meaning-in-Hindi-English">earthen</a></td><td class="l"><a class="in l" href="/translate/मटिया/मटिया-meaning-in-Hindi-English">मटिया</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthen/earthen-meaning-in-Hindi-English">earthen</a></td><td class="l"><a class="in l" href="/translate/मृण्मय/मृण्मय-meaning-in-Hindi-English">मृण्मय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthen/earthen-meaning-in-Hindi-English">earthen</a></td><td class="l"><a class="in l" href="/translate/मिट्टी का/मिट्टी का-meaning-in-Hindi-English">मिट्टी का</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthen/earthen-meaning-in-Hindi-English">earthen</a></td><td class="l"><a class="in l" href="/translate/इस लोक का/इस लोक का-meaning-in-Hindi-English">इस लोक का</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthen/earthen-meaning-in-Hindi-English">earthen</a></td><td class="l"><a class="in l" href="/translate/मिट्टी से/मिट्टी से-meaning-in-Hindi-English">मिट्टी से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/earthen/earthen-meaning-in-Hindi-English">earthen</a></td><td class="l"><a class="in l" href="/translate/मिट्टी का बना हुआ/मिट्टी का बना हुआ-meaning-in-Hindi-English">मिट्टी का बना हुआ</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: earth</h3><p>Meaning and definitions of earth, translation in Hindi language for earth with similar and opposite words. Also find spoken pronunciation of earth in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "earth"</h3><p>What earth means in Hindi, earth meaning in Hindi, earth definition, examples and pronunciation of earth in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

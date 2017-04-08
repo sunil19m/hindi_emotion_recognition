@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>rage - Meaning in Hindi - rage in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="rage - Meaning in Hindi, what is meaning of rage in Hindi dictionary, audio pronunciation, synonyms and definitions of rage in Hindi and English.">
+<meta name="keywords" content="rage, meaning of rage, English and Hindi for rage, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/rage/rage-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="rage" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">rage - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of rage</h2><i class="fa fa-volume-up fa-lg in au" id="en497320" style=""></i>रेज / रैज<div class="page-header"><h2 class="ehr">Meanings of rage in Hindi</h2><small>[<a id="t_on" href="/translate/rage/rage-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi5069"></i> <a class="in l" href="/translate/उत्पात/उत्पात-meaning-in-Hindi-English">उत्पात</a> <span class="latin" style="display:none;">[utpāta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5117"></i> <a class="in l" href="/translate/उत्साह/उत्साह-meaning-in-Hindi-English">उत्साह</a> <span class="latin" style="display:none;">[utsāha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7211"></i> <a class="in l" href="/translate/कामना/कामना-meaning-in-Hindi-English">कामना</a> <span class="latin" style="display:none;">[kāmanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8510"></i> <a class="in l" href="/translate/क्रोध/क्रोध-meaning-in-Hindi-English">क्रोध</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[krōdha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14455"></i> <a class="in l" href="/translate/तीव्रता/तीव्रता-meaning-in-Hindi-English">तीव्रता</a> <span class="latin" style="display:none;">[tīvratā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14599"></i> <a class="in l" href="/translate/तेजी/तेजी-meaning-in-Hindi-English">तेजी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[tējī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20702"></i> <a class="in l" href="/translate/प्रकोप/प्रकोप-meaning-in-Hindi-English">प्रकोप</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[prakōpa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20754"></i> <a class="in l" href="/translate/प्रचण्डता/प्रचण्डता-meaning-in-Hindi-English">प्रचण्डता</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[pracaṇḍatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28284"></i> <a class="in l" href="/translate/रोष/रोष-meaning-in-Hindi-English">रोष</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[rōṣa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28719"></i> <a class="in l" href="/translate/लालसा/लालसा-meaning-in-Hindi-English">लालसा</a> <span class="latin" style="display:none;">[lālasā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi118259"></i> <a class="in l" href="/translate/ग़ुस्सा/ग़ुस्सा-meaning-in-Hindi-English">ग़ुस्सा</a> <span class="latin" style="display:none;">[ġus'sā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi169797"></i> <a class="in l" href="/translate/तमक/तमक-meaning-in-Hindi-English">तमक</a> <span class="latin" style="display:none;">[tamaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi396181"></i> <a class="in l" href="/translate/प्रबल इच्छा/प्रबल इच्छा-meaning-in-Hindi-English">प्रबल इच्छा</a> <span class="latin" style="display:none;">[prabala icchā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi446121"></i> <a class="in l" href="/translate/प्रकृति का उग्र रूप/प्रकृति का उग्र रूप-meaning-in-Hindi-English">प्रकृति का उग्र रूप</a> <span class="latin" style="display:none;">[prakr̥ti kā ugra rūpa]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi13085"></i> <a class="in l" href="/translate/झुंझलाना/झुंझलाना-meaning-in-Hindi-English">झुंझलाना</a> <span class="latin" style="display:none;">[jhun̄jhalānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16476"></i> <a class="in l" href="/translate/धुनना/धुनना-meaning-in-Hindi-English">धुनना</a> <span class="latin" style="display:none;">[dhunanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392867"></i> <a class="in l" href="/translate/क्रोध करना/क्रोध करना-meaning-in-Hindi-English">क्रोध करना</a> <span class="latin" style="display:none;">[krōdha karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi400550"></i> <a class="in l" href="/translate/रोष करना/रोष करना-meaning-in-Hindi-English">रोष करना</a> <span class="latin" style="display:none;">[rōṣa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi407611"></i> <a class="in l" href="/translate/आग बबूला होना/आग बबूला होना-meaning-in-Hindi-English">आग बबूला होना</a> <span class="latin" style="display:none;">[āga babūlā hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi442468"></i> <a class="in l" href="/translate/तेज़ी से फैलना/तेज़ी से फैलना-meaning-in-Hindi-English">तेज़ी से फैलना</a> <span class="latin" style="display:none;">[tēzī sē phailanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi446122"></i> <a class="in l" href="/translate/जोर पकड़ना/जोर पकड़ना-meaning-in-Hindi-English">जोर पकड़ना</a> <span class="latin" style="display:none;">[jōra pakaṛanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi446123"></i> <a class="in l" href="/translate/का प्रकोप होना/का प्रकोप होना-meaning-in-Hindi-English">का प्रकोप होना</a> <span class="latin" style="display:none;">[kā prakōpa hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi446124"></i> <a class="in l" href="/translate/ज़ोर से चलना/ज़ोर से चलना-meaning-in-Hindi-English">ज़ोर से चलना</a> <span class="latin" style="display:none;">[zōra sē calanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi446125"></i> <a class="in l" href="/translate/रोष व्यक्त करना/रोष व्यक्त करना-meaning-in-Hindi-English">रोष व्यक्त करना</a> <span class="latin" style="display:none;">[rōṣa vyakta karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi808322"></i> <a class="in l" href="/translate/क्रोध होना/क्रोध होना-meaning-in-Hindi-English">क्रोध होना</a> <span class="latin" style="display:none;">[krōdha hōnā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/rages/rages-meaning-in-Hindi-English">rages</a> (noun plural)<br/><a href="/translate/raged/raged-meaning-in-Hindi-English">raged</a> (verb past tense)<br/><a href="/translate/raging/raging-meaning-in-Hindi-English">raging</a> (verb present participle)<br/><a href="/translate/rages/rages-meaning-in-Hindi-English">rages</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of rage in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>an interest followed with exaggerated zeal<br><u><em>Example</em></u><br>- it was all the rage that season<br></li><li>a feeling of intense anger<br><u><em>Example</em></u><br>- his face turned red with rage<br></li><li>violent state of the elements</li><li>a state of extreme anger</li><li>something that is desired intensely</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>feel intense anger</li><li>be violent; as of fires and storms</li><li>behave violently, as if in state of a great anger</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of rage</h2><p><a href="/translate/craze/craze-meaning-in-Hindi-English">craze</a>, <a href="/translate/cult/cult-meaning-in-Hindi-English">cult</a>, <a href="/translate/fad/fad-meaning-in-Hindi-English">fad</a>, <a href="/translate/furor/furor-meaning-in-Hindi-English">furor</a>, <a href="/translate/furore/furore-meaning-in-Hindi-English">furore</a>, <a href="/translate/rage/rage-meaning-in-Hindi-English">rage</a>, <a href="/translate/fury/fury-meaning-in-Hindi-English">fury</a>, <a href="/translate/madness/madness-meaning-in-Hindi-English">madness</a>, <a href="/translate/passion/passion-meaning-in-Hindi-English">passion</a>, <a href="/translate/ramp/ramp-meaning-in-Hindi-English">ramp</a>, <a href="/translate/storm/storm-meaning-in-Hindi-English">storm</a></p><h2 class="ehr">Antonyms of rage</h2><p>No matches.</p></div></div></div><hr><h3>English to Hindi Dictionary: rage</h3><p>Meaning and definitions of rage, translation in Hindi language for rage with similar and opposite words. Also find spoken pronunciation of rage in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "rage"</h3><p>What rage means in Hindi, rage meaning in Hindi, rage definition, examples and pronunciation of rage in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

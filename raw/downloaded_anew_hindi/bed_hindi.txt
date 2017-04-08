@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>bed - Meaning in Hindi - bed in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="bed - Meaning in Hindi, what is meaning of bed in Hindi dictionary, audio pronunciation, synonyms and definitions of bed in Hindi and English.">
+<meta name="keywords" content="bed, meaning of bed, English and Hindi for bed, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/bed/bed-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="bed" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">bed - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of bed</h2><i class="fa fa-volume-up fa-lg in au" id="en159000" style=""></i>बेड<div class="page-header"><h2 class="ehr">Meanings of bed in Hindi</h2><small>[<a id="t_on" href="/translate/bed/bed-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi35187"></i> <a class="in l" href="/translate/सेज/सेज-meaning-in-Hindi-English">सेज</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sēja]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi330933"></i> <a class="in l" href="/translate/शयन/शयन-meaning-in-Hindi-English">शयन</a> <span class="latin" style="display:none;">[śayana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389932"></i> <a class="in l" href="/translate/तालाब नदी आदि का तला/तालाब नदी आदि का तला-meaning-in-Hindi-English">तालाब नदी आदि का तला</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[tālāba nadī ādi kā talā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429249"></i> <a class="in l" href="/translate/सोने जाना/सोने जाना-meaning-in-Hindi-English">सोने जाना</a> <span class="latin" style="display:none;">[sōnē jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3934"></i> <a class="in l" href="/translate/आधार/आधार-meaning-in-Hindi-English">आधार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ādhāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8367"></i> <a class="in l" href="/translate/क्यारी/क्यारी-meaning-in-Hindi-English">क्यारी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[kyārī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8756"></i> <a class="in l" href="/translate/खटिया/खटिया-meaning-in-Hindi-English">खटिया</a> <span class="latin" style="display:none;">[khaṭiyā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8956"></i> <a class="in l" href="/translate/खाट/खाट-meaning-in-Hindi-English">खाट</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[khāṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11035"></i> <a class="in l" href="/translate/चारपाई/चारपाई-meaning-in-Hindi-English">चारपाई</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[cārapā'ī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14152"></i> <a class="in l" href="/translate/तल/तल-meaning-in-Hindi-English">तल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[tala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14202"></i> <a class="in l" href="/translate/तह/तह-meaning-in-Hindi-English">तह</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[taha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16729"></i> <a class="in l" href="/translate/नदीतल/नदीतल-meaning-in-Hindi-English">नदीतल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[nadītala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18703"></i> <a class="in l" href="/translate/परत/परत-meaning-in-Hindi-English">परत</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[parata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19168"></i> <a class="in l" href="/translate/पर्त/पर्त-meaning-in-Hindi-English">पर्त</a> <span class="latin" style="display:none;">[parta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19176"></i> <a class="in l" href="/translate/पर्यक/पर्यक-meaning-in-Hindi-English">पर्यक</a> <span class="latin" style="display:none;">[paryaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19216"></i> <a class="in l" href="/translate/पलंग/पलंग-meaning-in-Hindi-English">पलंग</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[palaṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22075"></i> <a class="in l" href="/translate/फर्श/फर्श-meaning-in-Hindi-English">फर्श</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[pharśa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23467"></i> <a class="in l" href="/translate/बिछौना/बिछौना-meaning-in-Hindi-English">बिछौना</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bichaunā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23544"></i> <a class="in l" href="/translate/बिस्तर/बिस्तर-meaning-in-Hindi-English">बिस्तर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bistara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31275"></i> <a class="in l" href="/translate/शय्या/शय्या-meaning-in-Hindi-English">शय्या</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[śayyā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32776"></i> <a class="in l" href="/translate/संस्तर/संस्तर-meaning-in-Hindi-English">संस्तर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sanstara]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi389936"></i> <a class="in l" href="/translate/क्यारी में लगाना/क्यारी में लगाना-meaning-in-Hindi-English">क्यारी में लगाना</a> <span class="latin" style="display:none;">[kyārī mēṁ lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429247"></i> <a class="in l" href="/translate/रात को शरण देना/रात को शरण देना-meaning-in-Hindi-English">रात को शरण देना</a> <span class="latin" style="display:none;">[rāta kō śaraṇa dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429248"></i> <a class="in l" href="/translate/पौधा लगाना/पौधा लगाना-meaning-in-Hindi-English">पौधा लगाना</a> <span class="latin" style="display:none;">[paudhā lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429249"></i> <a class="in l" href="/translate/सोने जाना/सोने जाना-meaning-in-Hindi-English">सोने जाना</a> <span class="latin" style="display:none;">[sōnē jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24029"></i> <a class="in l" href="/translate/बैठाना/बैठाना-meaning-in-Hindi-English">बैठाना</a> <span class="latin" style="display:none;">[baiṭhānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24091"></i> <a class="in l" href="/translate/बोना/बोना-meaning-in-Hindi-English">बोना</a> <span class="latin" style="display:none;">[bōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28364"></i> <a class="in l" href="/translate/लगाना/लगाना-meaning-in-Hindi-English">लगाना</a> <span class="latin" style="display:none;">[lagānā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/beds/beds-meaning-in-Hindi-English">beds</a> (noun plural)<br/><a href="/translate/bedded/bedded-meaning-in-Hindi-English">bedded</a> (verb past tense)<br/><a href="/translate/bedding/bedding-meaning-in-Hindi-English">bedding</a> (verb present participle)<br/><a href="/translate/beds/beds-meaning-in-Hindi-English">beds</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of bed in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>a piece of furniture that provides a place to sleep<br><u><em>Example</em></u><br>- the room had only a bed and chair<br></li><li>a plot of ground in which plants are growing</li><li>a foundation of earth or rock supporting a road or railroad track</li><li>the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.</li><li>single thickness of usually some homogeneous substance</li><li>a stratum of ore or coal thick enough to be mined with profit</li><li>a depression forming the ground under a body of water</li><li>(geology) a stratum of rock (especially sedimentary rock)</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>prepare for sleep<br><u><em>Example</em></u><br>- He goes to bed at the crack of dawn<br></li><li>have sexual intercourse with<br><u><em>Examples</em></u><br>- Adam knew Eve<br>- Were you ever intimate with this man?<br></li><li>put to bed</li><li>place (plants) in a prepared bed of soil</li><li>furnish with a bed</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of bed</h2><p><a href="/translate/bed/bed-meaning-in-Hindi-English">bed</a>, <a href="/translate/layer/layer-meaning-in-Hindi-English">layer</a>, <a href="/translate/seam/seam-meaning-in-Hindi-English">seam</a>, <a href="/translate/bottom/bottom-meaning-in-Hindi-English">bottom</a>, <a href="/translate/crawl+in/crawl+in-meaning-in-Hindi-English">crawl in</a>, <a href="/translate/go+to+bed/go+to+bed-meaning-in-Hindi-English">go to bed</a>, <a href="/translate/go+to+sleep/go+to+sleep-meaning-in-Hindi-English">go to sleep</a>, <a href="/translate/hit+the+hay/hit+the+hay-meaning-in-Hindi-English">hit the hay</a>, <a href="/translate/hit+the+sack/hit+the+sack-meaning-in-Hindi-English">hit the sack</a>, <a href="/translate/kip+down/kip+down-meaning-in-Hindi-English">kip down</a>, <a href="/translate/retire/retire-meaning-in-Hindi-English">retire</a>, <a href="/translate/sack+out/sack+out-meaning-in-Hindi-English">sack out</a>, <a href="/translate/turn+in/turn+in-meaning-in-Hindi-English">turn in</a>, <a href="/translate/bang/bang-meaning-in-Hindi-English">bang</a>, <a href="/translate/be+intimate/be+intimate-meaning-in-Hindi-English">be intimate</a>, <a href="/translate/bonk/bonk-meaning-in-Hindi-English">bonk</a>, <a href="/translate/do+it/do+it-meaning-in-Hindi-English">do it</a>, <a href="/translate/eff/eff-meaning-in-Hindi-English">eff</a>, <a href="/translate/fuck/fuck-meaning-in-Hindi-English">fuck</a>, <a href="/translate/get+it+on/get+it+on-meaning-in-Hindi-English">get it on</a>, <a href="/translate/get+laid/get+laid-meaning-in-Hindi-English">get laid</a>, <a href="/translate/have+a+go+at+it/have+a+go+at+it-meaning-in-Hindi-English">have a go at it</a>, <a href="/translate/have+intercourse/have+intercourse-meaning-in-Hindi-English">have intercourse</a>, <a href="/translate/have+it+away/have+it+away-meaning-in-Hindi-English">have it away</a>, <a href="/translate/have+it+off/have+it+off-meaning-in-Hindi-English">have it off</a>, <a href="/translate/have+sex/have+sex-meaning-in-Hindi-English">have sex</a>, <a href="/translate/hump/hump-meaning-in-Hindi-English">hump</a>, <a href="/translate/jazz/jazz-meaning-in-Hindi-English">jazz</a>, <a href="/translate/know/know-meaning-in-Hindi-English">know</a>, <a href="/translate/lie+with/lie+with-meaning-in-Hindi-English">lie with</a>, <a href="/translate/love/love-meaning-in-Hindi-English">love</a>, <a href="/translate/make+love/make+love-meaning-in-Hindi-English">make love</a>, <a href="/translate/make+out/make+out-meaning-in-Hindi-English">make out</a>, <a href="/translate/roll+in+the+hay/roll+in+the+hay-meaning-in-Hindi-English">roll in the hay</a>, <a href="/translate/screw/screw-meaning-in-Hindi-English">screw</a>, <a href="/translate/sleep+together/sleep+together-meaning-in-Hindi-English">sleep together</a>, <a href="/translate/sleep+with/sleep+with-meaning-in-Hindi-English">sleep with</a></p><h2 class="ehr">Antonyms of bed</h2><p>No matches.</p><h2 class="ehr">More matches for bed</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed bug/bed bug-meaning-in-Hindi-English">bed bug</a></td><td class="l"><a class="in l" href="/translate/खटमल/खटमल-meaning-in-Hindi-English">खटमल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed cover/bed cover-meaning-in-Hindi-English">bed cover</a></td><td class="l"><a class="in l" href="/translate/पलंगपोश/पलंगपोश-meaning-in-Hindi-English">पलंगपोश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed covering/bed covering-meaning-in-Hindi-English">bed covering</a></td><td class="l"><a class="in l" href="/translate/पलंगपोश/पलंगपोश-meaning-in-Hindi-English">पलंगपोश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed linen/bed linen-meaning-in-Hindi-English">bed linen</a></td><td class="l"><a class="in l" href="/translate/बिछौना/बिछौना-meaning-in-Hindi-English">बिछौना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed linen/bed linen-meaning-in-Hindi-English">bed linen</a></td><td class="l"><a class="in l" href="/translate/चादर तकिया/चादर तकिया-meaning-in-Hindi-English">चादर तकिया</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed sheet/bed sheet-meaning-in-Hindi-English">bed sheet</a></td><td class="l"><a class="in l" href="/translate/चादर/चादर-meaning-in-Hindi-English">चादर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed wetter/bed wetter-meaning-in-Hindi-English">bed wetter</a></td><td class="l"><a class="in l" href="/translate/बिस्तर में पेशाब करने वाला/बिस्तर में पेशाब करने वाला-meaning-in-Hindi-English">बिस्तर में पेशाब करने वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed-sitter/bed-sitter-meaning-in-Hindi-English">bed-sitter</a></td><td class="l"><a class="in l" href="/translate/नर्स/नर्स-meaning-in-Hindi-English">नर्स</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed-wetting/bed-wetting-meaning-in-Hindi-English">bed-wetting</a></td><td class="l"><a class="in l" href="/translate/नींद में पेशाब आने की बीमारी/नींद में पेशाब आने की बीमारी-meaning-in-Hindi-English">नींद में पेशाब आने की बीमारी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed-wetting/bed-wetting-meaning-in-Hindi-English">bed-wetting</a></td><td class="l"><a class="in l" href="/translate/बिस्तर गीला करना/बिस्तर गीला करना-meaning-in-Hindi-English">बिस्तर गीला करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedbug/bedbug-meaning-in-Hindi-English">bedbug</a></td><td class="l"><a class="in l" href="/translate/खटमल/खटमल-meaning-in-Hindi-English">खटमल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedchamber/bedchamber-meaning-in-Hindi-English">bedchamber</a></td><td class="l"><a class="in l" href="/translate/शयनकक्ष/शयनकक्ष-meaning-in-Hindi-English">शयनकक्ष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedchamber/bedchamber-meaning-in-Hindi-English">bedchamber</a></td><td class="l"><a class="in l" href="/translate/सोने का कमरा/सोने का कमरा-meaning-in-Hindi-English">सोने का कमरा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedclothes/bedclothes-meaning-in-Hindi-English">bedclothes</a></td><td class="l"><a class="in l" href="/translate/सोने का कपड़ा/सोने का कपड़ा-meaning-in-Hindi-English">सोने का कपड़ा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedcover/bedcover-meaning-in-Hindi-English">bedcover</a></td><td class="l"><a class="in l" href="/translate/चादर/चादर-meaning-in-Hindi-English">चादर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedcover/bedcover-meaning-in-Hindi-English">bedcover</a></td><td class="l"><a class="in l" href="/translate/पलंगपोश/पलंगपोश-meaning-in-Hindi-English">पलंगपोश</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed down/bed down-meaning-in-Hindi-English">bed down</a></td><td class="l"><a class="in l" href="/translate/सोने का इन्तज़ाम करना/सोने का इन्तज़ाम करना-meaning-in-Hindi-English">सोने का इन्तज़ाम करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bed rest/bed rest-meaning-in-Hindi-English">bed rest</a></td><td class="l"><a class="in l" href="/translate/रोगी को बिस्तर में सीमित करना/रोगी को बिस्तर में सीमित करना-meaning-in-Hindi-English">रोगी को बिस्तर में सीमित करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedabble/bedabble-meaning-in-Hindi-English">bedabble</a></td><td class="l"><a class="in l" href="/translate/धब्बे डालना/धब्बे डालना-meaning-in-Hindi-English">धब्बे डालना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedabble/bedabble-meaning-in-Hindi-English">bedabble</a></td><td class="l"><a class="in l" href="/translate/भिगाना/भिगाना-meaning-in-Hindi-English">भिगाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedamn/bedamn-meaning-in-Hindi-English">bedamn</a></td><td class="l"><a class="in l" href="/translate/कोसना/कोसना-meaning-in-Hindi-English">कोसना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedaub/bedaub-meaning-in-Hindi-English">bedaub</a></td><td class="l"><a class="in l" href="/translate/पोतना/पोतना-meaning-in-Hindi-English">पोतना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedaub/bedaub-meaning-in-Hindi-English">bedaub</a></td><td class="l"><a class="in l" href="/translate/रंग से गंदा करना/रंग से गंदा करना-meaning-in-Hindi-English">रंग से गंदा करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedaze/bedaze-meaning-in-Hindi-English">bedaze</a></td><td class="l"><a class="in l" href="/translate/आश्चर्यचकित कर देना/आश्चर्यचकित कर देना-meaning-in-Hindi-English">आश्चर्यचकित कर देना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedazzle/bedazzle-meaning-in-Hindi-English">bedazzle</a></td><td class="l"><a class="in l" href="/translate/चौंधियाना/चौंधियाना-meaning-in-Hindi-English">चौंधियाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bedazzle/bedazzle-meaning-in-Hindi-English">bedazzle</a></td><td class="l"><a class="in l" href="/translate/चुंधियाना/चुंधियाना-meaning-in-Hindi-English">चुंधियाना</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: bed</h3><p>Meaning and definitions of bed, translation in Hindi language for bed with similar and opposite words. Also find spoken pronunciation of bed in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "bed"</h3><p>What bed means in Hindi, bed meaning in Hindi, bed definition, examples and pronunciation of bed in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>burn - Meaning in Hindi - burn in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="burn - Meaning in Hindi, what is meaning of burn in Hindi dictionary, audio pronunciation, synonyms and definitions of burn in Hindi and English.">
+<meta name="keywords" content="burn, meaning of burn, English and Hindi for burn, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/burn/burn-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="burn" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">burn - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of burn</h2><i class="fa fa-volume-up fa-lg in au" id="en180100" style=""></i>बर्न<div class="page-header"><h2 class="ehr">Meanings of burn in Hindi</h2><small>[<a id="t_on" href="/translate/burn/burn-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi11519"></i> <a class="in l" href="/translate/चोट/चोट-meaning-in-Hindi-English">चोट</a> <span class="latin" style="display:none;">[cōṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11769"></i> <a class="in l" href="/translate/छाला/छाला-meaning-in-Hindi-English">छाला</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[chālā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12261"></i> <a class="in l" href="/translate/जलन/जलन-meaning-in-Hindi-English">जलन</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[jalana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12323"></i> <a class="in l" href="/translate/जला/जला-meaning-in-Hindi-English">जला</a> <span class="latin" style="display:none;">[jalā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15211"></i> <a class="in l" href="/translate/दाग/दाग-meaning-in-Hindi-English">दाग</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dāga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15299"></i> <a class="in l" href="/translate/दाह/दाह-meaning-in-Hindi-English">दाह</a> <span class="latin" style="display:none;">[dāha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391841"></i> <a class="in l" href="/translate/जलने का घाव/जलने का घाव-meaning-in-Hindi-English">जलने का घाव</a> <span class="latin" style="display:none;">[jalanē kā ghāva]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi404805"></i> <a class="in l" href="/translate/गर्म होना/गर्म होना-meaning-in-Hindi-English">गर्म होना</a> <span class="latin" style="display:none;">[garma hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi427466"></i> <a class="in l" href="/translate/ख़र्च करना/ख़र्च करना-meaning-in-Hindi-English">ख़र्च करना</a> <span class="latin" style="display:none;">[ḵẖarca karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430404"></i> <a class="in l" href="/translate/जला डालना/जला डालना-meaning-in-Hindi-English">जला डालना</a> <span class="latin" style="display:none;">[jalā ḍālanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430405"></i> <a class="in l" href="/translate/जलाकर नष्ट कर देना/जलाकर नष्ट कर देना-meaning-in-Hindi-English">जलाकर नष्ट कर देना</a> <span class="latin" style="display:none;">[jalākara naṣṭa kara dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430406"></i> <a class="in l" href="/translate/जलाकर मार डालना/जलाकर मार डालना-meaning-in-Hindi-English">जलाकर मार डालना</a> <span class="latin" style="display:none;">[jalākara māra ḍālanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430407"></i> <a class="in l" href="/translate/जलन पैदा करना/जलन पैदा करना-meaning-in-Hindi-English">जलन पैदा करना</a> <span class="latin" style="display:none;">[jalana paidā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430408"></i> <a class="in l" href="/translate/जलने योग्य होना/जलने योग्य होना-meaning-in-Hindi-English">जलने योग्य होना</a> <span class="latin" style="display:none;">[jalanē yōgya hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430409"></i> <a class="in l" href="/translate/क्रोध आना/क्रोध आना-meaning-in-Hindi-English">क्रोध आना</a> <span class="latin" style="display:none;">[krōdha ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9555"></i> <a class="in l" href="/translate/गलाना/गलाना-meaning-in-Hindi-English">गलाना</a> <span class="latin" style="display:none;">[galānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435409"></i> <a class="in l" href="/translate/प्रज्ज्वलित करना/प्रज्ज्वलित करना-meaning-in-Hindi-English">प्रज्ज्वलित करना</a> <span class="latin" style="display:none;">[prajjvalita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12262"></i> <a class="in l" href="/translate/जलना/जलना-meaning-in-Hindi-English">जलना</a> <span class="latin" style="display:none;">[jalanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12330"></i> <a class="in l" href="/translate/जलाना/जलाना-meaning-in-Hindi-English">जलाना</a> <span class="latin" style="display:none;">[jalānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13114"></i> <a class="in l" href="/translate/झुलसाना/झुलसाना-meaning-in-Hindi-English">झुलसाना</a> <span class="latin" style="display:none;">[jhulasānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15214"></i> <a class="in l" href="/translate/दागना/दागना-meaning-in-Hindi-English">दागना</a> <span class="latin" style="display:none;">[dāganā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18283"></i> <a class="in l" href="/translate/पकाना/पकाना-meaning-in-Hindi-English">पकाना</a> <span class="latin" style="display:none;">[pakānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22278"></i> <a class="in l" href="/translate/फूंकना/फूंकना-meaning-in-Hindi-English">फूंकना</a> <span class="latin" style="display:none;">[phūṅkanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22755"></i> <a class="in l" href="/translate/बनाना/बनाना-meaning-in-Hindi-English">बनाना</a> <span class="latin" style="display:none;">[banānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25027"></i> <a class="in l" href="/translate/भड़काना/भड़काना-meaning-in-Hindi-English">भड़काना</a> <span class="latin" style="display:none;">[bhaṛakānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi169600"></i> <a class="in l" href="/translate/तपाना/तपाना-meaning-in-Hindi-English">तपाना</a> <span class="latin" style="display:none;">[tapānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387111"></i> <a class="in l" href="/translate/उत्तेजित करना/उत्तेजित करना-meaning-in-Hindi-English">उत्तेजित करना</a> <span class="latin" style="display:none;">[uttējita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391842"></i> <a class="in l" href="/translate/उत्तेजित होना/उत्तेजित होना-meaning-in-Hindi-English">उत्तेजित होना</a> <span class="latin" style="display:none;">[uttējita hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391844"></i> <a class="in l" href="/translate/आग लगना/आग लगना-meaning-in-Hindi-English">आग लगना</a> <span class="latin" style="display:none;">[āga laganā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391845"></i> <a class="in l" href="/translate/क्रोध में आना/क्रोध में आना-meaning-in-Hindi-English">क्रोध में आना</a> <span class="latin" style="display:none;">[krōdha mēṁ ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391846"></i> <a class="in l" href="/translate/दुखित होना/दुखित होना-meaning-in-Hindi-English">दुखित होना</a> <span class="latin" style="display:none;">[dukhita hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391848"></i> <a class="in l" href="/translate/जला देना/जला देना-meaning-in-Hindi-English">जला देना</a> <span class="latin" style="display:none;">[jalā dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392252"></i> <a class="in l" href="/translate/नष्ट हो जाना/नष्ट हो जाना-meaning-in-Hindi-English">नष्ट हो जाना</a> <span class="latin" style="display:none;">[naṣṭa hō jānā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/burns/burns-meaning-in-Hindi-English">burns</a> (noun plural)<br/><a href="/translate/burned/burned-meaning-in-Hindi-English">burned</a>, <a href="/translate/burnt/burnt-meaning-in-Hindi-English">burnt</a> (verb past tense)<br/><a href="/translate/burning/burning-meaning-in-Hindi-English">burning</a> (verb present participle)<br/><a href="/translate/burns/burns-meaning-in-Hindi-English">burns</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of burn in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>damage inflicted by fire</li><li>a place or area that has been burned (especially on a person's body)</li><li>an injury caused by exposure to heat or chemicals or radiation</li><li>a browning of the skin resulting from exposure to the rays of the sun</li><li>pain that feels hot as if it were on fire</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>get a sunburn by overexposure to the sun</li><li>burn with heat, fire, or radiation</li><li>burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent</li><li>undergo combustion</li><li>cause to undergo combustion<br><u><em>Example</em></u><br>- The car burns only Diesel oil<br></li><li>destroy by fire</li><li>use up (energy)</li><li>create by duplicating data<br><u><em>Example</em></u><br>- burn a CD<br></li><li>feel strong emotion, especially anger or passion<br><u><em>Example</em></u><br>- He was burning to try out his new skies<br></li><li>cause a sharp or stinging pain or discomfort</li><li>feel hot or painful</li><li>spend (significant amounts of money)</li><li>burn at the stake</li><li>cause to burn or combust<br><u><em>Example</em></u><br>- We combust coal and other fossil fuels<br></li><li>shine intensely, as if with heat<br><u><em>Example</em></u><br>- The candles were burning<br></li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of burn</h2><p><a href="/translate/burn/burn-meaning-in-Hindi-English">burn</a>, <a href="/translate/burn+mark/burn+mark-meaning-in-Hindi-English">burn mark</a>, <a href="/translate/sunburn/sunburn-meaning-in-Hindi-English">sunburn</a>, <a href="/translate/suntan/suntan-meaning-in-Hindi-English">suntan</a>, <a href="/translate/tan/tan-meaning-in-Hindi-English">tan</a>, <a href="/translate/burning/burning-meaning-in-Hindi-English">burning</a>, <a href="/translate/cauterise/cauterise-meaning-in-Hindi-English">cauterise</a>, <a href="/translate/cauterize/cauterize-meaning-in-Hindi-English">cauterize</a>, <a href="/translate/combust/combust-meaning-in-Hindi-English">combust</a>, <a href="/translate/incinerate/incinerate-meaning-in-Hindi-English">incinerate</a>, <a href="/translate/burn+down/burn+down-meaning-in-Hindi-English">burn down</a>, <a href="/translate/fire/fire-meaning-in-Hindi-English">fire</a>, <a href="/translate/burn+off/burn+off-meaning-in-Hindi-English">burn off</a>, <a href="/translate/burn+up/burn+up-meaning-in-Hindi-English">burn up</a>, <a href="/translate/cut/cut-meaning-in-Hindi-English">cut</a>, <a href="/translate/bite/bite-meaning-in-Hindi-English">bite</a>, <a href="/translate/sting/sting-meaning-in-Hindi-English">sting</a>, <a href="/translate/glow/glow-meaning-in-Hindi-English">glow</a></p><h2 class="ehr">Antonyms of burn</h2><p>No matches.</p><h2 class="ehr">More matches for burn</h2><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burn down/burn down-meaning-in-Hindi-English">burn down</a></td><td class="l"><a class="in l" href="/translate/जलाना/जलाना-meaning-in-Hindi-English">जलाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burn off/burn off-meaning-in-Hindi-English">burn off</a></td><td class="l"><a class="in l" href="/translate/जला देना/जला देना-meaning-in-Hindi-English">जला देना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burn out/burn out-meaning-in-Hindi-English">burn out</a></td><td class="l"><a class="in l" href="/translate/उत्तेजित होना/उत्तेजित होना-meaning-in-Hindi-English">उत्तेजित होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burn to a cinder/burn to a cinder-meaning-in-Hindi-English">burn to a cinder</a></td><td class="l"><a class="in l" href="/translate/जला डालना/जला डालना-meaning-in-Hindi-English">जला डालना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burn to a cinder/burn to a cinder-meaning-in-Hindi-English">burn to a cinder</a></td><td class="l"><a class="in l" href="/translate/जला कर कोयला कर देना/जला कर कोयला कर देना-meaning-in-Hindi-English">जला कर कोयला कर देना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/तपना/तपना-meaning-in-Hindi-English">तपना</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burned-out/burned-out-meaning-in-Hindi-English">burned-out</a></td><td class="l"><a class="in l" href="/translate/दग्ध/दग्ध-meaning-in-Hindi-English">दग्ध</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burned-over/burned-over-meaning-in-Hindi-English">burned-over</a></td><td class="l"><a class="in l" href="/translate/दग्ध/दग्ध-meaning-in-Hindi-English">दग्ध</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/अत्यन्त/अत्यन्त-meaning-in-Hindi-English">अत्यन्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/अधिक/अधिक-meaning-in-Hindi-English">अधिक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/उत्तेजक/उत्तेजक-meaning-in-Hindi-English">उत्तेजक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/चंड/चंड-meaning-in-Hindi-English">चंड</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/जलानेवाला/जलानेवाला-meaning-in-Hindi-English">जलानेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/ज्वलित/ज्वलित-meaning-in-Hindi-English">ज्वलित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/तापक/तापक-meaning-in-Hindi-English">तापक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/दाहक/दाहक-meaning-in-Hindi-English">दाहक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/प्रज्वलित/प्रज्वलित-meaning-in-Hindi-English">प्रज्वलित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/प्रबल/प्रबल-meaning-in-Hindi-English">प्रबल</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burner/burner-meaning-in-Hindi-English">burner</a></td><td class="l"><a class="in l" href="/translate/कल्ला/कल्ला-meaning-in-Hindi-English">कल्ला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burner/burner-meaning-in-Hindi-English">burner</a></td><td class="l"><a class="in l" href="/translate/जलानेवाला/जलानेवाला-meaning-in-Hindi-English">जलानेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burner/burner-meaning-in-Hindi-English">burner</a></td><td class="l"><a class="in l" href="/translate/ज्वालक/ज्वालक-meaning-in-Hindi-English">ज्वालक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burner/burner-meaning-in-Hindi-English">burner</a></td><td class="l"><a class="in l" href="/translate/दाहक/दाहक-meaning-in-Hindi-English">दाहक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burner/burner-meaning-in-Hindi-English">burner</a></td><td class="l"><a class="in l" href="/translate/बर्नर/बर्नर-meaning-in-Hindi-English">बर्नर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burner/burner-meaning-in-Hindi-English">burner</a></td><td class="l"><a class="in l" href="/translate/लैम्प इत्यादि का भाग जिसमें से ज्वाला निकलती है/लैम्प इत्यादि का भाग जिसमें से ज्वाला निकलती है-meaning-in-Hindi-English">लैम्प इत्यादि का भाग जिसमें से ज्वाला निकलती है</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burnett/burnett-meaning-in-Hindi-English">burnett</a></td><td class="l"><a class="in l" href="/translate/बरनेट/बरनेट-meaning-in-Hindi-English">बरनेट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/ज्वलन/ज्वलन-meaning-in-Hindi-English">ज्वलन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/दहन/दहन-meaning-in-Hindi-English">दहन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/प्रज्वलन/प्रज्वलन-meaning-in-Hindi-English">प्रज्वलन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/burning/burning-meaning-in-Hindi-English">burning</a></td><td class="l"><a class="in l" href="/translate/प्रदाह/प्रदाह-meaning-in-Hindi-English">प्रदाह</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: burn</h3><p>Meaning and definitions of burn, translation in Hindi language for burn with similar and opposite words. Also find spoken pronunciation of burn in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "burn"</h3><p>What burn means in Hindi, burn meaning in Hindi, burn definition, examples and pronunciation of burn in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

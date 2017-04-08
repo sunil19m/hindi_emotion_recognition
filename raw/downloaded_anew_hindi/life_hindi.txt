@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>life - Meaning in Hindi - life in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="life - Meaning in Hindi, what is meaning of life in Hindi dictionary, audio pronunciation, synonyms and definitions of life in Hindi and English.">
+<meta name="keywords" content="life, meaning of life, English and Hindi for life, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/life/life-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="life" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">life - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of life</h2><i class="fa fa-volume-up fa-lg in au" id="en374757" style=""></i>लाइफ<div class="page-header"><h2 class="ehr">Meanings of life in Hindi</h2><small>[<a id="t_on" href="/translate/life/life-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi4149"></i> <a class="in l" href="/translate/आयुर्बल/आयुर्बल-meaning-in-Hindi-English">आयुर्बल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[āyurbala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5117"></i> <a class="in l" href="/translate/उत्साह/उत्साह-meaning-in-Hindi-English">उत्साह</a> <span class="latin" style="display:none;">[utsāha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5833"></i> <a class="in l" href="/translate/ऊर्जा/ऊर्जा-meaning-in-Hindi-English">ऊर्जा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ūrjā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7334"></i> <a class="in l" href="/translate/कार्यकाल/कार्यकाल-meaning-in-Hindi-English">कार्यकाल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[kāryakāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12083"></i> <a class="in l" href="/translate/जन्म/जन्म-meaning-in-Hindi-English">जन्म</a> <span class="latin" style="display:none;">[janma]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12396"></i> <a class="in l" href="/translate/ज़िंदगी/ज़िंदगी-meaning-in-Hindi-English">ज़िंदगी</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[zindagī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12467"></i> <a class="in l" href="/translate/जान/जान-meaning-in-Hindi-English">जान</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[jāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12552"></i> <a class="in l" href="/translate/जिंदगी/जिंदगी-meaning-in-Hindi-English">जिंदगी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[jindagī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12656"></i> <a class="in l" href="/translate/जीव/जीव-meaning-in-Hindi-English">जीव</a> <span class="latin" style="display:none;">[jīva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12669"></i> <a class="in l" href="/translate/जीवन/जीवन-meaning-in-Hindi-English">जीवन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jīvana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12678"></i> <a class="in l" href="/translate/जीवनकाल/जीवनकाल-meaning-in-Hindi-English">जीवनकाल</a> <span class="latin" style="display:none;">[jīvanakāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12686"></i> <a class="in l" href="/translate/जीवनी/जीवनी-meaning-in-Hindi-English">जीवनी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[jīvanī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12861"></i> <a class="in l" href="/translate/जोश/जोश-meaning-in-Hindi-English">जोश</a> <span class="latin" style="display:none;">[jōśa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi21706"></i> <a class="in l" href="/translate/प्राण/प्राण-meaning-in-Hindi-English">प्राण</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[prāṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27646"></i> <a class="in l" href="/translate/रहन/रहन-meaning-in-Hindi-English">रहन</a> <span class="latin" style="display:none;">[rahana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27922"></i> <a class="in l" href="/translate/रिहायशी/रिहायशी-meaning-in-Hindi-English">रिहायशी</a> <span class="latin" style="display:none;">[rihāyaśī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31014"></i> <a class="in l" href="/translate/व्यवहार/व्यवहार-meaning-in-Hindi-English">व्यवहार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[vyavahāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32846"></i> <a class="in l" href="/translate/सक्रियता/सक्रियता-meaning-in-Hindi-English">सक्रियता</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sakriyatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi55971"></i> <a class="in l" href="/translate/आयुष्य/आयुष्य-meaning-in-Hindi-English">आयुष्य</a> <span class="latin" style="display:none;">[āyuṣya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi396043"></i> <a class="in l" href="/translate/जीवन का ढंग/जीवन का ढंग-meaning-in-Hindi-English">जीवन का ढंग</a> <span class="latin" style="display:none;">[jīvana kā ḍhaṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi408344"></i> <a class="in l" href="/translate/जीवन चरित्र/जीवन चरित्र-meaning-in-Hindi-English">जीवन चरित्र</a> <span class="latin" style="display:none;">[jīvana caritra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi440777"></i> <a class="in l" href="/translate/सजीव वस्तु/सजीव वस्तु-meaning-in-Hindi-English">सजीव वस्तु</a> <span class="latin" style="display:none;">[sajīva vastu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi440778"></i> <a class="in l" href="/translate/जीवित दशा/जीवित दशा-meaning-in-Hindi-English">जीवित दशा</a> <span class="latin" style="display:none;">[jīvita daśā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi497646"></i> <a class="in l" href="/translate/रहाई/रहाई-meaning-in-Hindi-English">रहाई</a> <span class="latin" style="display:none;">[rahā'ī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3439"></i> <a class="in l" href="/translate/अस्तित्व/अस्तित्व-meaning-in-Hindi-English">अस्तित्व</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[astitva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi671024"></i> <a class="in l" href="/translate/प्राणधारण/प्राणधारण-meaning-in-Hindi-English">प्राणधारण</a> <span class="latin" style="display:none;">[prāṇadhāraṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3725"></i> <a class="in l" href="/translate/आचरण/आचरण-meaning-in-Hindi-English">आचरण</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ācaraṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3752"></i> <a class="in l" href="/translate/आजीवन/आजीवन-meaning-in-Hindi-English">आजीवन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ājīvana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3860"></i> <a class="in l" href="/translate/आत्मा/आत्मा-meaning-in-Hindi-English">आत्मा</a> <span class="latin" style="display:none;">[ātmā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4144"></i> <a class="in l" href="/translate/आयु/आयु-meaning-in-Hindi-English">आयु</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[āyu]</span></li></ol></div><div class="col-sm-6"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi12818"></i> <a class="in l" href="/translate/जैव/जैव-meaning-in-Hindi-English">जैव</a> <span class="latin" style="display:none;">[jaiva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32910"></i> <a class="in l" href="/translate/सजीव/सजीव-meaning-in-Hindi-English">सजीव</a> <span class="latin" style="display:none;">[sajīva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3752"></i> <a class="in l" href="/translate/आजीवन/आजीवन-meaning-in-Hindi-English">आजीवन</a> <span class="latin" style="display:none;">[ājīvana]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/lives/lives-meaning-in-Hindi-English">lives</a> (noun plural)<br/></p><h2 class="ehr">Definitions and Meaning of life in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>living things collectively</li><li>animation and energy in action or expression</li><li>the experience of being alive; the course of human events and activities</li><li>an account of the series of events making up a person's life</li><li>a motive for living</li><li>a living person</li><li>the organic phenomenon that distinguishes living organisms from nonliving ones</li><li>the course of existence of an individual; the actions and events that occur in living<br><u><em>Example</em></u><br>- he wanted to live his own life without interference from others<br></li><li>the condition of living or the state of being alive<br><u><em>Example</em></u><br>- life depends on many chemical and physical processes<br></li><li>a characteristic state or mode of living<br><u><em>Examples</em></u><br>- city life<br>- real life<br></li><li>the period during which something is functional (as between birth and death)<br><u><em>Example</em></u><br>- he lived a long and happy life<br></li><li>the period between birth and the present time</li><li>the period from the present until death</li><li>a prison term lasting as long as the prisoner lives</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of life</h2><p><a href="/translate/life/life-meaning-in-Hindi-English">life</a>, <a href="/translate/liveliness/liveliness-meaning-in-Hindi-English">liveliness</a>, <a href="/translate/spirit/spirit-meaning-in-Hindi-English">spirit</a>, <a href="/translate/sprightliness/sprightliness-meaning-in-Hindi-English">sprightliness</a>, <a href="/translate/living/living-meaning-in-Hindi-English">living</a>, <a href="/translate/biography/biography-meaning-in-Hindi-English">biography</a>, <a href="/translate/life+history/life+history-meaning-in-Hindi-English">life history</a>, <a href="/translate/life+story/life+story-meaning-in-Hindi-English">life story</a>, <a href="/translate/aliveness/aliveness-meaning-in-Hindi-English">aliveness</a>, <a href="/translate/animation/animation-meaning-in-Hindi-English">animation</a>, <a href="/translate/life-time/life-time-meaning-in-Hindi-English">life-time</a>, <a href="/translate/lifespan/lifespan-meaning-in-Hindi-English">lifespan</a>, <a href="/translate/lifetime/lifetime-meaning-in-Hindi-English">lifetime</a>, <a href="/translate/life+sentence/life+sentence-meaning-in-Hindi-English">life sentence</a></p><h2 class="ehr">Antonyms of life</h2><p>No matches.</p><h2 class="ehr">More matches for life</h2><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life and death/life and death-meaning-in-Hindi-English">life and death</a></td><td class="l"><a class="in l" href="/translate/जीवन और मृत्यु/जीवन और मृत्यु-meaning-in-Hindi-English">जीवन और मृत्यु</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life assurance/life assurance-meaning-in-Hindi-English">life assurance</a></td><td class="l"><a class="in l" href="/translate/जीवन आश्वासन/जीवन आश्वासन-meaning-in-Hindi-English">जीवन आश्वासन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life buoy/life buoy-meaning-in-Hindi-English">life buoy</a></td><td class="l"><a class="in l" href="/translate/जीवन रक्षक पेटी/जीवन रक्षक पेटी-meaning-in-Hindi-English">जीवन रक्षक पेटी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life buoy/life buoy-meaning-in-Hindi-English">life buoy</a></td><td class="l"><a class="in l" href="/translate/लाइफ़बाय/लाइफ़बाय-meaning-in-Hindi-English">लाइफ़बाय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life cycle/life cycle-meaning-in-Hindi-English">life cycle</a></td><td class="l"><a class="in l" href="/translate/जीवन काल/जीवन काल-meaning-in-Hindi-English">जीवन काल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life cycle/life cycle-meaning-in-Hindi-English">life cycle</a></td><td class="l"><a class="in l" href="/translate/जीवन चक्र/जीवन चक्र-meaning-in-Hindi-English">जीवन चक्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life expectancy/life expectancy-meaning-in-Hindi-English">life expectancy</a></td><td class="l"><a class="in l" href="/translate/आयु-संभाविता/आयु-संभाविता-meaning-in-Hindi-English">आयु-संभाविता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life expectancy/life expectancy-meaning-in-Hindi-English">life expectancy</a></td><td class="l"><a class="in l" href="/translate/जीवन-प्रत्याशा/जीवन-प्रत्याशा-meaning-in-Hindi-English">जीवन-प्रत्याशा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life expectancy/life expectancy-meaning-in-Hindi-English">life expectancy</a></td><td class="l"><a class="in l" href="/translate/जीवन काल/जीवन काल-meaning-in-Hindi-English">जीवन काल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life expectancy/life expectancy-meaning-in-Hindi-English">life expectancy</a></td><td class="l"><a class="in l" href="/translate/अनुमानित जीवन-काल/अनुमानित जीवन-काल-meaning-in-Hindi-English">अनुमानित जीवन-काल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life expectancy/life expectancy-meaning-in-Hindi-English">life expectancy</a></td><td class="l"><a class="in l" href="/translate/आयु संभाव्यता/आयु संभाव्यता-meaning-in-Hindi-English">आयु संभाव्यता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life force/life force-meaning-in-Hindi-English">life force</a></td><td class="l"><a class="in l" href="/translate/प्राणशक्ति/प्राणशक्ति-meaning-in-Hindi-English">प्राणशक्ति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life force/life force-meaning-in-Hindi-English">life force</a></td><td class="l"><a class="in l" href="/translate/जीवन शक्ति/जीवन शक्ति-meaning-in-Hindi-English">जीवन शक्ति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life form/life form-meaning-in-Hindi-English">life form</a></td><td class="l"><a class="in l" href="/translate/जीवन के रूप/जीवन के रूप-meaning-in-Hindi-English">जीवन के रूप</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life guard/life guard-meaning-in-Hindi-English">life guard</a></td><td class="l"><a class="in l" href="/translate/जीवन रक्षक/जीवन रक्षक-meaning-in-Hindi-English">जीवन रक्षक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life history/life history-meaning-in-Hindi-English">life history</a></td><td class="l"><a class="in l" href="/translate/जीवन वृत्त/जीवन वृत्त-meaning-in-Hindi-English">जीवन वृत्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life history/life history-meaning-in-Hindi-English">life history</a></td><td class="l"><a class="in l" href="/translate/जीवन का इतिहास/जीवन का इतिहास-meaning-in-Hindi-English">जीवन का इतिहास</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life imprisonment/life imprisonment-meaning-in-Hindi-English">life imprisonment</a></td><td class="l"><a class="in l" href="/translate/आजीवन कारावास/आजीवन कारावास-meaning-in-Hindi-English">आजीवन कारावास</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life imprisonment/life imprisonment-meaning-in-Hindi-English">life imprisonment</a></td><td class="l"><a class="in l" href="/translate/उम्र कैद/उम्र कैद-meaning-in-Hindi-English">उम्र कैद</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life insurance/life insurance-meaning-in-Hindi-English">life insurance</a></td><td class="l"><a class="in l" href="/translate/बीमा/बीमा-meaning-in-Hindi-English">बीमा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life insurance/life insurance-meaning-in-Hindi-English">life insurance</a></td><td class="l"><a class="in l" href="/translate/जीवन बीमा/जीवन बीमा-meaning-in-Hindi-English">जीवन बीमा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life insurance fund/life insurance fund-meaning-in-Hindi-English">life insurance fund</a></td><td class="l"><a class="in l" href="/translate/जीवन-बीमा निधि/जीवन-बीमा निधि-meaning-in-Hindi-English">जीवन-बीमा निधि</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life jacket/life jacket-meaning-in-Hindi-English">life jacket</a></td><td class="l"><a class="in l" href="/translate/जीवन जाकेट/जीवन जाकेट-meaning-in-Hindi-English">जीवन जाकेट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life line/life line-meaning-in-Hindi-English">life line</a></td><td class="l"><a class="in l" href="/translate/जीवन रेखा/जीवन रेखा-meaning-in-Hindi-English">जीवन रेखा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life preserver/life preserver-meaning-in-Hindi-English">life preserver</a></td><td class="l"><a class="in l" href="/translate/जीवन रक्षक पेटी/जीवन रक्षक पेटी-meaning-in-Hindi-English">जीवन रक्षक पेटी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/life science/life science-meaning-in-Hindi-English">life science</a></td><td class="l"><a class="in l" href="/translate/जैविक विज्ञान/जैविक विज्ञान-meaning-in-Hindi-English">जैविक विज्ञान</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: life</h3><p>Meaning and definitions of life, translation in Hindi language for life with similar and opposite words. Also find spoken pronunciation of life in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "life"</h3><p>What life means in Hindi, life meaning in Hindi, life definition, examples and pronunciation of life in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

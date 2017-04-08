@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>mind - Meaning in Hindi - mind in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="mind - Meaning in Hindi, what is meaning of mind in Hindi dictionary, audio pronunciation, synonyms and definitions of mind in Hindi and English.">
+<meta name="keywords" content="mind, meaning of mind, English and Hindi for mind, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/mind/mind-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="mind" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">mind - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of mind</h2><i class="fa fa-volume-up fa-lg in au" id="en398309" style=""></i>माइन्ड<div class="page-header"><h2 class="ehr">Meanings of mind in Hindi</h2><small>[<a id="t_on" href="/translate/mind/mind-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi144620"></i> <a class="in l" href="/translate/ज़हन/ज़हन-meaning-in-Hindi-English">ज़हन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[zahana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi303145"></i> <a class="in l" href="/translate/रूह/रूह-meaning-in-Hindi-English">रूह</a> <span class="latin" style="display:none;">[rūha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2359"></i> <a class="in l" href="/translate/अभिप्राय/अभिप्राय-meaning-in-Hindi-English">अभिप्राय</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[abhiprāya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi369435"></i> <a class="in l" href="/translate/स्मरणशक्ति/स्मरणशक्ति-meaning-in-Hindi-English">स्मरणशक्ति</a> <span class="latin" style="display:none;">[smaraṇaśakti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3860"></i> <a class="in l" href="/translate/आत्मा/आत्मा-meaning-in-Hindi-English">आत्मा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ātmā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi384903"></i> <a class="in l" href="/translate/ज़मीर/ज़मीर-meaning-in-Hindi-English">ज़मीर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[zamīra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4572"></i> <a class="in l" href="/translate/इच्छा/इच्छा-meaning-in-Hindi-English">इच्छा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[icchā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4670"></i> <a class="in l" href="/translate/इरादा/इरादा-meaning-in-Hindi-English">इरादा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[irādā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11145"></i> <a class="in l" href="/translate/चित्त/चित्त-meaning-in-Hindi-English">चित्त</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[citta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12628"></i> <a class="in l" href="/translate/जी/जी-meaning-in-Hindi-English">जी</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15363"></i> <a class="in l" href="/translate/दिमाग/दिमाग-meaning-in-Hindi-English">दिमाग</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dimāga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15364"></i> <a class="in l" href="/translate/दिमाग़/दिमाग़-meaning-in-Hindi-English">दिमाग़</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dimāġa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15371"></i> <a class="in l" href="/translate/दिल/दिल-meaning-in-Hindi-English">दिल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dila]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16553"></i> <a class="in l" href="/translate/ध्यान/ध्यान-meaning-in-Hindi-English">ध्यान</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dhyāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16560"></i> <a class="in l" href="/translate/ध्येय/ध्येय-meaning-in-Hindi-English">ध्येय</a> <span class="latin" style="display:none;">[dhyēya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi441974"></i> <a class="in l" href="/translate/इरादा कर लेना/इरादा कर लेना-meaning-in-Hindi-English">इरादा कर लेना</a> <span class="latin" style="display:none;">[irādā kara lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23644"></i> <a class="in l" href="/translate/बुद्धि/बुद्धि-meaning-in-Hindi-English">बुद्धि</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bud'dhi]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25230"></i> <a class="in l" href="/translate/मत/मत-meaning-in-Hindi-English">मत</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[mata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi441975"></i> <a class="in l" href="/translate/दिमागी आदमी/दिमागी आदमी-meaning-in-Hindi-English">दिमागी आदमी</a> <span class="latin" style="display:none;">[dimāgī ādamī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25385"></i> <a class="in l" href="/translate/मन/मन-meaning-in-Hindi-English">मन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[mana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi441976"></i> <a class="in l" href="/translate/स्मरण रखना/स्मरण रखना-meaning-in-Hindi-English">स्मरण रखना</a> <span class="latin" style="display:none;">[smaraṇa rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25419"></i> <a class="in l" href="/translate/मनस/मनस-meaning-in-Hindi-English">मनस</a> <span class="latin" style="display:none;">[manasa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25451"></i> <a class="in l" href="/translate/मनोदशा/मनोदशा-meaning-in-Hindi-English">मनोदशा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[manōdaśā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25679"></i> <a class="in l" href="/translate/मस्तिष्क/मस्तिष्क-meaning-in-Hindi-English">मस्तिष्क</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[mastiṣka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi441977"></i> <a class="in l" href="/translate/खबरदार रहना/खबरदार रहना-meaning-in-Hindi-English">खबरदार रहना</a> <span class="latin" style="display:none;">[khabaradāra rahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25961"></i> <a class="in l" href="/translate/मानस/मानस-meaning-in-Hindi-English">मानस</a> <span class="latin" style="display:none;">[mānasa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27810"></i> <a class="in l" href="/translate/राय/राय-meaning-in-Hindi-English">राय</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[rāya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi804182"></i> <a class="in l" href="/translate/स्मृति-उत्सव/स्मृति-उत्सव-meaning-in-Hindi-English">स्मृति-उत्सव</a> <span class="latin" style="display:none;">[smr̥ti-utsava]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27966"></i> <a class="in l" href="/translate/रुचि/रुचि-meaning-in-Hindi-English">रुचि</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ruci]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28331"></i> <a class="in l" href="/translate/लक्ष्य/लक्ष्य-meaning-in-Hindi-English">लक्ष्य</a> <span class="latin" style="display:none;">[lakṣya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29828"></i> <a class="in l" href="/translate/विचार/विचार-meaning-in-Hindi-English">विचार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[vicāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33224"></i> <a class="in l" href="/translate/समझ/समझ-meaning-in-Hindi-English">समझ</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[samajha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35704"></i> <a class="in l" href="/translate/स्मरण/स्मरण-meaning-in-Hindi-English">स्मरण</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[smaraṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35716"></i> <a class="in l" href="/translate/स्मृति/स्मृति-meaning-in-Hindi-English">स्मृति</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[smr̥ti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi36576"></i> <a class="in l" href="/translate/हृदय/हृदय-meaning-in-Hindi-English">हृदय</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[hr̥daya]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi11554"></i> <a class="in l" href="/translate/चौकन्ना/चौकन्ना-meaning-in-Hindi-English">चौकन्ना</a> <span class="latin" style="display:none;">[caukannā]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi388720"></i> <a class="in l" href="/translate/ध्यान देना/ध्यान देना-meaning-in-Hindi-English">ध्यान देना</a> <span class="latin" style="display:none;">[dhyāna dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi390252"></i> <a class="in l" href="/translate/याद करना/याद करना-meaning-in-Hindi-English">याद करना</a> <span class="latin" style="display:none;">[yāda karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi390935"></i> <a class="in l" href="/translate/आपत्ति करना/आपत्ति करना-meaning-in-Hindi-English">आपत्ति करना</a> <span class="latin" style="display:none;">[āpatti karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391148"></i> <a class="in l" href="/translate/चिन्ता करना/चिन्ता करना-meaning-in-Hindi-English">चिन्ता करना</a> <span class="latin" style="display:none;">[cintā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi395077"></i> <a class="in l" href="/translate/लिहाज करना/लिहाज करना-meaning-in-Hindi-English">लिहाज करना</a> <span class="latin" style="display:none;">[lihāja karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi404831"></i> <a class="in l" href="/translate/ख्याल करना/ख्याल करना-meaning-in-Hindi-English">ख्याल करना</a> <span class="latin" style="display:none;">[khyāla karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi410141"></i> <a class="in l" href="/translate/चित्त लगाना/चित्त लगाना-meaning-in-Hindi-English">चित्त लगाना</a> <span class="latin" style="display:none;">[citta lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi417603"></i> <a class="in l" href="/translate/याद रखना/याद रखना-meaning-in-Hindi-English">याद रखना</a> <span class="latin" style="display:none;">[yāda rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15782"></i> <a class="in l" href="/translate/देखना/देखना-meaning-in-Hindi-English">देखना</a> <span class="latin" style="display:none;">[dēkhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi440061"></i> <a class="in l" href="/translate/ध्यान में रखना/ध्यान में रखना-meaning-in-Hindi-English">ध्यान में रखना</a> <span class="latin" style="display:none;">[dhyāna mēṁ rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi441974"></i> <a class="in l" href="/translate/इरादा कर लेना/इरादा कर लेना-meaning-in-Hindi-English">इरादा कर लेना</a> <span class="latin" style="display:none;">[irādā kara lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi441976"></i> <a class="in l" href="/translate/स्मरण रखना/स्मरण रखना-meaning-in-Hindi-English">स्मरण रखना</a> <span class="latin" style="display:none;">[smaraṇa rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi441977"></i> <a class="in l" href="/translate/खबरदार रहना/खबरदार रहना-meaning-in-Hindi-English">खबरदार रहना</a> <span class="latin" style="display:none;">[khabaradāra rahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi804183"></i> <a class="in l" href="/translate/लक्ष्य रखना/लक्ष्य रखना-meaning-in-Hindi-English">लक्ष्य रखना</a> <span class="latin" style="display:none;">[lakṣya rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28354"></i> <a class="in l" href="/translate/लगना/लगना-meaning-in-Hindi-English">लगना</a> <span class="latin" style="display:none;">[laganā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29838"></i> <a class="in l" href="/translate/विचारना/विचारना-meaning-in-Hindi-English">विचारना</a> <span class="latin" style="display:none;">[vicāranā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/minds/minds-meaning-in-Hindi-English">minds</a> (noun plural)<br/><a href="/translate/minded/minded-meaning-in-Hindi-English">minded</a> (verb past tense)<br/><a href="/translate/minding/minding-meaning-in-Hindi-English">minding</a> (verb present participle)<br/><a href="/translate/minds/minds-meaning-in-Hindi-English">minds</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of mind in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>that which is responsible for one's thoughts and feelings; the seat of the faculty of reason<br><u><em>Example</em></u><br>- I couldn't get his words out of my head<br></li><li>knowledge and intellectual ability<br><u><em>Example</em></u><br>- he has a keen intellect<br></li><li>attention</li><li>recall or remembrance</li><li>an opinion formed by judging something<br><u><em>Example</em></u><br>- she changed her mind<br></li><li>your intention; what you intend to do<br><u><em>Example</em></u><br>- the idea of the game is to capture all the pieces<br></li><li>an important intellectual</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>keep in mind</li><li>be concerned with or about something or somebody</li><li>be on one's guard; be cautious or wary about; be alert to</li><li>be offended or bothered by; take offense with, be bothered by</li><li>be in charge of or deal with</li><li>pay close attention to; give heed to</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of mind</h2><p><a href="/translate/brain/brain-meaning-in-Hindi-English">brain</a>, <a href="/translate/head/head-meaning-in-Hindi-English">head</a>, <a href="/translate/mind/mind-meaning-in-Hindi-English">mind</a>, <a href="/translate/nous/nous-meaning-in-Hindi-English">nous</a>, <a href="/translate/psyche/psyche-meaning-in-Hindi-English">psyche</a>, <a href="/translate/intellect/intellect-meaning-in-Hindi-English">intellect</a>, <a href="/translate/judgement/judgement-meaning-in-Hindi-English">judgement</a>, <a href="/translate/judgment/judgment-meaning-in-Hindi-English">judgment</a>, <a href="/translate/idea/idea-meaning-in-Hindi-English">idea</a>, <a href="/translate/creative+thinker/creative+thinker-meaning-in-Hindi-English">creative thinker</a>, <a href="/translate/thinker/thinker-meaning-in-Hindi-English">thinker</a>, <a href="/translate/bear+in+mind/bear+in+mind-meaning-in-Hindi-English">bear in mind</a>, <a href="/translate/beware/beware-meaning-in-Hindi-English">beware</a>, <a href="/translate/take+care/take+care-meaning-in-Hindi-English">take care</a>, <a href="/translate/heed/heed-meaning-in-Hindi-English">heed</a>, <a href="/translate/listen/listen-meaning-in-Hindi-English">listen</a></p><h2 class="ehr">Antonyms of mind</h2><p><a href="/translate/forget/forget-meaning-in-Hindi-English">forget</a></p><h2 class="ehr">More matches for mind</h2><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind altering/mind altering-meaning-in-Hindi-English">mind altering</a></td><td class="l"><a class="in l" href="/translate/मन बदल/मन बदल-meaning-in-Hindi-English">मन बदल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-bending/mind-bending-meaning-in-Hindi-English">mind-bending</a></td><td class="l"><a class="in l" href="/translate/मस्तिष्क को नचाने वाला/मस्तिष्क को नचाने वाला-meaning-in-Hindi-English">मस्तिष्क को नचाने वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-blowing/mind-blowing-meaning-in-Hindi-English">mind-blowing</a></td><td class="l"><a class="in l" href="/translate/अद्भुत/अद्भुत-meaning-in-Hindi-English">अद्भुत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-blowing/mind-blowing-meaning-in-Hindi-English">mind-blowing</a></td><td class="l"><a class="in l" href="/translate/विह्वलकारी/विह्वलकारी-meaning-in-Hindi-English">विह्वलकारी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-blowing/mind-blowing-meaning-in-Hindi-English">mind-blowing</a></td><td class="l"><a class="in l" href="/translate/हक्का-बक्का कर देने वाला/हक्का-बक्का कर देने वाला-meaning-in-Hindi-English">हक्का-बक्का कर देने वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-boggling/mind-boggling-meaning-in-Hindi-English">mind-boggling</a></td><td class="l"><a class="in l" href="/translate/विलक्षण/विलक्षण-meaning-in-Hindi-English">विलक्षण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/minded/minded-meaning-in-Hindi-English">minded</a></td><td class="l"><a class="in l" href="/translate/उद्यत/उद्यत-meaning-in-Hindi-English">उद्यत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/minded/minded-meaning-in-Hindi-English">minded</a></td><td class="l"><a class="in l" href="/translate/तैयार/तैयार-meaning-in-Hindi-English">तैयार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/minded/minded-meaning-in-Hindi-English">minded</a></td><td class="l"><a class="in l" href="/translate/प्रवृत्त/प्रवृत्त-meaning-in-Hindi-English">प्रवृत्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/minded/minded-meaning-in-Hindi-English">minded</a></td><td class="l"><a class="in l" href="/translate/मुस्तैद/मुस्तैद-meaning-in-Hindi-English">मुस्तैद</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/minded/minded-meaning-in-Hindi-English">minded</a></td><td class="l"><a class="in l" href="/translate/दिमाग वाला/दिमाग वाला-meaning-in-Hindi-English">दिमाग वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindful/mindful-meaning-in-Hindi-English">mindful</a></td><td class="l"><a class="in l" href="/translate/खबरदार/खबरदार-meaning-in-Hindi-English">खबरदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindful/mindful-meaning-in-Hindi-English">mindful</a></td><td class="l"><a class="in l" href="/translate/सचेत/सचेत-meaning-in-Hindi-English">सचेत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindful/mindful-meaning-in-Hindi-English">mindful</a></td><td class="l"><a class="in l" href="/translate/सावधान/सावधान-meaning-in-Hindi-English">सावधान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindful/mindful-meaning-in-Hindi-English">mindful</a></td><td class="l"><a class="in l" href="/translate/होशियार/होशियार-meaning-in-Hindi-English">होशियार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindful/mindful-meaning-in-Hindi-English">mindful</a></td><td class="l"><a class="in l" href="/translate/याद करनेवाला/याद करनेवाला-meaning-in-Hindi-English">याद करनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindful/mindful-meaning-in-Hindi-English">mindful</a></td><td class="l"><a class="in l" href="/translate/स्मरण रखनेवाला/स्मरण रखनेवाला-meaning-in-Hindi-English">स्मरण रखनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindful/mindful-meaning-in-Hindi-English">mindful</a></td><td class="l"><a class="in l" href="/translate/पुरग़ौर/पुरग़ौर-meaning-in-Hindi-English">पुरग़ौर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindless/mindless-meaning-in-Hindi-English">mindless</a></td><td class="l"><a class="in l" href="/translate/नासमझ/नासमझ-meaning-in-Hindi-English">नासमझ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindless/mindless-meaning-in-Hindi-English">mindless</a></td><td class="l"><a class="in l" href="/translate/बुद्धिहीन/बुद्धिहीन-meaning-in-Hindi-English">बुद्धिहीन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mindless/mindless-meaning-in-Hindi-English">mindless</a></td><td class="l"><a class="in l" href="/translate/मूर्ख/मूर्ख-meaning-in-Hindi-English">मूर्ख</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind and heart/mind and heart-meaning-in-Hindi-English">mind and heart</a></td><td class="l"><a class="in l" href="/translate/मन-मस्तिष्क/मन-मस्तिष्क-meaning-in-Hindi-English">मन-मस्तिष्क</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind game/mind game-meaning-in-Hindi-English">mind game</a></td><td class="l"><a class="in l" href="/translate/दिमागी खेल/दिमागी खेल-meaning-in-Hindi-English">दिमागी खेल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind out/mind out-meaning-in-Hindi-English">mind out</a></td><td class="l"><a class="in l" href="/translate/सावधान रहना/सावधान रहना-meaning-in-Hindi-English">सावधान रहना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-bending/mind-bending-meaning-in-Hindi-English">mind-bending</a></td><td class="l"><a class="in l" href="/translate/मस्तिष्क को नचाने वाला/मस्तिष्क को नचाने वाला-meaning-in-Hindi-English">मस्तिष्क को नचाने वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-reader/mind-reader-meaning-in-Hindi-English">mind-reader</a></td><td class="l"><a class="in l" href="/translate/मन की बातों को जान लेनेवाला/मन की बातों को जान लेनेवाला-meaning-in-Hindi-English">मन की बातों को जान लेनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind-set/mind-set-meaning-in-Hindi-English">mind-set</a></td><td class="l"><a class="in l" href="/translate/मानसिकता/मानसिकता-meaning-in-Hindi-English">मानसिकता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/minder/minder-meaning-in-Hindi-English">minder</a></td><td class="l"><a class="in l" href="/translate/ध्यान रखने वाला/ध्यान रखने वाला-meaning-in-Hindi-English">ध्यान रखने वाला</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind out/mind out-meaning-in-Hindi-English">mind out</a></td><td class="l"><a class="in l" href="/translate/हटना/हटना-meaning-in-Hindi-English">हटना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/mind out/mind out-meaning-in-Hindi-English">mind out</a></td><td class="l"><a class="in l" href="/translate/सावधान रहना/सावधान रहना-meaning-in-Hindi-English">सावधान रहना</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: mind</h3><p>Meaning and definitions of mind, translation in Hindi language for mind with similar and opposite words. Also find spoken pronunciation of mind in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "mind"</h3><p>What mind means in Hindi, mind meaning in Hindi, mind definition, examples and pronunciation of mind in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>even - Meaning in Hindi - even in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="even - Meaning in Hindi, what is meaning of even in Hindi dictionary, audio pronunciation, synonyms and definitions of even in Hindi and English.">
+<meta name="keywords" content="even, meaning of even, English and Hindi for even, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/even/even-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="even" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">even - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of even</h2><i class="fa fa-volume-up fa-lg in au" id="en269693" style=""></i>ईवन / ईविन<div class="page-header"><h2 class="ehr">Meanings of even in Hindi</h2><small>[<a id="t_on" href="/translate/even/even-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-3"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi32426"></i> <a class="in l" href="/translate/संध्या/संध्या-meaning-in-Hindi-English">संध्या</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sandhyā]</span></li></ol></div><div class="col-sm-3"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi5970"></i> <a class="in l" href="/translate/एकसा/एकसा-meaning-in-Hindi-English">एकसा</a> <span class="latin" style="display:none;">[ēkasā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11592"></i> <a class="in l" href="/translate/चौरस/चौरस-meaning-in-Hindi-English">चौरस</a> <span class="latin" style="display:none;">[caurasa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12874"></i> <a class="in l" href="/translate/जोड़ा/जोड़ा-meaning-in-Hindi-English">जोड़ा</a> <span class="latin" style="display:none;">[jōṛā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13491"></i> <a class="in l" href="/translate/ठीक/ठीक-meaning-in-Hindi-English">ठीक</a> <span class="latin" style="display:none;">[ṭhīka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22861"></i> <a class="in l" href="/translate/बराबर/बराबर-meaning-in-Hindi-English">बराबर</a> <span class="latin" style="display:none;">[barābara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31414"></i> <a class="in l" href="/translate/शान्त/शान्त-meaning-in-Hindi-English">शान्त</a> <span class="latin" style="display:none;">[śānta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33194"></i> <a class="in l" href="/translate/सम/सम-meaning-in-Hindi-English">सम</a> <span class="latin" style="display:none;">[sama]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33241"></i> <a class="in l" href="/translate/समतल/समतल-meaning-in-Hindi-English">समतल</a> <span class="latin" style="display:none;">[samatala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33450"></i> <a class="in l" href="/translate/समान/समान-meaning-in-Hindi-English">समान</a> <span class="latin" style="display:none;">[samāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388108"></i> <a class="in l" href="/translate/एक सा/एक सा-meaning-in-Hindi-English">एक सा</a> <span class="latin" style="display:none;">[ēka sā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi776630"></i> <a class="in l" href="/translate/समगुण/समगुण-meaning-in-Hindi-English">समगुण</a> <span class="latin" style="display:none;">[samaguṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi797387"></i> <a class="in l" href="/translate/एक-रूप/एक-रूप-meaning-in-Hindi-English">एक-रूप</a> <span class="latin" style="display:none;">[ēka-rūpa]</span></li></ol></div><div class="col-sm-3"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi8114"></i> <a class="in l" href="/translate/केवल/केवल-meaning-in-Hindi-English">केवल</a> <span class="latin" style="display:none;">[kēvala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24638"></i> <a class="in l" href="/translate/भी/भी-meaning-in-Hindi-English">भी</a> <span class="latin" style="display:none;">[bhī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387181"></i> <a class="in l" href="/translate/समान रूप से/समान रूप से-meaning-in-Hindi-English">समान रूप से</a> <span class="latin" style="display:none;">[samāna rūpa sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388399"></i> <a class="in l" href="/translate/और भी/और भी-meaning-in-Hindi-English">और भी</a> <span class="latin" style="display:none;">[aura bhī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi401041"></i> <a class="in l" href="/translate/उसी क्षण/उसी क्षण-meaning-in-Hindi-English">उसी क्षण</a> <span class="latin" style="display:none;">[usī kṣaṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi401042"></i> <a class="in l" href="/translate/उसी प्रकार/उसी प्रकार-meaning-in-Hindi-English">उसी प्रकार</a> <span class="latin" style="display:none;">[usī prakāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi401043"></i> <a class="in l" href="/translate/निसंदेह रूप से/निसंदेह रूप से-meaning-in-Hindi-English">निसंदेह रूप से</a> <span class="latin" style="display:none;">[nisandēha rūpa sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi434723"></i> <a class="in l" href="/translate/ठीक इतना ही/ठीक इतना ही-meaning-in-Hindi-English">ठीक इतना ही</a> <span class="latin" style="display:none;">[ṭhīka itanā hī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449535"></i> <a class="in l" href="/translate/यहाँ तक कि/यहाँ तक कि-meaning-in-Hindi-English">यहाँ तक कि</a> <span class="latin" style="display:none;">[yahām̐ taka ki]</span></li></ol></div><div class="col-sm-3"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi385929"></i> <a class="in l" href="/translate/बराबर करना/बराबर करना-meaning-in-Hindi-English">बराबर करना</a> <span class="latin" style="display:none;">[barābara karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi400843"></i> <a class="in l" href="/translate/सम करना/सम करना-meaning-in-Hindi-English">सम करना</a> <span class="latin" style="display:none;">[sama karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi434722"></i> <a class="in l" href="/translate/समतल करना/समतल करना-meaning-in-Hindi-English">समतल करना</a> <span class="latin" style="display:none;">[samatala karanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/evener/evener-meaning-in-Hindi-English">evener</a> (adjective comparative)<br/><a href="/translate/evenest/evenest-meaning-in-Hindi-English">evenest</a> (adjective superlative)<br/><a href="/translate/evens/evens-meaning-in-Hindi-English">evens</a> (noun plural)<br/><a href="/translate/evened/evened-meaning-in-Hindi-English">evened</a> (verb past tense)<br/><a href="/translate/evening/evening-meaning-in-Hindi-English">evening</a> (verb present participle)<br/><a href="/translate/evens/evens-meaning-in-Hindi-English">evens</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of even in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>equal in degree or extent or amount; or equally matched or balanced<br><u><em>Examples</em></u><br>- on even terms<br>- it was a fifty-fifty (or even) split<br>- had a fifty-fifty (or even) chance<br>- an even fight<br></li><li>of the score in a contest</li><li>being level or straight or regular and without variation as e.g. in shape or texture; or being in the same plane or at the same height as something else (i.e. even with)<br><u><em>Examples</em></u><br>- an even floor<br>- the road was not very even<br>- the picture is even with the window<br></li><li>divisible by two</li><li>occurring at fixed intervals<br><u><em>Example</em></u><br>- the even rhythm of his breathing<br></li><li>symmetrically arranged<br><u><em>Examples</em></u><br>- regular features<br>- a regular polygon<br></li></ol><strong><em>adverb</em></strong></h3><ol class="wnol"><li>used as an intensive especially to indicate something unexpected<br><u><em>Examples</em></u><br>- declined even to consider the idea<br>- I don't have even a dollar!<br></li><li>to a greater degree or extent; used with comparisons<br><u><em>Examples</em></u><br>- an even (or still) more interesting problem<br>- still another problem must be solved<br>- a yet sadder tale<br></li><li>in spite of; notwithstanding<br><u><em>Example</em></u><br>- even with his head start she caught up with him<br></li><li>to the full extent</li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>make even or more even</li><li>become even or more even</li><li>make level or straight</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of even</h2><p><a href="/translate/eve/eve-meaning-in-Hindi-English">eve</a>, <a href="/translate/even/even-meaning-in-Hindi-English">even</a>, <a href="/translate/evening/evening-meaning-in-Hindi-English">evening</a>, <a href="/translate/eventide/eventide-meaning-in-Hindi-English">eventide</a>, <a href="/translate/even+out/even+out-meaning-in-Hindi-English">even out</a>, <a href="/translate/flush/flush-meaning-in-Hindi-English">flush</a>, <a href="/translate/level/level-meaning-in-Hindi-English">level</a>, <a href="/translate/fifty-fifty/fifty-fifty-meaning-in-Hindi-English">fifty-fifty</a>, <a href="/translate/tied/tied-meaning-in-Hindi-English">tied</a>, <a href="/translate/regular/regular-meaning-in-Hindi-English">regular</a>, <a href="/translate/still/still-meaning-in-Hindi-English">still</a>, <a href="/translate/yet/yet-meaning-in-Hindi-English">yet</a></p><h2 class="ehr">Antonyms of even</h2><p><a href="/translate/uneven/uneven-meaning-in-Hindi-English">uneven</a>, <a href="/translate/odd/odd-meaning-in-Hindi-English">odd</a></p><h2 class="ehr">More matches for even</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even as/even as-meaning-in-Hindi-English">even as</a></td><td class="l"><a class="in l" href="/translate/जैसे ही/जैसे ही-meaning-in-Hindi-English">जैसे ही</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even money/even money-meaning-in-Hindi-English">even money</a></td><td class="l"><a class="in l" href="/translate/दाँव पर लगी सम संख्या/दाँव पर लगी सम संख्या-meaning-in-Hindi-English">दाँव पर लगी सम संख्या</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even now/even now-meaning-in-Hindi-English">even now</a></td><td class="l"><a class="in l" href="/translate/अब भी/अब भी-meaning-in-Hindi-English">अब भी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even up/even up-meaning-in-Hindi-English">even up</a></td><td class="l"><a class="in l" href="/translate/व्यवस्थित होना/व्यवस्थित होना-meaning-in-Hindi-English">व्यवस्थित होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evenfall/evenfall-meaning-in-Hindi-English">evenfall</a></td><td class="l"><a class="in l" href="/translate/शाम/शाम-meaning-in-Hindi-English">शाम</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evening/evening-meaning-in-Hindi-English">evening</a></td><td class="l"><a class="in l" href="/translate/शाम/शाम-meaning-in-Hindi-English">शाम</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evening/evening-meaning-in-Hindi-English">evening</a></td><td class="l"><a class="in l" href="/translate/संझा/संझा-meaning-in-Hindi-English">संझा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evening/evening-meaning-in-Hindi-English">evening</a></td><td class="l"><a class="in l" href="/translate/संध्य/संध्य-meaning-in-Hindi-English">संध्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evening/evening-meaning-in-Hindi-English">evening</a></td><td class="l"><a class="in l" href="/translate/संध्या/संध्या-meaning-in-Hindi-English">संध्या</a></td></tr></table><h3 class="conjunction">conjunction&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even if/even if-meaning-in-Hindi-English">even if</a></td><td class="l"><a class="in l" href="/translate/यद्यपि/यद्यपि-meaning-in-Hindi-English">यद्यपि</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even so/even so-meaning-in-Hindi-English">even so</a></td><td class="l"><a class="in l" href="/translate/ऐसा ही/ऐसा ही-meaning-in-Hindi-English">ऐसा ही</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even out/even out-meaning-in-Hindi-English">even out</a></td><td class="l"><a class="in l" href="/translate/बराबर होना/बराबर होना-meaning-in-Hindi-English">बराबर होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even out/even out-meaning-in-Hindi-English">even out</a></td><td class="l"><a class="in l" href="/translate/वितरित करना/वितरित करना-meaning-in-Hindi-English">वितरित करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even out/even out-meaning-in-Hindi-English">even out</a></td><td class="l"><a class="in l" href="/translate/स्थिर होना/स्थिर होना-meaning-in-Hindi-English">स्थिर होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even up/even up-meaning-in-Hindi-English">even up</a></td><td class="l"><a class="in l" href="/translate/व्यवस्थित होना/व्यवस्थित होना-meaning-in-Hindi-English">व्यवस्थित होना</a></td></tr></table><h3 class="adverb">adverb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even so/even so-meaning-in-Hindi-English">even so</a></td><td class="l"><a class="in l" href="/translate/फिर भी/फिर भी-meaning-in-Hindi-English">फिर भी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even so/even so-meaning-in-Hindi-English">even so</a></td><td class="l"><a class="in l" href="/translate/तब भी/तब भी-meaning-in-Hindi-English">तब भी</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even-handed/even-handed-meaning-in-Hindi-English">even-handed</a></td><td class="l"><a class="in l" href="/translate/अपक्षपाती/अपक्षपाती-meaning-in-Hindi-English">अपक्षपाती</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even-handed/even-handed-meaning-in-Hindi-English">even-handed</a></td><td class="l"><a class="in l" href="/translate/निष्पक्ष/निष्पक्ष-meaning-in-Hindi-English">निष्पक्ष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even-handed/even-handed-meaning-in-Hindi-English">even-handed</a></td><td class="l"><a class="in l" href="/translate/ग़ैरतरफ़दार/ग़ैरतरफ़दार-meaning-in-Hindi-English">ग़ैरतरफ़दार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even-minded/even-minded-meaning-in-Hindi-English">even-minded</a></td><td class="l"><a class="in l" href="/translate/शांत/शांत-meaning-in-Hindi-English">शांत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/even-tempered/even-tempered-meaning-in-Hindi-English">even-tempered</a></td><td class="l"><a class="in l" href="/translate/शांत/शांत-meaning-in-Hindi-English">शांत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evenhanded/evenhanded-meaning-in-Hindi-English">evenhanded</a></td><td class="l"><a class="in l" href="/translate/ठीक-ठीक/ठीक-ठीक-meaning-in-Hindi-English">ठीक-ठीक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evenhanded/evenhanded-meaning-in-Hindi-English">evenhanded</a></td><td class="l"><a class="in l" href="/translate/निष्पक्ष/निष्पक्ष-meaning-in-Hindi-English">निष्पक्ष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evenhanded/evenhanded-meaning-in-Hindi-English">evenhanded</a></td><td class="l"><a class="in l" href="/translate/न्यायी/न्यायी-meaning-in-Hindi-English">न्यायी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/evenhanded/evenhanded-meaning-in-Hindi-English">evenhanded</a></td><td class="l"><a class="in l" href="/translate/पक्षपात रहित/पक्षपात रहित-meaning-in-Hindi-English">पक्षपात रहित</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: even</h3><p>Meaning and definitions of even, translation in Hindi language for even with similar and opposite words. Also find spoken pronunciation of even in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "even"</h3><p>What even means in Hindi, even meaning in Hindi, even definition, examples and pronunciation of even in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

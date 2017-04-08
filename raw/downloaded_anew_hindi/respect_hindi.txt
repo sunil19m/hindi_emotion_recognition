@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>respect - Meaning in Hindi - respect in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="respect - Meaning in Hindi, what is meaning of respect in Hindi dictionary, audio pronunciation, synonyms and definitions of respect in Hindi and English.">
+<meta name="keywords" content="respect, meaning of respect, English and Hindi for respect, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/respect/respect-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="respect" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">respect - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of respect</h2><i class="fa fa-volume-up fa-lg in au" id="en510805" style=""></i>रिस्पेक्ट / रीस्पेक्ट<div class="page-header"><h2 class="ehr">Meanings of respect in Hindi</h2><small>[<a id="t_on" href="/translate/respect/respect-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi21073"></i> <a class="in l" href="/translate/प्रतिष्ठा/प्रतिष्ठा-meaning-in-Hindi-English">प्रतिष्ठा</a> <span class="latin" style="display:none;">[pratiṣṭhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25979"></i> <a class="in l" href="/translate/मान्यता/मान्यता-meaning-in-Hindi-English">मान्यता</a> <span class="latin" style="display:none;">[mān'yatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30585"></i> <a class="in l" href="/translate/विषय/विषय-meaning-in-Hindi-English">विषय</a> <span class="latin" style="display:none;">[viṣaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31892"></i> <a class="in l" href="/translate/श्रद्धा/श्रद्धा-meaning-in-Hindi-English">श्रद्धा</a> <span class="latin" style="display:none;">[śrad'dhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32488"></i> <a class="in l" href="/translate/संबंध/संबंध-meaning-in-Hindi-English">संबंध</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sambandha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32961"></i> <a class="in l" href="/translate/सत्कार/सत्कार-meaning-in-Hindi-English">सत्कार</a> <span class="latin" style="display:none;">[satkāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33434"></i> <a class="in l" href="/translate/समादर/समादर-meaning-in-Hindi-English">समादर</a> <span class="latin" style="display:none;">[samādara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33670"></i> <a class="in l" href="/translate/सम्मान/सम्मान-meaning-in-Hindi-English">सम्मान</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sam'māna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi60614"></i> <a class="in l" href="/translate/इज़्ज़त/इज़्ज़त-meaning-in-Hindi-English">इज़्ज़त</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[izzata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430763"></i> <a class="in l" href="/translate/ख्याल रखना/ख्याल रखना-meaning-in-Hindi-English">ख्याल रखना</a> <span class="latin" style="display:none;">[khyāla rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi447037"></i> <a class="in l" href="/translate/संबंध या संदर्भ/संबंध या संदर्भ-meaning-in-Hindi-English">संबंध या संदर्भ</a> <span class="latin" style="display:none;">[sambandha yā sandarbha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi890"></i> <a class="in l" href="/translate/अदब/अदब-meaning-in-Hindi-English">अदब</a> <span class="latin" style="display:none;">[adaba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2448"></i> <a class="in l" href="/translate/अभिवादन/अभिवादन-meaning-in-Hindi-English">अभिवादन</a> <span class="latin" style="display:none;">[abhivādana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3879"></i> <a class="in l" href="/translate/आदर/आदर-meaning-in-Hindi-English">आदर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ādara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4590"></i> <a class="in l" href="/translate/इज्जत/इज्जत-meaning-in-Hindi-English">इज्जत</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ijjata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9221"></i> <a class="in l" href="/translate/ख्याल/ख्याल-meaning-in-Hindi-English">ख्याल</a> <span class="latin" style="display:none;">[khyāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16553"></i> <a class="in l" href="/translate/ध्यान/ध्यान-meaning-in-Hindi-English">ध्यान</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dhyāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16754"></i> <a class="in l" href="/translate/नमस्कार/नमस्कार-meaning-in-Hindi-English">नमस्कार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[namaskāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19351"></i> <a class="in l" href="/translate/पहल/पहल-meaning-in-Hindi-English">पहल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[pahala]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi386614"></i> <a class="in l" href="/translate/पूजा करना/पूजा करना-meaning-in-Hindi-English">पूजा करना</a> <span class="latin" style="display:none;">[pūjā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387946"></i> <a class="in l" href="/translate/लगाव रखना/लगाव रखना-meaning-in-Hindi-English">लगाव रखना</a> <span class="latin" style="display:none;">[lagāva rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392456"></i> <a class="in l" href="/translate/ध्यान रखना/ध्यान रखना-meaning-in-Hindi-English">ध्यान रखना</a> <span class="latin" style="display:none;">[dhyāna rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi394577"></i> <a class="in l" href="/translate/सम्मान करना/सम्मान करना-meaning-in-Hindi-English">सम्मान करना</a> <span class="latin" style="display:none;">[sam'māna karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi394578"></i> <a class="in l" href="/translate/आदर करना/आदर करना-meaning-in-Hindi-English">आदर करना</a> <span class="latin" style="display:none;">[ādara karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi395048"></i> <a class="in l" href="/translate/प्रतिष्ठा करना/प्रतिष्ठा करना-meaning-in-Hindi-English">प्रतिष्ठा करना</a> <span class="latin" style="display:none;">[pratiṣṭhā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi398730"></i> <a class="in l" href="/translate/सत्कार करना/सत्कार करना-meaning-in-Hindi-English">सत्कार करना</a> <span class="latin" style="display:none;">[satkāra karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi416969"></i> <a class="in l" href="/translate/प्रिय जानना/प्रिय जानना-meaning-in-Hindi-English">प्रिय जानना</a> <span class="latin" style="display:none;">[priya jānanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi417730"></i> <a class="in l" href="/translate/इज्जत करना/इज्जत करना-meaning-in-Hindi-English">इज्जत करना</a> <span class="latin" style="display:none;">[ijjata karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi427376"></i> <a class="in l" href="/translate/समादर करना/समादर करना-meaning-in-Hindi-English">समादर करना</a> <span class="latin" style="display:none;">[samādara karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430763"></i> <a class="in l" href="/translate/ख्याल रखना/ख्याल रखना-meaning-in-Hindi-English">ख्याल रखना</a> <span class="latin" style="display:none;">[khyāla rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi447038"></i> <a class="in l" href="/translate/आत्मसम्मान रखना/आत्मसम्मान रखना-meaning-in-Hindi-English">आत्मसम्मान रखना</a> <span class="latin" style="display:none;">[ātmasam'māna rakhanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/respects/respects-meaning-in-Hindi-English">respects</a> (noun plural)<br/><a href="/translate/respected/respected-meaning-in-Hindi-English">respected</a> (verb past tense)<br/><a href="/translate/respecting/respecting-meaning-in-Hindi-English">respecting</a> (verb present participle)<br/><a href="/translate/respects/respects-meaning-in-Hindi-English">respects</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of respect in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>behavior intended to please your parents<br><u><em>Example</em></u><br>- he went to law school out of respect for his father's wishes<br></li><li>a courteous expression (by word or deed) of esteem or regard<br><u><em>Example</em></u><br>- be sure to give my respects to the dean<br></li><li>courteous regard for people's feelings<br><u><em>Example</em></u><br>- out of respect for his privacy<br></li><li>(usually preceded by `in') a detail or point</li><li>an attitude of admiration or esteem</li><li>a feeling of friendship and esteem<br><u><em>Example</em></u><br>- he inspires respect<br></li><li>the condition of being honored (esteemed or respected or well regarded)<br><u><em>Example</em></u><br>- a man who has earned high regard<br></li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>regard highly; think much of<br><u><em>Example</em></u><br>- We prize his creativity<br></li><li>show respect towards</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of respect</h2><p><a href="/translate/obedience/obedience-meaning-in-Hindi-English">obedience</a>, <a href="/translate/respect/respect-meaning-in-Hindi-English">respect</a>, <a href="/translate/deference/deference-meaning-in-Hindi-English">deference</a>, <a href="/translate/respectfulness/respectfulness-meaning-in-Hindi-English">respectfulness</a>, <a href="/translate/regard/regard-meaning-in-Hindi-English">regard</a>, <a href="/translate/esteem/esteem-meaning-in-Hindi-English">esteem</a>, <a href="/translate/prise/prise-meaning-in-Hindi-English">prise</a>, <a href="/translate/prize/prize-meaning-in-Hindi-English">prize</a>, <a href="/translate/value/value-meaning-in-Hindi-English">value</a>, <a href="/translate/abide+by/abide+by-meaning-in-Hindi-English">abide by</a>, <a href="/translate/honor/honor-meaning-in-Hindi-English">honor</a>, <a href="/translate/honour/honour-meaning-in-Hindi-English">honour</a>, <a href="/translate/observe/observe-meaning-in-Hindi-English">observe</a></p><h2 class="ehr">Antonyms of respect</h2><p><a href="/translate/disrespect/disrespect-meaning-in-Hindi-English">disrespect</a>, <a href="/translate/disesteem/disesteem-meaning-in-Hindi-English">disesteem</a></p><h2 class="ehr">More matches for respect</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectability/respectability-meaning-in-Hindi-English">respectability</a></td><td class="l"><a class="in l" href="/translate/प्रतिष्ठा/प्रतिष्ठा-meaning-in-Hindi-English">प्रतिष्ठा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectability/respectability-meaning-in-Hindi-English">respectability</a></td><td class="l"><a class="in l" href="/translate/माननीयता/माननीयता-meaning-in-Hindi-English">माननीयता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectability/respectability-meaning-in-Hindi-English">respectability</a></td><td class="l"><a class="in l" href="/translate/मान्यता/मान्यता-meaning-in-Hindi-English">मान्यता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectability/respectability-meaning-in-Hindi-English">respectability</a></td><td class="l"><a class="in l" href="/translate/सत्कार/सत्कार-meaning-in-Hindi-English">सत्कार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectability/respectability-meaning-in-Hindi-English">respectability</a></td><td class="l"><a class="in l" href="/translate/सम्मान/सम्मान-meaning-in-Hindi-English">सम्मान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectability/respectability-meaning-in-Hindi-English">respectability</a></td><td class="l"><a class="in l" href="/translate/आदर योग्यता/आदर योग्यता-meaning-in-Hindi-English">आदर योग्यता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable man/respectable man-meaning-in-Hindi-English">respectable man</a></td><td class="l"><a class="in l" href="/translate/बुज़ुर्ग/बुज़ुर्ग-meaning-in-Hindi-English">बुज़ुर्ग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectableness/respectableness-meaning-in-Hindi-English">respectableness</a></td><td class="l"><a class="in l" href="/translate/प्रतिष्ठा/प्रतिष्ठा-meaning-in-Hindi-English">प्रतिष्ठा</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/आदरणीय/आदरणीय-meaning-in-Hindi-English">आदरणीय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/जी/जी-meaning-in-Hindi-English">जी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/नम्य/नम्य-meaning-in-Hindi-English">नम्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/माननीय/माननीय-meaning-in-Hindi-English">माननीय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/मान्य/मान्य-meaning-in-Hindi-English">मान्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/योग्य/योग्य-meaning-in-Hindi-English">योग्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/शरीफ़/शरीफ़-meaning-in-Hindi-English">शरीफ़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/सन्मान/सन्मान-meaning-in-Hindi-English">सन्मान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/सम्मानित/सम्मानित-meaning-in-Hindi-English">सम्मानित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/इज़्ज़तदार/इज़्ज़तदार-meaning-in-Hindi-English">इज़्ज़तदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/नमनीय/नमनीय-meaning-in-Hindi-English">नमनीय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/प्रणम्य/प्रणम्य-meaning-in-Hindi-English">प्रणम्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/वंदनीय/वंदनीय-meaning-in-Hindi-English">वंदनीय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/वंद्य/वंद्य-meaning-in-Hindi-English">वंद्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/वन्दनीय/वन्दनीय-meaning-in-Hindi-English">वन्दनीय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/सम्माननीय/सम्माननीय-meaning-in-Hindi-English">सम्माननीय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/इज्जत के लायक/इज्जत के लायक-meaning-in-Hindi-English">इज्जत के लायक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/काफ़ी अच्छा/काफ़ी अच्छा-meaning-in-Hindi-English">काफ़ी अच्छा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectable/respectable-meaning-in-Hindi-English">respectable</a></td><td class="l"><a class="in l" href="/translate/इज़्ज़तदार/इज़्ज़तदार-meaning-in-Hindi-English">इज़्ज़तदार</a></td></tr></table><h3 class="adverb">adverb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectably/respectably-meaning-in-Hindi-English">respectably</a></td><td class="l"><a class="in l" href="/translate/शालीनतापूर्वक/शालीनतापूर्वक-meaning-in-Hindi-English">शालीनतापूर्वक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectably/respectably-meaning-in-Hindi-English">respectably</a></td><td class="l"><a class="in l" href="/translate/पर्याप्त रूप से/पर्याप्त रूप से-meaning-in-Hindi-English">पर्याप्त रूप से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/respectably/respectably-meaning-in-Hindi-English">respectably</a></td><td class="l"><a class="in l" href="/translate/सम्माननीय ढंग से/सम्माननीय ढंग से-meaning-in-Hindi-English">सम्माननीय ढंग से</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: respect</h3><p>Meaning and definitions of respect, translation in Hindi language for respect with similar and opposite words. Also find spoken pronunciation of respect in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "respect"</h3><p>What respect means in Hindi, respect meaning in Hindi, respect definition, examples and pronunciation of respect in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

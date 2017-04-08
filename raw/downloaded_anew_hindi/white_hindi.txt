@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>white - Meaning in Hindi - white in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="white - Meaning in Hindi, what is meaning of white in Hindi dictionary, audio pronunciation, synonyms and definitions of white in Hindi and English.">
+<meta name="keywords" content="white, meaning of white, English and Hindi for white, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/white/white-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="white" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">white - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of white</h2><i class="fa fa-volume-up fa-lg in au" id="en655980" style=""></i>वाइट / ह्वाइट<div class="page-header"><h2 class="ehr">Meanings of white in Hindi</h2><small>[<a id="t_on" href="/translate/white/white-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi32031"></i> <a class="in l" href="/translate/श्वेवत/श्वेवत-meaning-in-Hindi-English">श्वेवत</a> <span class="latin" style="display:none;">[śvēvata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33158"></i> <a class="in l" href="/translate/सफेदी/सफेदी-meaning-in-Hindi-English">सफेदी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[saphēdī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi65807"></i> <a class="in l" href="/translate/उज्ज्वलता/उज्ज्वलता-meaning-in-Hindi-English">उज्ज्वलता</a> <span class="latin" style="display:none;">[ujjvalatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi344047"></i> <a class="in l" href="/translate/सफ़ेदी/सफ़ेदी-meaning-in-Hindi-English">सफ़ेदी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[safēdī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi424985"></i> <a class="in l" href="/translate/श्वेत रंग/श्वेत रंग-meaning-in-Hindi-English">श्वेत रंग</a> <span class="latin" style="display:none;">[śvēta raṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi424986"></i> <a class="in l" href="/translate/सफेद वस्तु/सफेद वस्तु-meaning-in-Hindi-English">सफेद वस्तु</a> <span class="latin" style="display:none;">[saphēda vastu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi453612"></i> <a class="in l" href="/translate/सुनहरे रंग का/सुनहरे रंग का-meaning-in-Hindi-English">सुनहरे रंग का</a> <span class="latin" style="display:none;">[sunaharē raṅga kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi329631"></i> <a class="in l" href="/translate/व्हाइट/व्हाइट-meaning-in-Hindi-English">व्हाइट</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[vhā'iṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi453613"></i> <a class="in l" href="/translate/सफेद कपड़ा/सफेद कपड़ा-meaning-in-Hindi-English">सफेद कपड़ा</a> <span class="latin" style="display:none;">[saphēda kapaṛā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi453614"></i> <a class="in l" href="/translate/सफेद रंग/सफेद रंग-meaning-in-Hindi-English">सफेद रंग</a> <span class="latin" style="display:none;">[saphēda raṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10136"></i> <a class="in l" href="/translate/गोरा/गोरा-meaning-in-Hindi-English">गोरा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[gōrā]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi16377"></i> <a class="in l" href="/translate/धवल/धवल-meaning-in-Hindi-English">धवल</a> <span class="latin" style="display:none;">[dhavala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17855"></i> <a class="in l" href="/translate/निष्कलंक/निष्कलंक-meaning-in-Hindi-English">निष्कलंक</a> <span class="latin" style="display:none;">[niṣkalaṅka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19253"></i> <a class="in l" href="/translate/पवित्र/पवित्र-meaning-in-Hindi-English">पवित्र</a> <span class="latin" style="display:none;">[pavitra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27429"></i> <a class="in l" href="/translate/रक्तहीन/रक्तहीन-meaning-in-Hindi-English">रक्तहीन</a> <span class="latin" style="display:none;">[raktahīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31677"></i> <a class="in l" href="/translate/शुद्ध/शुद्ध-meaning-in-Hindi-English">शुद्ध</a> <span class="latin" style="display:none;">[śud'dha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32024"></i> <a class="in l" href="/translate/श्वेत/श्वेत-meaning-in-Hindi-English">श्वेत</a> <span class="latin" style="display:none;">[śvēta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33029"></i> <a class="in l" href="/translate/सद्भावपूर्ण/सद्भावपूर्ण-meaning-in-Hindi-English">सद्भावपूर्ण</a> <span class="latin" style="display:none;">[sadbhāvapūrṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33155"></i> <a class="in l" href="/translate/सफेद/सफेद-meaning-in-Hindi-English">सफेद</a> <span class="latin" style="display:none;">[saphēda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35752"></i> <a class="in l" href="/translate/स्वच्छ/स्वच्छ-meaning-in-Hindi-English">स्वच्छ</a> <span class="latin" style="display:none;">[svaccha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi228013"></i> <a class="in l" href="/translate/फक/फक-meaning-in-Hindi-English">फक</a> <span class="latin" style="display:none;">[phaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi334909"></i> <a class="in l" href="/translate/शुभ्र/शुभ्र-meaning-in-Hindi-English">शुभ्र</a> <span class="latin" style="display:none;">[śubhra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi344045"></i> <a class="in l" href="/translate/सफ़ेद/सफ़ेद-meaning-in-Hindi-English">सफ़ेद</a> <span class="latin" style="display:none;">[safēda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi353718"></i> <a class="in l" href="/translate/सित/सित-meaning-in-Hindi-English">सित</a> <span class="latin" style="display:none;">[sita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4893"></i> <a class="in l" href="/translate/उजला/उजला-meaning-in-Hindi-English">उजला</a> <span class="latin" style="display:none;">[ujalā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449065"></i> <a class="in l" href="/translate/तपता हुआ/तपता हुआ-meaning-in-Hindi-English">तपता हुआ</a> <span class="latin" style="display:none;">[tapatā hu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10136"></i> <a class="in l" href="/translate/गोरा/गोरा-meaning-in-Hindi-English">गोरा</a> <span class="latin" style="display:none;">[gōrā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi453611"></i> <a class="in l" href="/translate/तीव्र उत्तेजना/तीव्र उत्तेजना-meaning-in-Hindi-English">तीव्र उत्तेजना</a> <span class="latin" style="display:none;">[tīvra uttējanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16377"></i> <a class="in l" href="/translate/धवल/धवल-meaning-in-Hindi-English">धवल</a> <span class="latin" style="display:none;">[dhavala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31677"></i> <a class="in l" href="/translate/शुद्ध/शुद्ध-meaning-in-Hindi-English">शुद्ध</a> <span class="latin" style="display:none;">[śud'dha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi453612"></i> <a class="in l" href="/translate/सुनहरे रंग का/सुनहरे रंग का-meaning-in-Hindi-English">सुनहरे रंग का</a> <span class="latin" style="display:none;">[sunaharē raṅga kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi334909"></i> <a class="in l" href="/translate/शुभ्र/शुभ्र-meaning-in-Hindi-English">शुभ्र</a> <span class="latin" style="display:none;">[śubhra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi344045"></i> <a class="in l" href="/translate/सफ़ेद/सफ़ेद-meaning-in-Hindi-English">सफ़ेद</a> <span class="latin" style="display:none;">[safēda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi353718"></i> <a class="in l" href="/translate/सित/सित-meaning-in-Hindi-English">सित</a> <span class="latin" style="display:none;">[sita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi457366"></i> <a class="in l" href="/translate/सिर्फ़ गोरों के लिये/सिर्फ़ गोरों के लिये-meaning-in-Hindi-English">सिर्फ़ गोरों के लिये</a> <span class="latin" style="display:none;">[sirfa gōrōṁ kē liyē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4893"></i> <a class="in l" href="/translate/उजला/उजला-meaning-in-Hindi-English">उजला</a> <span class="latin" style="display:none;">[ujalā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4904"></i> <a class="in l" href="/translate/उज्ज्वल/उज्ज्वल-meaning-in-Hindi-English">उज्ज्वल</a> <span class="latin" style="display:none;">[ujjvala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15680"></i> <a class="in l" href="/translate/दूधवाली/दूधवाली-meaning-in-Hindi-English">दूधवाली</a> <span class="latin" style="display:none;">[dūdhavālī]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi424987"></i> <a class="in l" href="/translate/श्वेत करना/श्वेत करना-meaning-in-Hindi-English">श्वेत करना</a> <span class="latin" style="display:none;">[śvēta karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi424988"></i> <a class="in l" href="/translate/सफेद करना/सफेद करना-meaning-in-Hindi-English">सफेद करना</a> <span class="latin" style="display:none;">[saphēda karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi457444"></i> <a class="in l" href="/translate/सफ़ेद करना/सफ़ेद करना-meaning-in-Hindi-English">सफ़ेद करना</a> <span class="latin" style="display:none;">[safēda karanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/Whites/Whites-meaning-in-Hindi-English">Whites</a>, <a href="/translate/whites/whites-meaning-in-Hindi-English">whites</a> (noun plural)<br/><a href="/translate/whiter/whiter-meaning-in-Hindi-English">whiter</a> (adjective comparative)<br/><a href="/translate/whitest/whitest-meaning-in-Hindi-English">whitest</a> (adjective superlative)<br/><a href="/translate/whited/whited-meaning-in-Hindi-English">whited</a> (verb past tense)<br/><a href="/translate/whiting/whiting-meaning-in-Hindi-English">whiting</a> (verb present participle)<br/><a href="/translate/whites/whites-meaning-in-Hindi-English">whites</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of white in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>of or belonging to a racial group having light skin coloration</li><li>of summer nights in northern latitudes where the sun barely sets</li><li>being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light<br><u><em>Example</em></u><br>- a bride's white dress<br></li><li>anemic looking from illness or emotion<br><u><em>Examples</em></u><br>- the invalid's blanched cheeks<br>- tried to speak with bloodless lips<br>- a face livid with shock<br>- lips...livid with the hue of death<br>- lips white with terror<br>- a face white with rage<br></li><li>(of hair) having lost its color</li><li>(of coffee) having cream or milk added</li><li>(of a surface) not written or printed on<br><u><em>Examples</em></u><br>- fill in the blank spaces<br>- a clean page<br>- wide white margins<br></li><li>benevolent; without malicious intent</li><li>glowing white with heat<br><u><em>Example</em></u><br>- a white-hot center of the fire<br></li><li>restricted to whites only<br><u><em>Example</em></u><br>- a lily-white movement which would expel Negroes from the organization<br></li><li>marked by the presence of snow<br><u><em>Example</em></u><br>- the white hills of a northern winter<br></li><li>free from moral blemish or impurity; unsullied</li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>(usually in the plural) trousers made of flannel or gabardine or tweed or white cloth</li><li>(board games) the lighter pieces</li><li>the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)</li><li>the white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water</li><li>a tributary of the Mississippi River that flows southeastward through northern Arkansas and southern Missouri</li><li>a member of the Caucasoid race</li><li>United States educator who in 1865 (with Ezra Cornell) founded Cornell University and served as its first president (1832-1918)</li><li>United States writer noted for his humorous essays (1899-1985)</li><li>United States architect (1853-1906)</li><li>United States political journalist (1915-1986)</li><li>Australian writer (1912-1990)</li><li>United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>turn white</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of white</h2><p><a href="/translate/flannel/flannel-meaning-in-Hindi-English">flannel</a>, <a href="/translate/gabardine/gabardine-meaning-in-Hindi-English">gabardine</a>, <a href="/translate/tweed/tweed-meaning-in-Hindi-English">tweed</a>, <a href="/translate/white/white-meaning-in-Hindi-English">white</a>, <a href="/translate/whiteness/whiteness-meaning-in-Hindi-English">whiteness</a>, <a href="/translate/albumen/albumen-meaning-in-Hindi-English">albumen</a>, <a href="/translate/egg+white/egg+white-meaning-in-Hindi-English">egg white</a>, <a href="/translate/ovalbumin/ovalbumin-meaning-in-Hindi-English">ovalbumin</a>, <a href="/translate/white+river/white+river-meaning-in-Hindi-English">white river</a>, <a href="/translate/caucasian/caucasian-meaning-in-Hindi-English">caucasian</a>, <a href="/translate/white+person/white+person-meaning-in-Hindi-English">white person</a>, <a href="/translate/andrew+d.+white/andrew+d.+white-meaning-in-Hindi-English">andrew d. white</a>, <a href="/translate/andrew+dickson+white/andrew+dickson+white-meaning-in-Hindi-English">andrew dickson white</a>, <a href="/translate/e.+b.+white/e.+b.+white-meaning-in-Hindi-English">e. b. white</a>, <a href="/translate/elwyn+brooks+white/elwyn+brooks+white-meaning-in-Hindi-English">elwyn brooks white</a>, <a href="/translate/stanford+white/stanford+white-meaning-in-Hindi-English">stanford white</a>, <a href="/translate/t.+h.+white/t.+h.+white-meaning-in-Hindi-English">t. h. white</a>, <a href="/translate/theodore+harold+white/theodore+harold+white-meaning-in-Hindi-English">theodore harold white</a>, <a href="/translate/patrick+victor+martindale+white/patrick+victor+martindale+white-meaning-in-Hindi-English">patrick victor martindale white</a>, <a href="/translate/patrick+white/patrick+white-meaning-in-Hindi-English">patrick white</a>, <a href="/translate/edward+d.+white/edward+d.+white-meaning-in-Hindi-English">edward d. white</a>, <a href="/translate/edward+douglas+white+jr./edward+douglas+white+jr.-meaning-in-Hindi-English">edward douglas white jr.</a>, <a href="/translate/edward+white/edward+white-meaning-in-Hindi-English">edward white</a>, <a href="/translate/whiten/whiten-meaning-in-Hindi-English">whiten</a>, <a href="/translate/ashen/ashen-meaning-in-Hindi-English">ashen</a>, <a href="/translate/blanched/blanched-meaning-in-Hindi-English">blanched</a>, <a href="/translate/bloodless/bloodless-meaning-in-Hindi-English">bloodless</a>, <a href="/translate/livid/livid-meaning-in-Hindi-English">livid</a>, <a href="/translate/whitened/whitened-meaning-in-Hindi-English">whitened</a>, <a href="/translate/blank/blank-meaning-in-Hindi-English">blank</a>, <a href="/translate/clean/clean-meaning-in-Hindi-English">clean</a>, <a href="/translate/white-hot/white-hot-meaning-in-Hindi-English">white-hot</a>, <a href="/translate/lily-white/lily-white-meaning-in-Hindi-English">lily-white</a>, <a href="/translate/snowy/snowy-meaning-in-Hindi-English">snowy</a></p><h2 class="ehr">Antonyms of white</h2><p><a href="/translate/black/black-meaning-in-Hindi-English">black</a>, <a href="/translate/blackness/blackness-meaning-in-Hindi-English">blackness</a>, <a href="/translate/inkiness/inkiness-meaning-in-Hindi-English">inkiness</a></p><h2 class="ehr">More matches for white</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white ant/white ant-meaning-in-Hindi-English">white ant</a></td><td class="l"><a class="in l" href="/translate/दीमक/दीमक-meaning-in-Hindi-English">दीमक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white arsenic/white arsenic-meaning-in-Hindi-English">white arsenic</a></td><td class="l"><a class="in l" href="/translate/सफेद संखिया/सफेद संखिया-meaning-in-Hindi-English">सफेद संखिया</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white aspen/white aspen-meaning-in-Hindi-English">white aspen</a></td><td class="l"><a class="in l" href="/translate/सफ़ेद पीपल/सफ़ेद पीपल-meaning-in-Hindi-English">सफ़ेद पीपल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white beer/white beer-meaning-in-Hindi-English">white beer</a></td><td class="l"><a class="in l" href="/translate/सफ़ेद बियर/सफ़ेद बियर-meaning-in-Hindi-English">सफ़ेद बियर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white blood corpuscles/white blood corpuscles-meaning-in-Hindi-English">white blood corpuscles</a></td><td class="l"><a class="in l" href="/translate/श्वेत रुधिराणु/श्वेत रुधिराणु-meaning-in-Hindi-English">श्वेत रुधिराणु</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white book/white book-meaning-in-Hindi-English">white book</a></td><td class="l"><a class="in l" href="/translate/श्वेत पत्र/श्वेत पत्र-meaning-in-Hindi-English">श्वेत पत्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white bread/white bread-meaning-in-Hindi-English">white bread</a></td><td class="l"><a class="in l" href="/translate/मैदे की पाव रोटी/मैदे की पाव रोटी-meaning-in-Hindi-English">मैदे की पाव रोटी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white bread/white bread-meaning-in-Hindi-English">white bread</a></td><td class="l"><a class="in l" href="/translate/मैदे की ब्रेड/मैदे की ब्रेड-meaning-in-Hindi-English">मैदे की ब्रेड</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white Burgundy/white Burgundy-meaning-in-Hindi-English">white Burgundy</a></td><td class="l"><a class="in l" href="/translate/श्वेत बरगंडी/श्वेत बरगंडी-meaning-in-Hindi-English">श्वेत बरगंडी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white cat/white cat-meaning-in-Hindi-English">white cat</a></td><td class="l"><a class="in l" href="/translate/सफेद बिल्‍‍ली/सफेद बिल्‍‍ली-meaning-in-Hindi-English">सफेद बिल्‍‍ली</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white cedar/white cedar-meaning-in-Hindi-English">white cedar</a></td><td class="l"><a class="in l" href="/translate/सफेद देवदार/सफेद देवदार-meaning-in-Hindi-English">सफेद देवदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white cell/white cell-meaning-in-Hindi-English">white cell</a></td><td class="l"><a class="in l" href="/translate/श्वेत कोशिका/श्वेत कोशिका-meaning-in-Hindi-English">श्वेत कोशिका</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white chick peas/white chick peas-meaning-in-Hindi-English">white chick peas</a></td><td class="l"><a class="in l" href="/translate/काबुली चना/काबुली चना-meaning-in-Hindi-English">काबुली चना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white chocolate/white chocolate-meaning-in-Hindi-English">white chocolate</a></td><td class="l"><a class="in l" href="/translate/सफेद चाकलेट/सफेद चाकलेट-meaning-in-Hindi-English">सफेद चाकलेट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white chocolate/white chocolate-meaning-in-Hindi-English">white chocolate</a></td><td class="l"><a class="in l" href="/translate/व्हाइट चॉकलेट/व्हाइट चॉकलेट-meaning-in-Hindi-English">व्हाइट चॉकलेट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white cinnamon/white cinnamon-meaning-in-Hindi-English">white cinnamon</a></td><td class="l"><a class="in l" href="/translate/सफेद दालचीनी/सफेद दालचीनी-meaning-in-Hindi-English">सफेद दालचीनी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white cinnamon tree/white cinnamon tree-meaning-in-Hindi-English">white cinnamon tree</a></td><td class="l"><a class="in l" href="/translate/सफेद दालचीनी का पेड़/सफेद दालचीनी का पेड़-meaning-in-Hindi-English">सफेद दालचीनी का पेड़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white clover/white clover-meaning-in-Hindi-English">white clover</a></td><td class="l"><a class="in l" href="/translate/सफ़ेद क्लोवर/सफ़ेद क्लोवर-meaning-in-Hindi-English">सफ़ेद क्लोवर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white corpuscle/white corpuscle-meaning-in-Hindi-English">white corpuscle</a></td><td class="l"><a class="in l" href="/translate/श्वेत कोशिका/श्वेत कोशिका-meaning-in-Hindi-English">श्वेत कोशिका</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white cypress/white cypress-meaning-in-Hindi-English">white cypress</a></td><td class="l"><a class="in l" href="/translate/सफेद देवदार/सफेद देवदार-meaning-in-Hindi-English">सफेद देवदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white elephant/white elephant-meaning-in-Hindi-English">white elephant</a></td><td class="l"><a class="in l" href="/translate/सफेद हाथी/सफेद हाथी-meaning-in-Hindi-English">सफेद हाथी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white feather/white feather-meaning-in-Hindi-English">white feather</a></td><td class="l"><a class="in l" href="/translate/कायरता का प्रतीक/कायरता का प्रतीक-meaning-in-Hindi-English">कायरता का प्रतीक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white fir/white fir-meaning-in-Hindi-English">white fir</a></td><td class="l"><a class="in l" href="/translate/श्वेत देवदार/श्वेत देवदार-meaning-in-Hindi-English">श्वेत देवदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white flag/white flag-meaning-in-Hindi-English">white flag</a></td><td class="l"><a class="in l" href="/translate/श्वेत ध्वज/श्वेत ध्वज-meaning-in-Hindi-English">श्वेत ध्वज</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white flag/white flag-meaning-in-Hindi-English">white flag</a></td><td class="l"><a class="in l" href="/translate/सफेद झण्डा/सफेद झण्डा-meaning-in-Hindi-English">सफेद झण्डा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white flag/white flag-meaning-in-Hindi-English">white flag</a></td><td class="l"><a class="in l" href="/translate/सफेद झंडा/सफेद झंडा-meaning-in-Hindi-English">सफेद झंडा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white flour/white flour-meaning-in-Hindi-English">white flour</a></td><td class="l"><a class="in l" href="/translate/मैदा/मैदा-meaning-in-Hindi-English">मैदा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/White Friar/White Friar-meaning-in-Hindi-English">White Friar</a></td><td class="l"><a class="in l" href="/translate/रोमन कैथोलिक तपस्वी/रोमन कैथोलिक तपस्वी-meaning-in-Hindi-English">रोमन कैथोलिक तपस्वी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white fungus/white fungus-meaning-in-Hindi-English">white fungus</a></td><td class="l"><a class="in l" href="/translate/श्वेत कवक/श्वेत कवक-meaning-in-Hindi-English">श्वेत कवक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/white gold/white gold-meaning-in-Hindi-English">white gold</a></td><td class="l"><a class="in l" href="/translate/मिश्रित स्वर्ण/मिश्रित स्वर्ण-meaning-in-Hindi-English">मिश्रित स्वर्ण</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: white</h3><p>Meaning and definitions of white, translation in Hindi language for white with similar and opposite words. Also find spoken pronunciation of white in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "white"</h3><p>What white means in Hindi, white meaning in Hindi, white definition, examples and pronunciation of white in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

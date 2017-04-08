@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>well - Meaning in Hindi - well in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="well - Meaning in Hindi, what is meaning of well in Hindi dictionary, audio pronunciation, synonyms and definitions of well in Hindi and English.">
+<meta name="keywords" content="well, meaning of well, English and Hindi for well, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/well/well-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="well" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">well - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of well</h2><i class="fa fa-volume-up fa-lg in au" id="en652836" style=""></i>वेल<div class="page-header"><h2 class="ehr">Meanings of well in Hindi</h2><small>[<a id="t_on" href="/translate/well/well-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-2"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi6375"></i> <a class="in l" href="/translate/कटघरा/कटघरा-meaning-in-Hindi-English">कटघरा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[kaṭagharā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6986"></i> <a class="in l" href="/translate/कल्याण/कल्याण-meaning-in-Hindi-English">कल्याण</a> <span class="latin" style="display:none;">[kalyāṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7654"></i> <a class="in l" href="/translate/कुंआ/कुंआ-meaning-in-Hindi-English">कुंआ</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[kuṁā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7678"></i> <a class="in l" href="/translate/कुआँ/कुआँ-meaning-in-Hindi-English">कुआँ</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ku'ām̐]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7980"></i> <a class="in l" href="/translate/कूप/कूप-meaning-in-Hindi-English">कूप</a> <span class="latin" style="display:none;">[kūpa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13016"></i> <a class="in l" href="/translate/झरना/झरना-meaning-in-Hindi-English">झरना</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jharanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi442739"></i> <a class="in l" href="/translate/अच्छे से/अच्छे से-meaning-in-Hindi-English">अच्छे से</a> <span class="latin" style="display:none;">[acchē sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi453495"></i> <a class="in l" href="/translate/तेल का कुआँ/तेल का कुआँ-meaning-in-Hindi-English">तेल का कुआँ</a> <span class="latin" style="display:none;">[tēla kā ku'ām̐]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23374"></i> <a class="in l" href="/translate/बावड़ी/बावड़ी-meaning-in-Hindi-English">बावड़ी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bāvaṛī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi453496"></i> <a class="in l" href="/translate/अच्छा तो/अच्छा तो-meaning-in-Hindi-English">अच्छा तो</a> <span class="latin" style="display:none;">[acchā tō]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24428"></i> <a class="in l" href="/translate/भलाई/भलाई-meaning-in-Hindi-English">भलाई</a> <span class="latin" style="display:none;">[bhalā'ī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28670"></i> <a class="in l" href="/translate/लाभ/लाभ-meaning-in-Hindi-English">लाभ</a> <span class="latin" style="display:none;">[lābha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35320"></i> <a class="in l" href="/translate/सोता/सोता-meaning-in-Hindi-English">सोता</a> <span class="latin" style="display:none;">[sōtā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35730"></i> <a class="in l" href="/translate/स्रोत/स्रोत-meaning-in-Hindi-English">स्रोत</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[srōta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi36424"></i> <a class="in l" href="/translate/हित/हित-meaning-in-Hindi-English">हित</a> <span class="latin" style="display:none;">[hita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi97857"></i> <a class="in l" href="/translate/कुआं/कुआं-meaning-in-Hindi-English">कुआं</a> <span class="latin" style="display:none;">[ku'āṁ]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi100052"></i> <a class="in l" href="/translate/कूपक/कूपक-meaning-in-Hindi-English">कूपक</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[kūpaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi229757"></i> <a class="in l" href="/translate/फ़ायदा/फ़ायदा-meaning-in-Hindi-English">फ़ायदा</a> <span class="latin" style="display:none;">[fāyadā]</span></li></ol></div><div class="col-sm-2"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi7885"></i> <a class="in l" href="/translate/कुशल/कुशल-meaning-in-Hindi-English">कुशल</a> <span class="latin" style="display:none;">[kuśala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13491"></i> <a class="in l" href="/translate/ठीक/ठीक-meaning-in-Hindi-English">ठीक</a> <span class="latin" style="display:none;">[ṭhīka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17573"></i> <a class="in l" href="/translate/निरोग/निरोग-meaning-in-Hindi-English">निरोग</a> <span class="latin" style="display:none;">[nirōga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24322"></i> <a class="in l" href="/translate/भग्यवान/भग्यवान-meaning-in-Hindi-English">भग्यवान</a> <span class="latin" style="display:none;">[bhagyavāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34701"></i> <a class="in l" href="/translate/सुंदर/सुंदर-meaning-in-Hindi-English">सुंदर</a> <span class="latin" style="display:none;">[sundara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34900"></i> <a class="in l" href="/translate/सुरक्षित/सुरक्षित-meaning-in-Hindi-English">सुरक्षित</a> <span class="latin" style="display:none;">[surakṣita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi585"></i> <a class="in l" href="/translate/अच्छा/अच्छा-meaning-in-Hindi-English">अच्छा</a> <span class="latin" style="display:none;">[acchā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi1439"></i> <a class="in l" href="/translate/अनुकूल/अनुकूल-meaning-in-Hindi-English">अनुकूल</a> <span class="latin" style="display:none;">[anukūla]</span></li></ol></div><div class="col-sm-2"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi385649"></i> <a class="in l" href="/translate/पूर्ण रूप से/पूर्ण रूप से-meaning-in-Hindi-English">पूर्ण रूप से</a> <span class="latin" style="display:none;">[pūrṇa rūpa sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387207"></i> <a class="in l" href="/translate/पूरी तरह से/पूरी तरह से-meaning-in-Hindi-English">पूरी तरह से</a> <span class="latin" style="display:none;">[pūrī taraha sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi398272"></i> <a class="in l" href="/translate/उचित रूप से/उचित रूप से-meaning-in-Hindi-English">उचित रूप से</a> <span class="latin" style="display:none;">[ucita rūpa sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi411344"></i> <a class="in l" href="/translate/भली भांति/भली भांति-meaning-in-Hindi-English">भली भांति</a> <span class="latin" style="display:none;">[bhalī bhānti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi412003"></i> <a class="in l" href="/translate/सहज ही/सहज ही-meaning-in-Hindi-English">सहज ही</a> <span class="latin" style="display:none;">[sahaja hī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi415586"></i> <a class="in l" href="/translate/अच्छी तरह/अच्छी तरह-meaning-in-Hindi-English">अच्छी तरह</a> <span class="latin" style="display:none;">[acchī taraha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431447"></i> <a class="in l" href="/translate/अच्छी तरह से/अच्छी तरह से-meaning-in-Hindi-English">अच्छी तरह से</a> <span class="latin" style="display:none;">[acchī taraha sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi442739"></i> <a class="in l" href="/translate/अच्छे से/अच्छे से-meaning-in-Hindi-English">अच्छे से</a> <span class="latin" style="display:none;">[acchē sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23053"></i> <a class="in l" href="/translate/बहुत/बहुत-meaning-in-Hindi-English">बहुत</a> <span class="latin" style="display:none;">[bahuta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi814860"></i> <a class="in l" href="/translate/भली भांती/भली भांती-meaning-in-Hindi-English">भली भांती</a> <span class="latin" style="display:none;">[bhalī bhāntī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28356"></i> <a class="in l" href="/translate/लगभग/लगभग-meaning-in-Hindi-English">लगभग</a> <span class="latin" style="display:none;">[lagabhaga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31439"></i> <a class="in l" href="/translate/शायद/शायद-meaning-in-Hindi-English">शायद</a> <span class="latin" style="display:none;">[śāyada]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34085"></i> <a class="in l" href="/translate/सही/सही-meaning-in-Hindi-English">सही</a> <span class="latin" style="display:none;">[sahī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi237206"></i> <a class="in l" href="/translate/बखूबी/बखूबी-meaning-in-Hindi-English">बखूबी</a> <span class="latin" style="display:none;">[bakhūbī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385304"></i> <a class="in l" href="/translate/बहुत ज्यादा/बहुत ज्यादा-meaning-in-Hindi-English">बहुत ज्यादा</a> <span class="latin" style="display:none;">[bahuta jyādā]</span></li></ol></div><div class="col-sm-2"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi5669"></i> <a class="in l" href="/translate/उमड़ना/उमड़ना-meaning-in-Hindi-English">उमड़ना</a> <span class="latin" style="display:none;">[umaṛanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17175"></i> <a class="in l" href="/translate/निकलना/निकलना-meaning-in-Hindi-English">निकलना</a> <span class="latin" style="display:none;">[nikalanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22978"></i> <a class="in l" href="/translate/बहना/बहना-meaning-in-Hindi-English">बहना</a> <span class="latin" style="display:none;">[bahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi68641"></i> <a class="in l" href="/translate/उमड़ना/उमड़ना-meaning-in-Hindi-English">उमड़ना</a> <span class="latin" style="display:none;">[umaṛanā]</span></li></ol></div><div class="col-sm-2"><h3 class="interjection"><em>interjection&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi453494"></i> <a class="in l" href="/translate/अरे वाह!/अरे वाह!-meaning-in-Hindi-English">अरे वाह!</a> <span class="latin" style="display:none;">[arē vāha!]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi51147"></i> <a class="in l" href="/translate/अहा/अहा-meaning-in-Hindi-English">अहा</a> <span class="latin" style="display:none;">[ahā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/better/better-meaning-in-Hindi-English">better</a> (adjective comparative)<br/><a href="/translate/best/best-meaning-in-Hindi-English">best</a> (adjective superlative)<br/><a href="/translate/wells/wells-meaning-in-Hindi-English">wells</a> (noun plural)<br/><a href="/translate/welled/welled-meaning-in-Hindi-English">welled</a> (verb past tense)<br/><a href="/translate/welling/welling-meaning-in-Hindi-English">welling</a> (verb present participle)<br/><a href="/translate/wells/wells-meaning-in-Hindi-English">wells</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of well in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>wise or advantageous and hence advisable</li><li>resulting favorably<br><u><em>Examples</em></u><br>- it is good that you stayed<br>- it is well that no one saw you<br>- all's well that ends well<br></li><li>in good health especially after having suffered illness or injury<br><u><em>Examples</em></u><br>- the wound is nearly well<br>- a well man<br>- I think I'm well; at least I feel well<br></li></ol><strong><em>adverb</em></strong></h3><ol class="wnol"><li>(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')<br><u><em>Examples</em></u><br>- a task well done<br>- the party went well<br>- he slept well<br>- a well-argued thesis<br>- a well-seasoned dish<br>- a well-planned party<br>- the baby can walk pretty good<br></li><li>without unusual distress or resentment; with good humor<br><u><em>Example</em></u><br>- took the tragic news well<br></li><li>indicating high probability; in all likelihood<br><u><em>Examples</em></u><br>- a mistake that could easily have ended in disaster<br>- you may well need your umbrella<br>- he could equally well be trying to deceive us<br></li><li>thoroughly or completely; fully; often used as a combining form<br><u><em>Examples</em></u><br>- she was well informed<br>- shake well before using<br>- in order to avoid food poisoning be sure the meat is well cooked<br>- well-done beef<br>- well-satisfied customers<br>- well-educated<br></li><li>favorably; with approval<br><u><em>Example</em></u><br>- he thought well of the book<br></li><li>to a suitable or appropriate extent or degree<br><u><em>Examples</em></u><br>- the fetus has well developed organs<br>- his father was well pleased with his grades<br></li><li>in financial comfort<br><u><em>Example</em></u><br>- she has been able to live comfortably since her husband died<br></li><li>in a manner affording benefit or advantage<br><u><em>Example</em></u><br>- The children were settled advantageously in Seattle<br></li><li>to a great extent or degree<br><u><em>Examples</em></u><br>- painting the room white made it seem considerably (or substantially) larger<br>- the house has fallen considerably in value<br>- the price went up substantially<br></li><li>with skill or in a pleasing manner<br><u><em>Example</em></u><br>- he writes well<br></li><li>with prudence or propriety<br><u><em>Example</em></u><br>- could not well refuse<br></li><li>with great or especially intimate knowledge</li><li>(used for emphasis or as an intensifier) entirely or fully<br><u><em>Examples</em></u><br>- was well aware of the difficulties ahead<br>- suspected only too well what might be going on<br></li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>a deep hole or shaft dug or drilled to obtain water or oil or gas or brine</li><li>an enclosed compartment in a ship or plane for holding something as e.g. fish or a plane's landing gear or for protecting something as e.g. a ship's pumps</li><li>an open shaft through the floors of a building (as for a stairway)</li><li>a cavity or vessel used to contain liquid</li><li>an abundant source</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>come up, as of a liquid<br><u><em>Example</em></u><br>- the currents well up<br></li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of well</h2><p><a href="/translate/well/well-meaning-in-Hindi-English">well</a>, <a href="/translate/fountainhead/fountainhead-meaning-in-Hindi-English">fountainhead</a>, <a href="/translate/wellspring/wellspring-meaning-in-Hindi-English">wellspring</a>, <a href="/translate/swell/swell-meaning-in-Hindi-English">swell</a>, <a href="/translate/good/good-meaning-in-Hindi-English">good</a>, <a href="/translate/easily/easily-meaning-in-Hindi-English">easily</a>, <a href="/translate/comfortably/comfortably-meaning-in-Hindi-English">comfortably</a>, <a href="/translate/advantageously/advantageously-meaning-in-Hindi-English">advantageously</a>, <a href="/translate/considerably/considerably-meaning-in-Hindi-English">considerably</a>, <a href="/translate/substantially/substantially-meaning-in-Hindi-English">substantially</a>, <a href="/translate/intimately/intimately-meaning-in-Hindi-English">intimately</a></p><h2 class="ehr">Antonyms of well</h2><p><a href="/translate/ill/ill-meaning-in-Hindi-English">ill</a>, <a href="/translate/sick/sick-meaning-in-Hindi-English">sick</a>, <a href="/translate/badly/badly-meaning-in-Hindi-English">badly</a>, <a href="/translate/poorly/poorly-meaning-in-Hindi-English">poorly</a>, <a href="/translate/disadvantageously/disadvantageously-meaning-in-Hindi-English">disadvantageously</a></p><h2 class="ehr">More matches for well</h2><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well behaved/well behaved-meaning-in-Hindi-English">well behaved</a></td><td class="l"><a class="in l" href="/translate/शिष्ट/शिष्ट-meaning-in-Hindi-English">शिष्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well behaved/well behaved-meaning-in-Hindi-English">well behaved</a></td><td class="l"><a class="in l" href="/translate/सभ्य/सभ्य-meaning-in-Hindi-English">सभ्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well done/well done-meaning-in-Hindi-English">well done</a></td><td class="l"><a class="in l" href="/translate/अच्छी तरह किया गया/अच्छी तरह किया गया-meaning-in-Hindi-English">अच्छी तरह किया गया</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well endowed/well endowed-meaning-in-Hindi-English">well endowed</a></td><td class="l"><a class="in l" href="/translate/सुडौल/सुडौल-meaning-in-Hindi-English">सुडौल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well endowed/well endowed-meaning-in-Hindi-English">well endowed</a></td><td class="l"><a class="in l" href="/translate/अच्छी तरह से संपन्न/अच्छी तरह से संपन्न-meaning-in-Hindi-English">अच्छी तरह से संपन्न</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well off/well off-meaning-in-Hindi-English">well off</a></td><td class="l"><a class="in l" href="/translate/धनी/धनी-meaning-in-Hindi-English">धनी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well thought out/well thought out-meaning-in-Hindi-English">well thought out</a></td><td class="l"><a class="in l" href="/translate/सुविचारित/सुविचारित-meaning-in-Hindi-English">सुविचारित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well timed/well timed-meaning-in-Hindi-English">well timed</a></td><td class="l"><a class="in l" href="/translate/समयोचित/समयोचित-meaning-in-Hindi-English">समयोचित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-adjusted/well-adjusted-meaning-in-Hindi-English">well-adjusted</a></td><td class="l"><a class="in l" href="/translate/संतुलित/संतुलित-meaning-in-Hindi-English">संतुलित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-adjusted/well-adjusted-meaning-in-Hindi-English">well-adjusted</a></td><td class="l"><a class="in l" href="/translate/समझदार/समझदार-meaning-in-Hindi-English">समझदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-administered/well-administered-meaning-in-Hindi-English">well-administered</a></td><td class="l"><a class="in l" href="/translate/सुव्यवस्थित/सुव्यवस्थित-meaning-in-Hindi-English">सुव्यवस्थित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-advised/well-advised-meaning-in-Hindi-English">well-advised</a></td><td class="l"><a class="in l" href="/translate/बुद्धिमान/बुद्धिमान-meaning-in-Hindi-English">बुद्धिमान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-advised/well-advised-meaning-in-Hindi-English">well-advised</a></td><td class="l"><a class="in l" href="/translate/सावधान/सावधान-meaning-in-Hindi-English">सावधान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-advised/well-advised-meaning-in-Hindi-English">well-advised</a></td><td class="l"><a class="in l" href="/translate/होशियार/होशियार-meaning-in-Hindi-English">होशियार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-advised/well-advised-meaning-in-Hindi-English">well-advised</a></td><td class="l"><a class="in l" href="/translate/अक़्लमंद/अक़्लमंद-meaning-in-Hindi-English">अक़्लमंद</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well-advised/well-advised-meaning-in-Hindi-English">well-advised</a></td><td class="l"><a class="in l" href="/translate/अक़्लमंद/अक़्लमंद-meaning-in-Hindi-English">अक़्लमंद</a></td></tr></table><h3 class="interjection">interjection&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well done/well done-meaning-in-Hindi-English">well done</a></td><td class="l"><a class="in l" href="/translate/अच्छा/अच्छा-meaning-in-Hindi-English">अच्छा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well done/well done-meaning-in-Hindi-English">well done</a></td><td class="l"><a class="in l" href="/translate/भला/भला-meaning-in-Hindi-English">भला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well done/well done-meaning-in-Hindi-English">well done</a></td><td class="l"><a class="in l" href="/translate/शाबाश/शाबाश-meaning-in-Hindi-English">शाबाश</a></td></tr></table><h3 class="adverb">adverb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well enough/well enough-meaning-in-Hindi-English">well enough</a></td><td class="l"><a class="in l" href="/translate/पूरी तरह से/पूरी तरह से-meaning-in-Hindi-English">पूरी तरह से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well enough/well enough-meaning-in-Hindi-English">well enough</a></td><td class="l"><a class="in l" href="/translate/अच्छे से/अच्छे से-meaning-in-Hindi-English">अच्छे से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well enough/well enough-meaning-in-Hindi-English">well enough</a></td><td class="l"><a class="in l" href="/translate/काफी अच्छी तरह से/काफी अच्छी तरह से-meaning-in-Hindi-English">काफी अच्छी तरह से</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well out/well out-meaning-in-Hindi-English">well out</a></td><td class="l"><a class="in l" href="/translate/धाराप्रवाह बहना/धाराप्रवाह बहना-meaning-in-Hindi-English">धाराप्रवाह बहना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well over/well over-meaning-in-Hindi-English">well over</a></td><td class="l"><a class="in l" href="/translate/उमड़ आना/उमड़ आना-meaning-in-Hindi-English">उमड़ आना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well over/well over-meaning-in-Hindi-English">well over</a></td><td class="l"><a class="in l" href="/translate/लबालब हो कर बह जाना/लबालब हो कर बह जाना-meaning-in-Hindi-English">लबालब हो कर बह जाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well up/well up-meaning-in-Hindi-English">well up</a></td><td class="l"><a class="in l" href="/translate/उमड़ना/उमड़ना-meaning-in-Hindi-English">उमड़ना</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well over/well over-meaning-in-Hindi-English">well over</a></td><td class="l"><a class="in l" href="/translate/उमड़ आना/उमड़ आना-meaning-in-Hindi-English">उमड़ आना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well water/well water-meaning-in-Hindi-English">well water</a></td><td class="l"><a class="in l" href="/translate/भूमिगत जल/भूमिगत जल-meaning-in-Hindi-English">भूमिगत जल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/well wishers/well wishers-meaning-in-Hindi-English">well wishers</a></td><td class="l"><a class="in l" href="/translate/हितैषी/हितैषी-meaning-in-Hindi-English">हितैषी</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: well</h3><p>Meaning and definitions of well, translation in Hindi language for well with similar and opposite words. Also find spoken pronunciation of well in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "well"</h3><p>What well means in Hindi, well meaning in Hindi, well definition, examples and pronunciation of well in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

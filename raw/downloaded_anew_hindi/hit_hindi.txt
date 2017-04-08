@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>hit - Meaning in Hindi - hit in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="hit - Meaning in Hindi, what is meaning of hit in Hindi dictionary, audio pronunciation, synonyms and definitions of hit in Hindi and English.">
+<meta name="keywords" content="hit, meaning of hit, English and Hindi for hit, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/hit/hit-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="hit" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">hit - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of hit</h2><i class="fa fa-volume-up fa-lg in au" id="en330477" style=""></i>हिट<div class="page-header"><h2 class="ehr">Meanings of hit in Hindi</h2><small>[<a id="t_on" href="/translate/hit/hit-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi26019"></i> <a class="in l" href="/translate/मार/मार-meaning-in-Hindi-English">मार</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[māra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30935"></i> <a class="in l" href="/translate/व्यंग्य/व्यंग्य-meaning-in-Hindi-English">व्यंग्य</a> <span class="latin" style="display:none;">[vyaṅgya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32565"></i> <a class="in l" href="/translate/संयोग/संयोग-meaning-in-Hindi-English">संयोग</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sanyōga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33147"></i> <a class="in l" href="/translate/सफलता/सफलता-meaning-in-Hindi-English">सफलता</a> <span class="latin" style="display:none;">[saphalatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi210088"></i> <a class="in l" href="/translate/पहार/पहार-meaning-in-Hindi-English">पहार</a> <span class="latin" style="display:none;">[pahāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3720"></i> <a class="in l" href="/translate/आघात/आघात-meaning-in-Hindi-English">आघात</a> <span class="latin" style="display:none;">[āghāta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11519"></i> <a class="in l" href="/translate/चोट/चोट-meaning-in-Hindi-English">चोट</a> <span class="latin" style="display:none;">[cōṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13166"></i> <a class="in l" href="/translate/टक्कर/टक्कर-meaning-in-Hindi-English">टक्कर</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ṭakkara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14257"></i> <a class="in l" href="/translate/ताना/ताना-meaning-in-Hindi-English">ताना</a> <span class="latin" style="display:none;">[tānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15901"></i> <a class="in l" href="/translate/दैवघटना/दैवघटना-meaning-in-Hindi-English">दैवघटना</a> <span class="latin" style="display:none;">[daivaghaṭanā]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi19377"></i> <a class="in l" href="/translate/पहुँचना/पहुँचना-meaning-in-Hindi-English">पहुँचना</a> <span class="latin" style="display:none;">[pahum̐canā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19383"></i> <a class="in l" href="/translate/पहुंचना/पहुंचना-meaning-in-Hindi-English">पहुंचना</a> <span class="latin" style="display:none;">[pahun̄canā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19517"></i> <a class="in l" href="/translate/पाना/पाना-meaning-in-Hindi-English">पाना</a> <span class="latin" style="display:none;">[pānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26028"></i> <a class="in l" href="/translate/मारना/मारना-meaning-in-Hindi-English">मारना</a> <span class="latin" style="display:none;">[māranā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386067"></i> <a class="in l" href="/translate/सफल होना/सफल होना-meaning-in-Hindi-English">सफल होना</a> <span class="latin" style="display:none;">[saphala hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386401"></i> <a class="in l" href="/translate/लग जाना/लग जाना-meaning-in-Hindi-English">लग जाना</a> <span class="latin" style="display:none;">[laga jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387048"></i> <a class="in l" href="/translate/निशाना लगाना/निशाना लगाना-meaning-in-Hindi-English">निशाना लगाना</a> <span class="latin" style="display:none;">[niśānā lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387716"></i> <a class="in l" href="/translate/नष्ट करना/नष्ट करना-meaning-in-Hindi-English">नष्ट करना</a> <span class="latin" style="display:none;">[naṣṭa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387998"></i> <a class="in l" href="/translate/प्रयोग करना/प्रयोग करना-meaning-in-Hindi-English">प्रयोग करना</a> <span class="latin" style="display:none;">[prayōga karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi398391"></i> <a class="in l" href="/translate/विवरण करना/विवरण करना-meaning-in-Hindi-English">विवरण करना</a> <span class="latin" style="display:none;">[vivaraṇa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi407644"></i> <a class="in l" href="/translate/आघात करना/आघात करना-meaning-in-Hindi-English">आघात करना</a> <span class="latin" style="display:none;">[āghāta karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429214"></i> <a class="in l" href="/translate/वार करना/वार करना-meaning-in-Hindi-English">वार करना</a> <span class="latin" style="display:none;">[vāra karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430425"></i> <a class="in l" href="/translate/अचानक आना/अचानक आना-meaning-in-Hindi-English">अचानक आना</a> <span class="latin" style="display:none;">[acānaka ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430917"></i> <a class="in l" href="/translate/पकड़ लेना/पकड़ लेना-meaning-in-Hindi-English">पकड़ लेना</a> <span class="latin" style="display:none;">[pakaṛa lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi438513"></i> <a class="in l" href="/translate/डाका डालना/डाका डालना-meaning-in-Hindi-English">डाका डालना</a> <span class="latin" style="display:none;">[ḍākā ḍālanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi438514"></i> <a class="in l" href="/translate/सही बोलना/सही बोलना-meaning-in-Hindi-English">सही बोलना</a> <span class="latin" style="display:none;">[sahī bōlanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi438515"></i> <a class="in l" href="/translate/हिट करना/हिट करना-meaning-in-Hindi-English">हिट करना</a> <span class="latin" style="display:none;">[hiṭa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi438516"></i> <a class="in l" href="/translate/सफल प्रयत्न करना/सफल प्रयत्न करना-meaning-in-Hindi-English">सफल प्रयत्न करना</a> <span class="latin" style="display:none;">[saphala prayatna karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi800920"></i> <a class="in l" href="/translate/चोट पहुंचना/चोट पहुंचना-meaning-in-Hindi-English">चोट पहुंचना</a> <span class="latin" style="display:none;">[cōṭa pahun̄canā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13163"></i> <a class="in l" href="/translate/टकराना/टकराना-meaning-in-Hindi-English">टकराना</a> <span class="latin" style="display:none;">[ṭakarānā]</span></li></ol></div><div class="col-sm-4"><h3 class=" "><em> &nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi389713"></i> <a class="in l" href="/translate/प्रहार करना/प्रहार करना-meaning-in-Hindi-English">प्रहार करना</a> <span class="latin" style="display:none;">[prahāra karanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/hits/hits-meaning-in-Hindi-English">hits</a> (noun plural)<br/><a href="/translate/hit/hit-meaning-in-Hindi-English">hit</a> (verb past tense)<br/><a href="/translate/hitting/hitting-meaning-in-Hindi-English">hitting</a> (verb present participle)<br/><a href="/translate/hits/hits-meaning-in-Hindi-English">hits</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of hit in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>(baseball) a successful stroke in an athletic contest (especially in baseball)</li><li>a conspicuous success<br><u><em>Examples</em></u><br>- that new Broadway show is a real smasher<br>- the party went with a bang<br></li><li>the act of contacting one thing with another<br><u><em>Example</em></u><br>- after three misses she finally got a hit<br></li><li>a connection made via the internet to another website</li><li>a murder carried out by an underworld syndicate</li><li>a dose of a narcotic drug</li><li>(physics) a brief event in which two or more bodies come together</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>pay unsolicited and usually unwanted sexual attention to</li><li>gain points in a game<br><u><em>Examples</em></u><br>- He hit a home run<br>- He hit .300 in the past season<br></li><li>make a strategic, offensive, assault against an enemy, opponent, or a target<br><u><em>Examples</em></u><br>- We must strike the enemy's oil fields<br>- in the fifth inning, the Giants struck, sending three runners home to win the game 5 to 2<br></li><li>hit with a missile from a weapon</li><li>hit the intended target or goal</li><li>consume to excess</li><li>affect or afflict suddenly, usually adversely<br><u><em>Examples</em></u><br>- He was stricken with cancer when he was still a teenager<br>- The earthquake struck at midnight<br></li><li>produce by manipulating keys or strings of musical instruments, also metaphorically<br><u><em>Examples</em></u><br>- strike `z' on the keyboard<br>- her comments struck a sour note<br></li><li>hit against; come into sudden contact with<br><u><em>Example</em></u><br>- He struck the table with his elbow<br></li><li>deal a blow to, either with the hand or with an instrument</li><li>cause to move by striking</li><li>reach a point in time, or a certain state or level<br><u><em>Example</em></u><br>- This car can reach a speed of 140 miles per hour<br></li><li>reach a destination, either real or abstract<br><u><em>Examples</em></u><br>- The water reached the doorstep<br>- We barely made it to the finish line<br>- I have to hit the MAC machine before the weekend starts<br></li><li>drive something violently into a location<br><u><em>Example</em></u><br>- she struck her head on the low ceiling<br></li><li>cause to experience suddenly<br><u><em>Examples</em></u><br>- An interesting idea hit her<br>- A thought came to me<br>- The thought struck terror in our minds<br>- They were struck with fear<br></li><li>encounter by chance</li><li>kill intentionally and with premeditation</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of hit</h2><p><a href="/translate/hit/hit-meaning-in-Hindi-English">hit</a>, <a href="/translate/bang/bang-meaning-in-Hindi-English">bang</a>, <a href="/translate/smash/smash-meaning-in-Hindi-English">smash</a>, <a href="/translate/smasher/smasher-meaning-in-Hindi-English">smasher</a>, <a href="/translate/strike/strike-meaning-in-Hindi-English">strike</a>, <a href="/translate/hitting/hitting-meaning-in-Hindi-English">hitting</a>, <a href="/translate/striking/striking-meaning-in-Hindi-English">striking</a>, <a href="/translate/collision/collision-meaning-in-Hindi-English">collision</a>, <a href="/translate/rack+up/rack+up-meaning-in-Hindi-English">rack up</a>, <a href="/translate/score/score-meaning-in-Hindi-English">score</a>, <a href="/translate/tally/tally-meaning-in-Hindi-English">tally</a>, <a href="/translate/pip/pip-meaning-in-Hindi-English">pip</a>, <a href="/translate/shoot/shoot-meaning-in-Hindi-English">shoot</a>, <a href="/translate/collide+with/collide+with-meaning-in-Hindi-English">collide with</a>, <a href="/translate/impinge+on/impinge+on-meaning-in-Hindi-English">impinge on</a>, <a href="/translate/run+into/run+into-meaning-in-Hindi-English">run into</a>, <a href="/translate/attain/attain-meaning-in-Hindi-English">attain</a>, <a href="/translate/reach/reach-meaning-in-Hindi-English">reach</a>, <a href="/translate/arrive+at/arrive+at-meaning-in-Hindi-English">arrive at</a>, <a href="/translate/gain/gain-meaning-in-Hindi-English">gain</a>, <a href="/translate/make/make-meaning-in-Hindi-English">make</a>, <a href="/translate/come+to/come+to-meaning-in-Hindi-English">come to</a>, <a href="/translate/stumble/stumble-meaning-in-Hindi-English">stumble</a>, <a href="/translate/bump+off/bump+off-meaning-in-Hindi-English">bump off</a>, <a href="/translate/dispatch/dispatch-meaning-in-Hindi-English">dispatch</a>, <a href="/translate/murder/murder-meaning-in-Hindi-English">murder</a>, <a href="/translate/off/off-meaning-in-Hindi-English">off</a>, <a href="/translate/polish+off/polish+off-meaning-in-Hindi-English">polish off</a>, <a href="/translate/remove/remove-meaning-in-Hindi-English">remove</a>, <a href="/translate/slay/slay-meaning-in-Hindi-English">slay</a></p><h2 class="ehr">Antonyms of hit</h2><p><a href="/translate/miss/miss-meaning-in-Hindi-English">miss</a></p><h2 class="ehr">More matches for hit</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit a nerve/hit a nerve-meaning-in-Hindi-English">hit a nerve</a></td><td class="l"><a class="in l" href="/translate/दुखती रग छेड़ना/दुखती रग छेड़ना-meaning-in-Hindi-English">दुखती रग छेड़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit home/hit home-meaning-in-Hindi-English">hit home</a></td><td class="l"><a class="in l" href="/translate/दिल को चोट पहुँचाना/दिल को चोट पहुँचाना-meaning-in-Hindi-English">दिल को चोट पहुँचाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit list/hit list-meaning-in-Hindi-English">hit list</a></td><td class="l"><a class="in l" href="/translate/हिट लिस्ट/हिट लिस्ट-meaning-in-Hindi-English">हिट लिस्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit list/hit list-meaning-in-Hindi-English">hit list</a></td><td class="l"><a class="in l" href="/translate/ऐसे व्यक्तियों की सूची जिनकी हत्या की जानी है/ऐसे व्यक्तियों की सूची जिनकी हत्या की जानी है-meaning-in-Hindi-English">ऐसे व्यक्तियों की सूची जिनकी हत्या की जानी है</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit list/hit list-meaning-in-Hindi-English">hit list</a></td><td class="l"><a class="in l" href="/translate/हीट लिस्ट/हीट लिस्ट-meaning-in-Hindi-English">हीट लिस्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit man/hit man-meaning-in-Hindi-English">hit man</a></td><td class="l"><a class="in l" href="/translate/पिस्तौल से हत्या करने वाला व्यावसायिक हत्यारा/पिस्तौल से हत्या करने वाला व्यावसायिक हत्यारा-meaning-in-Hindi-English">पिस्तौल से हत्या करने वाला व्यावसायिक हत्यारा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit parade/hit parade-meaning-in-Hindi-English">hit parade</a></td><td class="l"><a class="in l" href="/translate/अभी के गानों की सबसे अधिक बिकने वालों की सूची/अभी के गानों की सबसे अधिक बिकने वालों की सूची-meaning-in-Hindi-English">अभी के गानों की सबसे अधिक बिकने वालों की सूची</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit parade/hit parade-meaning-in-Hindi-English">hit parade</a></td><td class="l"><a class="in l" href="/translate/साप्ताहिक किर्तिमान सूची/साप्ताहिक किर्तिमान सूची-meaning-in-Hindi-English">साप्ताहिक किर्तिमान सूची</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the ceiling/hit the ceiling-meaning-in-Hindi-English">hit the ceiling</a></td><td class="l"><a class="in l" href="/translate/आगबबूला हो जाना/आगबबूला हो जाना-meaning-in-Hindi-English">आगबबूला हो जाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the deck/hit the deck-meaning-in-Hindi-English">hit the deck</a></td><td class="l"><a class="in l" href="/translate/खटाक से ज़मीन लेटना/खटाक से ज़मीन लेटना-meaning-in-Hindi-English">खटाक से ज़मीन लेटना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the jackpot/hit the jackpot-meaning-in-Hindi-English">hit the jackpot</a></td><td class="l"><a class="in l" href="/translate/किस्मत का तारा चमक उठना/किस्मत का तारा चमक उठना-meaning-in-Hindi-English">किस्मत का तारा चमक उठना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the mark/hit the mark-meaning-in-Hindi-English">hit the mark</a></td><td class="l"><a class="in l" href="/translate/सफ़ल होना/सफ़ल होना-meaning-in-Hindi-English">सफ़ल होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the nail on the head/hit the nail on the head-meaning-in-Hindi-English">hit the nail on the head</a></td><td class="l"><a class="in l" href="/translate/सच्चाई बता देना/सच्चाई बता देना-meaning-in-Hindi-English">सच्चाई बता देना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the roof/hit the roof-meaning-in-Hindi-English">hit the roof</a></td><td class="l"><a class="in l" href="/translate/आग बबूला जाना/आग बबूला जाना-meaning-in-Hindi-English">आग बबूला जाना</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit a nerve/hit a nerve-meaning-in-Hindi-English">hit a nerve</a></td><td class="l"><a class="in l" href="/translate/दुखती रग छेड़ना/दुखती रग छेड़ना-meaning-in-Hindi-English">दुखती रग छेड़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit home/hit home-meaning-in-Hindi-English">hit home</a></td><td class="l"><a class="in l" href="/translate/दिल को चोट पहुँचाना/दिल को चोट पहुँचाना-meaning-in-Hindi-English">दिल को चोट पहुँचाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit on/hit on-meaning-in-Hindi-English">hit on</a></td><td class="l"><a class="in l" href="/translate/सोचना/सोचना-meaning-in-Hindi-English">सोचना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit out/hit out-meaning-in-Hindi-English">hit out</a></td><td class="l"><a class="in l" href="/translate/निन्दा करना/निन्दा करना-meaning-in-Hindi-English">निन्दा करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit out/hit out-meaning-in-Hindi-English">hit out</a></td><td class="l"><a class="in l" href="/translate/आलोचना करना/आलोचना करना-meaning-in-Hindi-English">आलोचना करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the books/hit the books-meaning-in-Hindi-English">hit the books</a></td><td class="l"><a class="in l" href="/translate/पढ़ना/पढ़ना-meaning-in-Hindi-English">पढ़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the bottle/hit the bottle-meaning-in-Hindi-English">hit the bottle</a></td><td class="l"><a class="in l" href="/translate/पियक्कड़ होना/पियक्कड़ होना-meaning-in-Hindi-English">पियक्कड़ होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the ceiling/hit the ceiling-meaning-in-Hindi-English">hit the ceiling</a></td><td class="l"><a class="in l" href="/translate/आगबबूला हो जाना/आगबबूला हो जाना-meaning-in-Hindi-English">आगबबूला हो जाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the deck/hit the deck-meaning-in-Hindi-English">hit the deck</a></td><td class="l"><a class="in l" href="/translate/खटाक से ज़मीन लेटना/खटाक से ज़मीन लेटना-meaning-in-Hindi-English">खटाक से ज़मीन लेटना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the jackpot/hit the jackpot-meaning-in-Hindi-English">hit the jackpot</a></td><td class="l"><a class="in l" href="/translate/किस्मत का तारा चमक उठना/किस्मत का तारा चमक उठना-meaning-in-Hindi-English">किस्मत का तारा चमक उठना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the mark/hit the mark-meaning-in-Hindi-English">hit the mark</a></td><td class="l"><a class="in l" href="/translate/सफ़ल होना/सफ़ल होना-meaning-in-Hindi-English">सफ़ल होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the nail on the head/hit the nail on the head-meaning-in-Hindi-English">hit the nail on the head</a></td><td class="l"><a class="in l" href="/translate/सच्चाई बता देना/सच्चाई बता देना-meaning-in-Hindi-English">सच्चाई बता देना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hit the roof/hit the roof-meaning-in-Hindi-English">hit the roof</a></td><td class="l"><a class="in l" href="/translate/आग बबूला जाना/आग बबूला जाना-meaning-in-Hindi-English">आग बबूला जाना</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: hit</h3><p>Meaning and definitions of hit, translation in Hindi language for hit with similar and opposite words. Also find spoken pronunciation of hit in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "hit"</h3><p>What hit means in Hindi, hit meaning in Hindi, hit definition, examples and pronunciation of hit in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

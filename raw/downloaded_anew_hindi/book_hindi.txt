@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>book - Meaning in Hindi - book in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="book - Meaning in Hindi, what is meaning of book in Hindi dictionary, audio pronunciation, synonyms and definitions of book in Hindi and English.">
+<meta name="keywords" content="book, meaning of book, English and Hindi for book, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/book/book-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="book" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">book - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of book</h2><i class="fa fa-volume-up fa-lg in au" id="en171431" style=""></i>बुक<div class="page-header"><h2 class="ehr">Meanings of book in Hindi</h2><small>[<a id="t_on" href="/translate/book/book-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi17455"></i> <a class="in l" href="/translate/नियमावली/नियमावली-meaning-in-Hindi-English">नियमावली</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[niyamāvalī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18655"></i> <a class="in l" href="/translate/पन्ना/पन्ना-meaning-in-Hindi-English">पन्ना</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[pannā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20157"></i> <a class="in l" href="/translate/पुस्तक/पुस्तक-meaning-in-Hindi-English">पुस्तक</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[pustaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429826"></i> <a class="in l" href="/translate/पुस्तकें लिखनेवाला/पुस्तकें लिखनेवाला-meaning-in-Hindi-English">पुस्तकें लिखनेवाला</a> <span class="latin" style="display:none;">[pustakēṁ likhanēvālā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20584"></i> <a class="in l" href="/translate/पोथी/पोथी-meaning-in-Hindi-English">पोथी</a> <span class="latin" style="display:none;">[pōthī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429827"></i> <a class="in l" href="/translate/शर्त लगानेवाला/शर्त लगानेवाला-meaning-in-Hindi-English">शर्त लगानेवाला</a> <span class="latin" style="display:none;">[śarta lagānēvālā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23030"></i> <a class="in l" href="/translate/बही/बही-meaning-in-Hindi-English">बही</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bahī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23195"></i> <a class="in l" href="/translate/बाइबिल/बाइबिल-meaning-in-Hindi-English">बाइबिल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bā'ibila]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23615"></i> <a class="in l" href="/translate/बुक/बुक-meaning-in-Hindi-English">बुक</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[buka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429829"></i> <a class="in l" href="/translate/सुरक्षित कर लेना/सुरक्षित कर लेना-meaning-in-Hindi-English">सुरक्षित कर लेना</a> <span class="latin" style="display:none;">[surakṣita kara lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28897"></i> <a class="in l" href="/translate/लेखा-बही/लेखा-बही-meaning-in-Hindi-English">लेखा-बही</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[lēkhā-bahī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31310"></i> <a class="in l" href="/translate/शर्त/शर्त-meaning-in-Hindi-English">शर्त</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[śarta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32241"></i> <a class="in l" href="/translate/संग्रह/संग्रह-meaning-in-Hindi-English">संग्रह</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[saṅgraha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33774"></i> <a class="in l" href="/translate/सर्ग/सर्ग-meaning-in-Hindi-English">सर्ग</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sarga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi36280"></i> <a class="in l" href="/translate/हस्तलिपि/हस्तलिपि-meaning-in-Hindi-English">हस्तलिपि</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[hastalipi]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi334294"></i> <a class="in l" href="/translate/शीट/शीट-meaning-in-Hindi-English">शीट</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[śīṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391037"></i> <a class="in l" href="/translate/बही खाता/बही खाता-meaning-in-Hindi-English">बही खाता</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bahī khātā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7499"></i> <a class="in l" href="/translate/किताब/किताब-meaning-in-Hindi-English">किताब</a> <span class="latin" style="display:none;">[kitāba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10195"></i> <a class="in l" href="/translate/ग्रंथ/ग्रंथ-meaning-in-Hindi-English">ग्रंथ</a> <span class="latin" style="display:none;">[grantha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20157"></i> <a class="in l" href="/translate/पुस्तक/पुस्तक-meaning-in-Hindi-English">पुस्तक</a> <span class="latin" style="display:none;">[pustaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23030"></i> <a class="in l" href="/translate/बही/बही-meaning-in-Hindi-English">बही</a> <span class="latin" style="display:none;">[bahī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi428499"></i> <a class="in l" href="/translate/बाज़ी लगाना/बाज़ी लगाना-meaning-in-Hindi-English">बाज़ी लगाना</a> <span class="latin" style="display:none;">[bāzī lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7499"></i> <a class="in l" href="/translate/किताब/किताब-meaning-in-Hindi-English">किताब</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[kitāba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10195"></i> <a class="in l" href="/translate/ग्रंथ/ग्रंथ-meaning-in-Hindi-English">ग्रंथ</a> <span class="latin" style="display:none;">[grantha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429824"></i> <a class="in l" href="/translate/संगीत पुस्तिका/संगीत पुस्तिका-meaning-in-Hindi-English">संगीत पुस्तिका</a> <span class="latin" style="display:none;">[saṅgīta pustikā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10207"></i> <a class="in l" href="/translate/ग्रन्थ/ग्रन्थ-meaning-in-Hindi-English">ग्रन्थ</a> <span class="latin" style="display:none;">[grantha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429825"></i> <a class="in l" href="/translate/भाड़े पर लेना/भाड़े पर लेना-meaning-in-Hindi-English">भाड़े पर लेना</a> <span class="latin" style="display:none;">[bhāṛē para lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13865"></i> <a class="in l" href="/translate/ढेर/ढेर-meaning-in-Hindi-English">ढेर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ḍhēra]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi429825"></i> <a class="in l" href="/translate/भाड़े पर लेना/भाड़े पर लेना-meaning-in-Hindi-English">भाड़े पर लेना</a> <span class="latin" style="display:none;">[bhāṛē para lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429828"></i> <a class="in l" href="/translate/बही में दर्ज़ करना/बही में दर्ज़ करना-meaning-in-Hindi-English">बही में दर्ज़ करना</a> <span class="latin" style="display:none;">[bahī mēṁ darza karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28752"></i> <a class="in l" href="/translate/लिखना/लिखना-meaning-in-Hindi-English">लिखना</a> <span class="latin" style="display:none;">[likhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429829"></i> <a class="in l" href="/translate/सुरक्षित कर लेना/सुरक्षित कर लेना-meaning-in-Hindi-English">सुरक्षित कर लेना</a> <span class="latin" style="display:none;">[surakṣita kara lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi793343"></i> <a class="in l" href="/translate/माल बूक करना/माल बूक करना-meaning-in-Hindi-English">माल बूक करना</a> <span class="latin" style="display:none;">[māla būka karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28943"></i> <a class="in l" href="/translate/लेना/लेना-meaning-in-Hindi-English">लेना</a> <span class="latin" style="display:none;">[lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388000"></i> <a class="in l" href="/translate/नियत करना/नियत करना-meaning-in-Hindi-English">नियत करना</a> <span class="latin" style="display:none;">[niyata karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388001"></i> <a class="in l" href="/translate/नियुक्त करना/नियुक्त करना-meaning-in-Hindi-English">नियुक्त करना</a> <span class="latin" style="display:none;">[niyukta karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388003"></i> <a class="in l" href="/translate/निश्चित करना/निश्चित करना-meaning-in-Hindi-English">निश्चित करना</a> <span class="latin" style="display:none;">[niścita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388749"></i> <a class="in l" href="/translate/आरोपित करना/आरोपित करना-meaning-in-Hindi-English">आरोपित करना</a> <span class="latin" style="display:none;">[ārōpita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi390244"></i> <a class="in l" href="/translate/शर्त लगाना/शर्त लगाना-meaning-in-Hindi-English">शर्त लगाना</a> <span class="latin" style="display:none;">[śarta lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391050"></i> <a class="in l" href="/translate/बुक करना/बुक करना-meaning-in-Hindi-English">बुक करना</a> <span class="latin" style="display:none;">[buka karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391051"></i> <a class="in l" href="/translate/सुरक्षित करा लेना/सुरक्षित करा लेना-meaning-in-Hindi-English">सुरक्षित करा लेना</a> <span class="latin" style="display:none;">[surakṣita karā lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391052"></i> <a class="in l" href="/translate/दर्ज करना/दर्ज करना-meaning-in-Hindi-English">दर्ज करना</a> <span class="latin" style="display:none;">[darja karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391053"></i> <a class="in l" href="/translate/टांक रखना/टांक रखना-meaning-in-Hindi-English">टांक रखना</a> <span class="latin" style="display:none;">[ṭāṅka rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391054"></i> <a class="in l" href="/translate/बही में लिखना/बही में लिखना-meaning-in-Hindi-English">बही में लिखना</a> <span class="latin" style="display:none;">[bahī mēṁ likhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388749"></i> <a class="in l" href="/translate/आरोपित करना/आरोपित करना-meaning-in-Hindi-English">आरोपित करना</a> <span class="latin" style="display:none;">[ārōpita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi428499"></i> <a class="in l" href="/translate/बाज़ी लगाना/बाज़ी लगाना-meaning-in-Hindi-English">बाज़ी लगाना</a> <span class="latin" style="display:none;">[bāzī lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391051"></i> <a class="in l" href="/translate/सुरक्षित करा लेना/सुरक्षित करा लेना-meaning-in-Hindi-English">सुरक्षित करा लेना</a> <span class="latin" style="display:none;">[surakṣita karā lēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429822"></i> <a class="in l" href="/translate/दर्ज़ करना/दर्ज़ करना-meaning-in-Hindi-English">दर्ज़ करना</a> <span class="latin" style="display:none;">[darza karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429823"></i> <a class="in l" href="/translate/नाम दर्ज़ करना/नाम दर्ज़ करना-meaning-in-Hindi-English">नाम दर्ज़ करना</a> <span class="latin" style="display:none;">[nāma darza karanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/booker/booker-meaning-in-Hindi-English">booker</a> (adjective comparative)<br/><a href="/translate/books/books-meaning-in-Hindi-English">books</a> (noun plural)<br/><a href="/translate/booked/booked-meaning-in-Hindi-English">booked</a> (verb past tense)<br/><a href="/translate/booking/booking-meaning-in-Hindi-English">booking</a> (verb present participle)<br/><a href="/translate/books/books-meaning-in-Hindi-English">books</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of book in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>physical objects consisting of a number of pages bound together</li><li>a number of sheets (ticket or stamps etc.) bound together on one edge</li><li>a major division of a long written composition</li><li>a written work or composition that has been published (printed on pages bound together)</li><li>the sacred writings of the Christian religions</li><li>the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina</li><li>a compilation of the known facts regarding something or someone<br><u><em>Example</em></u><br>- his name is in all the record books<br></li><li>a written version of a play or other dramatic composition; used in preparing for a performance</li><li>a collection of rules or prescribed standards on the basis of which decisions are made</li><li>a collection of playing cards satisfying the rules of a card game</li><li>a record in which commercial accounts are recorded</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>engage for a performance</li><li>record a charge in a police register</li><li>arrange for and reserve (something for someone else) in advance<br><u><em>Examples</em></u><br>- The agent booked tickets to the show for the whole family<br>- please hold a table at Maxim's<br></li><li>register in a hotel booker</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of book</h2><p><a href="/translate/book/book-meaning-in-Hindi-English">book</a>, <a href="/translate/volume/volume-meaning-in-Hindi-English">volume</a>, <a href="/translate/bible/bible-meaning-in-Hindi-English">bible</a>, <a href="/translate/christian+bible/christian+bible-meaning-in-Hindi-English">christian bible</a>, <a href="/translate/good+book/good+book-meaning-in-Hindi-English">good book</a>, <a href="/translate/holy+scripture/holy+scripture-meaning-in-Hindi-English">holy scripture</a>, <a href="/translate/holy+writ/holy+writ-meaning-in-Hindi-English">holy writ</a>, <a href="/translate/scripture/scripture-meaning-in-Hindi-English">scripture</a>, <a href="/translate/word/word-meaning-in-Hindi-English">word</a>, <a href="/translate/word+of+god/word+of+god-meaning-in-Hindi-English">word of god</a>, <a href="/translate/al-qur%27an/al-qur%27an-meaning-in-Hindi-English">al-qur'an</a>, <a href="/translate/koran/koran-meaning-in-Hindi-English">koran</a>, <a href="/translate/quran/quran-meaning-in-Hindi-English">quran</a>, <a href="/translate/record/record-meaning-in-Hindi-English">record</a>, <a href="/translate/record+book/record+book-meaning-in-Hindi-English">record book</a>, <a href="/translate/playscript/playscript-meaning-in-Hindi-English">playscript</a>, <a href="/translate/script/script-meaning-in-Hindi-English">script</a>, <a href="/translate/rule+book/rule+book-meaning-in-Hindi-English">rule book</a>, <a href="/translate/account+book/account+book-meaning-in-Hindi-English">account book</a>, <a href="/translate/book+of+account/book+of+account-meaning-in-Hindi-English">book of account</a>, <a href="/translate/ledger/ledger-meaning-in-Hindi-English">ledger</a>, <a href="/translate/leger/leger-meaning-in-Hindi-English">leger</a>, <a href="/translate/hold/hold-meaning-in-Hindi-English">hold</a>, <a href="/translate/reserve/reserve-meaning-in-Hindi-English">reserve</a></p><h2 class="ehr">Antonyms of book</h2><p>No matches.</p><h2 class="ehr">More matches for book</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book club/book club-meaning-in-Hindi-English">book club</a></td><td class="l"><a class="in l" href="/translate/पुस्तक क्लब/पुस्तक क्लब-meaning-in-Hindi-English">पुस्तक क्लब</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book fair/book fair-meaning-in-Hindi-English">book fair</a></td><td class="l"><a class="in l" href="/translate/पुस्तक मेला/पुस्तक मेला-meaning-in-Hindi-English">पुस्तक मेला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book in/book in-meaning-in-Hindi-English">book in</a></td><td class="l"><a class="in l" href="/translate/बुक करवाना/बुक करवाना-meaning-in-Hindi-English">बुक करवाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book in/book in-meaning-in-Hindi-English">book in</a></td><td class="l"><a class="in l" href="/translate/के लिए कमरा आरक्षित करवाना/के लिए कमरा आरक्षित करवाना-meaning-in-Hindi-English">के लिए कमरा आरक्षित करवाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book into/book into-meaning-in-Hindi-English">book into</a></td><td class="l"><a class="in l" href="/translate/बुक करवाना/बुक करवाना-meaning-in-Hindi-English">बुक करवाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book jacket/book jacket-meaning-in-Hindi-English">book jacket</a></td><td class="l"><a class="in l" href="/translate/आवरण-पत्र/आवरण-पत्र-meaning-in-Hindi-English">आवरण-पत्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book lover/book lover-meaning-in-Hindi-English">book lover</a></td><td class="l"><a class="in l" href="/translate/पुस्तक प्रेमी/पुस्तक प्रेमी-meaning-in-Hindi-English">पुस्तक प्रेमी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book of account/book of account-meaning-in-Hindi-English">book of account</a></td><td class="l"><a class="in l" href="/translate/लेखा-बही/लेखा-बही-meaning-in-Hindi-English">लेखा-बही</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book of account/book of account-meaning-in-Hindi-English">book of account</a></td><td class="l"><a class="in l" href="/translate/बही खाता/बही खाता-meaning-in-Hindi-English">बही खाता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book of instructions/book of instructions-meaning-in-Hindi-English">book of instructions</a></td><td class="l"><a class="in l" href="/translate/अनुदेश पुस्तक/अनुदेश पुस्तक-meaning-in-Hindi-English">अनुदेश पुस्तक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book of maps/book of maps-meaning-in-Hindi-English">book of maps</a></td><td class="l"><a class="in l" href="/translate/एटलस/एटलस-meaning-in-Hindi-English">एटलस</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book post/book post-meaning-in-Hindi-English">book post</a></td><td class="l"><a class="in l" href="/translate/बुक-पोस्ट/बुक-पोस्ट-meaning-in-Hindi-English">बुक-पोस्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book review/book review-meaning-in-Hindi-English">book review</a></td><td class="l"><a class="in l" href="/translate/पुस्तक समीक्षा/पुस्तक समीक्षा-meaning-in-Hindi-English">पुस्तक समीक्षा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book value/book value-meaning-in-Hindi-English">book value</a></td><td class="l"><a class="in l" href="/translate/बही-मूल्य/बही-मूल्य-meaning-in-Hindi-English">बही-मूल्य</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book in/book in-meaning-in-Hindi-English">book in</a></td><td class="l"><a class="in l" href="/translate/बुक करवाना/बुक करवाना-meaning-in-Hindi-English">बुक करवाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/book into/book into-meaning-in-Hindi-English">book into</a></td><td class="l"><a class="in l" href="/translate/बुक करवाना/बुक करवाना-meaning-in-Hindi-English">बुक करवाना</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: book</h3><p>Meaning and definitions of book, translation in Hindi language for book with similar and opposite words. Also find spoken pronunciation of book in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "book"</h3><p>What book means in Hindi, book meaning in Hindi, book definition, examples and pronunciation of book in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

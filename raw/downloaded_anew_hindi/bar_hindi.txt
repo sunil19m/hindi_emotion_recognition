@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>bar - Meaning in Hindi - bar in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="bar - Meaning in Hindi, what is meaning of bar in Hindi dictionary, audio pronunciation, synonyms and definitions of bar in Hindi and English.">
+<meta name="keywords" content="bar, meaning of bar, English and Hindi for bar, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/bar/bar-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="bar" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">bar - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of BAR</h2><i class="fa fa-volume-up fa-lg in au" id="en10762" style=""></i>बार<div class="page-header"><h2 class="ehr">Meanings of BAR in Hindi</h2><small>[<a id="t_on" href="/translate/bar/bar-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-3"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi28167"></i> <a class="in l" href="/translate/रोक/रोक-meaning-in-Hindi-English">रोक</a> <span class="latin" style="display:none;">[rōka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29141"></i> <a class="in l" href="/translate/वकालत/वकालत-meaning-in-Hindi-English">वकालत</a> <span class="latin" style="display:none;">[vakālata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31326"></i> <a class="in l" href="/translate/शलाका/शलाका-meaning-in-Hindi-English">शलाका</a> <span class="latin" style="display:none;">[śalākā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389584"></i> <a class="in l" href="/translate/अदालत में कैदियों का कटघरा/अदालत में कैदियों का कटघरा-meaning-in-Hindi-English">अदालत में कैदियों का कटघरा</a> <span class="latin" style="display:none;">[adālata mēṁ kaidiyōṁ kā kaṭagharā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi909"></i> <a class="in l" href="/translate/अदालत/अदालत-meaning-in-Hindi-English">अदालत</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[adālata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi1094"></i> <a class="in l" href="/translate/अधिवक्तृत्व/अधिवक्तृत्व-meaning-in-Hindi-English">अधिवक्तृत्व</a> <span class="latin" style="display:none;">[adhivaktr̥tva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389585"></i> <a class="in l" href="/translate/वकालत का पेशा/वकालत का पेशा-meaning-in-Hindi-English">वकालत का पेशा</a> <span class="latin" style="display:none;">[vakālata kā pēśā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3781"></i> <a class="in l" href="/translate/आड़/आड़-meaning-in-Hindi-English">आड़</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[āṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389586"></i> <a class="in l" href="/translate/वकीलों का समुदाय/वकीलों का समुदाय-meaning-in-Hindi-English">वकीलों का समुदाय</a> <span class="latin" style="display:none;">[vakīlōṁ kā samudāya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6427"></i> <a class="in l" href="/translate/कठघरा/कठघरा-meaning-in-Hindi-English">कठघरा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[kaṭhagharā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11653"></i> <a class="in l" href="/translate/छड़/छड़-meaning-in-Hindi-English">छड़</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[chaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11885"></i> <a class="in l" href="/translate/छूट/छूट-meaning-in-Hindi-English">छूट</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[chūṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11950"></i> <a class="in l" href="/translate/छड़/छड़-meaning-in-Hindi-English">छड़</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[chaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13251"></i> <a class="in l" href="/translate/टिकिया/टिकिया-meaning-in-Hindi-English">टिकिया</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ṭikiyā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13539"></i> <a class="in l" href="/translate/डंडा/डंडा-meaning-in-Hindi-English">डंडा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ḍaṇḍā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi462618"></i> <a class="in l" href="/translate/खड़ी लकीर/खड़ी लकीर-meaning-in-Hindi-English">खड़ी लकीर</a> <span class="latin" style="display:none;">[khaṛī lakīra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi491619"></i> <a class="in l" href="/translate/धेरा/धेरा-meaning-in-Hindi-English">धेरा</a> <span class="latin" style="display:none;">[dhērā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18178"></i> <a class="in l" href="/translate/न्यायालय/न्यायालय-meaning-in-Hindi-English">न्यायालय</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[n'yāyālaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi772812"></i> <a class="in l" href="/translate/शराबख़ाना/शराबख़ाना-meaning-in-Hindi-English">शराबख़ाना</a> <span class="latin" style="display:none;">[śarābaḵẖānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18430"></i> <a class="in l" href="/translate/पट्टी/पट्टी-meaning-in-Hindi-English">पट्टी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[paṭṭī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi792353"></i> <a class="in l" href="/translate/रुकावट/रुकावट-meaning-in-Hindi-English">रुकावट</a> <span class="latin" style="display:none;">[rukāvaṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23263"></i> <a class="in l" href="/translate/बाधा/बाधा-meaning-in-Hindi-English">बाधा</a> <span class="latin" style="display:none;">[bādhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23299"></i> <a class="in l" href="/translate/बार/बार-meaning-in-Hindi-English">बार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25342"></i> <a class="in l" href="/translate/मधुशाला/मधुशाला-meaning-in-Hindi-English">मधुशाला</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[madhuśālā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27950"></i> <a class="in l" href="/translate/रुकावट/रुकावट-meaning-in-Hindi-English">रुकावट</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[rukāvaṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28167"></i> <a class="in l" href="/translate/रोक/रोक-meaning-in-Hindi-English">रोक</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[rōka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28231"></i> <a class="in l" href="/translate/रोध/रोध-meaning-in-Hindi-English">रोध</a> <span class="latin" style="display:none;">[rōdha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29141"></i> <a class="in l" href="/translate/वकालत/वकालत-meaning-in-Hindi-English">वकालत</a> <span class="latin" style="display:none;">[vakālata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29143"></i> <a class="in l" href="/translate/वकील-समुदाय/वकील-समुदाय-meaning-in-Hindi-English">वकील-समुदाय</a> <span class="latin" style="display:none;">[vakīla-samudāya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29293"></i> <a class="in l" href="/translate/वर्जन/वर्जन-meaning-in-Hindi-English">वर्जन</a> <span class="latin" style="display:none;">[varjana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30034"></i> <a class="in l" href="/translate/विधिज्ञ-वर्ग/विधिज्ञ-वर्ग-meaning-in-Hindi-English">विधिज्ञ-वर्ग</a> <span class="latin" style="display:none;">[vidhijña-varga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11653"></i> <a class="in l" href="/translate/छड़/छड़-meaning-in-Hindi-English">छड़</a> <span class="latin" style="display:none;">[chaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31292"></i> <a class="in l" href="/translate/शराब-घर/शराब-घर-meaning-in-Hindi-English">शराब-घर</a> <span class="latin" style="display:none;">[śarāba-ghara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13539"></i> <a class="in l" href="/translate/डंडा/डंडा-meaning-in-Hindi-English">डंडा</a> <span class="latin" style="display:none;">[ḍaṇḍā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31326"></i> <a class="in l" href="/translate/शलाका/शलाका-meaning-in-Hindi-English">शलाका</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[śalākā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34510"></i> <a class="in l" href="/translate/सिटकिनी/सिटकिनी-meaning-in-Hindi-English">सिटकिनी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[siṭakinī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23263"></i> <a class="in l" href="/translate/बाधा/बाधा-meaning-in-Hindi-English">बाधा</a> <span class="latin" style="display:none;">[bādhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34576"></i> <a class="in l" href="/translate/सिल/सिल-meaning-in-Hindi-English">सिल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sila]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23299"></i> <a class="in l" href="/translate/बार/बार-meaning-in-Hindi-English">बार</a> <span class="latin" style="display:none;">[bāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25342"></i> <a class="in l" href="/translate/मधुशाला/मधुशाला-meaning-in-Hindi-English">मधुशाला</a> <span class="latin" style="display:none;">[madhuśālā]</span></li></ol></div><div class="col-sm-3"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi385699"></i> <a class="in l" href="/translate/अलग करना/अलग करना-meaning-in-Hindi-English">अलग करना</a> <span class="latin" style="display:none;">[alaga karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389391"></i> <a class="in l" href="/translate/मना करना/मना करना-meaning-in-Hindi-English">मना करना</a> <span class="latin" style="display:none;">[manā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28170"></i> <a class="in l" href="/translate/रोकना/रोकना-meaning-in-Hindi-English">रोकना</a> <span class="latin" style="display:none;">[rōkanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389427"></i> <a class="in l" href="/translate/निकाल देना/निकाल देना-meaning-in-Hindi-English">निकाल देना</a> <span class="latin" style="display:none;">[nikāla dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385699"></i> <a class="in l" href="/translate/अलग करना/अलग करना-meaning-in-Hindi-English">अलग करना</a> <span class="latin" style="display:none;">[alaga karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389591"></i> <a class="in l" href="/translate/भीतर न आने देना/भीतर न आने देना-meaning-in-Hindi-English">भीतर न आने देना</a> <span class="latin" style="display:none;">[bhītara na ānē dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389592"></i> <a class="in l" href="/translate/सिटकिनी से बंद करना/सिटकिनी से बंद करना-meaning-in-Hindi-English">सिटकिनी से बंद करना</a> <span class="latin" style="display:none;">[siṭakinī sē banda karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi428678"></i> <a class="in l" href="/translate/अर्गला से बंद करना/अर्गला से बंद करना-meaning-in-Hindi-English">अर्गला से बंद करना</a> <span class="latin" style="display:none;">[argalā sē banda karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi428679"></i> <a class="in l" href="/translate/सिटकिनी लगाना/सिटकिनी लगाना-meaning-in-Hindi-English">सिटकिनी लगाना</a> <span class="latin" style="display:none;">[siṭakinī lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28170"></i> <a class="in l" href="/translate/रोकना/रोकना-meaning-in-Hindi-English">रोकना</a> <span class="latin" style="display:none;">[rōkanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385469"></i> <a class="in l" href="/translate/बन्द करना/बन्द करना-meaning-in-Hindi-English">बन्द करना</a> <span class="latin" style="display:none;">[banda karanā]</span></li></ol></div><div class="col-sm-3"><h3 class="preposition"><em>preposition&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi428676"></i> <a class="in l" href="/translate/को छोड़ कर/को छोड़ कर-meaning-in-Hindi-English">को छोड़ कर</a> <span class="latin" style="display:none;">[kō chōṛa kara]</span></li></ol></div><div class="col-sm-3"><h3 class=" "><em> &nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi14909"></i> <a class="in l" href="/translate/दण्ड/दण्ड-meaning-in-Hindi-English">दण्ड</a> <span class="latin" style="display:none;">[daṇḍa]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/bars/bars-meaning-in-Hindi-English">bars</a> (noun plural)<br/><a href="/translate/barred/barred-meaning-in-Hindi-English">barred</a> (verb past tense)<br/><a href="/translate/barring/barring-meaning-in-Hindi-English">barring</a> (verb present participle)<br/><a href="/translate/bars/bars-meaning-in-Hindi-English">bars</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of BAR in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>the act of preventing<br><u><em>Example</em></u><br>- money was allocated to study the cause and prevention of influenza<br></li><li>a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon</li><li>an obstruction (usually metal) placed at the top of a goal</li><li>a counter where you can obtain food or drink</li><li>(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried</li><li>a heating element in an electric fire</li><li>a horizontal rod that serves as a support for gymnasts as they perform exercises</li><li>a room or establishment where alcoholic drinks are served over a counter</li><li>a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War</li><li>a block of solid substance (such as soap or wax)</li><li>a narrow marking of a different color or texture from the background<br><u><em>Example</em></u><br>- may the Stars and Stripes forever wave<br></li><li>musical notation for a repeating pattern of musical beats</li><li>the body of individuals qualified to practice law in a particular jurisdiction</li><li>a submerged (or partly submerged) ridge in a river or along a shore</li><li>(meteorology) a unit of pressure equal to a million dynes per square centimeter</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>prevent from entering; keep out</li><li>secure with, or as if with, bars</li><li>render unsuitable for passage<br><u><em>Examples</em></u><br>- barricade the streets<br>- stop the busy road<br></li><li>expel, as if by official decree</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of BAR</h2><p><a href="/translate/bar/bar-meaning-in-Hindi-English">bar</a>, <a href="/translate/prevention/prevention-meaning-in-Hindi-English">prevention</a>, <a href="/translate/barroom/barroom-meaning-in-Hindi-English">barroom</a>, <a href="/translate/ginmill/ginmill-meaning-in-Hindi-English">ginmill</a>, <a href="/translate/saloon/saloon-meaning-in-Hindi-English">saloon</a>, <a href="/translate/taproom/taproom-meaning-in-Hindi-English">taproom</a>, <a href="/translate/browning+automatic+rifle/browning+automatic+rifle-meaning-in-Hindi-English">browning automatic rifle</a>, <a href="/translate/cake/cake-meaning-in-Hindi-English">cake</a>, <a href="/translate/streak/streak-meaning-in-Hindi-English">streak</a>, <a href="/translate/stripe/stripe-meaning-in-Hindi-English">stripe</a>, <a href="/translate/measure/measure-meaning-in-Hindi-English">measure</a>, <a href="/translate/legal+community/legal+community-meaning-in-Hindi-English">legal community</a>, <a href="/translate/legal+profession/legal+profession-meaning-in-Hindi-English">legal profession</a>, <a href="/translate/debar/debar-meaning-in-Hindi-English">debar</a>, <a href="/translate/exclude/exclude-meaning-in-Hindi-English">exclude</a>, <a href="/translate/barricade/barricade-meaning-in-Hindi-English">barricade</a>, <a href="/translate/block/block-meaning-in-Hindi-English">block</a>, <a href="/translate/block+off/block+off-meaning-in-Hindi-English">block off</a>, <a href="/translate/block+up/block+up-meaning-in-Hindi-English">block up</a>, <a href="/translate/blockade/blockade-meaning-in-Hindi-English">blockade</a>, <a href="/translate/stop/stop-meaning-in-Hindi-English">stop</a>, <a href="/translate/banish/banish-meaning-in-Hindi-English">banish</a>, <a href="/translate/relegate/relegate-meaning-in-Hindi-English">relegate</a></p><h2 class="ehr">Antonyms of BAR</h2><p><a href="/translate/unbar/unbar-meaning-in-Hindi-English">unbar</a></p><h2 class="ehr">More matches for BAR</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bar bell/bar bell-meaning-in-Hindi-English">bar bell</a></td><td class="l"><a class="in l" href="/translate/भारोत्तोलन के लिए लोहे के वजन/भारोत्तोलन के लिए लोहे के वजन-meaning-in-Hindi-English">भारोत्तोलन के लिए लोहे के वजन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bar chart/bar chart-meaning-in-Hindi-English">bar chart</a></td><td class="l"><a class="in l" href="/translate/बार तालिका/बार तालिका-meaning-in-Hindi-English">बार तालिका</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bar chart/bar chart-meaning-in-Hindi-English">bar chart</a></td><td class="l"><a class="in l" href="/translate/बार चार्ट/बार चार्ट-meaning-in-Hindi-English">बार चार्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bar code/bar code-meaning-in-Hindi-English">bar code</a></td><td class="l"><a class="in l" href="/translate/रेखिका कूट/रेखिका कूट-meaning-in-Hindi-English">रेखिका कूट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bar code/bar code-meaning-in-Hindi-English">bar code</a></td><td class="l"><a class="in l" href="/translate/बार कोड/बार कोड-meaning-in-Hindi-English">बार कोड</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/bar graph/bar graph-meaning-in-Hindi-English">bar graph</a></td><td class="l"><a class="in l" href="/translate/स्तम्भ आलेख/स्तम्भ आलेख-meaning-in-Hindi-English">स्तम्भ आलेख</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/आंकड़ी/आंकड़ी-meaning-in-Hindi-English">आंकड़ी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/कंगूरा/कंगूरा-meaning-in-Hindi-English">कंगूरा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/कंटिया/कंटिया-meaning-in-Hindi-English">कंटिया</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/कण्टक/कण्टक-meaning-in-Hindi-English">कण्टक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/काँटा/काँटा-meaning-in-Hindi-English">काँटा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/कांटा/कांटा-meaning-in-Hindi-English">कांटा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/दंश/दंश-meaning-in-Hindi-English">दंश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/दांत/दांत-meaning-in-Hindi-English">दांत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/दांता/दांता-meaning-in-Hindi-English">दांता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/Barbados/Barbados-meaning-in-Hindi-English">Barbados</a></td><td class="l"><a class="in l" href="/translate/बारबाडोस/बारबाडोस-meaning-in-Hindi-English">बारबाडोस</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barbarian/barbarian-meaning-in-Hindi-English">barbarian</a></td><td class="l"><a class="in l" href="/translate/गंवारू/गंवारू-meaning-in-Hindi-English">गंवारू</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barbarian/barbarian-meaning-in-Hindi-English">barbarian</a></td><td class="l"><a class="in l" href="/translate/असभ्य व्यक्ति/असभ्य व्यक्ति-meaning-in-Hindi-English">असभ्य व्यक्ति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barbarian/barbarian-meaning-in-Hindi-English">barbarian</a></td><td class="l"><a class="in l" href="/translate/खूंखार व्यक्ति/खूंखार व्यक्ति-meaning-in-Hindi-English">खूंखार व्यक्ति</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barb/barb-meaning-in-Hindi-English">barb</a></td><td class="l"><a class="in l" href="/translate/काँटा लगाना/काँटा लगाना-meaning-in-Hindi-English">काँटा लगाना</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barbarian/barbarian-meaning-in-Hindi-English">barbarian</a></td><td class="l"><a class="in l" href="/translate/अशिष्ट/अशिष्ट-meaning-in-Hindi-English">अशिष्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barbarian/barbarian-meaning-in-Hindi-English">barbarian</a></td><td class="l"><a class="in l" href="/translate/असभ्य/असभ्य-meaning-in-Hindi-English">असभ्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barbarian/barbarian-meaning-in-Hindi-English">barbarian</a></td><td class="l"><a class="in l" href="/translate/गंवार/गंवार-meaning-in-Hindi-English">गंवार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/barbarian/barbarian-meaning-in-Hindi-English">barbarian</a></td><td class="l"><a class="in l" href="/translate/जंगली/जंगली-meaning-in-Hindi-English">जंगली</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: BAR</h3><p>Meaning and definitions of BAR, translation in Hindi language for BAR with similar and opposite words. Also find spoken pronunciation of BAR in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "BAR"</h3><p>What BAR means in Hindi, BAR meaning in Hindi, BAR definition, examples and pronunciation of BAR in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

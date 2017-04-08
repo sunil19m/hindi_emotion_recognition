@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>poison - Meaning in Hindi - poison in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="poison - Meaning in Hindi, what is meaning of poison in Hindi dictionary, audio pronunciation, synonyms and definitions of poison in Hindi and English.">
+<meta name="keywords" content="poison, meaning of poison, English and Hindi for poison, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/poison/poison-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="poison" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">poison - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of poison</h2><i class="fa fa-volume-up fa-lg in au" id="en468676" style=""></i>पॉइज़न<div class="page-header"><h2 class="ehr">Meanings of poison in Hindi</h2><small>[<a id="t_on" href="/translate/poison/poison-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi30574"></i> <a class="in l" href="/translate/विष/विष-meaning-in-Hindi-English">विष</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[viṣa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi117122"></i> <a class="in l" href="/translate/गरल/गरल-meaning-in-Hindi-English">गरल</a> <span class="latin" style="display:none;">[garala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi144624"></i> <a class="in l" href="/translate/ज़हर/ज़हर-meaning-in-Hindi-English">ज़हर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[zahara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi411822"></i> <a class="in l" href="/translate/हानिकारक वस्तु/हानिकारक वस्तु-meaning-in-Hindi-English">हानिकारक वस्तु</a> <span class="latin" style="display:none;">[hānikāraka vastu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi444942"></i> <a class="in l" href="/translate/दूषित आहार/दूषित आहार-meaning-in-Hindi-English">दूषित आहार</a> <span class="latin" style="display:none;">[dūṣita āhāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12374"></i> <a class="in l" href="/translate/जहर/जहर-meaning-in-Hindi-English">जहर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jahara]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi30628"></i> <a class="in l" href="/translate/विषैला/विषैला-meaning-in-Hindi-English">विषैला</a> <span class="latin" style="display:none;">[viṣailā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi582059"></i> <a class="in l" href="/translate/विषालु/विषालु-meaning-in-Hindi-English">विषालु</a> <span class="latin" style="display:none;">[viṣālu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8861"></i> <a class="in l" href="/translate/खराब/खराब-meaning-in-Hindi-English">खराब</a> <span class="latin" style="display:none;">[kharāba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10430"></i> <a class="in l" href="/translate/घातक/घातक-meaning-in-Hindi-English">घातक</a> <span class="latin" style="display:none;">[ghātaka]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi23445"></i> <a class="in l" href="/translate/बिगाड़ना/बिगाड़ना-meaning-in-Hindi-English">बिगाड़ना</a> <span class="latin" style="display:none;">[bigāṛanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26028"></i> <a class="in l" href="/translate/मारना/मारना-meaning-in-Hindi-English">मारना</a> <span class="latin" style="display:none;">[māranā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386628"></i> <a class="in l" href="/translate/दूषित करना/दूषित करना-meaning-in-Hindi-English">दूषित करना</a> <span class="latin" style="display:none;">[dūṣita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387716"></i> <a class="in l" href="/translate/नष्ट करना/नष्ट करना-meaning-in-Hindi-English">नष्ट करना</a> <span class="latin" style="display:none;">[naṣṭa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi399384"></i> <a class="in l" href="/translate/विघ्न डालना/विघ्न डालना-meaning-in-Hindi-English">विघ्न डालना</a> <span class="latin" style="display:none;">[vighna ḍālanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi414346"></i> <a class="in l" href="/translate/विष देना/विष देना-meaning-in-Hindi-English">विष देना</a> <span class="latin" style="display:none;">[viṣa dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi414347"></i> <a class="in l" href="/translate/विष मिलाना/विष मिलाना-meaning-in-Hindi-English">विष मिलाना</a> <span class="latin" style="display:none;">[viṣa milānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi414348"></i> <a class="in l" href="/translate/विषाक्त करना/विषाक्त करना-meaning-in-Hindi-English">विषाक्त करना</a> <span class="latin" style="display:none;">[viṣākta karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433733"></i> <a class="in l" href="/translate/हानि पहुँचाना/हानि पहुँचाना-meaning-in-Hindi-English">हानि पहुँचाना</a> <span class="latin" style="display:none;">[hāni pahum̐cānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi444943"></i> <a class="in l" href="/translate/दूषित कर देना/दूषित कर देना-meaning-in-Hindi-English">दूषित कर देना</a> <span class="latin" style="display:none;">[dūṣita kara dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi444944"></i> <a class="in l" href="/translate/ज़हर देना/ज़हर देना-meaning-in-Hindi-English">ज़हर देना</a> <span class="latin" style="display:none;">[zahara dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi444945"></i> <a class="in l" href="/translate/ज़हर डालना/ज़हर डालना-meaning-in-Hindi-English">ज़हर डालना</a> <span class="latin" style="display:none;">[zahara ḍālanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi797916"></i> <a class="in l" href="/translate/विषक्त बनाना/विषक्त बनाना-meaning-in-Hindi-English">विषक्त बनाना</a> <span class="latin" style="display:none;">[viṣakta banānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13796"></i> <a class="in l" href="/translate/ढकेलना/ढकेलना-meaning-in-Hindi-English">ढकेलना</a> <span class="latin" style="display:none;">[ḍhakēlanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/poisoner/poisoner-meaning-in-Hindi-English">poisoner</a> (adjective comparative)<br/><a href="/translate/poisons/poisons-meaning-in-Hindi-English">poisons</a> (noun plural)<br/><a href="/translate/poisoned/poisoned-meaning-in-Hindi-English">poisoned</a> (verb past tense)<br/><a href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a> (verb present participle)<br/><a href="/translate/poisons/poisons-meaning-in-Hindi-English">poisons</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of poison in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>anything that harms or destroys</li><li>any substance that causes injury or illness or death of a living organism</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>administer poison to</li><li>add poison to</li><li>kill with poison</li><li>kill by its poison</li><li>spoil as if by poison<br><u><em>Example</em></u><br>- poison the atmosphere in the office<br></li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of poison</h2><p><a href="/translate/poison/poison-meaning-in-Hindi-English">poison</a>, <a href="/translate/poisonous+substance/poisonous+substance-meaning-in-Hindi-English">poisonous substance</a>, <a href="/translate/toxicant/toxicant-meaning-in-Hindi-English">toxicant</a>, <a href="/translate/envenom/envenom-meaning-in-Hindi-English">envenom</a></p><h2 class="ehr">Antonyms of poison</h2><p>No matches.</p><h2 class="ehr">More matches for poison</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poison parsley/poison parsley-meaning-in-Hindi-English">poison parsley</a></td><td class="l"><a class="in l" href="/translate/विषैला अजमोदा/विषैला अजमोदा-meaning-in-Hindi-English">विषैला अजमोदा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poison-pen letter/poison-pen letter-meaning-in-Hindi-English">poison-pen letter</a></td><td class="l"><a class="in l" href="/translate/धमकी भरा पत्र/धमकी भरा पत्र-meaning-in-Hindi-English">धमकी भरा पत्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoner/poisoner-meaning-in-Hindi-English">poisoner</a></td><td class="l"><a class="in l" href="/translate/ज़हर देने वाला/ज़हर देने वाला-meaning-in-Hindi-English">ज़हर देने वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoner/poisoner-meaning-in-Hindi-English">poisoner</a></td><td class="l"><a class="in l" href="/translate/विष देनेवाला/विष देनेवाला-meaning-in-Hindi-English">विष देनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoner/poisoner-meaning-in-Hindi-English">poisoner</a></td><td class="l"><a class="in l" href="/translate/ज़हर खिलाकर मार डालनेवाला/ज़हर खिलाकर मार डालनेवाला-meaning-in-Hindi-English">ज़हर खिलाकर मार डालनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoner/poisoner-meaning-in-Hindi-English">poisoner</a></td><td class="l"><a class="in l" href="/translate/ज़हर देनेवाला/ज़हर देनेवाला-meaning-in-Hindi-English">ज़हर देनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/विषाक्तन/विषाक्तन-meaning-in-Hindi-English">विषाक्तन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/विषाक्तीकरण/विषाक्तीकरण-meaning-in-Hindi-English">विषाक्तीकरण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/विषायण/विषायण-meaning-in-Hindi-English">विषायण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/ऐयाशी/ऐयाशी-meaning-in-Hindi-English">ऐयाशी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/विषाक्तता/विषाक्तता-meaning-in-Hindi-English">विषाक्तता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/विष देना/विष देना-meaning-in-Hindi-English">विष देना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/विष डालना/विष डालना-meaning-in-Hindi-English">विष डालना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/विषप्रयोग/विषप्रयोग-meaning-in-Hindi-English">विषप्रयोग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/ज़हर खाने का असर/ज़हर खाने का असर-meaning-in-Hindi-English">ज़हर खाने का असर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisoning/poisoning-meaning-in-Hindi-English">poisoning</a></td><td class="l"><a class="in l" href="/translate/बिगाड़ने का कार्य/बिगाड़ने का कार्य-meaning-in-Hindi-English">बिगाड़ने का कार्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous nightshade/poisonous nightshade-meaning-in-Hindi-English">poisonous nightshade</a></td><td class="l"><a class="in l" href="/translate/एक जहरीली बेल/एक जहरीली बेल-meaning-in-Hindi-English">एक जहरीली बेल</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/खराब/खराब-meaning-in-Hindi-English">खराब</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/ख़राब/ख़राब-meaning-in-Hindi-English">ख़राब</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/घिनौना/घिनौना-meaning-in-Hindi-English">घिनौना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/घृणास्पद/घृणास्पद-meaning-in-Hindi-English">घृणास्पद</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/जहरीला/जहरीला-meaning-in-Hindi-English">जहरीला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/विषमय/विषमय-meaning-in-Hindi-English">विषमय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/विषाक्त/विषाक्त-meaning-in-Hindi-English">विषाक्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/विषैला/विषैला-meaning-in-Hindi-English">विषैला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/विद्वेषपूर्ण/विद्वेषपूर्ण-meaning-in-Hindi-English">विद्वेषपूर्ण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/विषालु/विषालु-meaning-in-Hindi-English">विषालु</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/बिगाड़नेवाला/बिगाड़नेवाला-meaning-in-Hindi-English">बिगाड़नेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/poisonous/poisonous-meaning-in-Hindi-English">poisonous</a></td><td class="l"><a class="in l" href="/translate/हानि पहुंचानेवाला/हानि पहुंचानेवाला-meaning-in-Hindi-English">हानि पहुंचानेवाला</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: poison</h3><p>Meaning and definitions of poison, translation in Hindi language for poison with similar and opposite words. Also find spoken pronunciation of poison in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "poison"</h3><p>What poison means in Hindi, poison meaning in Hindi, poison definition, examples and pronunciation of poison in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

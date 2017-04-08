@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>chance - Meaning in Hindi - chance in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="chance - Meaning in Hindi, what is meaning of chance in Hindi dictionary, audio pronunciation, synonyms and definitions of chance in Hindi and English.">
+<meta name="keywords" content="chance, meaning of chance, English and Hindi for chance, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/chance/chance-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="chance" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">chance - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of chance</h2><i class="fa fa-volume-up fa-lg in au" id="en193997" style=""></i>चैन्स<div class="page-header"><h2 class="ehr">Meanings of chance in Hindi</h2><small>[<a id="t_on" href="/translate/chance/chance-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi35581"></i> <a class="in l" href="/translate/स्थिति/स्थिति-meaning-in-Hindi-English">स्थिति</a> <span class="latin" style="display:none;">[sthiti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi36380"></i> <a class="in l" href="/translate/हालत/हालत-meaning-in-Hindi-English">हालत</a> <span class="latin" style="display:none;">[hālata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi60998"></i> <a class="in l" href="/translate/इत्तफ़ाक़/इत्तफ़ाक़-meaning-in-Hindi-English">इत्तफ़ाक़</a> <span class="latin" style="display:none;">[ittafāqa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi131744"></i> <a class="in l" href="/translate/चांस/चांस-meaning-in-Hindi-English">चांस</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[cānsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi287866"></i> <a class="in l" href="/translate/मौक़ा/मौक़ा-meaning-in-Hindi-English">मौक़ा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[mauqā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi318966"></i> <a class="in l" href="/translate/वाक़या/वाक़या-meaning-in-Hindi-English">वाक़या</a> <span class="latin" style="display:none;">[vāqayā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3043"></i> <a class="in l" href="/translate/अवसर/अवसर-meaning-in-Hindi-English">अवसर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[avasara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3059"></i> <a class="in l" href="/translate/अवस्था/अवस्था-meaning-in-Hindi-English">अवस्था</a> <span class="latin" style="display:none;">[avasthā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8789"></i> <a class="in l" href="/translate/खतरा/खतरा-meaning-in-Hindi-English">खतरा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[khatarā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10331"></i> <a class="in l" href="/translate/घटना/घटना-meaning-in-Hindi-English">घटना</a> <span class="latin" style="display:none;">[ghaṭanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15905"></i> <a class="in l" href="/translate/दैवयोग/दैवयोग-meaning-in-Hindi-English">दैवयोग</a> <span class="latin" style="display:none;">[daivayōga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19106"></i> <a class="in l" href="/translate/परिस्थिति/परिस्थिति-meaning-in-Hindi-English">परिस्थिति</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[paristhiti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi21797"></i> <a class="in l" href="/translate/प्रारब्ध/प्रारब्ध-meaning-in-Hindi-English">प्रारब्ध</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[prārabdha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24489"></i> <a class="in l" href="/translate/भाग्य/भाग्य-meaning-in-Hindi-English">भाग्य</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bhāgya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26978"></i> <a class="in l" href="/translate/मौका/मौका-meaning-in-Hindi-English">मौका</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[maukā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32522"></i> <a class="in l" href="/translate/संभावना/संभावना-meaning-in-Hindi-English">संभावना</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sambhāvanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32565"></i> <a class="in l" href="/translate/संयोग/संयोग-meaning-in-Hindi-English">संयोग</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sanyōga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35132"></i> <a class="in l" href="/translate/सूरत/सूरत-meaning-in-Hindi-English">सूरत</a> <span class="latin" style="display:none;">[sūrata]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi404637"></i> <a class="in l" href="/translate/संयोग का/संयोग का-meaning-in-Hindi-English">संयोग का</a> <span class="latin" style="display:none;">[sanyōga kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3471"></i> <a class="in l" href="/translate/अस्थिर/अस्थिर-meaning-in-Hindi-English">अस्थिर</a> <span class="latin" style="display:none;">[asthira]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3629"></i> <a class="in l" href="/translate/आकस्मिक/आकस्मिक-meaning-in-Hindi-English">आकस्मिक</a> <span class="latin" style="display:none;">[ākasmika]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi794070"></i> <a class="in l" href="/translate/इत्तफ़ाक़ का/इत्तफ़ाक़ का-meaning-in-Hindi-English">इत्तफ़ाक़ का</a> <span class="latin" style="display:none;">[ittafāqa kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34134"></i> <a class="in l" href="/translate/सांयोगिक/सांयोगिक-meaning-in-Hindi-English">सांयोगिक</a> <span class="latin" style="display:none;">[sānyōgika]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi36651"></i> <a class="in l" href="/translate/होना/होना-meaning-in-Hindi-English">होना</a> <span class="latin" style="display:none;">[hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385525"></i> <a class="in l" href="/translate/हो जाना/हो जाना-meaning-in-Hindi-English">हो जाना</a> <span class="latin" style="display:none;">[hō jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388561"></i> <a class="in l" href="/translate/संघटित होना/संघटित होना-meaning-in-Hindi-English">संघटित होना</a> <span class="latin" style="display:none;">[saṅghaṭita hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392903"></i> <a class="in l" href="/translate/दाँव पर रखना/दाँव पर रखना-meaning-in-Hindi-English">दाँव पर रखना</a> <span class="latin" style="display:none;">[dām̐va para rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392905"></i> <a class="in l" href="/translate/संयोग से होना/संयोग से होना-meaning-in-Hindi-English">संयोग से होना</a> <span class="latin" style="display:none;">[sanyōga sē hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392906"></i> <a class="in l" href="/translate/संयोगवश घटित होना/संयोगवश घटित होना-meaning-in-Hindi-English">संयोगवश घटित होना</a> <span class="latin" style="display:none;">[sanyōgavaśa ghaṭita hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392907"></i> <a class="in l" href="/translate/संयोगवश हो जाना/संयोगवश हो जाना-meaning-in-Hindi-English">संयोगवश हो जाना</a> <span class="latin" style="display:none;">[sanyōgavaśa hō jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392908"></i> <a class="in l" href="/translate/जोखिम में डालना/जोखिम में डालना-meaning-in-Hindi-English">जोखिम में डालना</a> <span class="latin" style="display:none;">[jōkhima mēṁ ḍālanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi417900"></i> <a class="in l" href="/translate/जोखिम उठाना/जोखिम उठाना-meaning-in-Hindi-English">जोखिम उठाना</a> <span class="latin" style="display:none;">[jōkhima uṭhānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431079"></i> <a class="in l" href="/translate/मौक़ा मिलना/मौक़ा मिलना-meaning-in-Hindi-English">मौक़ा मिलना</a> <span class="latin" style="display:none;">[mauqā milanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431080"></i> <a class="in l" href="/translate/खतरा उठाना/खतरा उठाना-meaning-in-Hindi-English">खतरा उठाना</a> <span class="latin" style="display:none;">[khatarā uṭhānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431081"></i> <a class="in l" href="/translate/अकस्मात होना/अकस्मात होना-meaning-in-Hindi-English">अकस्मात होना</a> <span class="latin" style="display:none;">[akasmāta hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431082"></i> <a class="in l" href="/translate/दाँव पर लगाना/दाँव पर लगाना-meaning-in-Hindi-English">दाँव पर लगाना</a> <span class="latin" style="display:none;">[dām̐va para lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi794322"></i> <a class="in l" href="/translate/जोखिम सहना/जोखिम सहना-meaning-in-Hindi-English">जोखिम सहना</a> <span class="latin" style="display:none;">[jōkhima sahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18449"></i> <a class="in l" href="/translate/पड़ना/पड़ना-meaning-in-Hindi-English">पड़ना</a> <span class="latin" style="display:none;">[paṛanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/chancer/chancer-meaning-in-Hindi-English">chancer</a> (adjective comparative)<br/><a href="/translate/chances/chances-meaning-in-Hindi-English">chances</a> (noun plural)<br/><a href="/translate/chanced/chanced-meaning-in-Hindi-English">chanced</a> (verb past tense)<br/><a href="/translate/chancing/chancing-meaning-in-Hindi-English">chancing</a> (verb present participle)<br/><a href="/translate/chances/chances-meaning-in-Hindi-English">chances</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of chance in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>occurring or appearing or singled out by chance<br><u><em>Examples</em></u><br>- a casual meeting<br>- a chance occurrence<br></li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>a risk involving danger</li><li>a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible</li><li>an unknown and unpredictable phenomenon that causes an event to result one way rather than another<br><u><em>Example</em></u><br>- we ran into each other by pure chance<br></li><li>the possibility of future success</li><li>a possibility due to a favorable combination of circumstances<br><u><em>Example</em></u><br>- now is your chance<br></li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>come upon, as if by accident; meet with<br><u><em>Examples</em></u><br>- I happened upon the most wonderful bakery not very far from here<br>- She chanced upon an interesting book in the bookstore the other day<br></li><li>take a risk in the hope of a favorable outcome</li><li>be the case by chance</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of chance</h2><p><a href="/translate/chance/chance-meaning-in-Hindi-English">chance</a>, <a href="/translate/probability/probability-meaning-in-Hindi-English">probability</a>, <a href="/translate/fortune/fortune-meaning-in-Hindi-English">fortune</a>, <a href="/translate/hazard/hazard-meaning-in-Hindi-English">hazard</a>, <a href="/translate/luck/luck-meaning-in-Hindi-English">luck</a>, <a href="/translate/prospect/prospect-meaning-in-Hindi-English">prospect</a>, <a href="/translate/opportunity/opportunity-meaning-in-Hindi-English">opportunity</a>, <a href="/translate/bump/bump-meaning-in-Hindi-English">bump</a>, <a href="/translate/encounter/encounter-meaning-in-Hindi-English">encounter</a>, <a href="/translate/find/find-meaning-in-Hindi-English">find</a>, <a href="/translate/happen/happen-meaning-in-Hindi-English">happen</a>, <a href="/translate/adventure/adventure-meaning-in-Hindi-English">adventure</a>, <a href="/translate/gamble/gamble-meaning-in-Hindi-English">gamble</a>, <a href="/translate/risk/risk-meaning-in-Hindi-English">risk</a>, <a href="/translate/run+a+risk/run+a+risk-meaning-in-Hindi-English">run a risk</a>, <a href="/translate/take+a+chance/take+a+chance-meaning-in-Hindi-English">take a chance</a>, <a href="/translate/take+chances/take+chances-meaning-in-Hindi-English">take chances</a>, <a href="/translate/casual/casual-meaning-in-Hindi-English">casual</a></p><h2 class="ehr">Antonyms of chance</h2><p>No matches.</p><h2 class="ehr">More matches for chance</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chance event/chance event-meaning-in-Hindi-English">chance event</a></td><td class="l"><a class="in l" href="/translate/इत्तफ़ाक/इत्तफ़ाक-meaning-in-Hindi-English">इत्तफ़ाक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chance on/chance on-meaning-in-Hindi-English">chance on</a></td><td class="l"><a class="in l" href="/translate/संयोगवश मिलना/संयोगवश मिलना-meaning-in-Hindi-English">संयोगवश मिलना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chance upon/chance upon-meaning-in-Hindi-English">chance upon</a></td><td class="l"><a class="in l" href="/translate/संयोगवश मिलना/संयोगवश मिलना-meaning-in-Hindi-English">संयोगवश मिलना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancel/chancel-meaning-in-Hindi-English">chancel</a></td><td class="l"><a class="in l" href="/translate/वेदी/वेदी-meaning-in-Hindi-English">वेदी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancel/chancel-meaning-in-Hindi-English">chancel</a></td><td class="l"><a class="in l" href="/translate/गिरजाघर का पूर्वी भाग/गिरजाघर का पूर्वी भाग-meaning-in-Hindi-English">गिरजाघर का पूर्वी भाग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancel/chancel-meaning-in-Hindi-English">chancel</a></td><td class="l"><a class="in l" href="/translate/चैन्सेल/चैन्सेल-meaning-in-Hindi-English">चैन्सेल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellery/chancellery-meaning-in-Hindi-English">chancellery</a></td><td class="l"><a class="in l" href="/translate/कार्यालय/कार्यालय-meaning-in-Hindi-English">कार्यालय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellery/chancellery-meaning-in-Hindi-English">chancellery</a></td><td class="l"><a class="in l" href="/translate/कुलपति/कुलपति-meaning-in-Hindi-English">कुलपति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellery/chancellery-meaning-in-Hindi-English">chancellery</a></td><td class="l"><a class="in l" href="/translate/कुलपति-पद/कुलपति-पद-meaning-in-Hindi-English">कुलपति-पद</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellery/chancellery-meaning-in-Hindi-English">chancellery</a></td><td class="l"><a class="in l" href="/translate/दफ्तर/दफ्तर-meaning-in-Hindi-English">दफ्तर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellery/chancellery-meaning-in-Hindi-English">chancellery</a></td><td class="l"><a class="in l" href="/translate/दफ़्तर/दफ़्तर-meaning-in-Hindi-English">दफ़्तर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/Chancellor/Chancellor-meaning-in-Hindi-English">Chancellor</a></td><td class="l"><a class="in l" href="/translate/कुलाधिपति/कुलाधिपति-meaning-in-Hindi-English">कुलाधिपति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellor/chancellor-meaning-in-Hindi-English">chancellor</a></td><td class="l"><a class="in l" href="/translate/कुलाधिपति/कुलाधिपति-meaning-in-Hindi-English">कुलाधिपति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellor/chancellor-meaning-in-Hindi-English">chancellor</a></td><td class="l"><a class="in l" href="/translate/दानाध्यक्ष/दानाध्यक्ष-meaning-in-Hindi-English">दानाध्यक्ष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellor/chancellor-meaning-in-Hindi-English">chancellor</a></td><td class="l"><a class="in l" href="/translate/राजपण्डित/राजपण्डित-meaning-in-Hindi-English">राजपण्डित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellor/chancellor-meaning-in-Hindi-English">chancellor</a></td><td class="l"><a class="in l" href="/translate/न्यायालय का एक बड़ा अध्यक्ष/न्यायालय का एक बड़ा अध्यक्ष-meaning-in-Hindi-English">न्यायालय का एक बड़ा अध्यक्ष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellor of the exchequer/chancellor of the exchequer-meaning-in-Hindi-English">chancellor of the exchequer</a></td><td class="l"><a class="in l" href="/translate/वित्तमन्त्री/वित्तमन्त्री-meaning-in-Hindi-English">वित्तमन्त्री</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancellory/chancellory-meaning-in-Hindi-English">chancellory</a></td><td class="l"><a class="in l" href="/translate/दफ़्तर/दफ़्तर-meaning-in-Hindi-English">दफ़्तर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancery/chancery-meaning-in-Hindi-English">chancery</a></td><td class="l"><a class="in l" href="/translate/उच्चन्यायालय/उच्चन्यायालय-meaning-in-Hindi-English">उच्चन्यायालय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancery/chancery-meaning-in-Hindi-English">chancery</a></td><td class="l"><a class="in l" href="/translate/कार्यालय/कार्यालय-meaning-in-Hindi-English">कार्यालय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancery/chancery-meaning-in-Hindi-English">chancery</a></td><td class="l"><a class="in l" href="/translate/एक बड़ा न्यायालय/एक बड़ा न्यायालय-meaning-in-Hindi-English">एक बड़ा न्यायालय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chancery/chancery-meaning-in-Hindi-English">chancery</a></td><td class="l"><a class="in l" href="/translate/बड़ा न्यायालय/बड़ा न्यायालय-meaning-in-Hindi-English">बड़ा न्यायालय</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chance on/chance on-meaning-in-Hindi-English">chance on</a></td><td class="l"><a class="in l" href="/translate/संयोगवश मिलना/संयोगवश मिलना-meaning-in-Hindi-English">संयोगवश मिलना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chance upon/chance upon-meaning-in-Hindi-English">chance upon</a></td><td class="l"><a class="in l" href="/translate/संयोगवश मिलना/संयोगवश मिलना-meaning-in-Hindi-English">संयोगवश मिलना</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chanceful/chanceful-meaning-in-Hindi-English">chanceful</a></td><td class="l"><a class="in l" href="/translate/जोखिम का/जोखिम का-meaning-in-Hindi-English">जोखिम का</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/chanceful/chanceful-meaning-in-Hindi-English">chanceful</a></td><td class="l"><a class="in l" href="/translate/जोखिमी/जोखिमी-meaning-in-Hindi-English">जोखिमी</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: chance</h3><p>Meaning and definitions of chance, translation in Hindi language for chance with similar and opposite words. Also find spoken pronunciation of chance in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "chance"</h3><p>What chance means in Hindi, chance meaning in Hindi, chance definition, examples and pronunciation of chance in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

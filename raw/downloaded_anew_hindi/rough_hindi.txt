@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>rough - Meaning in Hindi - rough in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="rough - Meaning in Hindi, what is meaning of rough in Hindi dictionary, audio pronunciation, synonyms and definitions of rough in Hindi and English.">
+<meta name="keywords" content="rough, meaning of rough, English and Hindi for rough, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/rough/rough-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="rough" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">rough - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of rough</h2><i class="fa fa-volume-up fa-lg in au" id="en518360" style=""></i>रफ<div class="page-header"><h2 class="ehr">Meanings of rough in Hindi</h2><small>[<a id="t_on" href="/translate/rough/rough-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi6410"></i> <a class="in l" href="/translate/कटूक्ति/कटूक्ति-meaning-in-Hindi-English">कटूक्ति</a> <span class="latin" style="display:none;">[kaṭūkti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi447475"></i> <a class="in l" href="/translate/अप्रिय परिस्थिति/अप्रिय परिस्थिति-meaning-in-Hindi-English">अप्रिय परिस्थिति</a> <span class="latin" style="display:none;">[apriya paristhiti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi796847"></i> <a class="in l" href="/translate/भद्दी बात/भद्दी बात-meaning-in-Hindi-English">भद्दी बात</a> <span class="latin" style="display:none;">[bhaddī bāta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi251282"></i> <a class="in l" href="/translate/बेअदबी/बेअदबी-meaning-in-Hindi-English">बेअदबी</a> <span class="latin" style="display:none;">[bē'adabī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3203"></i> <a class="in l" href="/translate/अशिष्टता/अशिष्टता-meaning-in-Hindi-English">अशिष्टता</a> <span class="latin" style="display:none;">[aśiṣṭatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi447474"></i> <a class="in l" href="/translate/कड़ाई का/कड़ाई का-meaning-in-Hindi-English">कड़ाई का</a> <span class="latin" style="display:none;">[kaṛā'ī kā]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi6436"></i> <a class="in l" href="/translate/कठिन/कठिन-meaning-in-Hindi-English">कठिन</a> <span class="latin" style="display:none;">[kaṭhina]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6441"></i> <a class="in l" href="/translate/कठोर/कठोर-meaning-in-Hindi-English">कठोर</a> <span class="latin" style="display:none;">[kaṭhōra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6810"></i> <a class="in l" href="/translate/कर्कश/कर्कश-meaning-in-Hindi-English">कर्कश</a> <span class="latin" style="display:none;">[karkaśa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9080"></i> <a class="in l" href="/translate/खुरदरा/खुरदरा-meaning-in-Hindi-English">खुरदरा</a> <span class="latin" style="display:none;">[khuradarā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi791551"></i> <a class="in l" href="/translate/लग-भग/लग-भग-meaning-in-Hindi-English">लग-भग</a> <span class="latin" style="display:none;">[laga-bhaga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16521"></i> <a class="in l" href="/translate/धृष्ट/धृष्ट-meaning-in-Hindi-English">धृष्ट</a> <span class="latin" style="display:none;">[dhr̥ṣṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16995"></i> <a class="in l" href="/translate/नाबराबर/नाबराबर-meaning-in-Hindi-English">नाबराबर</a> <span class="latin" style="display:none;">[nābarābara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi802597"></i> <a class="in l" href="/translate/बिना चमक का/बिना चमक का-meaning-in-Hindi-English">बिना चमक का</a> <span class="latin" style="display:none;">[binā camaka kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18565"></i> <a class="in l" href="/translate/पथरीला/पथरीला-meaning-in-Hindi-English">पथरीला</a> <span class="latin" style="display:none;">[patharīlā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi809647"></i> <a class="in l" href="/translate/ऊबड़-खाबड़/ऊबड़-खाबड़-meaning-in-Hindi-English">ऊबड़-खाबड़</a> <span class="latin" style="display:none;">[ūbaṛa-khābaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi21740"></i> <a class="in l" href="/translate/प्राथमिक/प्राथमिक-meaning-in-Hindi-English">प्राथमिक</a> <span class="latin" style="display:none;">[prāthamika]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22694"></i> <a class="in l" href="/translate/बदमाश/बदमाश-meaning-in-Hindi-English">बदमाश</a> <span class="latin" style="display:none;">[badamāśa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23339"></i> <a class="in l" href="/translate/बालदार/बालदार-meaning-in-Hindi-English">बालदार</a> <span class="latin" style="display:none;">[bāladāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23765"></i> <a class="in l" href="/translate/बेअदब/बेअदब-meaning-in-Hindi-English">बेअदब</a> <span class="latin" style="display:none;">[bē'adaba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23832"></i> <a class="in l" href="/translate/बेढंगा/बेढंगा-meaning-in-Hindi-English">बेढंगा</a> <span class="latin" style="display:none;">[bēḍhaṅgā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26914"></i> <a class="in l" href="/translate/मोटा/मोटा-meaning-in-Hindi-English">मोटा</a> <span class="latin" style="display:none;">[mōṭā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28010"></i> <a class="in l" href="/translate/रूख/रूख-meaning-in-Hindi-English">रूख</a> <span class="latin" style="display:none;">[rūkha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28011"></i> <a class="in l" href="/translate/रूखा/रूखा-meaning-in-Hindi-English">रूखा</a> <span class="latin" style="display:none;">[rūkhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30361"></i> <a class="in l" href="/translate/विलासी/विलासी-meaning-in-Hindi-English">विलासी</a> <span class="latin" style="display:none;">[vilāsī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30579"></i> <a class="in l" href="/translate/विषम/विषम-meaning-in-Hindi-English">विषम</a> <span class="latin" style="display:none;">[viṣama]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35598"></i> <a class="in l" href="/translate/स्थूल/स्थूल-meaning-in-Hindi-English">स्थूल</a> <span class="latin" style="display:none;">[sthūla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi50302"></i> <a class="in l" href="/translate/असमतल/असमतल-meaning-in-Hindi-English">असमतल</a> <span class="latin" style="display:none;">[asamatala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi69869"></i> <a class="in l" href="/translate/ऊबड़खाबड़/ऊबड़खाबड़-meaning-in-Hindi-English">ऊबड़खाबड़</a> <span class="latin" style="display:none;">[ūbaṛakhābaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2007"></i> <a class="in l" href="/translate/अपरिष्कृत/अपरिष्कृत-meaning-in-Hindi-English">अपरिष्कृत</a> <span class="latin" style="display:none;">[apariṣkr̥ta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi113595"></i> <a class="in l" href="/translate/खुरदुरा/खुरदुरा-meaning-in-Hindi-English">खुरदुरा</a> <span class="latin" style="display:none;">[khuradurā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2109"></i> <a class="in l" href="/translate/अपूर्ण/अपूर्ण-meaning-in-Hindi-English">अपूर्ण</a> <span class="latin" style="display:none;">[apūrṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi153627"></i> <a class="in l" href="/translate/झगड़ालू/झगड़ालू-meaning-in-Hindi-English">झगड़ालू</a> <span class="latin" style="display:none;">[jhagaṛālū]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi178512"></i> <a class="in l" href="/translate/दंगई/दंगई-meaning-in-Hindi-English">दंगई</a> <span class="latin" style="display:none;">[daṅga'ī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2248"></i> <a class="in l" href="/translate/अभद्र/अभद्र-meaning-in-Hindi-English">अभद्र</a> <span class="latin" style="display:none;">[abhadra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi249604"></i> <a class="in l" href="/translate/बीहड़/बीहड़-meaning-in-Hindi-English">बीहड़</a> <span class="latin" style="display:none;">[bīhaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3189"></i> <a class="in l" href="/translate/अशांत/अशांत-meaning-in-Hindi-English">अशांत</a> <span class="latin" style="display:none;">[aśānta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3202"></i> <a class="in l" href="/translate/अशिष्ट/अशिष्ट-meaning-in-Hindi-English">अशिष्ट</a> <span class="latin" style="display:none;">[aśiṣṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi294803"></i> <a class="in l" href="/translate/रफ/रफ-meaning-in-Hindi-English">रफ</a> <span class="latin" style="display:none;">[rapha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3310"></i> <a class="in l" href="/translate/असभ्य/असभ्य-meaning-in-Hindi-English">असभ्य</a> <span class="latin" style="display:none;">[asabhya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4826"></i> <a class="in l" href="/translate/उग्र/उग्र-meaning-in-Hindi-English">उग्र</a> <span class="latin" style="display:none;">[ugra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4905"></i> <a class="in l" href="/translate/उज्जड़/उज्जड़-meaning-in-Hindi-English">उज्जड़</a> <span class="latin" style="display:none;">[ujjaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi447474"></i> <a class="in l" href="/translate/कड़ाई का/कड़ाई का-meaning-in-Hindi-English">कड़ाई का</a> <span class="latin" style="display:none;">[kaṛā'ī kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6358"></i> <a class="in l" href="/translate/कच्चा/कच्चा-meaning-in-Hindi-English">कच्चा</a> <span class="latin" style="display:none;">[kaccā]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi447476"></i> <a class="in l" href="/translate/आकृति बनाना/आकृति बनाना-meaning-in-Hindi-English">आकृति बनाना</a> <span class="latin" style="display:none;">[ākr̥ti banānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19805"></i> <a class="in l" href="/translate/पीटना/पीटना-meaning-in-Hindi-English">पीटना</a> <span class="latin" style="display:none;">[pīṭanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi417999"></i> <a class="in l" href="/translate/खुरदरा करना/खुरदरा करना-meaning-in-Hindi-English">खुरदरा करना</a> <span class="latin" style="display:none;">[khuradarā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi447473"></i> <a class="in l" href="/translate/कठिनाई सहना/कठिनाई सहना-meaning-in-Hindi-English">कठिनाई सहना</a> <span class="latin" style="display:none;">[kaṭhinā'ī sahanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/rougher/rougher-meaning-in-Hindi-English">rougher</a> (adjective comparative)<br/><a href="/translate/roughest/roughest-meaning-in-Hindi-English">roughest</a> (adjective superlative)<br/><a href="/translate/roughs/roughs-meaning-in-Hindi-English">roughs</a> (noun plural)<br/><a href="/translate/roughed/roughed-meaning-in-Hindi-English">roughed</a> (verb past tense)<br/><a href="/translate/roughing/roughing-meaning-in-Hindi-English">roughing</a> (verb present participle)<br/><a href="/translate/roughs/roughs-meaning-in-Hindi-English">roughs</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of rough in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>ready and able to resort to force or violence<br><u><em>Example</em></u><br>- they were rough and determined fighting men<br></li><li>unpleasantly harsh or grating in sound</li><li>violently agitated and turbulent<br><u><em>Examples</em></u><br>- the fierce thunders roar me their music<br>- rough weather<br>- rough seas<br></li><li>not shaped by cutting or trimming<br><u><em>Example</em></u><br>- rough gemstones<br></li><li>full of hardship or trials<br><u><em>Example</em></u><br>- they were having a rough time<br></li><li>not quite exact or correct<br><u><em>Examples</em></u><br>- a rough guess<br>- a ballpark estimate<br></li><li>unkind or cruel or uncivil<br><u><em>Examples</em></u><br>- a harsh and unlovable old tyrant<br>- a rough answer<br></li><li>unpleasantly stern<br><u><em>Example</em></u><br>- the nomad life is rough and hazardous<br></li><li>not perfected<br><u><em>Example</em></u><br>- a few rough sketches<br></li><li>(of persons or behavior) lacking refinement or finesse<br><u><em>Example</em></u><br>- rough manners<br></li><li>not carefully or expertly made<br><u><em>Examples</em></u><br>- a crude cabin of logs with bark still on them<br>- rough carpentry<br></li><li>having or caused by an irregular surface<br><u><em>Examples</em></u><br>- rough ground<br>- rough skin<br>- rough blankets<br>- his unsmooth face<br></li><li>causing or characterized by jolts and irregular movements</li><li>of the margin of a leaf shape; having the edge cut or fringed or scalloped</li></ol><strong><em>adverb</em></strong></h3><ol class="wnol"><li>with rough motion as over a rough surface</li><li>with roughness or violence (`rough' is an informal variant for `roughly')<br><u><em>Example</em></u><br>- they treated him rough<br></li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>the part of a golf course bordering the fairway where the grass is not cut short</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>prepare in preliminary or sketchy form</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of rough</h2><p><a href="/translate/rough/rough-meaning-in-Hindi-English">rough</a>, <a href="/translate/rough+in/rough+in-meaning-in-Hindi-English">rough in</a>, <a href="/translate/rough+out/rough+out-meaning-in-Hindi-English">rough out</a>, <a href="/translate/pugnacious/pugnacious-meaning-in-Hindi-English">pugnacious</a>, <a href="/translate/grating/grating-meaning-in-Hindi-English">grating</a>, <a href="/translate/gravelly/gravelly-meaning-in-Hindi-English">gravelly</a>, <a href="/translate/rasping/rasping-meaning-in-Hindi-English">rasping</a>, <a href="/translate/raspy/raspy-meaning-in-Hindi-English">raspy</a>, <a href="/translate/scratchy/scratchy-meaning-in-Hindi-English">scratchy</a>, <a href="/translate/boisterous/boisterous-meaning-in-Hindi-English">boisterous</a>, <a href="/translate/fierce/fierce-meaning-in-Hindi-English">fierce</a>, <a href="/translate/uncut/uncut-meaning-in-Hindi-English">uncut</a>, <a href="/translate/rocky/rocky-meaning-in-Hindi-English">rocky</a>, <a href="/translate/approximate/approximate-meaning-in-Hindi-English">approximate</a>, <a href="/translate/approximative/approximative-meaning-in-Hindi-English">approximative</a>, <a href="/translate/harsh/harsh-meaning-in-Hindi-English">harsh</a>, <a href="/translate/crude/crude-meaning-in-Hindi-English">crude</a>, <a href="/translate/unsmooth/unsmooth-meaning-in-Hindi-English">unsmooth</a>, <a href="/translate/bumpy/bumpy-meaning-in-Hindi-English">bumpy</a>, <a href="/translate/jolting/jolting-meaning-in-Hindi-English">jolting</a>, <a href="/translate/jolty/jolty-meaning-in-Hindi-English">jolty</a>, <a href="/translate/jumpy/jumpy-meaning-in-Hindi-English">jumpy</a>, <a href="/translate/roughly/roughly-meaning-in-Hindi-English">roughly</a></p><h2 class="ehr">Antonyms of rough</h2><p><a href="/translate/smooth/smooth-meaning-in-Hindi-English">smooth</a></p><h2 class="ehr">More matches for rough</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough diamond/rough diamond-meaning-in-Hindi-English">rough diamond</a></td><td class="l"><a class="in l" href="/translate/अनगढ़ हीरा/अनगढ़ हीरा-meaning-in-Hindi-English">अनगढ़ हीरा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough edges/rough edges-meaning-in-Hindi-English">rough edges</a></td><td class="l"><a class="in l" href="/translate/खामियाँ/खामियाँ-meaning-in-Hindi-English">खामियाँ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough out/rough out-meaning-in-Hindi-English">rough out</a></td><td class="l"><a class="in l" href="/translate/रूप-रेखा तैयार करना/रूप-रेखा तैयार करना-meaning-in-Hindi-English">रूप-रेखा तैयार करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/अंतरद्वंद्व/अंतरद्वंद्व-meaning-in-Hindi-English">अंतरद्वंद्व</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/हाथापाई/हाथापाई-meaning-in-Hindi-English">हाथापाई</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/आंतरिक लड़ाई-झगड़ा/आंतरिक लड़ाई-झगड़ा-meaning-in-Hindi-English">आंतरिक लड़ाई-झगड़ा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/आंतरिक विरोध/आंतरिक विरोध-meaning-in-Hindi-English">आंतरिक विरोध</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी तरह की हुई बात/किसी न किसी तरह की हुई बात-meaning-in-Hindi-English">किसी न किसी तरह की हुई बात</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी प्रकार की हुई बात/किसी न किसी प्रकार की हुई बात-meaning-in-Hindi-English">किसी न किसी प्रकार की हुई बात</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough it/rough it-meaning-in-Hindi-English">rough it</a></td><td class="l"><a class="in l" href="/translate/कष्ट उठाना/कष्ट उठाना-meaning-in-Hindi-English">कष्ट उठाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough out/rough out-meaning-in-Hindi-English">rough out</a></td><td class="l"><a class="in l" href="/translate/रूप-रेखा तैयार करना/रूप-रेखा तैयार करना-meaning-in-Hindi-English">रूप-रेखा तैयार करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough up/rough up-meaning-in-Hindi-English">rough up</a></td><td class="l"><a class="in l" href="/translate/आक्रमण करना/आक्रमण करना-meaning-in-Hindi-English">आक्रमण करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-dry/rough-dry-meaning-in-Hindi-English">rough-dry</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी तरह करना/किसी न किसी तरह करना-meaning-in-Hindi-English">किसी न किसी तरह करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-dry/rough-dry-meaning-in-Hindi-English">rough-dry</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी प्रकार से करना/किसी न किसी प्रकार से करना-meaning-in-Hindi-English">किसी न किसी प्रकार से करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-hew/rough-hew-meaning-in-Hindi-English">rough-hew</a></td><td class="l"><a class="in l" href="/translate/खुरदरा/खुरदरा-meaning-in-Hindi-English">खुरदरा</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-ready/rough-and-ready-meaning-in-Hindi-English">rough-and-ready</a></td><td class="l"><a class="in l" href="/translate/काम चलाऊ/काम चलाऊ-meaning-in-Hindi-English">काम चलाऊ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-ready/rough-and-ready-meaning-in-Hindi-English">rough-and-ready</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी तरह किया हुआ/किसी न किसी तरह किया हुआ-meaning-in-Hindi-English">किसी न किसी तरह किया हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-ready/rough-and-ready-meaning-in-Hindi-English">rough-and-ready</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी प्रकार किया हुआ/किसी न किसी प्रकार किया हुआ-meaning-in-Hindi-English">किसी न किसी प्रकार किया हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/उल्टा-पुल्टा/उल्टा-पुल्टा-meaning-in-Hindi-English">उल्टा-पुल्टा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी तरह किया हुआ/किसी न किसी तरह किया हुआ-meaning-in-Hindi-English">किसी न किसी तरह किया हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-and-tumble/rough-and-tumble-meaning-in-Hindi-English">rough-and-tumble</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी प्रकार किया हुआ/किसी न किसी प्रकार किया हुआ-meaning-in-Hindi-English">किसी न किसी प्रकार किया हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-cut/rough-cut-meaning-in-Hindi-English">rough-cut</a></td><td class="l"><a class="in l" href="/translate/असंस्कृत/असंस्कृत-meaning-in-Hindi-English">असंस्कृत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-dry/rough-dry-meaning-in-Hindi-English">rough-dry</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी तरह किया हुआ/किसी न किसी तरह किया हुआ-meaning-in-Hindi-English">किसी न किसी तरह किया हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/rough-dry/rough-dry-meaning-in-Hindi-English">rough-dry</a></td><td class="l"><a class="in l" href="/translate/किसी न किसी प्रकार किया हुआ/किसी न किसी प्रकार किया हुआ-meaning-in-Hindi-English">किसी न किसी प्रकार किया हुआ</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: rough</h3><p>Meaning and definitions of rough, translation in Hindi language for rough with similar and opposite words. Also find spoken pronunciation of rough in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "rough"</h3><p>What rough means in Hindi, rough meaning in Hindi, rough definition, examples and pronunciation of rough in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

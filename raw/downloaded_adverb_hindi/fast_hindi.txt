@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>fast - Meaning in Hindi - fast in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="fast - Meaning in Hindi, what is meaning of fast in Hindi dictionary, audio pronunciation, synonyms and definitions of fast in Hindi and English.">
+<meta name="keywords" content="fast, meaning of fast, English and Hindi for fast, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/fast/fast-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="fast" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">fast - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of fast</h2><i class="fa fa-volume-up fa-lg in au" id="en277658" style=""></i>फैस्ट<div class="page-header"><h2 class="ehr">Meanings of fast in Hindi</h2><small>[<a id="t_on" href="/translate/fast/fast-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-3"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi401885"></i> <a class="in l" href="/translate/निराहार व्रत/निराहार व्रत-meaning-in-Hindi-English">निराहार व्रत</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[nirāhāra vrata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5515"></i> <a class="in l" href="/translate/उपवास/उपवास-meaning-in-Hindi-English">उपवास</a> <span class="latin" style="display:none;">[upavāsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5515"></i> <a class="in l" href="/translate/उपवास/उपवास-meaning-in-Hindi-English">उपवास</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[upavāsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435049"></i> <a class="in l" href="/translate/उपवास के लिये निर्धारित समय/उपवास के लिये निर्धारित समय-meaning-in-Hindi-English">उपवास के लिये निर्धारित समय</a> <span class="latin" style="display:none;">[upavāsa kē liyē nirdhārita samaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28312"></i> <a class="in l" href="/translate/लंघन/लंघन-meaning-in-Hindi-English">लंघन</a> <span class="latin" style="display:none;">[laṅghana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28312"></i> <a class="in l" href="/translate/लंघन/लंघन-meaning-in-Hindi-English">लंघन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[laṅghana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31132"></i> <a class="in l" href="/translate/व्रत/व्रत-meaning-in-Hindi-English">व्रत</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[vrata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi42490"></i> <a class="in l" href="/translate/अनशन/अनशन-meaning-in-Hindi-English">अनशन</a> <span class="latin" style="display:none;">[anaśana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi42490"></i> <a class="in l" href="/translate/अनशन/अनशन-meaning-in-Hindi-English">अनशन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[anaśana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi42723"></i> <a class="in l" href="/translate/अनाहार/अनाहार-meaning-in-Hindi-English">अनाहार</a> <span class="latin" style="display:none;">[anāhāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi42723"></i> <a class="in l" href="/translate/अनाहार/अनाहार-meaning-in-Hindi-English">अनाहार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[anāhāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi306330"></i> <a class="in l" href="/translate/रोज़ा/रोज़ा-meaning-in-Hindi-English">रोज़ा</a> <span class="latin" style="display:none;">[rōzā]</span></li></ol></div><div class="col-sm-3"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi401884"></i> <a class="in l" href="/translate/कसा हुआ/कसा हुआ-meaning-in-Hindi-English">कसा हुआ</a> <span class="latin" style="display:none;">[kasā hu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3274"></i> <a class="in l" href="/translate/असंयमी/असंयमी-meaning-in-Hindi-English">असंयमी</a> <span class="latin" style="display:none;">[asanyamī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3711"></i> <a class="in l" href="/translate/आगे/आगे-meaning-in-Hindi-English">आगे</a> <span class="latin" style="display:none;">[āgē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10711"></i> <a class="in l" href="/translate/चटक/चटक-meaning-in-Hindi-English">चटक</a> <span class="latin" style="display:none;">[caṭaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435047"></i> <a class="in l" href="/translate/तेज चलनेवाला/तेज चलनेवाला-meaning-in-Hindi-English">तेज चलनेवाला</a> <span class="latin" style="display:none;">[tēja calanēvālā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12356"></i> <a class="in l" href="/translate/जल्दी/जल्दी-meaning-in-Hindi-English">जल्दी</a> <span class="latin" style="display:none;">[jaldī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13879"></i> <a class="in l" href="/translate/तंग/तंग-meaning-in-Hindi-English">तंग</a> <span class="latin" style="display:none;">[taṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14453"></i> <a class="in l" href="/translate/तीव्र/तीव्र-meaning-in-Hindi-English">तीव्र</a> <span class="latin" style="display:none;">[tīvra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14498"></i> <a class="in l" href="/translate/तुरंत/तुरंत-meaning-in-Hindi-English">तुरंत</a> <span class="latin" style="display:none;">[turanta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14587"></i> <a class="in l" href="/translate/तेज/तेज-meaning-in-Hindi-English">तेज</a> <span class="latin" style="display:none;">[tēja]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15635"></i> <a class="in l" href="/translate/दुश्चरित्र/दुश्चरित्र-meaning-in-Hindi-English">दुश्चरित्र</a> <span class="latin" style="display:none;">[duścaritra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15760"></i> <a class="in l" href="/translate/दृढ़/दृढ़-meaning-in-Hindi-English">दृढ़</a> <span class="latin" style="display:none;">[dr̥ṛha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18291"></i> <a class="in l" href="/translate/पक्का/पक्का-meaning-in-Hindi-English">पक्का</a> <span class="latin" style="display:none;">[pakkā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31600"></i> <a class="in l" href="/translate/शीघ्र/शीघ्र-meaning-in-Hindi-English">शीघ्र</a> <span class="latin" style="display:none;">[śīghra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32890"></i> <a class="in l" href="/translate/सच्चा/सच्चा-meaning-in-Hindi-English">सच्चा</a> <span class="latin" style="display:none;">[saccā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi174496"></i> <a class="in l" href="/translate/तेज़/तेज़-meaning-in-Hindi-English">तेज़</a> <span class="latin" style="display:none;">[tēza]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi187446"></i> <a class="in l" href="/translate/द्रुतगामी/द्रुतगामी-meaning-in-Hindi-English">द्रुतगामी</a> <span class="latin" style="display:none;">[drutagāmī]</span></li></ol></div><div class="col-sm-3"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi402381"></i> <a class="in l" href="/translate/स्थिरता से/स्थिरता से-meaning-in-Hindi-English">स्थिरता से</a> <span class="latin" style="display:none;">[sthiratā sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7018"></i> <a class="in l" href="/translate/कसकर/कसकर-meaning-in-Hindi-English">कसकर</a> <span class="latin" style="display:none;">[kasakara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31600"></i> <a class="in l" href="/translate/शीघ्र/शीघ्र-meaning-in-Hindi-English">शीघ्र</a> <span class="latin" style="display:none;">[śīghra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35590"></i> <a class="in l" href="/translate/स्थिरतापूर्वक/स्थिरतापूर्वक-meaning-in-Hindi-English">स्थिरतापूर्वक</a> <span class="latin" style="display:none;">[sthiratāpūrvaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387366"></i> <a class="in l" href="/translate/तेज़ी से/तेज़ी से-meaning-in-Hindi-English">तेज़ी से</a> <span class="latin" style="display:none;">[tēzī sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392465"></i> <a class="in l" href="/translate/सावधानी से/सावधानी से-meaning-in-Hindi-English">सावधानी से</a> <span class="latin" style="display:none;">[sāvadhānī sē]</span></li></ol></div><div class="col-sm-3"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi401886"></i> <a class="in l" href="/translate/उपवास करना/उपवास करना-meaning-in-Hindi-English">उपवास करना</a> <span class="latin" style="display:none;">[upavāsa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi401887"></i> <a class="in l" href="/translate/भूखा रहना/भूखा रहना-meaning-in-Hindi-English">भूखा रहना</a> <span class="latin" style="display:none;">[bhūkhā rahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi401888"></i> <a class="in l" href="/translate/व्रत रखना/व्रत रखना-meaning-in-Hindi-English">व्रत रखना</a> <span class="latin" style="display:none;">[vrata rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435045"></i> <a class="in l" href="/translate/अनशन करना/अनशन करना-meaning-in-Hindi-English">अनशन करना</a> <span class="latin" style="display:none;">[anaśana karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435048"></i> <a class="in l" href="/translate/अनाहार रहना/अनाहार रहना-meaning-in-Hindi-English">अनाहार रहना</a> <span class="latin" style="display:none;">[anāhāra rahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi798491"></i> <a class="in l" href="/translate/आहार न करना/आहार न करना-meaning-in-Hindi-English">आहार न करना</a> <span class="latin" style="display:none;">[āhāra na karanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/faster/faster-meaning-in-Hindi-English">faster</a> (adjective comparative)<br/><a href="/translate/fastest/fastest-meaning-in-Hindi-English">fastest</a> (adjective superlative)<br/><a href="/translate/fasts/fasts-meaning-in-Hindi-English">fasts</a> (noun plural)<br/><a href="/translate/fasted/fasted-meaning-in-Hindi-English">fasted</a> (verb past tense)<br/><a href="/translate/fasting/fasting-meaning-in-Hindi-English">fasting</a> (verb present participle)<br/><a href="/translate/fasts/fasts-meaning-in-Hindi-English">fasts</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of fast in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>(of a photographic lens or emulsion) causing a shortening of exposure time</li><li>unwavering in devotion to friend or vow or cause<br><u><em>Examples</em></u><br>- loyal supporters<br>- the true-hearted soldier...of Tippecanoe<br>- fast friends<br></li><li>acting or moving or capable of acting or moving quickly<br><u><em>Examples</em></u><br>- on the fast track in school<br>- set a fast pace<br>- a fast car<br></li><li>at a rapid tempo</li><li>(used of timepieces) indicating a time ahead of or later than the correct time</li><li>securely fixed in place</li><li>hurried and brief<br><u><em>Examples</em></u><br>- took a flying glance at the book<br>- a quick inspection<br>- a fast visit<br></li><li>unrestrained by convention or morality<br><u><em>Examples</em></u><br>- deplorably dissipated and degraded<br>- riotous living<br>- fast women<br></li><li>resistant to destruction or fading</li><li>(of surfaces) conducive to rapid speeds<br><u><em>Example</em></u><br>- grass courts are faster than clay<br></li></ol><strong><em>adverb</em></strong></h3><ol class="wnol"><li>quickly or rapidly (often used as a combining form)<br><u><em>Examples</em></u><br>- ran as fast as he could<br>- needs medical help fast<br>- fast-running rivers<br>- fast-breaking news<br>- fast-opening (or fast-closing) shutters<br></li><li>firmly or closely<br><u><em>Examples</em></u><br>- her foot was stuck fast<br>- held tight<br></li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>abstaining from food</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>abstain from eating</li><li>abstain from certain foods, as for religious or medical reasons</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of fast</h2><p><a href="/translate/fast/fast-meaning-in-Hindi-English">fast</a>, <a href="/translate/fasting/fasting-meaning-in-Hindi-English">fasting</a>, <a href="/translate/firm/firm-meaning-in-Hindi-English">firm</a>, <a href="/translate/loyal/loyal-meaning-in-Hindi-English">loyal</a>, <a href="/translate/truehearted/truehearted-meaning-in-Hindi-English">truehearted</a>, <a href="/translate/immobile/immobile-meaning-in-Hindi-English">immobile</a>, <a href="/translate/flying/flying-meaning-in-Hindi-English">flying</a>, <a href="/translate/quick/quick-meaning-in-Hindi-English">quick</a>, <a href="/translate/debauched/debauched-meaning-in-Hindi-English">debauched</a>, <a href="/translate/degenerate/degenerate-meaning-in-Hindi-English">degenerate</a>, <a href="/translate/degraded/degraded-meaning-in-Hindi-English">degraded</a>, <a href="/translate/dissipated/dissipated-meaning-in-Hindi-English">dissipated</a>, <a href="/translate/dissolute/dissolute-meaning-in-Hindi-English">dissolute</a>, <a href="/translate/libertine/libertine-meaning-in-Hindi-English">libertine</a>, <a href="/translate/profligate/profligate-meaning-in-Hindi-English">profligate</a>, <a href="/translate/riotous/riotous-meaning-in-Hindi-English">riotous</a>, <a href="/translate/tight/tight-meaning-in-Hindi-English">tight</a></p><h2 class="ehr">Antonyms of fast</h2><p><a href="/translate/slow/slow-meaning-in-Hindi-English">slow</a></p><h2 class="ehr">More matches for fast</h2><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast asleep/fast asleep-meaning-in-Hindi-English">fast asleep</a></td><td class="l"><a class="in l" href="/translate/सुषुप्त/सुषुप्त-meaning-in-Hindi-English">सुषुप्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast asleep/fast asleep-meaning-in-Hindi-English">fast asleep</a></td><td class="l"><a class="in l" href="/translate/घोर निद्रा में/घोर निद्रा में-meaning-in-Hindi-English">घोर निद्रा में</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast paced/fast paced-meaning-in-Hindi-English">fast paced</a></td><td class="l"><a class="in l" href="/translate/तेज गति/तेज गति-meaning-in-Hindi-English">तेज गति</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast food/fast food-meaning-in-Hindi-English">fast food</a></td><td class="l"><a class="in l" href="/translate/ऐसा खाना जो तुरंत तैयार किया एवं परोसा जा सके/ऐसा खाना जो तुरंत तैयार किया एवं परोसा जा सके-meaning-in-Hindi-English">ऐसा खाना जो तुरंत तैयार किया एवं परोसा जा सके</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast food/fast food-meaning-in-Hindi-English">fast food</a></td><td class="l"><a class="in l" href="/translate/फ़ास्ट फूड/फ़ास्ट फूड-meaning-in-Hindi-English">फ़ास्ट फूड</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast food/fast food-meaning-in-Hindi-English">fast food</a></td><td class="l"><a class="in l" href="/translate/फास्ट फूड/फास्ट फूड-meaning-in-Hindi-English">फास्ट फूड</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast track/fast track-meaning-in-Hindi-English">fast track</a></td><td class="l"><a class="in l" href="/translate/शीघ्रपथ​/शीघ्रपथ​-meaning-in-Hindi-English">शीघ्रपथ​</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast track/fast track-meaning-in-Hindi-English">fast track</a></td><td class="l"><a class="in l" href="/translate/फास्ट ट्रैक/फास्ट ट्रैक-meaning-in-Hindi-English">फास्ट ट्रैक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fast-breeder reactor/fast-breeder reactor-meaning-in-Hindi-English">fast-breeder reactor</a></td><td class="l"><a class="in l" href="/translate/फास्ट ब्रीडर रिएक्टर/फास्ट ब्रीडर रिएक्टर-meaning-in-Hindi-English">फास्ट ब्रीडर रिएक्टर</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/अटकाना/अटकाना-meaning-in-Hindi-English">अटकाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/कसना/कसना-meaning-in-Hindi-English">कसना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/गूंथना/गूंथना-meaning-in-Hindi-English">गूंथना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/चिपकाना/चिपकाना-meaning-in-Hindi-English">चिपकाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/चिपटाना/चिपटाना-meaning-in-Hindi-English">चिपटाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/जकड़ना/जकड़ना-meaning-in-Hindi-English">जकड़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/जड़ना/जड़ना-meaning-in-Hindi-English">जड़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/थोपना/थोपना-meaning-in-Hindi-English">थोपना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/बांधना/बांधना-meaning-in-Hindi-English">बांधना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/लगाना/लगाना-meaning-in-Hindi-English">लगाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/गड़ाना/गड़ाना-meaning-in-Hindi-English">गड़ाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/जकड़ना/जकड़ना-meaning-in-Hindi-English">जकड़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/बन्द करना/बन्द करना-meaning-in-Hindi-English">बन्द करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/fasten/fasten-meaning-in-Hindi-English">fasten</a></td><td class="l"><a class="in l" href="/translate/आरोप लगाना/आरोप लगाना-meaning-in-Hindi-English">आरोप लगाना</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: fast</h3><p>Meaning and definitions of fast, translation in Hindi language for fast with similar and opposite words. Also find spoken pronunciation of fast in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "fast"</h3><p>What fast means in Hindi, fast meaning in Hindi, fast definition, examples and pronunciation of fast in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>hard - Meaning in Hindi - hard in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="hard - Meaning in Hindi, what is meaning of hard in Hindi dictionary, audio pronunciation, synonyms and definitions of hard in Hindi and English.">
+<meta name="keywords" content="hard, meaning of hard, English and Hindi for hard, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/hard/hard-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="hard" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">hard - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of hard</h2><i class="fa fa-volume-up fa-lg in au" id="en321586" style=""></i>हार्ड<div class="page-header"><h2 class="ehr">Meanings of hard in Hindi</h2><small>[<a id="t_on" href="/translate/hard/hard-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi461484"></i> <a class="in l" href="/translate/दृढ़ता से/दृढ़ता से-meaning-in-Hindi-English">दृढ़ता से</a> <span class="latin" style="display:none;">[dr̥ṛhatā sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431442"></i> <a class="in l" href="/translate/पूरी तरह/पूरी तरह-meaning-in-Hindi-English">पूरी तरह</a> <span class="latin" style="display:none;">[pūrī taraha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437856"></i> <a class="in l" href="/translate/कठोर परिश्रमी/कठोर परिश्रमी-meaning-in-Hindi-English">कठोर परिश्रमी</a> <span class="latin" style="display:none;">[kaṭhōra pariśramī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437857"></i> <a class="in l" href="/translate/अभाव की दशा में/अभाव की दशा में-meaning-in-Hindi-English">अभाव की दशा में</a> <span class="latin" style="display:none;">[abhāva kī daśā mēṁ]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437858"></i> <a class="in l" href="/translate/अति अश्लील/अति अश्लील-meaning-in-Hindi-English">अति अश्लील</a> <span class="latin" style="display:none;">[ati aślīla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437859"></i> <a class="in l" href="/translate/परिश्रमशीलता से/परिश्रमशीलता से-meaning-in-Hindi-English">परिश्रमशीलता से</a> <span class="latin" style="display:none;">[pariśramaśīlatā sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437860"></i> <a class="in l" href="/translate/जोड़ से/जोड़ से-meaning-in-Hindi-English">जोड़ से</a> <span class="latin" style="display:none;">[jōṛa sē]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi439133"></i> <a class="in l" href="/translate/न समझने योग्य/न समझने योग्य-meaning-in-Hindi-English">न समझने योग्य</a> <span class="latin" style="display:none;">[na samajhanē yōgya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24541"></i> <a class="in l" href="/translate/भारी/भारी-meaning-in-Hindi-English">भारी</a> <span class="latin" style="display:none;">[bhārī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25160"></i> <a class="in l" href="/translate/मजबूत/मजबूत-meaning-in-Hindi-English">मजबूत</a> <span class="latin" style="display:none;">[majabūta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi800547"></i> <a class="in l" href="/translate/पुष्टक्रूर/पुष्टक्रूर-meaning-in-Hindi-English">पुष्टक्रूर</a> <span class="latin" style="display:none;">[puṣṭakrūra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26508"></i> <a class="in l" href="/translate/मुश्किल/मुश्किल-meaning-in-Hindi-English">मुश्किल</a> <span class="latin" style="display:none;">[muśkila]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29683"></i> <a class="in l" href="/translate/वास्तविक/वास्तविक-meaning-in-Hindi-English">वास्तविक</a> <span class="latin" style="display:none;">[vāstavika]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31917"></i> <a class="in l" href="/translate/श्रमसाध्य/श्रमसाध्य-meaning-in-Hindi-English">श्रमसाध्य</a> <span class="latin" style="display:none;">[śramasādhya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32224"></i> <a class="in l" href="/translate/संगीन/संगीन-meaning-in-Hindi-English">संगीन</a> <span class="latin" style="display:none;">[saṅgīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32862"></i> <a class="in l" href="/translate/सख्त/सख्त-meaning-in-Hindi-English">सख्त</a> <span class="latin" style="display:none;">[sakhta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35655"></i> <a class="in l" href="/translate/स्पष्ट/स्पष्ट-meaning-in-Hindi-English">स्पष्ट</a> <span class="latin" style="display:none;">[spaṣṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi84502"></i> <a class="in l" href="/translate/कड़ा/कड़ा-meaning-in-Hindi-English">कड़ा</a> <span class="latin" style="display:none;">[kaṛā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi341529"></i> <a class="in l" href="/translate/सख़्त/सख़्त-meaning-in-Hindi-English">सख़्त</a> <span class="latin" style="display:none;">[saḵẖta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi371192"></i> <a class="in l" href="/translate/सख़्त/सख़्त-meaning-in-Hindi-English">सख़्त</a> <span class="latin" style="display:none;">[saḵẖta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi560"></i> <a class="in l" href="/translate/अघोष/अघोष-meaning-in-Hindi-English">अघोष</a> <span class="latin" style="display:none;">[aghōṣa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi641"></i> <a class="in l" href="/translate/अटल/अटल-meaning-in-Hindi-English">अटल</a> <span class="latin" style="display:none;">[aṭala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi404655"></i> <a class="in l" href="/translate/मेहनत का/मेहनत का-meaning-in-Hindi-English">मेहनत का</a> <span class="latin" style="display:none;">[mēhanata kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi866"></i> <a class="in l" href="/translate/अत्याधिक/अत्याधिक-meaning-in-Hindi-English">अत्याधिक</a> <span class="latin" style="display:none;">[atyādhika]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6436"></i> <a class="in l" href="/translate/कठिन/कठिन-meaning-in-Hindi-English">कठिन</a> <span class="latin" style="display:none;">[kaṭhina]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6441"></i> <a class="in l" href="/translate/कठोर/कठोर-meaning-in-Hindi-English">कठोर</a> <span class="latin" style="display:none;">[kaṭhōra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6449"></i> <a class="in l" href="/translate/कड़ाई/कड़ाई-meaning-in-Hindi-English">कड़ाई</a> <span class="latin" style="display:none;">[kaṛā'ī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431442"></i> <a class="in l" href="/translate/पूरी तरह/पूरी तरह-meaning-in-Hindi-English">पूरी तरह</a> <span class="latin" style="display:none;">[pūrī taraha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6810"></i> <a class="in l" href="/translate/कर्कश/कर्कश-meaning-in-Hindi-English">कर्कश</a> <span class="latin" style="display:none;">[karkaśa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8686"></i> <a class="in l" href="/translate/कड़ा/कड़ा-meaning-in-Hindi-English">कड़ा</a> <span class="latin" style="display:none;">[kaṛā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437856"></i> <a class="in l" href="/translate/कठोर परिश्रमी/कठोर परिश्रमी-meaning-in-Hindi-English">कठोर परिश्रमी</a> <span class="latin" style="display:none;">[kaṭhōra pariśramī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8861"></i> <a class="in l" href="/translate/खराब/खराब-meaning-in-Hindi-English">खराब</a> <span class="latin" style="display:none;">[kharāba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437857"></i> <a class="in l" href="/translate/अभाव की दशा में/अभाव की दशा में-meaning-in-Hindi-English">अभाव की दशा में</a> <span class="latin" style="display:none;">[abhāva kī daśā mēṁ]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13527"></i> <a class="in l" href="/translate/ठोस/ठोस-meaning-in-Hindi-English">ठोस</a> <span class="latin" style="display:none;">[ṭhōsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15638"></i> <a class="in l" href="/translate/दुष्कर/दुष्कर-meaning-in-Hindi-English">दुष्कर</a> <span class="latin" style="display:none;">[duṣkara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15728"></i> <a class="in l" href="/translate/दृढ़/दृढ़-meaning-in-Hindi-English">दृढ़</a> <span class="latin" style="display:none;">[dr̥ṛha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16879"></i> <a class="in l" href="/translate/नशीला/नशीला-meaning-in-Hindi-English">नशीला</a> <span class="latin" style="display:none;">[naśīlā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437858"></i> <a class="in l" href="/translate/अति अश्लील/अति अश्लील-meaning-in-Hindi-English">अति अश्लील</a> <span class="latin" style="display:none;">[ati aślīla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17610"></i> <a class="in l" href="/translate/निर्दयी/निर्दयी-meaning-in-Hindi-English">निर्दयी</a> <span class="latin" style="display:none;">[nirdayī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17876"></i> <a class="in l" href="/translate/निष्ठुर/निष्ठुर-meaning-in-Hindi-English">निष्ठुर</a> <span class="latin" style="display:none;">[niṣṭhura]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18047"></i> <a class="in l" href="/translate/नृशंस/नृशंस-meaning-in-Hindi-English">नृशंस</a> <span class="latin" style="display:none;">[nr̥śansa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18291"></i> <a class="in l" href="/translate/पक्का/पक्का-meaning-in-Hindi-English">पक्का</a> <span class="latin" style="display:none;">[pakkā]</span></li></ol></div><div class="col-sm-4"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi19677"></i> <a class="in l" href="/translate/पास/पास-meaning-in-Hindi-English">पास</a> <span class="latin" style="display:none;">[pāsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi461484"></i> <a class="in l" href="/translate/दृढ़ता से/दृढ़ता से-meaning-in-Hindi-English">दृढ़ता से</a> <span class="latin" style="display:none;">[dr̥ṛhatā sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25898"></i> <a class="in l" href="/translate/मात्र/मात्र-meaning-in-Hindi-English">मात्र</a> <span class="latin" style="display:none;">[mātra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389608"></i> <a class="in l" href="/translate/कठिनाई से/कठिनाई से-meaning-in-Hindi-English">कठिनाई से</a> <span class="latin" style="display:none;">[kaṭhinā'ī sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389609"></i> <a class="in l" href="/translate/मुश्किल से/मुश्किल से-meaning-in-Hindi-English">मुश्किल से</a> <span class="latin" style="display:none;">[muśkila sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi404660"></i> <a class="in l" href="/translate/कठिनता से/कठिनता से-meaning-in-Hindi-English">कठिनता से</a> <span class="latin" style="display:none;">[kaṭhinatā sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi406241"></i> <a class="in l" href="/translate/कठोरता से/कठोरता से-meaning-in-Hindi-English">कठोरता से</a> <span class="latin" style="display:none;">[kaṭhōratā sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17159"></i> <a class="in l" href="/translate/निकट/निकट-meaning-in-Hindi-English">निकट</a> <span class="latin" style="display:none;">[nikaṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437859"></i> <a class="in l" href="/translate/परिश्रमशीलता से/परिश्रमशीलता से-meaning-in-Hindi-English">परिश्रमशीलता से</a> <span class="latin" style="display:none;">[pariśramaśīlatā sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi437860"></i> <a class="in l" href="/translate/जोड़ से/जोड़ से-meaning-in-Hindi-English">जोड़ से</a> <span class="latin" style="display:none;">[jōṛa sē]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/harder/harder-meaning-in-Hindi-English">harder</a> (adjective comparative)<br/><a href="/translate/hardest/hardest-meaning-in-Hindi-English">hardest</a> (adjective superlative)<br/><a href="/translate/hards/hards-meaning-in-Hindi-English">hards</a> (noun plural)<br/></p><h2 class="ehr">Definitions and Meaning of hard in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>not easy; requiring great physical or mental effort to accomplish or comprehend or endure<br><u><em>Examples</em></u><br>- nesting places on the cliffs are difficult of access<br>- difficult times<br>- why is it so hard for you to keep a secret?<br></li><li>characterized by effort to the point of exhaustion; especially physical effort<br><u><em>Examples</em></u><br>- a grueling campaign<br>- hard labor<br>- heavy work<br>- heavy going<br>- spent many laborious hours on the project<br>- set a punishing pace<br></li><li>dried out</li><li>unfortunate or hard to bear<br><u><em>Example</em></u><br>- a tough break<br></li><li>resisting weight or pressure</li><li>dispassionate<br><u><em>Example</em></u><br>- a hard bargainer<br></li><li>(of speech sounds); produced with the back of the tongue raised toward or touching the velum</li><li>(of light) transmitted directly from a pointed light source</li><li>being distilled rather than fermented; having a high alcoholic content</li><li>given to excessive indulgence of bodily appetites especially for intoxicating liquors</li><li>produced without vibration of the vocal cords</li><li>very strong or vigorous<br><u><em>Examples</em></u><br>- a hard left to the chin<br>- a knockout punch<br>- a severe blow<br></li></ol><strong><em>adverb</em></strong></h3><ol class="wnol"><li>with effort or force or vigor<br><u><em>Examples</em></u><br>- worked hard all day<br>- pressed hard on the lever<br>- hit the ball hard<br>- slammed the door hard<br></li><li>to the full extent possible; all the way<br><u><em>Examples</em></u><br>- the ship went hard astern<br>- swung the wheel hard left<br></li><li>slowly and with difficulty</li><li>causing great damage or hardship<br><u><em>Example</em></u><br>- she was severely affected by the bank's failure<br></li><li>with firmness</li><li>earnestly or intently<br><u><em>Example</em></u><br>- stared hard at the accused<br></li><li>with pain or distress or bitterness</li><li>very near or close in space or time<br><u><em>Examples</em></u><br>- they were hard on his heels<br>- a strike followed hard upon the plant's opening<br></li><li>into a solid condition</li><li>indulging excessively</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of hard</h2><p><a href="/translate/difficult/difficult-meaning-in-Hindi-English">difficult</a>, <a href="/translate/hard/hard-meaning-in-Hindi-English">hard</a>, <a href="/translate/arduous/arduous-meaning-in-Hindi-English">arduous</a>, <a href="/translate/backbreaking/backbreaking-meaning-in-Hindi-English">backbreaking</a>, <a href="/translate/grueling/grueling-meaning-in-Hindi-English">grueling</a>, <a href="/translate/gruelling/gruelling-meaning-in-Hindi-English">gruelling</a>, <a href="/translate/heavy/heavy-meaning-in-Hindi-English">heavy</a>, <a href="/translate/laborious/laborious-meaning-in-Hindi-English">laborious</a>, <a href="/translate/operose/operose-meaning-in-Hindi-English">operose</a>, <a href="/translate/punishing/punishing-meaning-in-Hindi-English">punishing</a>, <a href="/translate/toilsome/toilsome-meaning-in-Hindi-English">toilsome</a>, <a href="/translate/tough/tough-meaning-in-Hindi-English">tough</a>, <a href="/translate/concentrated/concentrated-meaning-in-Hindi-English">concentrated</a>, <a href="/translate/strong/strong-meaning-in-Hindi-English">strong</a>, <a href="/translate/intemperate/intemperate-meaning-in-Hindi-English">intemperate</a>, <a href="/translate/surd/surd-meaning-in-Hindi-English">surd</a>, <a href="/translate/unvoiced/unvoiced-meaning-in-Hindi-English">unvoiced</a>, <a href="/translate/voiceless/voiceless-meaning-in-Hindi-English">voiceless</a>, <a href="/translate/knockout/knockout-meaning-in-Hindi-English">knockout</a>, <a href="/translate/severe/severe-meaning-in-Hindi-English">severe</a>, <a href="/translate/severely/severely-meaning-in-Hindi-English">severely</a>, <a href="/translate/firmly/firmly-meaning-in-Hindi-English">firmly</a>, <a href="/translate/heavily/heavily-meaning-in-Hindi-English">heavily</a>, <a href="/translate/intemperately/intemperately-meaning-in-Hindi-English">intemperately</a></p><h2 class="ehr">Antonyms of hard</h2><p><a href="/translate/soft/soft-meaning-in-Hindi-English">soft</a>, <a href="/translate/diffuse/diffuse-meaning-in-Hindi-English">diffuse</a>, <a href="/translate/diffused/diffused-meaning-in-Hindi-English">diffused</a></p><h2 class="ehr">More matches for hard</h2><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard and fast/hard and fast-meaning-in-Hindi-English">hard and fast</a></td><td class="l"><a class="in l" href="/translate/अपरिवर्तनीय/अपरिवर्तनीय-meaning-in-Hindi-English">अपरिवर्तनीय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard and fast/hard and fast-meaning-in-Hindi-English">hard and fast</a></td><td class="l"><a class="in l" href="/translate/कट्टर/कट्टर-meaning-in-Hindi-English">कट्टर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard and fast/hard and fast-meaning-in-Hindi-English">hard and fast</a></td><td class="l"><a class="in l" href="/translate/कठोर/कठोर-meaning-in-Hindi-English">कठोर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard as nails/hard as nails-meaning-in-Hindi-English">hard as nails</a></td><td class="l"><a class="in l" href="/translate/निर्दयी/निर्दयी-meaning-in-Hindi-English">निर्दयी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard at it/hard at it-meaning-in-Hindi-English">hard at it</a></td><td class="l"><a class="in l" href="/translate/बहुत व्यस्त/बहुत व्यस्त-meaning-in-Hindi-English">बहुत व्यस्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard cover/hard cover-meaning-in-Hindi-English">hard cover</a></td><td class="l"><a class="in l" href="/translate/कठोर आवरण/कठोर आवरण-meaning-in-Hindi-English">कठोर आवरण</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard at it/hard at it-meaning-in-Hindi-English">hard at it</a></td><td class="l"><a class="in l" href="/translate/बहुत व्यस्त/बहुत व्यस्त-meaning-in-Hindi-English">बहुत व्यस्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard by/hard by-meaning-in-Hindi-English">hard by</a></td><td class="l"><a class="in l" href="/translate/पास में/पास में-meaning-in-Hindi-English">पास में</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard cash/hard cash-meaning-in-Hindi-English">hard cash</a></td><td class="l"><a class="in l" href="/translate/नकदी/नकदी-meaning-in-Hindi-English">नकदी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard cash/hard cash-meaning-in-Hindi-English">hard cash</a></td><td class="l"><a class="in l" href="/translate/नकद राशि/नकद राशि-meaning-in-Hindi-English">नकद राशि</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard cash/hard cash-meaning-in-Hindi-English">hard cash</a></td><td class="l"><a class="in l" href="/translate/नक़द रूपया/नक़द रूपया-meaning-in-Hindi-English">नक़द रूपया</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard copy/hard copy-meaning-in-Hindi-English">hard copy</a></td><td class="l"><a class="in l" href="/translate/हार्ड कॉपी/हार्ड कॉपी-meaning-in-Hindi-English">हार्ड कॉपी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard core/hard core-meaning-in-Hindi-English">hard core</a></td><td class="l"><a class="in l" href="/translate/कंकड़/कंकड़-meaning-in-Hindi-English">कंकड़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard core/hard core-meaning-in-Hindi-English">hard core</a></td><td class="l"><a class="in l" href="/translate/कट्टर सदस्य/कट्टर सदस्य-meaning-in-Hindi-English">कट्टर सदस्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard court/hard court-meaning-in-Hindi-English">hard court</a></td><td class="l"><a class="in l" href="/translate/टेनिस खेलने का सिमेंट का मैदान/टेनिस खेलने का सिमेंट का मैदान-meaning-in-Hindi-English">टेनिस खेलने का सिमेंट का मैदान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard court/hard court-meaning-in-Hindi-English">hard court</a></td><td class="l"><a class="in l" href="/translate/टेनिस खेलने का पक्का मैदान/टेनिस खेलने का पक्का मैदान-meaning-in-Hindi-English">टेनिस खेलने का पक्का मैदान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard cover/hard cover-meaning-in-Hindi-English">hard cover</a></td><td class="l"><a class="in l" href="/translate/कठोर आवरण/कठोर आवरण-meaning-in-Hindi-English">कठोर आवरण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard currency/hard currency-meaning-in-Hindi-English">hard currency</a></td><td class="l"><a class="in l" href="/translate/दुर्लभ मुद्रा/दुर्लभ मुद्रा-meaning-in-Hindi-English">दुर्लभ मुद्रा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard currency/hard currency-meaning-in-Hindi-English">hard currency</a></td><td class="l"><a class="in l" href="/translate/दुलर्भ मुद्रा/दुलर्भ मुद्रा-meaning-in-Hindi-English">दुलर्भ मुद्रा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard disc/hard disc-meaning-in-Hindi-English">hard disc</a></td><td class="l"><a class="in l" href="/translate/हार्ड डिस्क/हार्ड डिस्क-meaning-in-Hindi-English">हार्ड डिस्क</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard disk/hard disk-meaning-in-Hindi-English">hard disk</a></td><td class="l"><a class="in l" href="/translate/अनम्य डिस्क/अनम्य डिस्क-meaning-in-Hindi-English">अनम्य डिस्क</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard disk/hard disk-meaning-in-Hindi-English">hard disk</a></td><td class="l"><a class="in l" href="/translate/हार्ड डिस्क/हार्ड डिस्क-meaning-in-Hindi-English">हार्ड डिस्क</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard disk/hard disk-meaning-in-Hindi-English">hard disk</a></td><td class="l"><a class="in l" href="/translate/कम्प्युटर की हार्ड डिस्क/कम्प्युटर की हार्ड डिस्क-meaning-in-Hindi-English">कम्प्युटर की हार्ड डिस्क</a></td></tr></table><h3 class="preposition">preposition&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard by/hard by-meaning-in-Hindi-English">hard by</a></td><td class="l"><a class="in l" href="/translate/के पास/के पास-meaning-in-Hindi-English">के पास</a></td></tr></table><h3 class="adverb">adverb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/hard by/hard by-meaning-in-Hindi-English">hard by</a></td><td class="l"><a class="in l" href="/translate/पास में/पास में-meaning-in-Hindi-English">पास में</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: hard</h3><p>Meaning and definitions of hard, translation in Hindi language for hard with similar and opposite words. Also find spoken pronunciation of hard in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "hard"</h3><p>What hard means in Hindi, hard meaning in Hindi, hard definition, examples and pronunciation of hard in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

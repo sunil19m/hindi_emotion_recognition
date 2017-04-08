@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>dark - Meaning in Hindi - dark in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="dark - Meaning in Hindi, what is meaning of dark in Hindi dictionary, audio pronunciation, synonyms and definitions of dark in Hindi and English.">
+<meta name="keywords" content="dark, meaning of dark, English and Hindi for dark, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/dark/dark-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="dark" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">dark - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of dark</h2><i class="fa fa-volume-up fa-lg in au" id="en230508" style=""></i>डार्क<div class="page-header"><h2 class="ehr">Meanings of dark in Hindi</h2><small>[<a id="t_on" href="/translate/dark/dark-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi16459"></i> <a class="in l" href="/translate/धुंध/धुंध-meaning-in-Hindi-English">धुंध</a> <span class="latin" style="display:none;">[dhundha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17894"></i> <a class="in l" href="/translate/निष्प्रभ/निष्प्रभ-meaning-in-Hindi-English">निष्प्रभ</a> <span class="latin" style="display:none;">[niṣprabha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23672"></i> <a class="in l" href="/translate/बुरा/बुरा-meaning-in-Hindi-English">बुरा</a> <span class="latin" style="display:none;">[burā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24373"></i> <a class="in l" href="/translate/भय/भय-meaning-in-Hindi-English">भय</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bhaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27791"></i> <a class="in l" href="/translate/रात/रात-meaning-in-Hindi-English">रात</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[rāta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31862"></i> <a class="in l" href="/translate/श्याम/श्याम-meaning-in-Hindi-English">श्याम</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[śyāma]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32426"></i> <a class="in l" href="/translate/संध्या/संध्या-meaning-in-Hindi-English">संध्या</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sandhyā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7"></i> <a class="in l" href="/translate/अँधेरा/अँधेरा-meaning-in-Hindi-English">अँधेरा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[am̐dhērā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34117"></i> <a class="in l" href="/translate/सांझ/सांझ-meaning-in-Hindi-English">सांझ</a> <span class="latin" style="display:none;">[sān̄jha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34135"></i> <a class="in l" href="/translate/सांवला/सांवला-meaning-in-Hindi-English">सांवला</a> <span class="latin" style="display:none;">[sānvalā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi43472"></i> <a class="in l" href="/translate/अनैतिकता/अनैतिकता-meaning-in-Hindi-English">अनैतिकता</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[anaitikatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi390583"></i> <a class="in l" href="/translate/काला रंग/काला रंग-meaning-in-Hindi-English">काला रंग</a> <span class="latin" style="display:none;">[kālā raṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi396971"></i> <a class="in l" href="/translate/गहरा रंग/गहरा रंग-meaning-in-Hindi-English">गहरा रंग</a> <span class="latin" style="display:none;">[gaharā raṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi621"></i> <a class="in l" href="/translate/अज्ञानता/अज्ञानता-meaning-in-Hindi-English">अज्ञानता</a> <span class="latin" style="display:none;">[ajñānatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi1829"></i> <a class="in l" href="/translate/अन्धकार/अन्धकार-meaning-in-Hindi-English">अन्धकार</a> <span class="latin" style="display:none;">[andhakāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi432993"></i> <a class="in l" href="/translate/काला रंगा/काला रंगा-meaning-in-Hindi-English">काला रंगा</a> <span class="latin" style="display:none;">[kālā raṅgā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi432994"></i> <a class="in l" href="/translate/गुप्त जगह/गुप्त जगह-meaning-in-Hindi-English">गुप्त जगह</a> <span class="latin" style="display:none;">[gupta jagaha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3480"></i> <a class="in l" href="/translate/अस्पष्ट/अस्पष्ट-meaning-in-Hindi-English">अस्पष्ट</a> <span class="latin" style="display:none;">[aspaṣṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7430"></i> <a class="in l" href="/translate/कालापन/कालापन-meaning-in-Hindi-English">कालापन</a> <span class="latin" style="display:none;">[kālāpana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9881"></i> <a class="in l" href="/translate/गुप्त/गुप्त-meaning-in-Hindi-English">गुप्त</a> <span class="latin" style="display:none;">[gupta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi795538"></i> <a class="in l" href="/translate/प्रकाश का अभाव/प्रकाश का अभाव-meaning-in-Hindi-English">प्रकाश का अभाव</a> <span class="latin" style="display:none;">[prakāśa kā abhāva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10010"></i> <a class="in l" href="/translate/गूढ़/गूढ़-meaning-in-Hindi-English">गूढ़</a> <span class="latin" style="display:none;">[gūṛha]</span></li></ol></div><div class="col-sm-6"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi15644"></i> <a class="in l" href="/translate/दुष्ट/दुष्ट-meaning-in-Hindi-English">दुष्ट</a> <span class="latin" style="display:none;">[duṣṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16455"></i> <a class="in l" href="/translate/धुँधला/धुँधला-meaning-in-Hindi-English">धुँधला</a> <span class="latin" style="display:none;">[dhum̐dhalā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16461"></i> <a class="in l" href="/translate/धुंधला/धुंधला-meaning-in-Hindi-English">धुंधला</a> <span class="latin" style="display:none;">[dhundhalā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17350"></i> <a class="in l" href="/translate/निन्द्य/निन्द्य-meaning-in-Hindi-English">निन्द्य</a> <span class="latin" style="display:none;">[nindya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17534"></i> <a class="in l" href="/translate/निराशाजनक/निराशाजनक-meaning-in-Hindi-English">निराशाजनक</a> <span class="latin" style="display:none;">[nirāśājanaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19281"></i> <a class="in l" href="/translate/पश्च/पश्च-meaning-in-Hindi-English">पश्च</a> <span class="latin" style="display:none;">[paśca]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34103"></i> <a class="in l" href="/translate/साँवला/साँवला-meaning-in-Hindi-English">साँवला</a> <span class="latin" style="display:none;">[sām̐valā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi279"></i> <a class="in l" href="/translate/अंधकार/अंधकार-meaning-in-Hindi-English">अंधकार</a> <span class="latin" style="display:none;">[andhakāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi281"></i> <a class="in l" href="/translate/अंधकारपूर्ण/अंधकारपूर्ण-meaning-in-Hindi-English">अंधकारपूर्ण</a> <span class="latin" style="display:none;">[andhakārapūrṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi282"></i> <a class="in l" href="/translate/अंधकारमय/अंधकारमय-meaning-in-Hindi-English">अंधकारमय</a> <span class="latin" style="display:none;">[andhakāramaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi100562"></i> <a class="in l" href="/translate/कृष्णा/कृष्णा-meaning-in-Hindi-English">कृष्णा</a> <span class="latin" style="display:none;">[kr̥ṣṇā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi292"></i> <a class="in l" href="/translate/अंधेरा/अंधेरा-meaning-in-Hindi-English">अंधेरा</a> <span class="latin" style="display:none;">[andhērā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi293"></i> <a class="in l" href="/translate/अंधेरापन/अंधेरापन-meaning-in-Hindi-English">अंधेरापन</a> <span class="latin" style="display:none;">[andhērāpana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi400709"></i> <a class="in l" href="/translate/बहुत बुरा/बहुत बुरा-meaning-in-Hindi-English">बहुत बुरा</a> <span class="latin" style="display:none;">[bahuta burā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi411407"></i> <a class="in l" href="/translate/रात का/रात का-meaning-in-Hindi-English">रात का</a> <span class="latin" style="display:none;">[rāta kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3098"></i> <a class="in l" href="/translate/अविज्ञ/अविज्ञ-meaning-in-Hindi-English">अविज्ञ</a> <span class="latin" style="display:none;">[avijña]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7423"></i> <a class="in l" href="/translate/काला/काला-meaning-in-Hindi-English">काला</a> <span class="latin" style="display:none;">[kālā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi660020"></i> <a class="in l" href="/translate/अन्धकारमय/अन्धकारमय-meaning-in-Hindi-English">अन्धकारमय</a> <span class="latin" style="display:none;">[andhakāramaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9584"></i> <a class="in l" href="/translate/गहरा/गहरा-meaning-in-Hindi-English">गहरा</a> <span class="latin" style="display:none;">[gaharā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi795537"></i> <a class="in l" href="/translate/गहरे रंग का/गहरे रंग का-meaning-in-Hindi-English">गहरे रंग का</a> <span class="latin" style="display:none;">[gaharē raṅga kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10004"></i> <a class="in l" href="/translate/गूढ़/गूढ़-meaning-in-Hindi-English">गूढ़</a> <span class="latin" style="display:none;">[gūṛha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12893"></i> <a class="in l" href="/translate/ज्ञानशून्यता/ज्ञानशून्यता-meaning-in-Hindi-English">ज्ञानशून्यता</a> <span class="latin" style="display:none;">[jñānaśūn'yatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15482"></i> <a class="in l" href="/translate/दुःखद/दुःखद-meaning-in-Hindi-English">दुःखद</a> <span class="latin" style="display:none;">[duḥkhada]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/darker/darker-meaning-in-Hindi-English">darker</a> (adjective comparative)<br/><a href="/translate/darkest/darkest-meaning-in-Hindi-English">darkest</a> (adjective superlative)<br/><a href="/translate/darks/darks-meaning-in-Hindi-English">darks</a> (noun plural)<br/><a href="/translate/darked/darked-meaning-in-Hindi-English">darked</a> (verb past tense)<br/><a href="/translate/darking/darking-meaning-in-Hindi-English">darking</a> (verb present participle)<br/><a href="/translate/darks/darks-meaning-in-Hindi-English">darks</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of dark in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>not giving performances; closed</li><li>having skin rich in melanin pigments<br><u><em>Example</em></u><br>- dark-skinned peoples<br></li><li>brunet (used of hair or skin or eyes)</li><li>devoid of or deficient in light or brightness; shadowed or black<br><u><em>Examples</em></u><br>- a dark day<br>- dark shadows<br>- dark as the inside of a black cat<br></li><li>causing dejection<br><u><em>Examples</em></u><br>- the dark days of the war<br>- a week of rainy depressing weather<br>- a disconsolate winter landscape<br>- the first dismal dispiriting days of November<br>- a dark gloomy day<br>- grim rainy weather<br></li><li>(used of color) having a dark hue<br><u><em>Examples</em></u><br>- dark glasses<br>- dark colors like wine red or navy blue<br></li><li>marked by difficulty of style or expression<br><u><em>Example</em></u><br>- those who do not appreciate Kafka's work say his style is obscure<br></li><li>lacking enlightenment or knowledge or culture<br><u><em>Examples</em></u><br>- benighted ages of barbarism and superstition<br>- the dark ages<br>- a dark age in the history of education<br></li><li>stemming from evil characteristics or forces; wicked or dishonorable<br><u><em>Examples</em></u><br>- a black lie<br>- his black heart has concocted yet another black deed<br>- Darth Vader of the dark side<br>- a dark purpose<br>- dark undercurrents of ethnic hostility<br>- the scheme of some sinister intelligence bent on punishing him<br></li><li>showing a brooding ill humor<br><u><em>Examples</em></u><br>- the proverbially dour New England Puritan<br>- a glum, hopeless shrug<br>- he sat in moody silence<br>- a morose and unsociable manner<br>- a saturnine, almost misanthropic young genius<br>- a sour temper<br>- a sullen crowd<br></li><li>secret</li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>an unenlightened state<br><u><em>Example</em></u><br>- his lectures dispelled the darkness<br></li><li>an unilluminated area</li><li>absence of light or illumination</li><li>absence of moral or spiritual values</li><li>the time after sunset and before sunrise while it is dark outside</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of dark</h2><p><a href="/translate/dark/dark-meaning-in-Hindi-English">dark</a>, <a href="/translate/darkness/darkness-meaning-in-Hindi-English">darkness</a>, <a href="/translate/shadow/shadow-meaning-in-Hindi-English">shadow</a>, <a href="/translate/iniquity/iniquity-meaning-in-Hindi-English">iniquity</a>, <a href="/translate/wickedness/wickedness-meaning-in-Hindi-English">wickedness</a>, <a href="/translate/night/night-meaning-in-Hindi-English">night</a>, <a href="/translate/nighttime/nighttime-meaning-in-Hindi-English">nighttime</a>, <a href="/translate/colored/colored-meaning-in-Hindi-English">colored</a>, <a href="/translate/coloured/coloured-meaning-in-Hindi-English">coloured</a>, <a href="/translate/dark-skinned/dark-skinned-meaning-in-Hindi-English">dark-skinned</a>, <a href="/translate/non-white/non-white-meaning-in-Hindi-English">non-white</a>, <a href="/translate/blue/blue-meaning-in-Hindi-English">blue</a>, <a href="/translate/dingy/dingy-meaning-in-Hindi-English">dingy</a>, <a href="/translate/disconsolate/disconsolate-meaning-in-Hindi-English">disconsolate</a>, <a href="/translate/dismal/dismal-meaning-in-Hindi-English">dismal</a>, <a href="/translate/drab/drab-meaning-in-Hindi-English">drab</a>, <a href="/translate/drear/drear-meaning-in-Hindi-English">drear</a>, <a href="/translate/dreary/dreary-meaning-in-Hindi-English">dreary</a>, <a href="/translate/gloomy/gloomy-meaning-in-Hindi-English">gloomy</a>, <a href="/translate/grim/grim-meaning-in-Hindi-English">grim</a>, <a href="/translate/sorry/sorry-meaning-in-Hindi-English">sorry</a>, <a href="/translate/obscure/obscure-meaning-in-Hindi-English">obscure</a>, <a href="/translate/benighted/benighted-meaning-in-Hindi-English">benighted</a>, <a href="/translate/black/black-meaning-in-Hindi-English">black</a>, <a href="/translate/sinister/sinister-meaning-in-Hindi-English">sinister</a>, <a href="/translate/dour/dour-meaning-in-Hindi-English">dour</a>, <a href="/translate/glowering/glowering-meaning-in-Hindi-English">glowering</a>, <a href="/translate/glum/glum-meaning-in-Hindi-English">glum</a>, <a href="/translate/moody/moody-meaning-in-Hindi-English">moody</a>, <a href="/translate/morose/morose-meaning-in-Hindi-English">morose</a>, <a href="/translate/saturnine/saturnine-meaning-in-Hindi-English">saturnine</a>, <a href="/translate/sour/sour-meaning-in-Hindi-English">sour</a>, <a href="/translate/sullen/sullen-meaning-in-Hindi-English">sullen</a></p><h2 class="ehr">Antonyms of dark</h2><p><a href="/translate/light/light-meaning-in-Hindi-English">light</a>, <a href="/translate/lighting/lighting-meaning-in-Hindi-English">lighting</a>, <a href="/translate/light-colored/light-colored-meaning-in-Hindi-English">light-colored</a></p><h2 class="ehr">More matches for dark</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark age/dark age-meaning-in-Hindi-English">dark age</a></td><td class="l"><a class="in l" href="/translate/अंधकार-युग/अंधकार-युग-meaning-in-Hindi-English">अंधकार-युग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark age/dark age-meaning-in-Hindi-English">dark age</a></td><td class="l"><a class="in l" href="/translate/यूरोप में छठी से दसवीं शताब्दी का समय/यूरोप में छठी से दसवीं शताब्दी का समय-meaning-in-Hindi-English">यूरोप में छठी से दसवीं शताब्दी का समय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark beer/dark beer-meaning-in-Hindi-English">dark beer</a></td><td class="l"><a class="in l" href="/translate/डार्क बियर/डार्क बियर-meaning-in-Hindi-English">डार्क बियर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark blue/dark blue-meaning-in-Hindi-English">dark blue</a></td><td class="l"><a class="in l" href="/translate/गहरा नीला/गहरा नीला-meaning-in-Hindi-English">गहरा नीला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark complexion/dark complexion-meaning-in-Hindi-English">dark complexion</a></td><td class="l"><a class="in l" href="/translate/सांवला रंग/सांवला रंग-meaning-in-Hindi-English">सांवला रंग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark glasses/dark glasses-meaning-in-Hindi-English">dark glasses</a></td><td class="l"><a class="in l" href="/translate/काला चश्मा/काला चश्मा-meaning-in-Hindi-English">काला चश्मा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark horse/dark horse-meaning-in-Hindi-English">dark horse</a></td><td class="l"><a class="in l" href="/translate/अप्रत्याशित मनोनयन/अप्रत्याशित मनोनयन-meaning-in-Hindi-English">अप्रत्याशित मनोनयन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark horse/dark horse-meaning-in-Hindi-English">dark horse</a></td><td class="l"><a class="in l" href="/translate/अप्रत्याशित विजेता/अप्रत्याशित विजेता-meaning-in-Hindi-English">अप्रत्याशित विजेता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark horse/dark horse-meaning-in-Hindi-English">dark horse</a></td><td class="l"><a class="in l" href="/translate/अज्ञात अभ्यर्थी/अज्ञात अभ्यर्थी-meaning-in-Hindi-English">अज्ञात अभ्यर्थी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark horse/dark horse-meaning-in-Hindi-English">dark horse</a></td><td class="l"><a class="in l" href="/translate/दौड़ का अज्ञात घोड़ा/दौड़ का अज्ञात घोड़ा-meaning-in-Hindi-English">दौड़ का अज्ञात घोड़ा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark horse/dark horse-meaning-in-Hindi-English">dark horse</a></td><td class="l"><a class="in l" href="/translate/अज्ञात उम्मीदवार/अज्ञात उम्मीदवार-meaning-in-Hindi-English">अज्ञात उम्मीदवार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark horse/dark horse-meaning-in-Hindi-English">dark horse</a></td><td class="l"><a class="in l" href="/translate/अनपेक्षित अभ्यर्थी/अनपेक्षित अभ्यर्थी-meaning-in-Hindi-English">अनपेक्षित अभ्यर्थी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark red/dark red-meaning-in-Hindi-English">dark red</a></td><td class="l"><a class="in l" href="/translate/गहरे लाल/गहरे लाल-meaning-in-Hindi-English">गहरे लाल</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark haired/dark haired-meaning-in-Hindi-English">dark haired</a></td><td class="l"><a class="in l" href="/translate/काले बालों वाला/काले बालों वाला-meaning-in-Hindi-English">काले बालों वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark skinned/dark skinned-meaning-in-Hindi-English">dark skinned</a></td><td class="l"><a class="in l" href="/translate/श्यामवर्ण/श्यामवर्ण-meaning-in-Hindi-English">श्यामवर्ण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark skinned/dark skinned-meaning-in-Hindi-English">dark skinned</a></td><td class="l"><a class="in l" href="/translate/श्यामवर्णी/श्यामवर्णी-meaning-in-Hindi-English">श्यामवर्णी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark-blue/dark-blue-meaning-in-Hindi-English">dark-blue</a></td><td class="l"><a class="in l" href="/translate/गहरा नीला/गहरा नीला-meaning-in-Hindi-English">गहरा नीला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark-green/dark-green-meaning-in-Hindi-English">dark-green</a></td><td class="l"><a class="in l" href="/translate/गहरा हरा/गहरा हरा-meaning-in-Hindi-English">गहरा हरा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dark-skinned/dark-skinned-meaning-in-Hindi-English">dark-skinned</a></td><td class="l"><a class="in l" href="/translate/साँवला/साँवला-meaning-in-Hindi-English">साँवला</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/गहराना/गहराना-meaning-in-Hindi-English">गहराना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/काला करना/काला करना-meaning-in-Hindi-English">काला करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/अंधा करना/अंधा करना-meaning-in-Hindi-English">अंधा करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/अस्पष्ट करना/अस्पष्ट करना-meaning-in-Hindi-English">अस्पष्ट करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/उदास हो जाना/उदास हो जाना-meaning-in-Hindi-English">उदास हो जाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/अंधेरा होना/अंधेरा होना-meaning-in-Hindi-English">अंधेरा होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/अंधेरा करना/अंधेरा करना-meaning-in-Hindi-English">अंधेरा करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/अंधकारमय होना/अंधकारमय होना-meaning-in-Hindi-English">अंधकारमय होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/काला होना/काला होना-meaning-in-Hindi-English">काला होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/काला हो जाना/काला हो जाना-meaning-in-Hindi-English">काला हो जाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/darken/darken-meaning-in-Hindi-English">darken</a></td><td class="l"><a class="in l" href="/translate/उदासी छाना/उदासी छाना-meaning-in-Hindi-English">उदासी छाना</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: dark</h3><p>Meaning and definitions of dark, translation in Hindi language for dark with similar and opposite words. Also find spoken pronunciation of dark in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "dark"</h3><p>What dark means in Hindi, dark meaning in Hindi, dark definition, examples and pronunciation of dark in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

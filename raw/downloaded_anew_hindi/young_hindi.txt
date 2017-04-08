@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>young - Meaning in Hindi - young in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="young - Meaning in Hindi, what is meaning of young in Hindi dictionary, audio pronunciation, synonyms and definitions of young in Hindi and English.">
+<meta name="keywords" content="young, meaning of young, English and Hindi for young, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/young/young-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="young" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">young - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of young</h2><i class="fa fa-volume-up fa-lg in au" id="en666002" style=""></i>यंग<div class="page-header"><h2 class="ehr">Meanings of young in Hindi</h2><small>[<a id="t_on" href="/translate/young/young-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi16845"></i> <a class="in l" href="/translate/नवयुवक/नवयुवक-meaning-in-Hindi-English">नवयुवक</a> <span class="latin" style="display:none;">[navayuvaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22569"></i> <a class="in l" href="/translate/बच्चा/बच्चा-meaning-in-Hindi-English">बच्चा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[baccā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31452"></i> <a class="in l" href="/translate/शावक/शावक-meaning-in-Hindi-English">शावक</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[śāvaka]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi6358"></i> <a class="in l" href="/translate/कच्चा/कच्चा-meaning-in-Hindi-English">कच्चा</a> <span class="latin" style="display:none;">[kaccā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7802"></i> <a class="in l" href="/translate/कुमार/कुमार-meaning-in-Hindi-English">कुमार</a> <span class="latin" style="display:none;">[kumāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11921"></i> <a class="in l" href="/translate/छोटा/छोटा-meaning-in-Hindi-English">छोटा</a> <span class="latin" style="display:none;">[chōṭā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12358"></i> <a class="in l" href="/translate/जवान/जवान-meaning-in-Hindi-English">जवान</a> <span class="latin" style="display:none;">[javāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14128"></i> <a class="in l" href="/translate/तरुण/तरुण-meaning-in-Hindi-English">तरुण</a> <span class="latin" style="display:none;">[taruṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16737"></i> <a class="in l" href="/translate/नन्हा/नन्हा-meaning-in-Hindi-English">नन्हा</a> <span class="latin" style="display:none;">[nanhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16772"></i> <a class="in l" href="/translate/नया/नया-meaning-in-Hindi-English">नया</a> <span class="latin" style="display:none;">[nayā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16775"></i> <a class="in l" href="/translate/नयी/नयी-meaning-in-Hindi-English">नयी</a> <span class="latin" style="display:none;">[nayī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16873"></i> <a class="in l" href="/translate/नवोदित/नवोदित-meaning-in-Hindi-English">नवोदित</a> <span class="latin" style="display:none;">[navōdita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23330"></i> <a class="in l" href="/translate/बाल/बाल-meaning-in-Hindi-English">बाल</a> <span class="latin" style="display:none;">[bāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26590"></i> <a class="in l" href="/translate/मूर्ख/मूर्ख-meaning-in-Hindi-English">मूर्ख</a> <span class="latin" style="display:none;">[mūrkha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27243"></i> <a class="in l" href="/translate/युवा/युवा-meaning-in-Hindi-English">युवा</a> <span class="latin" style="display:none;">[yuvā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi171462"></i> <a class="in l" href="/translate/ताज़ा/ताज़ा-meaning-in-Hindi-English">ताज़ा</a> <span class="latin" style="display:none;">[tāzā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi171478"></i> <a class="in l" href="/translate/ताज़ी/ताज़ी-meaning-in-Hindi-English">ताज़ी</a> <span class="latin" style="display:none;">[tāzī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi425382"></i> <a class="in l" href="/translate/बिना अनुभव का/बिना अनुभव का-meaning-in-Hindi-English">बिना अनुभव का</a> <span class="latin" style="display:none;">[binā anubhava kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12358"></i> <a class="in l" href="/translate/जवान/जवान-meaning-in-Hindi-English">जवान</a> <span class="latin" style="display:none;">[javāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27243"></i> <a class="in l" href="/translate/युवा/युवा-meaning-in-Hindi-English">युवा</a> <span class="latin" style="display:none;">[yuvā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi86307"></i> <a class="in l" href="/translate/कमसिन/कमसिन-meaning-in-Hindi-English">कमसिन</a> <span class="latin" style="display:none;">[kamasina]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi1576"></i> <a class="in l" href="/translate/अनुभवहीन/अनुभवहीन-meaning-in-Hindi-English">अनुभवहीन</a> <span class="latin" style="display:none;">[anubhavahīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2866"></i> <a class="in l" href="/translate/अल्पवयस्क/अल्पवयस्क-meaning-in-Hindi-English">अल्पवयस्क</a> <span class="latin" style="display:none;">[alpavayaska]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2880"></i> <a class="in l" href="/translate/अल्पायु/अल्पायु-meaning-in-Hindi-English">अल्पायु</a> <span class="latin" style="display:none;">[alpāyu]</span></li></ol></div><div class="col-sm-4"><h3 class=" "><em> &nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi2866"></i> <a class="in l" href="/translate/अल्पवयस्क/अल्पवयस्क-meaning-in-Hindi-English">अल्पवयस्क</a> <span class="latin" style="display:none;">[alpavayaska]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11921"></i> <a class="in l" href="/translate/छोटा/छोटा-meaning-in-Hindi-English">छोटा</a> <span class="latin" style="display:none;">[chōṭā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/younger/younger-meaning-in-Hindi-English">younger</a> (adjective comparative)<br/><a href="/translate/youngest/youngest-meaning-in-Hindi-English">youngest</a> (adjective superlative)<br/><a href="/translate/young/young-meaning-in-Hindi-English">young</a> (noun plural)<br/></p><h2 class="ehr">Definitions and Meaning of young in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>(of crops) harvested at an early stage of development; before complete maturity<br><u><em>Example</em></u><br>- young corn<br></li><li>not tried or tested by experience<br><u><em>Examples</em></u><br>- still untested in battle<br>- an illustrator untried in mural painting<br>- a young hand at plowing<br></li><li>being in its early stage<br><u><em>Example</em></u><br>- the day is still young<br></li><li>(used of living things especially persons) in an early period of life or development or growth</li><li>suggestive of youth; vigorous and fresh</li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>any immature animal</li><li>young people collectively<br><u><em>Example</em></u><br>- youth everywhere rises in revolt<br></li><li>United States religious leader of the Mormon Church after the assassination of Joseph Smith; he led the Mormon exodus from Illinois to Salt Lake City, Utah (1801-1877)</li><li>United States baseball player and famous pitcher (1867-1955)</li><li>English poet (1683-1765)</li><li>United States jazz tenor saxophonist (1909-1959)</li><li>British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)</li><li>United States civil rights leader (1921-1971)</li><li>United States film and television actress (1913-2000)</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of young</h2><p><a href="/translate/offspring/offspring-meaning-in-Hindi-English">offspring</a>, <a href="/translate/young/young-meaning-in-Hindi-English">young</a>, <a href="/translate/youth/youth-meaning-in-Hindi-English">youth</a>, <a href="/translate/brigham+young/brigham+young-meaning-in-Hindi-English">brigham young</a>, <a href="/translate/cy+young/cy+young-meaning-in-Hindi-English">cy young</a>, <a href="/translate/danton+true+young/danton+true+young-meaning-in-Hindi-English">danton true young</a>, <a href="/translate/edward+young/edward+young-meaning-in-Hindi-English">edward young</a>, <a href="/translate/lester+willis+young/lester+willis+young-meaning-in-Hindi-English">lester willis young</a>, <a href="/translate/pres+young/pres+young-meaning-in-Hindi-English">pres young</a>, <a href="/translate/thomas+young/thomas+young-meaning-in-Hindi-English">thomas young</a>, <a href="/translate/whitney+moore+young+jr./whitney+moore+young+jr.-meaning-in-Hindi-English">whitney moore young jr.</a>, <a href="/translate/whitney+young/whitney+young-meaning-in-Hindi-English">whitney young</a>, <a href="/translate/loretta+young/loretta+young-meaning-in-Hindi-English">loretta young</a>, <a href="/translate/new/new-meaning-in-Hindi-English">new</a>, <a href="/translate/unseasoned/unseasoned-meaning-in-Hindi-English">unseasoned</a>, <a href="/translate/untested/untested-meaning-in-Hindi-English">untested</a>, <a href="/translate/untried/untried-meaning-in-Hindi-English">untried</a>, <a href="/translate/immature/immature-meaning-in-Hindi-English">immature</a>, <a href="/translate/vernal/vernal-meaning-in-Hindi-English">vernal</a>, <a href="/translate/youthful/youthful-meaning-in-Hindi-English">youthful</a></p><h2 class="ehr">Antonyms of young</h2><p><a href="/translate/aged/aged-meaning-in-Hindi-English">aged</a>, <a href="/translate/elderly/elderly-meaning-in-Hindi-English">elderly</a>, <a href="/translate/old/old-meaning-in-Hindi-English">old</a></p><h2 class="ehr">More matches for young</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young bird/young bird-meaning-in-Hindi-English">young bird</a></td><td class="l"><a class="in l" href="/translate/चूज़ा/चूज़ा-meaning-in-Hindi-English">चूज़ा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young buck/young buck-meaning-in-Hindi-English">young buck</a></td><td class="l"><a class="in l" href="/translate/किशोर/किशोर-meaning-in-Hindi-English">किशोर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young buck/young buck-meaning-in-Hindi-English">young buck</a></td><td class="l"><a class="in l" href="/translate/नवयुवक/नवयुवक-meaning-in-Hindi-English">नवयुवक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young girl/young girl-meaning-in-Hindi-English">young girl</a></td><td class="l"><a class="in l" href="/translate/किशोरी/किशोरी-meaning-in-Hindi-English">किशोरी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young girl/young girl-meaning-in-Hindi-English">young girl</a></td><td class="l"><a class="in l" href="/translate/तरुणा/तरुणा-meaning-in-Hindi-English">तरुणा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young girl/young girl-meaning-in-Hindi-English">young girl</a></td><td class="l"><a class="in l" href="/translate/बाला/बाला-meaning-in-Hindi-English">बाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young girl/young girl-meaning-in-Hindi-English">young girl</a></td><td class="l"><a class="in l" href="/translate/बालिका/बालिका-meaning-in-Hindi-English">बालिका</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young girl/young girl-meaning-in-Hindi-English">young girl</a></td><td class="l"><a class="in l" href="/translate/तरुणी/तरुणी-meaning-in-Hindi-English">तरुणी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young girl/young girl-meaning-in-Hindi-English">young girl</a></td><td class="l"><a class="in l" href="/translate/युविका/युविका-meaning-in-Hindi-English">युविका</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young lady/young lady-meaning-in-Hindi-English">young lady</a></td><td class="l"><a class="in l" href="/translate/नवयुवती/नवयुवती-meaning-in-Hindi-English">नवयुवती</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young lady/young lady-meaning-in-Hindi-English">young lady</a></td><td class="l"><a class="in l" href="/translate/युवती/युवती-meaning-in-Hindi-English">युवती</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young man/young man-meaning-in-Hindi-English">young man</a></td><td class="l"><a class="in l" href="/translate/किशोर/किशोर-meaning-in-Hindi-English">किशोर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young man/young man-meaning-in-Hindi-English">young man</a></td><td class="l"><a class="in l" href="/translate/नवयुवक/नवयुवक-meaning-in-Hindi-English">नवयुवक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young man/young man-meaning-in-Hindi-English">young man</a></td><td class="l"><a class="in l" href="/translate/प्रेमी/प्रेमी-meaning-in-Hindi-English">प्रेमी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young people/young people-meaning-in-Hindi-English">young people</a></td><td class="l"><a class="in l" href="/translate/नवयुवक/नवयुवक-meaning-in-Hindi-English">नवयुवक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young people/young people-meaning-in-Hindi-English">young people</a></td><td class="l"><a class="in l" href="/translate/युवक/युवक-meaning-in-Hindi-English">युवक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young person/young person-meaning-in-Hindi-English">young person</a></td><td class="l"><a class="in l" href="/translate/किशोर/किशोर-meaning-in-Hindi-English">किशोर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young person/young person-meaning-in-Hindi-English">young person</a></td><td class="l"><a class="in l" href="/translate/नवयुवक/नवयुवक-meaning-in-Hindi-English">नवयुवक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/Young Turk/Young Turk-meaning-in-Hindi-English">Young Turk</a></td><td class="l"><a class="in l" href="/translate/युवा तुर्क/युवा तुर्क-meaning-in-Hindi-English">युवा तुर्क</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young woman/young woman-meaning-in-Hindi-English">young woman</a></td><td class="l"><a class="in l" href="/translate/नवयुवती/नवयुवती-meaning-in-Hindi-English">नवयुवती</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/young woman/young woman-meaning-in-Hindi-English">young woman</a></td><td class="l"><a class="in l" href="/translate/युवती/युवती-meaning-in-Hindi-English">युवती</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/youngling/youngling-meaning-in-Hindi-English">youngling</a></td><td class="l"><a class="in l" href="/translate/बालक/बालक-meaning-in-Hindi-English">बालक</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/younger/younger-meaning-in-Hindi-English">younger</a></td><td class="l"><a class="in l" href="/translate/कनिष्ठ/कनिष्ठ-meaning-in-Hindi-English">कनिष्ठ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/younger/younger-meaning-in-Hindi-English">younger</a></td><td class="l"><a class="in l" href="/translate/छोटा/छोटा-meaning-in-Hindi-English">छोटा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/younger/younger-meaning-in-Hindi-English">younger</a></td><td class="l"><a class="in l" href="/translate/उम्र में छोटा/उम्र में छोटा-meaning-in-Hindi-English">उम्र में छोटा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/youngish/youngish-meaning-in-Hindi-English">youngish</a></td><td class="l"><a class="in l" href="/translate/किशोर/किशोर-meaning-in-Hindi-English">किशोर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/youngish/youngish-meaning-in-Hindi-English">youngish</a></td><td class="l"><a class="in l" href="/translate/तरुण/तरुण-meaning-in-Hindi-English">तरुण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/youngish/youngish-meaning-in-Hindi-English">youngish</a></td><td class="l"><a class="in l" href="/translate/जवान सा/जवान सा-meaning-in-Hindi-English">जवान सा</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: young</h3><p>Meaning and definitions of young, translation in Hindi language for young with similar and opposite words. Also find spoken pronunciation of young in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "young"</h3><p>What young means in Hindi, young meaning in Hindi, young definition, examples and pronunciation of young in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

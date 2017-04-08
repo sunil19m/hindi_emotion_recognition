@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>seat - Meaning in Hindi - seat in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="seat - Meaning in Hindi, what is meaning of seat in Hindi dictionary, audio pronunciation, synonyms and definitions of seat in Hindi and English.">
+<meta name="keywords" content="seat, meaning of seat, English and Hindi for seat, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/seat/seat-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="seat" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">seat - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of seat</h2><i class="fa fa-volume-up fa-lg in au" id="en530745" style=""></i>सीट<div class="page-header"><h2 class="ehr">Meanings of seat in Hindi</h2><small>[<a id="t_on" href="/translate/seat/seat-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi24024"></i> <a class="in l" href="/translate/बैठक/बैठक-meaning-in-Hindi-English">बैठक</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[baiṭhaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26310"></i> <a class="in l" href="/translate/मुकाम/मुकाम-meaning-in-Hindi-English">मुकाम</a> <span class="latin" style="display:none;">[mukāma]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33005"></i> <a class="in l" href="/translate/सदर/सदर-meaning-in-Hindi-English">सदर</a> <span class="latin" style="display:none;">[sadara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34625"></i> <a class="in l" href="/translate/सीट/सीट-meaning-in-Hindi-English">सीट</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sīṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35545"></i> <a class="in l" href="/translate/स्थान/स्थान-meaning-in-Hindi-English">स्थान</a> <span class="latin" style="display:none;">[sthāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35581"></i> <a class="in l" href="/translate/स्थिति/स्थिति-meaning-in-Hindi-English">स्थिति</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sthiti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi116042"></i> <a class="in l" href="/translate/गढ़/गढ़-meaning-in-Hindi-English">गढ़</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[gaṛha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385901"></i> <a class="in l" href="/translate/निवास स्थान/निवास स्थान-meaning-in-Hindi-English">निवास स्थान</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[nivāsa sthāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3934"></i> <a class="in l" href="/translate/आधार/आधार-meaning-in-Hindi-English">आधार</a> <span class="latin" style="display:none;">[ādhāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4417"></i> <a class="in l" href="/translate/आसन/आसन-meaning-in-Hindi-English">आसन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[āsana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi810368"></i> <a class="in l" href="/translate/बैठने का आसन/बैठने का आसन-meaning-in-Hindi-English">बैठने का आसन</a> <span class="latin" style="display:none;">[baiṭhanē kā āsana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6227"></i> <a class="in l" href="/translate/ओहदा/ओहदा-meaning-in-Hindi-English">ओहदा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ōhadā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7821"></i> <a class="in l" href="/translate/कुरसी/कुरसी-meaning-in-Hindi-English">कुरसी</a> <span class="latin" style="display:none;">[kurasī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7836"></i> <a class="in l" href="/translate/कुर्सी/कुर्सी-meaning-in-Hindi-English">कुर्सी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[kursī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8083"></i> <a class="in l" href="/translate/केन्द्र/केन्द्र-meaning-in-Hindi-English">केन्द्र</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[kēndra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9398"></i> <a class="in l" href="/translate/गद्दी/गद्दी-meaning-in-Hindi-English">गद्दी</a> <span class="latin" style="display:none;">[gaddī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10398"></i> <a class="in l" href="/translate/घर/घर-meaning-in-Hindi-English">घर</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ghara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11420"></i> <a class="in l" href="/translate/चूतड़/चूतड़-meaning-in-Hindi-English">चूतड़</a> <span class="latin" style="display:none;">[cūtaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11558"></i> <a class="in l" href="/translate/चौकी/चौकी-meaning-in-Hindi-English">चौकी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[caukī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11986"></i> <a class="in l" href="/translate/जगह/जगह-meaning-in-Hindi-English">जगह</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jagaha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17271"></i> <a class="in l" href="/translate/नितम्ब/नितम्ब-meaning-in-Hindi-English">नितम्ब</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[nitamba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17720"></i> <a class="in l" href="/translate/निर्वाचन-क्षेत्र/निर्वाचन-क्षेत्र-meaning-in-Hindi-English">निर्वाचन-क्षेत्र</a> <span class="latin" style="display:none;">[nirvācana-kṣētra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18571"></i> <a class="in l" href="/translate/पद/पद-meaning-in-Hindi-English">पद</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[pada]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19809"></i> <a class="in l" href="/translate/पीठ/पीठ-meaning-in-Hindi-English">पीठ</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[pīṭha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19855"></i> <a class="in l" href="/translate/पीढ़ा/पीढ़ा-meaning-in-Hindi-English">पीढ़ा</a> <span class="latin" style="display:none;">[pīṛhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23757"></i> <a class="in l" href="/translate/बेंच/बेंच-meaning-in-Hindi-English">बेंच</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bēn̄ca]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi24026"></i> <a class="in l" href="/translate/बैठना/बैठना-meaning-in-Hindi-English">बैठना</a> <span class="latin" style="display:none;">[baiṭhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24029"></i> <a class="in l" href="/translate/बैठाना/बैठाना-meaning-in-Hindi-English">बैठाना</a> <span class="latin" style="display:none;">[baiṭhānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389709"></i> <a class="in l" href="/translate/स्थापित करना/स्थापित करना-meaning-in-Hindi-English">स्थापित करना</a> <span class="latin" style="display:none;">[sthāpita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi394890"></i> <a class="in l" href="/translate/स्थिर करना/स्थिर करना-meaning-in-Hindi-English">स्थिर करना</a> <span class="latin" style="display:none;">[sthira karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi408676"></i> <a class="in l" href="/translate/स्थापन करना/स्थापन करना-meaning-in-Hindi-English">स्थापन करना</a> <span class="latin" style="display:none;">[sthāpana karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi418730"></i> <a class="in l" href="/translate/कुर्सी आदि लगाना/कुर्सी आदि लगाना-meaning-in-Hindi-English">कुर्सी आदि लगाना</a> <span class="latin" style="display:none;">[kursī ādi lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi448209"></i> <a class="in l" href="/translate/के लिए जगह होना/के लिए जगह होना-meaning-in-Hindi-English">के लिए जगह होना</a> <span class="latin" style="display:none;">[kē li'ē jagaha hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi810369"></i> <a class="in l" href="/translate/बैठने का स्थान देना/बैठने का स्थान देना-meaning-in-Hindi-English">बैठने का स्थान देना</a> <span class="latin" style="display:none;">[baiṭhanē kā sthāna dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12148"></i> <a class="in l" href="/translate/जमाना/जमाना-meaning-in-Hindi-English">जमाना</a> <span class="latin" style="display:none;">[jamānā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/seats/seats-meaning-in-Hindi-English">seats</a> (noun plural)<br/><a href="/translate/seated/seated-meaning-in-Hindi-English">seated</a> (verb past tense)<br/><a href="/translate/seating/seating-meaning-in-Hindi-English">seating</a> (verb present participle)<br/><a href="/translate/seats/seats-meaning-in-Hindi-English">seats</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of seat in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>any support where you can sit (especially the part of a chair or bench etc. on which you sit)</li><li>furniture that is designed for sitting on</li><li>the cloth covering for the buttocks</li><li>a part of a machine that supports or guides another part</li><li>the legal right to sit as a member in a legislative or similar body</li><li>the fleshy part of the human body that you sit on<br><u><em>Example</em></u><br>- are you going to sit on your fanny and do nothing?<br></li><li>the location (metaphorically speaking) where something is based</li><li>a space reserved for sitting (as in a theater or on a train or airplane)<br><u><em>Example</em></u><br>- he sat in someone else's place<br></li><li>a center of authority (as a city from which authority is exercised)</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>show to a seat; assign a seat for</li><li>place in or on a seat</li><li>place or attach firmly in or on a base</li><li>provide with seats</li><li>put a seat on a chair</li><li>place ceremoniously or formally in an office or position</li><li>be able to seat</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of seat</h2><p><a href="/translate/seat/seat-meaning-in-Hindi-English">seat</a>, <a href="/translate/arse/arse-meaning-in-Hindi-English">arse</a>, <a href="/translate/ass/ass-meaning-in-Hindi-English">ass</a>, <a href="/translate/backside/backside-meaning-in-Hindi-English">backside</a>, <a href="/translate/behind/behind-meaning-in-Hindi-English">behind</a>, <a href="/translate/bottom/bottom-meaning-in-Hindi-English">bottom</a>, <a href="/translate/bum/bum-meaning-in-Hindi-English">bum</a>, <a href="/translate/buns/buns-meaning-in-Hindi-English">buns</a>, <a href="/translate/butt/butt-meaning-in-Hindi-English">butt</a>, <a href="/translate/buttocks/buttocks-meaning-in-Hindi-English">buttocks</a>, <a href="/translate/can/can-meaning-in-Hindi-English">can</a>, <a href="/translate/derriere/derriere-meaning-in-Hindi-English">derriere</a>, <a href="/translate/fanny/fanny-meaning-in-Hindi-English">fanny</a>, <a href="/translate/fundament/fundament-meaning-in-Hindi-English">fundament</a>, <a href="/translate/hind+end/hind+end-meaning-in-Hindi-English">hind end</a>, <a href="/translate/hindquarters/hindquarters-meaning-in-Hindi-English">hindquarters</a>, <a href="/translate/keister/keister-meaning-in-Hindi-English">keister</a>, <a href="/translate/nates/nates-meaning-in-Hindi-English">nates</a>, <a href="/translate/posterior/posterior-meaning-in-Hindi-English">posterior</a>, <a href="/translate/prat/prat-meaning-in-Hindi-English">prat</a>, <a href="/translate/rear/rear-meaning-in-Hindi-English">rear</a>, <a href="/translate/rear+end/rear+end-meaning-in-Hindi-English">rear end</a>, <a href="/translate/rump/rump-meaning-in-Hindi-English">rump</a>, <a href="/translate/stern/stern-meaning-in-Hindi-English">stern</a>, <a href="/translate/tail/tail-meaning-in-Hindi-English">tail</a>, <a href="/translate/tail+end/tail+end-meaning-in-Hindi-English">tail end</a>, <a href="/translate/tooshie/tooshie-meaning-in-Hindi-English">tooshie</a>, <a href="/translate/tush/tush-meaning-in-Hindi-English">tush</a>, <a href="/translate/place/place-meaning-in-Hindi-English">place</a>, <a href="/translate/sit/sit-meaning-in-Hindi-English">sit</a>, <a href="/translate/sit+down/sit+down-meaning-in-Hindi-English">sit down</a>, <a href="/translate/induct/induct-meaning-in-Hindi-English">induct</a>, <a href="/translate/invest/invest-meaning-in-Hindi-English">invest</a></p><h2 class="ehr">Antonyms of seat</h2><p>No matches.</p><h2 class="ehr">More matches for seat</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seat belt/seat belt-meaning-in-Hindi-English">seat belt</a></td><td class="l"><a class="in l" href="/translate/सुरक्षा पेटी/सुरक्षा पेटी-meaning-in-Hindi-English">सुरक्षा पेटी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seat belt/seat belt-meaning-in-Hindi-English">seat belt</a></td><td class="l"><a class="in l" href="/translate/सीट पेटी/सीट पेटी-meaning-in-Hindi-English">सीट पेटी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seat belt/seat belt-meaning-in-Hindi-English">seat belt</a></td><td class="l"><a class="in l" href="/translate/सीट बेल्ट/सीट बेल्ट-meaning-in-Hindi-English">सीट बेल्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seatbelt/seatbelt-meaning-in-Hindi-English">seatbelt</a></td><td class="l"><a class="in l" href="/translate/सुरक्षा पेटी/सुरक्षा पेटी-meaning-in-Hindi-English">सुरक्षा पेटी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seating/seating-meaning-in-Hindi-English">seating</a></td><td class="l"><a class="in l" href="/translate/आसन/आसन-meaning-in-Hindi-English">आसन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seating/seating-meaning-in-Hindi-English">seating</a></td><td class="l"><a class="in l" href="/translate/बैठकें/बैठकें-meaning-in-Hindi-English">बैठकें</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seating/seating-meaning-in-Hindi-English">seating</a></td><td class="l"><a class="in l" href="/translate/सीटें/सीटें-meaning-in-Hindi-English">सीटें</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seating/seating-meaning-in-Hindi-English">seating</a></td><td class="l"><a class="in l" href="/translate/बैठने का स्थान/बैठने का स्थान-meaning-in-Hindi-English">बैठने का स्थान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seating/seating-meaning-in-Hindi-English">seating</a></td><td class="l"><a class="in l" href="/translate/बैठने की जगह/बैठने की जगह-meaning-in-Hindi-English">बैठने की जगह</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seating/seating-meaning-in-Hindi-English">seating</a></td><td class="l"><a class="in l" href="/translate/बिठाने का काम/बिठाने का काम-meaning-in-Hindi-English">बिठाने का काम</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seating/seating-meaning-in-Hindi-English">seating</a></td><td class="l"><a class="in l" href="/translate/बैठने की क्रिया/बैठने की क्रिया-meaning-in-Hindi-English">बैठने की क्रिया</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seated/seated-meaning-in-Hindi-English">seated</a></td><td class="l"><a class="in l" href="/translate/आसीन/आसीन-meaning-in-Hindi-English">आसीन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/seated/seated-meaning-in-Hindi-English">seated</a></td><td class="l"><a class="in l" href="/translate/बैठा हुआ/बैठा हुआ-meaning-in-Hindi-English">बैठा हुआ</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: seat</h3><p>Meaning and definitions of seat, translation in Hindi language for seat with similar and opposite words. Also find spoken pronunciation of seat in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "seat"</h3><p>What seat means in Hindi, seat meaning in Hindi, seat definition, examples and pronunciation of seat in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

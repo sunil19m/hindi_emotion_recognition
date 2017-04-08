@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>trust - Meaning in Hindi - trust in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="trust - Meaning in Hindi, what is meaning of trust in Hindi dictionary, audio pronunciation, synonyms and definitions of trust in Hindi and English.">
+<meta name="keywords" content="trust, meaning of trust, English and Hindi for trust, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/trust/trust-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="trust" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">trust - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of trust</h2><i class="fa fa-volume-up fa-lg in au" id="en611807" style=""></i>ट्रस्ट<div class="page-header"><h2 class="ehr">Meanings of trust in Hindi</h2><small>[<a id="t_on" href="/translate/trust/trust-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi17871"></i> <a class="in l" href="/translate/निष्ठा/निष्ठा-meaning-in-Hindi-English">निष्ठा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[niṣṭhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18194"></i> <a class="in l" href="/translate/न्यास/न्यास-meaning-in-Hindi-English">न्यास</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[n'yāsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18497"></i> <a class="in l" href="/translate/पतियारा/पतियारा-meaning-in-Hindi-English">पतियारा</a> <span class="latin" style="display:none;">[patiyārā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24416"></i> <a class="in l" href="/translate/भरोसा/भरोसा-meaning-in-Hindi-English">भरोसा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bharōsā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30550"></i> <a class="in l" href="/translate/विश्वसनीयता/विश्वसनीयता-meaning-in-Hindi-English">विश्वसनीयता</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[viśvasanīyatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30555"></i> <a class="in l" href="/translate/विश्वास/विश्वास-meaning-in-Hindi-English">विश्वास</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[viśvāsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32188"></i> <a class="in l" href="/translate/संगठन/संगठन-meaning-in-Hindi-English">संगठन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[saṅgaṭhana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34168"></i> <a class="in l" href="/translate/साख/साख-meaning-in-Hindi-English">साख</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sākha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi64613"></i> <a class="in l" href="/translate/ईमान/ईमान-meaning-in-Hindi-English">ईमान</a> <span class="latin" style="display:none;">[īmāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi78964"></i> <a class="in l" href="/translate/ऐतबार/ऐतबार-meaning-in-Hindi-English">ऐतबार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[aitabāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi288635"></i> <a class="in l" href="/translate/यक़ीन/यक़ीन-meaning-in-Hindi-English">यक़ीन</a> <span class="latin" style="display:none;">[yaqīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi423527"></i> <a class="in l" href="/translate/विश्वास का कारण/विश्वास का कारण-meaning-in-Hindi-English">विश्वास का कारण</a> <span class="latin" style="display:none;">[viśvāsa kā kāraṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi452241"></i> <a class="in l" href="/translate/व्यापार संघ/व्यापार संघ-meaning-in-Hindi-English">व्यापार संघ</a> <span class="latin" style="display:none;">[vyāpāra saṅgha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi452243"></i> <a class="in l" href="/translate/न्यास रक्षक/न्यास रक्षक-meaning-in-Hindi-English">न्यास रक्षक</a> <span class="latin" style="display:none;">[n'yāsa rakṣaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi620629"></i> <a class="in l" href="/translate/विश्रंभ/विश्रंभ-meaning-in-Hindi-English">विश्रंभ</a> <span class="latin" style="display:none;">[viśrambha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2563"></i> <a class="in l" href="/translate/अमानत/अमानत-meaning-in-Hindi-English">अमानत</a> <span class="latin" style="display:none;">[amānata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4362"></i> <a class="in l" href="/translate/आशा/आशा-meaning-in-Hindi-English">आशा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[āśā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12400"></i> <a class="in l" href="/translate/ज़िम्मेदारी/ज़िम्मेदारी-meaning-in-Hindi-English">ज़िम्मेदारी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[zim'mēdārī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13395"></i> <a class="in l" href="/translate/ट्रस्ट/ट्रस्ट-meaning-in-Hindi-English">ट्रस्ट</a> <span class="latin" style="display:none;">[ṭrasṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15259"></i> <a class="in l" href="/translate/दायित्व/दायित्व-meaning-in-Hindi-English">दायित्व</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[dāyitva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17208"></i> <a class="in l" href="/translate/निक्षेप/निक्षेप-meaning-in-Hindi-English">निक्षेप</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[nikṣēpa]</span></li></ol></div><div class="col-sm-4"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi401752"></i> <a class="in l" href="/translate/ईमानदारी से/ईमानदारी से-meaning-in-Hindi-English">ईमानदारी से</a> <span class="latin" style="display:none;">[īmānadārī sē]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi35358"></i> <a class="in l" href="/translate/सौंपना/सौंपना-meaning-in-Hindi-English">सौंपना</a> <span class="latin" style="display:none;">[saumpanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi365776"></i> <a class="in l" href="/translate/सौपना/सौपना-meaning-in-Hindi-English">सौपना</a> <span class="latin" style="display:none;">[saupanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386001"></i> <a class="in l" href="/translate/विश्वास करना/विश्वास करना-meaning-in-Hindi-English">विश्वास करना</a> <span class="latin" style="display:none;">[viśvāsa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386654"></i> <a class="in l" href="/translate/उधार देना/उधार देना-meaning-in-Hindi-English">उधार देना</a> <span class="latin" style="display:none;">[udhāra dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389082"></i> <a class="in l" href="/translate/आशा करना/आशा करना-meaning-in-Hindi-English">आशा करना</a> <span class="latin" style="display:none;">[āśā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389288"></i> <a class="in l" href="/translate/धरोहर रखना/धरोहर रखना-meaning-in-Hindi-English">धरोहर रखना</a> <span class="latin" style="display:none;">[dharōhara rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389472"></i> <a class="in l" href="/translate/भरोसा रखना/भरोसा रखना-meaning-in-Hindi-English">भरोसा रखना</a> <span class="latin" style="display:none;">[bharōsā rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi394867"></i> <a class="in l" href="/translate/भरोसा करना/भरोसा करना-meaning-in-Hindi-English">भरोसा करना</a> <span class="latin" style="display:none;">[bharōsā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi423254"></i> <a class="in l" href="/translate/हवाले करना/हवाले करना-meaning-in-Hindi-English">हवाले करना</a> <span class="latin" style="display:none;">[havālē karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi608420"></i> <a class="in l" href="/translate/पतियाना/पतियाना-meaning-in-Hindi-English">पतियाना</a> <span class="latin" style="display:none;">[patiyānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi806785"></i> <a class="in l" href="/translate/ईमान रखना/ईमान रखना-meaning-in-Hindi-English">ईमान रखना</a> <span class="latin" style="display:none;">[īmāna rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi813876"></i> <a class="in l" href="/translate/सुपुर्द कर देना/सुपुर्द कर देना-meaning-in-Hindi-English">सुपुर्द कर देना</a> <span class="latin" style="display:none;">[supurda kara dēnā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/trusts/trusts-meaning-in-Hindi-English">trusts</a> (noun plural)<br/><a href="/translate/trusted/trusted-meaning-in-Hindi-English">trusted</a> (verb past tense)<br/><a href="/translate/trusting/trusting-meaning-in-Hindi-English">trusting</a> (verb present participle)<br/><a href="/translate/trusts/trusts-meaning-in-Hindi-English">trusts</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of trust in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>the trait of believing in the honesty and reliability of others</li><li>certainty based on past experience<br><u><em>Example</em></u><br>- he put more trust in his own two legs than in the gun<br></li><li>complete confidence in a person or plan etc<br><u><em>Example</em></u><br>- the doctor-patient relationship is based on trust<br></li><li>a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service</li><li>something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)</li><li>a trustful relationship<br><u><em>Example</em></u><br>- he betrayed their trust<br></li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>have confidence or faith in<br><u><em>Examples</em></u><br>- Rely on your friends<br>- bank on your good education<br>- I swear by my grandmother's recipes<br></li><li>be confident about something</li><li>expect and wish<br><u><em>Example</em></u><br>- I hope she understands that she cannot expect a raise<br></li><li>extend credit to</li><li>confer a trust upon<br><u><em>Example</em></u><br>- I commit my soul to God<br></li><li>allow without fear</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of trust</h2><p><a href="/translate/trust/trust-meaning-in-Hindi-English">trust</a>, <a href="/translate/trustfulness/trustfulness-meaning-in-Hindi-English">trustfulness</a>, <a href="/translate/trustingness/trustingness-meaning-in-Hindi-English">trustingness</a>, <a href="/translate/reliance/reliance-meaning-in-Hindi-English">reliance</a>, <a href="/translate/faith/faith-meaning-in-Hindi-English">faith</a>, <a href="/translate/cartel/cartel-meaning-in-Hindi-English">cartel</a>, <a href="/translate/combine/combine-meaning-in-Hindi-English">combine</a>, <a href="/translate/corporate+trust/corporate+trust-meaning-in-Hindi-English">corporate trust</a>, <a href="/translate/confidence/confidence-meaning-in-Hindi-English">confidence</a>, <a href="/translate/bank/bank-meaning-in-Hindi-English">bank</a>, <a href="/translate/rely/rely-meaning-in-Hindi-English">rely</a>, <a href="/translate/swear/swear-meaning-in-Hindi-English">swear</a>, <a href="/translate/believe/believe-meaning-in-Hindi-English">believe</a>, <a href="/translate/desire/desire-meaning-in-Hindi-English">desire</a>, <a href="/translate/hope/hope-meaning-in-Hindi-English">hope</a>, <a href="/translate/commit/commit-meaning-in-Hindi-English">commit</a>, <a href="/translate/confide/confide-meaning-in-Hindi-English">confide</a>, <a href="/translate/entrust/entrust-meaning-in-Hindi-English">entrust</a>, <a href="/translate/intrust/intrust-meaning-in-Hindi-English">intrust</a></p><h2 class="ehr">Antonyms of trust</h2><p><a href="/translate/distrust/distrust-meaning-in-Hindi-English">distrust</a>, <a href="/translate/distrustfulness/distrustfulness-meaning-in-Hindi-English">distrustfulness</a>, <a href="/translate/mistrust/mistrust-meaning-in-Hindi-English">mistrust</a>, <a href="/translate/suspect/suspect-meaning-in-Hindi-English">suspect</a></p><h2 class="ehr">More matches for trust</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust account/trust account-meaning-in-Hindi-English">trust account</a></td><td class="l"><a class="in l" href="/translate/न्यास लेखा/न्यास लेखा-meaning-in-Hindi-English">न्यास लेखा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust association/trust association-meaning-in-Hindi-English">trust association</a></td><td class="l"><a class="in l" href="/translate/न्यास संघ/न्यास संघ-meaning-in-Hindi-English">न्यास संघ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust company/trust company-meaning-in-Hindi-English">trust company</a></td><td class="l"><a class="in l" href="/translate/न्यास समिति/न्यास समिति-meaning-in-Hindi-English">न्यास समिति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust corporation/trust corporation-meaning-in-Hindi-English">trust corporation</a></td><td class="l"><a class="in l" href="/translate/न्यास निगम/न्यास निगम-meaning-in-Hindi-English">न्यास निगम</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust deed/trust deed-meaning-in-Hindi-English">trust deed</a></td><td class="l"><a class="in l" href="/translate/न्यास विलेख/न्यास विलेख-meaning-in-Hindi-English">न्यास विलेख</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust deposit/trust deposit-meaning-in-Hindi-English">trust deposit</a></td><td class="l"><a class="in l" href="/translate/न्यास जमा/न्यास जमा-meaning-in-Hindi-English">न्यास जमा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust fund/trust fund-meaning-in-Hindi-English">trust fund</a></td><td class="l"><a class="in l" href="/translate/न्यास-कोष/न्यास-कोष-meaning-in-Hindi-English">न्यास-कोष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust fund/trust fund-meaning-in-Hindi-English">trust fund</a></td><td class="l"><a class="in l" href="/translate/न्यास-निधि/न्यास-निधि-meaning-in-Hindi-English">न्यास-निधि</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust fund/trust fund-meaning-in-Hindi-English">trust fund</a></td><td class="l"><a class="in l" href="/translate/अमानत के कोष/अमानत के कोष-meaning-in-Hindi-English">अमानत के कोष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust fund/trust fund-meaning-in-Hindi-English">trust fund</a></td><td class="l"><a class="in l" href="/translate/न्यास कोष/न्यास कोष-meaning-in-Hindi-English">न्यास कोष</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust fund loan/trust fund loan-meaning-in-Hindi-English">trust fund loan</a></td><td class="l"><a class="in l" href="/translate/न्यास निधि ऋण/न्यास निधि ऋण-meaning-in-Hindi-English">न्यास निधि ऋण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust in/trust in-meaning-in-Hindi-English">trust in</a></td><td class="l"><a class="in l" href="/translate/विश्वास रखना/विश्वास रखना-meaning-in-Hindi-English">विश्वास रखना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust money/trust money-meaning-in-Hindi-English">trust money</a></td><td class="l"><a class="in l" href="/translate/न्यास धन/न्यास धन-meaning-in-Hindi-English">न्यास धन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust receipt facility/trust receipt facility-meaning-in-Hindi-English">trust receipt facility</a></td><td class="l"><a class="in l" href="/translate/न्यास रसीद सुविधा/न्यास रसीद सुविधा-meaning-in-Hindi-English">न्यास रसीद सुविधा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trust territory/trust territory-meaning-in-Hindi-English">trust territory</a></td><td class="l"><a class="in l" href="/translate/संयुक्त राष्ट्र संघ द्वारा शासित क्षेत्र/संयुक्त राष्ट्र संघ द्वारा शासित क्षेत्र-meaning-in-Hindi-English">संयुक्त राष्ट्र संघ द्वारा शासित क्षेत्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/अभिभावक/अभिभावक-meaning-in-Hindi-English">अभिभावक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/अमानतदार/अमानतदार-meaning-in-Hindi-English">अमानतदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/धरोहरी/धरोहरी-meaning-in-Hindi-English">धरोहरी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/निक्षेपधारी/निक्षेपधारी-meaning-in-Hindi-English">निक्षेपधारी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/न्यायधारी/न्यायधारी-meaning-in-Hindi-English">न्यायधारी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/न्यासी/न्यासी-meaning-in-Hindi-English">न्यासी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/संरक्षक/संरक्षक-meaning-in-Hindi-English">संरक्षक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/समिति/समिति-meaning-in-Hindi-English">समिति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/सरपरस्त/सरपरस्त-meaning-in-Hindi-English">सरपरस्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee/trustee-meaning-in-Hindi-English">trustee</a></td><td class="l"><a class="in l" href="/translate/ट्रस्टी/ट्रस्टी-meaning-in-Hindi-English">ट्रस्टी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee cash book/trustee cash book-meaning-in-Hindi-English">trustee cash book</a></td><td class="l"><a class="in l" href="/translate/न्यासी रोकड़ बही/न्यासी रोकड़ बही-meaning-in-Hindi-English">न्यासी रोकड़ बही</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee investment/trustee investment-meaning-in-Hindi-English">trustee investment</a></td><td class="l"><a class="in l" href="/translate/न्यासी निवेश/न्यासी निवेश-meaning-in-Hindi-English">न्यासी निवेश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee letter/trustee letter-meaning-in-Hindi-English">trustee letter</a></td><td class="l"><a class="in l" href="/translate/न्यासी-पत्र/न्यासी-पत्र-meaning-in-Hindi-English">न्यासी-पत्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trustee receipt/trustee receipt-meaning-in-Hindi-English">trustee receipt</a></td><td class="l"><a class="in l" href="/translate/न्यासी रसीद/न्यासी रसीद-meaning-in-Hindi-English">न्यासी रसीद</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trusted/trusted-meaning-in-Hindi-English">trusted</a></td><td class="l"><a class="in l" href="/translate/विश्वसनीय/विश्वसनीय-meaning-in-Hindi-English">विश्वसनीय</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: trust</h3><p>Meaning and definitions of trust, translation in Hindi language for trust with similar and opposite words. Also find spoken pronunciation of trust in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "trust"</h3><p>What trust means in Hindi, trust meaning in Hindi, trust definition, examples and pronunciation of trust in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

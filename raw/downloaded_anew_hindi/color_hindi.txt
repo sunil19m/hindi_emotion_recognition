@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>color - Meaning in Hindi - color in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="color - Meaning in Hindi, what is meaning of color in Hindi dictionary, audio pronunciation, synonyms and definitions of color in Hindi and English.">
+<meta name="keywords" content="color, meaning of color, English and Hindi for color, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/color/color-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="color" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">color - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of color</h2><i class="fa fa-volume-up fa-lg in au" id="en208647" style=""></i>कलर / कॉलर<div class="page-header"><h2 class="ehr">Meanings of color in Hindi</h2><small>[<a id="t_on" href="/translate/color/color-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi12661"></i> <a class="in l" href="/translate/जीवंतता/जीवंतता-meaning-in-Hindi-English">जीवंतता</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[jīvantatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi18484"></i> <a class="in l" href="/translate/पताका/पताका-meaning-in-Hindi-English">पताका</a> <span class="latin" style="display:none;">[patākā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27331"></i> <a class="in l" href="/translate/रंग/रंग-meaning-in-Hindi-English">रंग</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[raṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27674"></i> <a class="in l" href="/translate/राग/राग-meaning-in-Hindi-English">राग</a> <span class="latin" style="display:none;">[rāga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29300"></i> <a class="in l" href="/translate/वर्ण/वर्ण-meaning-in-Hindi-English">वर्ण</a> <span class="latin" style="display:none;">[varṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi305340"></i> <a class="in l" href="/translate/रोग़न/रोग़न-meaning-in-Hindi-English">रोग़न</a> <span class="latin" style="display:none;">[rōġana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi795043"></i> <a class="in l" href="/translate/रंग के द्रव्य/रंग के द्रव्य-meaning-in-Hindi-English">रंग के द्रव्य</a> <span class="latin" style="display:none;">[raṅga kē dravya]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi27340"></i> <a class="in l" href="/translate/रंगना/रंगना-meaning-in-Hindi-English">रंगना</a> <span class="latin" style="display:none;">[raṅganā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi794330"></i> <a class="in l" href="/translate/रूप बदल देना/रूप बदल देना-meaning-in-Hindi-English">रूप बदल देना</a> <span class="latin" style="display:none;">[rūpa badala dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi795044"></i> <a class="in l" href="/translate/रंग चढ़ाना/रंग चढ़ाना-meaning-in-Hindi-English">रंग चढ़ाना</a> <span class="latin" style="display:none;">[raṅga caṛhānā]</span></li></ol></div></div><h2 class="ehr">Inflected forms</h2><a href="/translate/colorer/colorer-meaning-in-Hindi-English">colorer</a> (adjective comparative)<br/><a href="/translate/colors/colors-meaning-in-Hindi-English">colors</a> (noun plural)<br/><a href="/translate/colored/colored-meaning-in-Hindi-English">colored</a> (verb past tense)<br/><a href="/translate/coloring/coloring-meaning-in-Hindi-English">coloring</a> (verb present participle)<br/><a href="/translate/colors/colors-meaning-in-Hindi-English">colors</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of color in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>having or capable of producing colors<br><u><em>Examples</em></u><br>- he rented a color television<br>- marvelous color illustrations<br></li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>the appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation</li><li>an outward or token appearance or form that is deliberately misleading<br><u><em>Examples</em></u><br>- he tried to give his falsehood the gloss of moral sanction<br>- the situation soon took on a different color<br></li><li>a visual attribute of things that results from the light they emit or transmit or reflect</li><li>the timbre of a musical sound</li><li>interest and variety and intensity<br><u><em>Example</em></u><br>- the characters were delineated with exceptional vividness<br></li><li>(physics) the characteristic of quarks that determines their role in the strong interaction</li><li>a race with skin pigmentation different from the white race (especially Blacks)</li><li>any material used for its color</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>change color, often in an undesired manner</li><li>add color to<br><u><em>Examples</em></u><br>- Fall colored the trees<br>- colorize black and white film<br></li><li>affect as in thought or feeling<br><u><em>Example</em></u><br>- The sadness tinged his life<br></li><li>give a deceptive explanation or excuse for</li><li>decorate with colors</li><li>modify or bias</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of color</h2><p><a href="/translate/color/color-meaning-in-Hindi-English">color</a>, <a href="/translate/colour/colour-meaning-in-Hindi-English">colour</a>, <a href="/translate/gloss/gloss-meaning-in-Hindi-English">gloss</a>, <a href="/translate/semblance/semblance-meaning-in-Hindi-English">semblance</a>, <a href="/translate/coloring/coloring-meaning-in-Hindi-English">coloring</a>, <a href="/translate/colouring/colouring-meaning-in-Hindi-English">colouring</a>, <a href="/translate/coloration/coloration-meaning-in-Hindi-English">coloration</a>, <a href="/translate/colouration/colouration-meaning-in-Hindi-English">colouration</a>, <a href="/translate/vividness/vividness-meaning-in-Hindi-English">vividness</a>, <a href="/translate/people+of+color/people+of+color-meaning-in-Hindi-English">people of color</a>, <a href="/translate/people+of+colour/people+of+colour-meaning-in-Hindi-English">people of colour</a>, <a href="/translate/coloring+material/coloring+material-meaning-in-Hindi-English">coloring material</a>, <a href="/translate/colouring+material/colouring+material-meaning-in-Hindi-English">colouring material</a>, <a href="/translate/discolor/discolor-meaning-in-Hindi-English">discolor</a>, <a href="/translate/discolour/discolour-meaning-in-Hindi-English">discolour</a>, <a href="/translate/color+in/color+in-meaning-in-Hindi-English">color in</a>, <a href="/translate/colorise/colorise-meaning-in-Hindi-English">colorise</a>, <a href="/translate/colorize/colorize-meaning-in-Hindi-English">colorize</a>, <a href="/translate/colour+in/colour+in-meaning-in-Hindi-English">colour in</a>, <a href="/translate/colourise/colourise-meaning-in-Hindi-English">colourise</a>, <a href="/translate/colourize/colourize-meaning-in-Hindi-English">colourize</a>, <a href="/translate/distort/distort-meaning-in-Hindi-English">distort</a>, <a href="/translate/tinge/tinge-meaning-in-Hindi-English">tinge</a>, <a href="/translate/emblazon/emblazon-meaning-in-Hindi-English">emblazon</a></p><h2 class="ehr">Antonyms of color</h2><p><a href="/translate/achromaticity/achromaticity-meaning-in-Hindi-English">achromaticity</a>, <a href="/translate/achromatism/achromatism-meaning-in-Hindi-English">achromatism</a>, <a href="/translate/colorlessness/colorlessness-meaning-in-Hindi-English">colorlessness</a>, <a href="/translate/colourlessness/colourlessness-meaning-in-Hindi-English">colourlessness</a>, <a href="/translate/discolor/discolor-meaning-in-Hindi-English">discolor</a>, <a href="/translate/black-and-white/black-and-white-meaning-in-Hindi-English">black-and-white</a>, <a href="/translate/black+and+white/black+and+white-meaning-in-Hindi-English">black and white</a></p><h2 class="ehr">More matches for color</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/color blindness/color blindness-meaning-in-Hindi-English">color blindness</a></td><td class="l"><a class="in l" href="/translate/रंग अन्धता/रंग अन्धता-meaning-in-Hindi-English">रंग अन्धता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/color set/color set-meaning-in-Hindi-English">color set</a></td><td class="l"><a class="in l" href="/translate/रंग समूह/रंग समूह-meaning-in-Hindi-English">रंग समूह</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/color vision deficiency/color vision deficiency-meaning-in-Hindi-English">color vision deficiency</a></td><td class="l"><a class="in l" href="/translate/विवर्णता/विवर्णता-meaning-in-Hindi-English">विवर्णता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorado/colorado-meaning-in-Hindi-English">colorado</a></td><td class="l"><a class="in l" href="/translate/कोलोरॅडो/कोलोरॅडो-meaning-in-Hindi-English">कोलोरॅडो</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorado springs/colorado springs-meaning-in-Hindi-English">colorado springs</a></td><td class="l"><a class="in l" href="/translate/कोलोरेडो स्प्रिंग्स/कोलोरेडो स्प्रिंग्स-meaning-in-Hindi-English">कोलोरेडो स्प्रिंग्स</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/coloration/coloration-meaning-in-Hindi-English">coloration</a></td><td class="l"><a class="in l" href="/translate/रंगाई/रंगाई-meaning-in-Hindi-English">रंगाई</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/coloratura/coloratura-meaning-in-Hindi-English">coloratura</a></td><td class="l"><a class="in l" href="/translate/कालरत्युअर/कालरत्युअर-meaning-in-Hindi-English">कालरत्युअर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorcast/colorcast-meaning-in-Hindi-English">colorcast</a></td><td class="l"><a class="in l" href="/translate/कालर्कस्ट/कालर्कस्ट-meaning-in-Hindi-English">कालर्कस्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colored/colored-meaning-in-Hindi-English">colored</a></td><td class="l"><a class="in l" href="/translate/रंगीन/रंगीन-meaning-in-Hindi-English">रंगीन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorful/colorful-meaning-in-Hindi-English">colorful</a></td><td class="l"><a class="in l" href="/translate/रंगीला/रंगीला-meaning-in-Hindi-English">रंगीला</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/color in/color in-meaning-in-Hindi-English">color in</a></td><td class="l"><a class="in l" href="/translate/रंगना/रंगना-meaning-in-Hindi-English">रंगना</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorable/colorable-meaning-in-Hindi-English">colorable</a></td><td class="l"><a class="in l" href="/translate/कूट/कूट-meaning-in-Hindi-English">कूट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorable/colorable-meaning-in-Hindi-English">colorable</a></td><td class="l"><a class="in l" href="/translate/छलपूर्ण/छलपूर्ण-meaning-in-Hindi-English">छलपूर्ण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorable/colorable-meaning-in-Hindi-English">colorable</a></td><td class="l"><a class="in l" href="/translate/संभाव्य/संभाव्य-meaning-in-Hindi-English">संभाव्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorable/colorable-meaning-in-Hindi-English">colorable</a></td><td class="l"><a class="in l" href="/translate/पाखंडपूर्ण/पाखंडपूर्ण-meaning-in-Hindi-English">पाखंडपूर्ण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorable/colorable-meaning-in-Hindi-English">colorable</a></td><td class="l"><a class="in l" href="/translate/रंगने योग्य/रंगने योग्य-meaning-in-Hindi-English">रंगने योग्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorable/colorable-meaning-in-Hindi-English">colorable</a></td><td class="l"><a class="in l" href="/translate/कूटयुक्तिपूर्ण/कूटयुक्तिपूर्ण-meaning-in-Hindi-English">कूटयुक्तिपूर्ण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorable/colorable-meaning-in-Hindi-English">colorable</a></td><td class="l"><a class="in l" href="/translate/छल भरा/छल भरा-meaning-in-Hindi-English">छल भरा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colored/colored-meaning-in-Hindi-English">colored</a></td><td class="l"><a class="in l" href="/translate/सारंग/सारंग-meaning-in-Hindi-English">सारंग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colored/colored-meaning-in-Hindi-English">colored</a></td><td class="l"><a class="in l" href="/translate/रंग-बिरंग/रंग-बिरंग-meaning-in-Hindi-English">रंग-बिरंग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorful/colorful-meaning-in-Hindi-English">colorful</a></td><td class="l"><a class="in l" href="/translate/रंगबिरंगा/रंगबिरंगा-meaning-in-Hindi-English">रंगबिरंगा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorful/colorful-meaning-in-Hindi-English">colorful</a></td><td class="l"><a class="in l" href="/translate/रंगीन/रंगीन-meaning-in-Hindi-English">रंगीन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorific/colorific-meaning-in-Hindi-English">colorific</a></td><td class="l"><a class="in l" href="/translate/रंग-बिरंगा/रंग-बिरंगा-meaning-in-Hindi-English">रंग-बिरंगा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorific/colorific-meaning-in-Hindi-English">colorific</a></td><td class="l"><a class="in l" href="/translate/रंगीन/रंगीन-meaning-in-Hindi-English">रंगीन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorific/colorific-meaning-in-Hindi-English">colorific</a></td><td class="l"><a class="in l" href="/translate/रंगीला/रंगीला-meaning-in-Hindi-English">रंगीला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/colorific/colorific-meaning-in-Hindi-English">colorific</a></td><td class="l"><a class="in l" href="/translate/वर्णजनक/वर्णजनक-meaning-in-Hindi-English">वर्णजनक</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: color</h3><p>Meaning and definitions of color, translation in Hindi language for color with similar and opposite words. Also find spoken pronunciation of color in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "color"</h3><p>What color means in Hindi, color meaning in Hindi, color definition, examples and pronunciation of color in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

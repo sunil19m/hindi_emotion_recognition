@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>spring - Meaning in Hindi - spring in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="spring - Meaning in Hindi, what is meaning of spring in Hindi dictionary, audio pronunciation, synonyms and definitions of spring in Hindi and English.">
+<meta name="keywords" content="spring, meaning of spring, English and Hindi for spring, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/spring/spring-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="spring" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">spring - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of spring</h2><i class="fa fa-volume-up fa-lg in au" id="en561498" style=""></i>स्प्रिंग / स्परिंग<div class="page-header"><h2 class="ehr">Meanings of spring in Hindi</h2><small>[<a id="t_on" href="/translate/spring/spring-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi13016"></i> <a class="in l" href="/translate/झरना/झरना-meaning-in-Hindi-English">झरना</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jharanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22103"></i> <a class="in l" href="/translate/फलांग/फलांग-meaning-in-Hindi-English">फलांग</a> <span class="latin" style="display:none;">[phalāṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449988"></i> <a class="in l" href="/translate/वसन्त ऋतु/वसन्त ऋतु-meaning-in-Hindi-English">वसन्त ऋतु</a> <span class="latin" style="display:none;">[vasanta r̥tu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi811927"></i> <a class="in l" href="/translate/जल-स्रोत/जल-स्रोत-meaning-in-Hindi-English">जल-स्रोत</a> <span class="latin" style="display:none;">[jala-srōta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28407"></i> <a class="in l" href="/translate/लचक/लचक-meaning-in-Hindi-English">लचक</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[lacaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35320"></i> <a class="in l" href="/translate/सोता/सोता-meaning-in-Hindi-English">सोता</a> <span class="latin" style="display:none;">[sōtā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi266950"></i> <a class="in l" href="/translate/मधुमास/मधुमास-meaning-in-Hindi-English">मधुमास</a> <span class="latin" style="display:none;">[madhumāsa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi318244"></i> <a class="in l" href="/translate/वसंत/वसंत-meaning-in-Hindi-English">वसंत</a> <span class="latin" style="display:none;">[vasanta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi318282"></i> <a class="in l" href="/translate/वसन्त/वसन्त-meaning-in-Hindi-English">वसन्त</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[vasanta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi369293"></i> <a class="in l" href="/translate/स्प्रिंग/स्प्रिंग-meaning-in-Hindi-English">स्प्रिंग</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[spriṅga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4879"></i> <a class="in l" href="/translate/उछल/उछल-meaning-in-Hindi-English">उछल</a> <span class="latin" style="display:none;">[uchala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4885"></i> <a class="in l" href="/translate/उछाल/उछाल-meaning-in-Hindi-English">उछाल</a> <span class="latin" style="display:none;">[uchāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6631"></i> <a class="in l" href="/translate/कमानी/कमानी-meaning-in-Hindi-English">कमानी</a> <span class="latin" style="display:none;">[kamānī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi420622"></i> <a class="in l" href="/translate/बसंत ऋतु/बसंत ऋतु-meaning-in-Hindi-English">बसंत ऋतु</a> <span class="latin" style="display:none;">[basanta r̥tu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7974"></i> <a class="in l" href="/translate/कूद/कूद-meaning-in-Hindi-English">कूद</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[kūda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi420623"></i> <a class="in l" href="/translate/लचकदार वस्तु/लचकदार वस्तु-meaning-in-Hindi-English">लचकदार वस्तु</a> <span class="latin" style="display:none;">[lacakadāra vastu]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi420624"></i> <a class="in l" href="/translate/लचकने की शक्ति/लचकने की शक्ति-meaning-in-Hindi-English">लचकने की शक्ति</a> <span class="latin" style="display:none;">[lacakanē kī śakti]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11715"></i> <a class="in l" href="/translate/छलांग/छलांग-meaning-in-Hindi-English">छलांग</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[chalāṅga]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi22956"></i> <a class="in l" href="/translate/बसन्ती/बसन्ती-meaning-in-Hindi-English">बसन्ती</a> <span class="latin" style="display:none;">[basantī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi318258"></i> <a class="in l" href="/translate/वसंती/वसंती-meaning-in-Hindi-English">वसंती</a> <span class="latin" style="display:none;">[vasantī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449973"></i> <a class="in l" href="/translate/स्प्रिंग लगा हुआ/स्प्रिंग लगा हुआ-meaning-in-Hindi-English">स्प्रिंग लगा हुआ</a> <span class="latin" style="display:none;">[spriṅga lagā hu'ā]</span></li></ol></div><div class="col-sm-4"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi12133"></i> <a class="in l" href="/translate/जमना/जमना-meaning-in-Hindi-English">जमना</a> <span class="latin" style="display:none;">[jamanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12330"></i> <a class="in l" href="/translate/जलाना/जलाना-meaning-in-Hindi-English">जलाना</a> <span class="latin" style="display:none;">[jalānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449974"></i> <a class="in l" href="/translate/एकाएक आना/एकाएक आना-meaning-in-Hindi-English">एकाएक आना</a> <span class="latin" style="display:none;">[ēkā'ēka ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13093"></i> <a class="in l" href="/translate/झुकाना/झुकाना-meaning-in-Hindi-English">झुकाना</a> <span class="latin" style="display:none;">[jhukānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449975"></i> <a class="in l" href="/translate/झटके से खुलना/झटके से खुलना-meaning-in-Hindi-English">झटके से खुलना</a> <span class="latin" style="display:none;">[jhaṭakē sē khulanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17175"></i> <a class="in l" href="/translate/निकलना/निकलना-meaning-in-Hindi-English">निकलना</a> <span class="latin" style="display:none;">[nikalanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449976"></i> <a class="in l" href="/translate/विस्फोट कराना/विस्फोट कराना-meaning-in-Hindi-English">विस्फोट कराना</a> <span class="latin" style="display:none;">[visphōṭa karānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17190"></i> <a class="in l" href="/translate/निकालना/निकालना-meaning-in-Hindi-English">निकालना</a> <span class="latin" style="display:none;">[nikālanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi449977"></i> <a class="in l" href="/translate/एकाएक उत्पन्न होना/एकाएक उत्पन्न होना-meaning-in-Hindi-English">एकाएक उत्पन्न होना</a> <span class="latin" style="display:none;">[ēkā'ēka utpanna hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22104"></i> <a class="in l" href="/translate/फलांगना/फलांगना-meaning-in-Hindi-English">फलांगना</a> <span class="latin" style="display:none;">[phalāṅganā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22135"></i> <a class="in l" href="/translate/फांदना/फांदना-meaning-in-Hindi-English">फांदना</a> <span class="latin" style="display:none;">[phāndanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi811928"></i> <a class="in l" href="/translate/अस्तित्व में आना/अस्तित्व में आना-meaning-in-Hindi-English">अस्तित्व में आना</a> <span class="latin" style="display:none;">[astitva mēṁ ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22174"></i> <a class="in l" href="/translate/फाड़ना/फाड़ना-meaning-in-Hindi-English">फाड़ना</a> <span class="latin" style="display:none;">[phāṛanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22280"></i> <a class="in l" href="/translate/फूटना/फूटना-meaning-in-Hindi-English">फूटना</a> <span class="latin" style="display:none;">[phūṭanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28364"></i> <a class="in l" href="/translate/लगाना/लगाना-meaning-in-Hindi-English">लगाना</a> <span class="latin" style="display:none;">[lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi28409"></i> <a class="in l" href="/translate/लचकना/लचकना-meaning-in-Hindi-English">लचकना</a> <span class="latin" style="display:none;">[lacakanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386663"></i> <a class="in l" href="/translate/प्रकट करना/प्रकट करना-meaning-in-Hindi-English">प्रकट करना</a> <span class="latin" style="display:none;">[prakaṭa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4814"></i> <a class="in l" href="/translate/उगना/उगना-meaning-in-Hindi-English">उगना</a> <span class="latin" style="display:none;">[uganā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389161"></i> <a class="in l" href="/translate/पीछे हटना/पीछे हटना-meaning-in-Hindi-English">पीछे हटना</a> <span class="latin" style="display:none;">[pīchē haṭanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389991"></i> <a class="in l" href="/translate/पैदा करना/पैदा करना-meaning-in-Hindi-English">पैदा करना</a> <span class="latin" style="display:none;">[paidā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi390656"></i> <a class="in l" href="/translate/प्रकट होना/प्रकट होना-meaning-in-Hindi-English">प्रकट होना</a> <span class="latin" style="display:none;">[prakaṭa hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi4883"></i> <a class="in l" href="/translate/उछलना/उछलना-meaning-in-Hindi-English">उछलना</a> <span class="latin" style="display:none;">[uchalanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi398462"></i> <a class="in l" href="/translate/विकसित करना/विकसित करना-meaning-in-Hindi-English">विकसित करना</a> <span class="latin" style="display:none;">[vikasita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi420620"></i> <a class="in l" href="/translate/चौंक उठना/चौंक उठना-meaning-in-Hindi-English">चौंक उठना</a> <span class="latin" style="display:none;">[cauṅka uṭhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5784"></i> <a class="in l" href="/translate/उड़ाना/उड़ाना-meaning-in-Hindi-English">उड़ाना</a> <span class="latin" style="display:none;">[uṛānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi420621"></i> <a class="in l" href="/translate/हरा भरा होना/हरा भरा होना-meaning-in-Hindi-English">हरा भरा होना</a> <span class="latin" style="display:none;">[harā bharā hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7977"></i> <a class="in l" href="/translate/कूदना/कूदना-meaning-in-Hindi-English">कूदना</a> <span class="latin" style="display:none;">[kūdanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11317"></i> <a class="in l" href="/translate/चीरना/चीरना-meaning-in-Hindi-English">चीरना</a> <span class="latin" style="display:none;">[cīranā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/springer/springer-meaning-in-Hindi-English">springer</a> (adjective comparative)<br/><a href="/translate/springs/springs-meaning-in-Hindi-English">springs</a> (noun plural)<br/><a href="/translate/sprang/sprang-meaning-in-Hindi-English">sprang</a>, <a href="/translate/sprung/sprung-meaning-in-Hindi-English">sprung</a> (verb past tense)<br/><a href="/translate/sprung/sprung-meaning-in-Hindi-English">sprung</a> (verb past participle)<br/><a href="/translate/springing/springing-meaning-in-Hindi-English">springing</a> (verb present participle)<br/><a href="/translate/springs/springs-meaning-in-Hindi-English">springs</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of spring in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>a light, self-propelled movement upwards or forwards</li><li>a metal elastic device that returns to its shape or position when pushed or pulled or pressed</li><li>the elasticity of something that can be stretched and returns to its original length</li><li>a point at which water issues forth</li><li>a natural flow of ground water</li><li>the season of growth<br><u><em>Example</em></u><br>- he will hold office until the spring of next year<br></li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>develop suddenly</li><li>produce or disclose suddenly or unexpectedly</li><li>spring back; spring away from an impact<br><u><em>Example</em></u><br>- These particles do not resile but they unite after they collide<br></li><li>move forward by leaps and bounds<br><u><em>Examples</em></u><br>- The child leapt across the puddle<br>- Can you jump over the fence?<br></li><li>develop into a distinctive entity</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of spring</h2><p><a href="/translate/bounce/bounce-meaning-in-Hindi-English">bounce</a>, <a href="/translate/bound/bound-meaning-in-Hindi-English">bound</a>, <a href="/translate/leap/leap-meaning-in-Hindi-English">leap</a>, <a href="/translate/leaping/leaping-meaning-in-Hindi-English">leaping</a>, <a href="/translate/saltation/saltation-meaning-in-Hindi-English">saltation</a>, <a href="/translate/spring/spring-meaning-in-Hindi-English">spring</a>, <a href="/translate/give/give-meaning-in-Hindi-English">give</a>, <a href="/translate/springiness/springiness-meaning-in-Hindi-English">springiness</a>, <a href="/translate/fountain/fountain-meaning-in-Hindi-English">fountain</a>, <a href="/translate/natural+spring/natural+spring-meaning-in-Hindi-English">natural spring</a>, <a href="/translate/outflow/outflow-meaning-in-Hindi-English">outflow</a>, <a href="/translate/outpouring/outpouring-meaning-in-Hindi-English">outpouring</a>, <a href="/translate/springtime/springtime-meaning-in-Hindi-English">springtime</a>, <a href="/translate/rebound/rebound-meaning-in-Hindi-English">rebound</a>, <a href="/translate/recoil/recoil-meaning-in-Hindi-English">recoil</a>, <a href="/translate/resile/resile-meaning-in-Hindi-English">resile</a>, <a href="/translate/reverberate/reverberate-meaning-in-Hindi-English">reverberate</a>, <a href="/translate/ricochet/ricochet-meaning-in-Hindi-English">ricochet</a>, <a href="/translate/take+a+hop/take+a+hop-meaning-in-Hindi-English">take a hop</a>, <a href="/translate/jump/jump-meaning-in-Hindi-English">jump</a>, <a href="/translate/form/form-meaning-in-Hindi-English">form</a>, <a href="/translate/take+form/take+form-meaning-in-Hindi-English">take form</a>, <a href="/translate/take+shape/take+shape-meaning-in-Hindi-English">take shape</a></p><h2 class="ehr">Antonyms of spring</h2><p>No matches.</p><h2 class="ehr">More matches for spring</h2><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring a leak/spring a leak-meaning-in-Hindi-English">spring a leak</a></td><td class="l"><a class="in l" href="/translate/छेद करना/छेद करना-meaning-in-Hindi-English">छेद करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring from/spring from-meaning-in-Hindi-English">spring from</a></td><td class="l"><a class="in l" href="/translate/से उत्पन्न होना/से उत्पन्न होना-meaning-in-Hindi-English">से उत्पन्न होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring from/spring from-meaning-in-Hindi-English">spring from</a></td><td class="l"><a class="in l" href="/translate/से टपकना/से टपकना-meaning-in-Hindi-English">से टपकना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring to mind/spring to mind-meaning-in-Hindi-English">spring to mind</a></td><td class="l"><a class="in l" href="/translate/दिमाग में आना/दिमाग में आना-meaning-in-Hindi-English">दिमाग में आना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring up/spring up-meaning-in-Hindi-English">spring up</a></td><td class="l"><a class="in l" href="/translate/उगना/उगना-meaning-in-Hindi-English">उगना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring up/spring up-meaning-in-Hindi-English">spring up</a></td><td class="l"><a class="in l" href="/translate/उत्पन्न होना/उत्पन्न होना-meaning-in-Hindi-English">उत्पन्न होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring up/spring up-meaning-in-Hindi-English">spring up</a></td><td class="l"><a class="in l" href="/translate/निर्माण होना/निर्माण होना-meaning-in-Hindi-English">निर्माण होना</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring chicken/spring chicken-meaning-in-Hindi-English">spring chicken</a></td><td class="l"><a class="in l" href="/translate/जवान/जवान-meaning-in-Hindi-English">जवान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring chicken/spring chicken-meaning-in-Hindi-English">spring chicken</a></td><td class="l"><a class="in l" href="/translate/छोटी मुर्गी/छोटी मुर्गी-meaning-in-Hindi-English">छोटी मुर्गी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring from/spring from-meaning-in-Hindi-English">spring from</a></td><td class="l"><a class="in l" href="/translate/से टपकना/से टपकना-meaning-in-Hindi-English">से टपकना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring green/spring green-meaning-in-Hindi-English">spring green</a></td><td class="l"><a class="in l" href="/translate/वसन्त की हरियाली/वसन्त की हरियाली-meaning-in-Hindi-English">वसन्त की हरियाली</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring onion/spring onion-meaning-in-Hindi-English">spring onion</a></td><td class="l"><a class="in l" href="/translate/हरे प्याज/हरे प्याज-meaning-in-Hindi-English">हरे प्याज</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring onion/spring onion-meaning-in-Hindi-English">spring onion</a></td><td class="l"><a class="in l" href="/translate/हरा प्याज़/हरा प्याज़-meaning-in-Hindi-English">हरा प्याज़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring onion/spring onion-meaning-in-Hindi-English">spring onion</a></td><td class="l"><a class="in l" href="/translate/गोली प्याज/गोली प्याज-meaning-in-Hindi-English">गोली प्याज</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring roll/spring roll-meaning-in-Hindi-English">spring roll</a></td><td class="l"><a class="in l" href="/translate/स्प्रिंग रोल/स्प्रिंग रोल-meaning-in-Hindi-English">स्प्रिंग रोल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring tide/spring tide-meaning-in-Hindi-English">spring tide</a></td><td class="l"><a class="in l" href="/translate/बृहत् ज्वार/बृहत् ज्वार-meaning-in-Hindi-English">बृहत् ज्वार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring tide/spring tide-meaning-in-Hindi-English">spring tide</a></td><td class="l"><a class="in l" href="/translate/वृहत् ज्वार-भाटा/वृहत् ज्वार-भाटा-meaning-in-Hindi-English">वृहत् ज्वार-भाटा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring tide/spring tide-meaning-in-Hindi-English">spring tide</a></td><td class="l"><a class="in l" href="/translate/उत्तुंग वेला/उत्तुंग वेला-meaning-in-Hindi-English">उत्तुंग वेला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring to mind/spring to mind-meaning-in-Hindi-English">spring to mind</a></td><td class="l"><a class="in l" href="/translate/दिमाग में आना/दिमाग में आना-meaning-in-Hindi-English">दिमाग में आना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring up/spring up-meaning-in-Hindi-English">spring up</a></td><td class="l"><a class="in l" href="/translate/निर्माण होना/निर्माण होना-meaning-in-Hindi-English">निर्माण होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring water/spring water-meaning-in-Hindi-English">spring water</a></td><td class="l"><a class="in l" href="/translate/भूमिगत जल/भूमिगत जल-meaning-in-Hindi-English">भूमिगत जल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springboard/springboard-meaning-in-Hindi-English">springboard</a></td><td class="l"><a class="in l" href="/translate/आगे बढ़ने की प्रेरणा/आगे बढ़ने की प्रेरणा-meaning-in-Hindi-English">आगे बढ़ने की प्रेरणा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springboard/springboard-meaning-in-Hindi-English">springboard</a></td><td class="l"><a class="in l" href="/translate/गोता तख्ता/गोता तख्ता-meaning-in-Hindi-English">गोता तख्ता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springboard/springboard-meaning-in-Hindi-English">springboard</a></td><td class="l"><a class="in l" href="/translate/फ़ौज का अड्डा/फ़ौज का अड्डा-meaning-in-Hindi-English">फ़ौज का अड्डा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springboard/springboard-meaning-in-Hindi-English">springboard</a></td><td class="l"><a class="in l" href="/translate/फ़ौजों की चौकी/फ़ौजों की चौकी-meaning-in-Hindi-English">फ़ौजों की चौकी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springboard/springboard-meaning-in-Hindi-English">springboard</a></td><td class="l"><a class="in l" href="/translate/छलाँग मारने का तख़्ता/छलाँग मारने का तख़्ता-meaning-in-Hindi-English">छलाँग मारने का तख़्ता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springbok/springbok-meaning-in-Hindi-English">springbok</a></td><td class="l"><a class="in l" href="/translate/एक प्रकार का हरिण/एक प्रकार का हरिण-meaning-in-Hindi-English">एक प्रकार का हरिण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springbuck/springbuck-meaning-in-Hindi-English">springbuck</a></td><td class="l"><a class="in l" href="/translate/एक प्रकार का हरिण/एक प्रकार का हरिण-meaning-in-Hindi-English">एक प्रकार का हरिण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/springe/springe-meaning-in-Hindi-English">springe</a></td><td class="l"><a class="in l" href="/translate/जाल/जाल-meaning-in-Hindi-English">जाल</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/spring-loaded/spring-loaded-meaning-in-Hindi-English">spring-loaded</a></td><td class="l"><a class="in l" href="/translate/कमानीदार/कमानीदार-meaning-in-Hindi-English">कमानीदार</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: spring</h3><p>Meaning and definitions of spring, translation in Hindi language for spring with similar and opposite words. Also find spoken pronunciation of spring in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "spring"</h3><p>What spring means in Hindi, spring meaning in Hindi, spring definition, examples and pronunciation of spring in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

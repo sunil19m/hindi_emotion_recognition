@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>foul - Meaning in Hindi - foul in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="foul - Meaning in Hindi, what is meaning of foul in Hindi dictionary, audio pronunciation, synonyms and definitions of foul in Hindi and English.">
+<meta name="keywords" content="foul, meaning of foul, English and Hindi for foul, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/foul/foul-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="foul" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">foul - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of foul</h2><i class="fa fa-volume-up fa-lg in au" id="en291442" style=""></i>फाउल<div class="page-header"><h2 class="ehr">Meanings of foul in Hindi</h2><small>[<a id="t_on" href="/translate/foul/foul-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-3"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi13166"></i> <a class="in l" href="/translate/टक्कर/टक्कर-meaning-in-Hindi-English">टक्कर</a> <span class="latin" style="display:none;">[ṭakkara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17460"></i> <a class="in l" href="/translate/नियमोल्लंघन/नियमोल्लंघन-meaning-in-Hindi-English">नियमोल्लंघन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[niyamōllaṅghana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi427228"></i> <a class="in l" href="/translate/बहुत खराब/बहुत खराब-meaning-in-Hindi-English">बहुत खराब</a> <span class="latin" style="display:none;">[bahuta kharāba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi436303"></i> <a class="in l" href="/translate/गेंद बाहर फेंकना/गेंद बाहर फेंकना-meaning-in-Hindi-English">गेंद बाहर फेंकना</a> <span class="latin" style="display:none;">[gēnda bāhara phēṅkanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi799196"></i> <a class="in l" href="/translate/बुरा बात/बुरा बात-meaning-in-Hindi-English">बुरा बात</a> <span class="latin" style="display:none;">[burā bāta]</span></li></ol></div><div class="col-sm-3"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi3205"></i> <a class="in l" href="/translate/अशुद्ध/अशुद्ध-meaning-in-Hindi-English">अशुद्ध</a> <span class="latin" style="display:none;">[aśud'dha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3221"></i> <a class="in l" href="/translate/अश्लील/अश्लील-meaning-in-Hindi-English">अश्लील</a> <span class="latin" style="display:none;">[aślīla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9262"></i> <a class="in l" href="/translate/गंदा/गंदा-meaning-in-Hindi-English">गंदा</a> <span class="latin" style="display:none;">[gandā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10568"></i> <a class="in l" href="/translate/घृणित/घृणित-meaning-in-Hindi-English">घृणित</a> <span class="latin" style="display:none;">[ghr̥ṇita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14560"></i> <a class="in l" href="/translate/तूफ़ानी/तूफ़ानी-meaning-in-Hindi-English">तूफ़ानी</a> <span class="latin" style="display:none;">[tūfānī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22693"></i> <a class="in l" href="/translate/बदबूदार/बदबूदार-meaning-in-Hindi-English">बदबूदार</a> <span class="latin" style="display:none;">[badabūdāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25624"></i> <a class="in l" href="/translate/मलिन/मलिन-meaning-in-Hindi-English">मलिन</a> <span class="latin" style="display:none;">[malina]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi89314"></i> <a class="in l" href="/translate/कलुषित/कलुषित-meaning-in-Hindi-English">कलुषित</a> <span class="latin" style="display:none;">[kaluṣita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi427228"></i> <a class="in l" href="/translate/बहुत खराब/बहुत खराब-meaning-in-Hindi-English">बहुत खराब</a> <span class="latin" style="display:none;">[bahuta kharāba]</span></li></ol></div><div class="col-sm-3"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi433616"></i> <a class="in l" href="/translate/बेईमानी से/बेईमानी से-meaning-in-Hindi-English">बेईमानी से</a> <span class="latin" style="display:none;">[bē'īmānī sē]</span></li></ol></div><div class="col-sm-3"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi5697"></i> <a class="in l" href="/translate/उलझाना/उलझाना-meaning-in-Hindi-English">उलझाना</a> <span class="latin" style="display:none;">[ulajhānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23447"></i> <a class="in l" href="/translate/बिगाड़ना/बिगाड़ना-meaning-in-Hindi-English">बिगाड़ना</a> <span class="latin" style="display:none;">[bigāṛanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386833"></i> <a class="in l" href="/translate/अपमानित करना/अपमानित करना-meaning-in-Hindi-English">अपमानित करना</a> <span class="latin" style="display:none;">[apamānita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi390215"></i> <a class="in l" href="/translate/गंदा करना/गंदा करना-meaning-in-Hindi-English">गंदा करना</a> <span class="latin" style="display:none;">[gandā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi393078"></i> <a class="in l" href="/translate/बेईमानी करना/बेईमानी करना-meaning-in-Hindi-English">बेईमानी करना</a> <span class="latin" style="display:none;">[bē'īmānī karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi395281"></i> <a class="in l" href="/translate/अशुद्ध करना/अशुद्ध करना-meaning-in-Hindi-English">अशुद्ध करना</a> <span class="latin" style="display:none;">[aśud'dha karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi436303"></i> <a class="in l" href="/translate/गेंद बाहर फेंकना/गेंद बाहर फेंकना-meaning-in-Hindi-English">गेंद बाहर फेंकना</a> <span class="latin" style="display:none;">[gēnda bāhara phēṅkanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi799197"></i> <a class="in l" href="/translate/महिन करना/महिन करना-meaning-in-Hindi-English">महिन करना</a> <span class="latin" style="display:none;">[mahina karanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/fouler/fouler-meaning-in-Hindi-English">fouler</a> (adjective comparative)<br/><a href="/translate/foulest/foulest-meaning-in-Hindi-English">foulest</a> (adjective superlative)<br/><a href="/translate/fouls/fouls-meaning-in-Hindi-English">fouls</a> (noun plural)<br/><a href="/translate/fouled/fouled-meaning-in-Hindi-English">fouled</a> (verb past tense)<br/><a href="/translate/fouling/fouling-meaning-in-Hindi-English">fouling</a> (verb present participle)<br/><a href="/translate/fouls/fouls-meaning-in-Hindi-English">fouls</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of foul in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>especially of a ship's lines etc<br><u><em>Example</em></u><br>- a foul anchor<br></li><li>disgustingly dirty; filled or smeared with offensive matter<br><u><em>Examples</em></u><br>- a foul pond<br>- a nasty pigsty of a room<br></li><li>characterized by obscenity<br><u><em>Examples</em></u><br>- foul language<br>- smutty jokes<br></li><li>(of a baseball) not hit between the foul lines</li><li>violating accepted standards or rules<br><u><em>Examples</em></u><br>- used foul means to gain power<br>- a nasty unsporting serve<br>- fined for unsportsmanlike behavior<br></li><li>offensively malodorous<br><u><em>Example</em></u><br>- the kitchen smelled really funky<br></li><li>(of a manuscript) defaced with changes</li><li>highly offensive; arousing aversion or disgust<br><u><em>Examples</em></u><br>- distasteful language<br>- a loathsome disease<br>- the idea of eating meat is repellent to me<br>- revolting food<br>- a wicked stench<br></li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>an act that violates the rules of a sport</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>become soiled and dirty</li><li>make unclean</li><li>spot, stain, or pollute</li><li>make impure</li><li>commit a foul; break the rules</li><li>hit a foul ball</li><li>become or cause to become obstructed<br><u><em>Example</em></u><br>- The water pipe is backed up<br></li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of foul</h2><p><a href="/translate/foul/foul-meaning-in-Hindi-English">foul</a>, <a href="/translate/befoul/befoul-meaning-in-Hindi-English">befoul</a>, <a href="/translate/defile/defile-meaning-in-Hindi-English">defile</a>, <a href="/translate/maculate/maculate-meaning-in-Hindi-English">maculate</a>, <a href="/translate/contaminate/contaminate-meaning-in-Hindi-English">contaminate</a>, <a href="/translate/pollute/pollute-meaning-in-Hindi-English">pollute</a>, <a href="/translate/back+up/back+up-meaning-in-Hindi-English">back up</a>, <a href="/translate/choke/choke-meaning-in-Hindi-English">choke</a>, <a href="/translate/choke+off/choke+off-meaning-in-Hindi-English">choke off</a>, <a href="/translate/clog/clog-meaning-in-Hindi-English">clog</a>, <a href="/translate/clog+up/clog+up-meaning-in-Hindi-English">clog up</a>, <a href="/translate/congest/congest-meaning-in-Hindi-English">congest</a>, <a href="/translate/afoul/afoul-meaning-in-Hindi-English">afoul</a>, <a href="/translate/fouled/fouled-meaning-in-Hindi-English">fouled</a>, <a href="/translate/filthy/filthy-meaning-in-Hindi-English">filthy</a>, <a href="/translate/nasty/nasty-meaning-in-Hindi-English">nasty</a>, <a href="/translate/cruddy/cruddy-meaning-in-Hindi-English">cruddy</a>, <a href="/translate/smutty/smutty-meaning-in-Hindi-English">smutty</a>, <a href="/translate/cheating/cheating-meaning-in-Hindi-English">cheating</a>, <a href="/translate/dirty/dirty-meaning-in-Hindi-English">dirty</a>, <a href="/translate/unsporting/unsporting-meaning-in-Hindi-English">unsporting</a>, <a href="/translate/unsportsmanlike/unsportsmanlike-meaning-in-Hindi-English">unsportsmanlike</a>, <a href="/translate/fetid/fetid-meaning-in-Hindi-English">fetid</a>, <a href="/translate/foetid/foetid-meaning-in-Hindi-English">foetid</a>, <a href="/translate/foul-smelling/foul-smelling-meaning-in-Hindi-English">foul-smelling</a>, <a href="/translate/funky/funky-meaning-in-Hindi-English">funky</a>, <a href="/translate/ill-scented/ill-scented-meaning-in-Hindi-English">ill-scented</a>, <a href="/translate/noisome/noisome-meaning-in-Hindi-English">noisome</a>, <a href="/translate/smelly/smelly-meaning-in-Hindi-English">smelly</a>, <a href="/translate/stinking/stinking-meaning-in-Hindi-English">stinking</a>, <a href="/translate/marked-up/marked-up-meaning-in-Hindi-English">marked-up</a>, <a href="/translate/disgustful/disgustful-meaning-in-Hindi-English">disgustful</a>, <a href="/translate/disgusting/disgusting-meaning-in-Hindi-English">disgusting</a>, <a href="/translate/distasteful/distasteful-meaning-in-Hindi-English">distasteful</a>, <a href="/translate/loathly/loathly-meaning-in-Hindi-English">loathly</a>, <a href="/translate/loathsome/loathsome-meaning-in-Hindi-English">loathsome</a>, <a href="/translate/repellant/repellant-meaning-in-Hindi-English">repellant</a>, <a href="/translate/repellent/repellent-meaning-in-Hindi-English">repellent</a>, <a href="/translate/repelling/repelling-meaning-in-Hindi-English">repelling</a>, <a href="/translate/revolting/revolting-meaning-in-Hindi-English">revolting</a>, <a href="/translate/skanky/skanky-meaning-in-Hindi-English">skanky</a>, <a href="/translate/wicked/wicked-meaning-in-Hindi-English">wicked</a>, <a href="/translate/yucky/yucky-meaning-in-Hindi-English">yucky</a></p><h2 class="ehr">Antonyms of foul</h2><p><a href="/translate/fair/fair-meaning-in-Hindi-English">fair</a></p><h2 class="ehr">More matches for foul</h2><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foul mouthed/foul mouthed-meaning-in-Hindi-English">foul mouthed</a></td><td class="l"><a class="in l" href="/translate/अभद्र बोली वाला/अभद्र बोली वाला-meaning-in-Hindi-English">अभद्र बोली वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foul-mouthed/foul-mouthed-meaning-in-Hindi-English">foul-mouthed</a></td><td class="l"><a class="in l" href="/translate/गालियां बकनेवाला/गालियां बकनेवाला-meaning-in-Hindi-English">गालियां बकनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foul-mouthed/foul-mouthed-meaning-in-Hindi-English">foul-mouthed</a></td><td class="l"><a class="in l" href="/translate/बदज़बानी करनेवाला/बदज़बानी करनेवाला-meaning-in-Hindi-English">बदज़बानी करनेवाला</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foul play/foul play-meaning-in-Hindi-English">foul play</a></td><td class="l"><a class="in l" href="/translate/नियम विरुद्ध खेल/नियम विरुद्ध खेल-meaning-in-Hindi-English">नियम विरुद्ध खेल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foul-up/foul-up-meaning-in-Hindi-English">foul-up</a></td><td class="l"><a class="in l" href="/translate/समस्या/समस्या-meaning-in-Hindi-English">समस्या</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foul-weather gear/foul-weather gear-meaning-in-Hindi-English">foul-weather gear</a></td><td class="l"><a class="in l" href="/translate/खराब मौसम के लायक वस्त्र/खराब मौसम के लायक वस्त्र-meaning-in-Hindi-English">खराब मौसम के लायक वस्त्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foully/foully-meaning-in-Hindi-English">foully</a></td><td class="l"><a class="in l" href="/translate/घृणित ढंग से/घृणित ढंग से-meaning-in-Hindi-English">घृणित ढंग से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foulness/foulness-meaning-in-Hindi-English">foulness</a></td><td class="l"><a class="in l" href="/translate/कीचड़/कीचड़-meaning-in-Hindi-English">कीचड़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foulness/foulness-meaning-in-Hindi-English">foulness</a></td><td class="l"><a class="in l" href="/translate/गंदगी/गंदगी-meaning-in-Hindi-English">गंदगी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foulness/foulness-meaning-in-Hindi-English">foulness</a></td><td class="l"><a class="in l" href="/translate/दुर्गंध/दुर्गंध-meaning-in-Hindi-English">दुर्गंध</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foulness/foulness-meaning-in-Hindi-English">foulness</a></td><td class="l"><a class="in l" href="/translate/मिट्टी/मिट्टी-meaning-in-Hindi-English">मिट्टी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foulness/foulness-meaning-in-Hindi-English">foulness</a></td><td class="l"><a class="in l" href="/translate/नियम विरुद्धता/नियम विरुद्धता-meaning-in-Hindi-English">नियम विरुद्धता</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foul up/foul up-meaning-in-Hindi-English">foul up</a></td><td class="l"><a class="in l" href="/translate/बिगाड़ देना/बिगाड़ देना-meaning-in-Hindi-English">बिगाड़ देना</a></td></tr></table><h3 class="adverb">adverb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foully/foully-meaning-in-Hindi-English">foully</a></td><td class="l"><a class="in l" href="/translate/अशिष्टता से/अशिष्टता से-meaning-in-Hindi-English">अशिष्टता से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foully/foully-meaning-in-Hindi-English">foully</a></td><td class="l"><a class="in l" href="/translate/अनुचित ढंग से/अनुचित ढंग से-meaning-in-Hindi-English">अनुचित ढंग से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foully/foully-meaning-in-Hindi-English">foully</a></td><td class="l"><a class="in l" href="/translate/घृणित ढंग से/घृणित ढंग से-meaning-in-Hindi-English">घृणित ढंग से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foully/foully-meaning-in-Hindi-English">foully</a></td><td class="l"><a class="in l" href="/translate/मलिनता से/मलिनता से-meaning-in-Hindi-English">मलिनता से</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/foully/foully-meaning-in-Hindi-English">foully</a></td><td class="l"><a class="in l" href="/translate/अपवित्रता से/अपवित्रता से-meaning-in-Hindi-English">अपवित्रता से</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: foul</h3><p>Meaning and definitions of foul, translation in Hindi language for foul with similar and opposite words. Also find spoken pronunciation of foul in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "foul"</h3><p>What foul means in Hindi, foul meaning in Hindi, foul definition, examples and pronunciation of foul in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

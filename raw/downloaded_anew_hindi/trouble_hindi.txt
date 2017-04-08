@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>trouble - Meaning in Hindi - trouble in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="trouble - Meaning in Hindi, what is meaning of trouble in Hindi dictionary, audio pronunciation, synonyms and definitions of trouble in Hindi and English.">
+<meta name="keywords" content="trouble, meaning of trouble, English and Hindi for trouble, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/trouble/trouble-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="trouble" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">trouble - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of trouble</h2><i class="fa fa-volume-up fa-lg in au" id="en611112" style=""></i>ट्रबल<div class="page-header"><h2 class="ehr">Meanings of trouble in Hindi</h2><small>[<a id="t_on" href="/translate/trouble/trouble-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi813873"></i> <a class="in l" href="/translate/छाती पर का पहाड़/छाती पर का पहाड़-meaning-in-Hindi-English">छाती पर का पहाड़</a> <span class="latin" style="display:none;">[chātī para kā pahāṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi7009"></i> <a class="in l" href="/translate/कष्ट/कष्ट-meaning-in-Hindi-English">कष्ट</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[kaṣṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8537"></i> <a class="in l" href="/translate/क्लेश/क्लेश-meaning-in-Hindi-English">क्लेश</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[klēśa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8863"></i> <a class="in l" href="/translate/खराबी/खराबी-meaning-in-Hindi-English">खराबी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[kharābī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9311"></i> <a class="in l" href="/translate/गड़बड़ी/गड़बड़ी-meaning-in-Hindi-English">गड़बड़ी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[gaṛabaṛī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10387"></i> <a class="in l" href="/translate/घबराहट/घबराहट-meaning-in-Hindi-English">घबराहट</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ghabarāhaṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11188"></i> <a class="in l" href="/translate/चिन्ता/चिन्ता-meaning-in-Hindi-English">चिन्ता</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[cintā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12980"></i> <a class="in l" href="/translate/झगड़ा/झगड़ा-meaning-in-Hindi-English">झगड़ा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jhagaṛā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13919"></i> <a class="in l" href="/translate/तकलीफ़/तकलीफ़-meaning-in-Hindi-English">तकलीफ़</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[takalīfa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14856"></i> <a class="in l" href="/translate/दंगा/दंगा-meaning-in-Hindi-English">दंगा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[daṅgā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15480"></i> <a class="in l" href="/translate/दुःख/दुःख-meaning-in-Hindi-English">दुःख</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[duḥkha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19134"></i> <a class="in l" href="/translate/परेशानी/परेशानी-meaning-in-Hindi-English">परेशानी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[parēśānī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi19845"></i> <a class="in l" href="/translate/पीड़ा/पीड़ा-meaning-in-Hindi-English">पीड़ा</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[pīṛā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23607"></i> <a class="in l" href="/translate/बीमारी/बीमारी-meaning-in-Hindi-English">बीमारी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bīmārī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26519"></i> <a class="in l" href="/translate/मुसीबत/मुसीबत-meaning-in-Hindi-English">मुसीबत</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[musībata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31492"></i> <a class="in l" href="/translate/शिकायत/शिकायत-meaning-in-Hindi-English">शिकायत</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[śikāyata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32294"></i> <a class="in l" href="/translate/संचार/संचार-meaning-in-Hindi-English">संचार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[san̄cāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi36027"></i> <a class="in l" href="/translate/हंगामा/हंगामा-meaning-in-Hindi-English">हंगामा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[haṅgāmā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi55333"></i> <a class="in l" href="/translate/आफ़त/आफ़त-meaning-in-Hindi-English">आफ़त</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[āfata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi140294"></i> <a class="in l" href="/translate/जंजाल/जंजाल-meaning-in-Hindi-English">जंजाल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jan̄jāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi144623"></i> <a class="in l" href="/translate/ज़हमत/ज़हमत-meaning-in-Hindi-English">ज़हमत</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[zahamata]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi386818"></i> <a class="in l" href="/translate/कष्ट देना/कष्ट देना-meaning-in-Hindi-English">कष्ट देना</a> <span class="latin" style="display:none;">[kaṣṭa dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387112"></i> <a class="in l" href="/translate/व्याकुल करना/व्याकुल करना-meaning-in-Hindi-English">व्याकुल करना</a> <span class="latin" style="display:none;">[vyākula karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391114"></i> <a class="in l" href="/translate/परेशान करना/परेशान करना-meaning-in-Hindi-English">परेशान करना</a> <span class="latin" style="display:none;">[parēśāna karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi391366"></i> <a class="in l" href="/translate/खराब होना/खराब होना-meaning-in-Hindi-English">खराब होना</a> <span class="latin" style="display:none;">[kharāba hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi430761"></i> <a class="in l" href="/translate/चिंतित होना/चिंतित होना-meaning-in-Hindi-English">चिंतित होना</a> <span class="latin" style="display:none;">[cintita hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi793934"></i> <a class="in l" href="/translate/चिंतित करना/चिंतित करना-meaning-in-Hindi-English">चिंतित करना</a> <span class="latin" style="display:none;">[cintita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32954"></i> <a class="in l" href="/translate/सताना/सताना-meaning-in-Hindi-English">सताना</a> <span class="latin" style="display:none;">[satānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi36490"></i> <a class="in l" href="/translate/हिलाना/हिलाना-meaning-in-Hindi-English">हिलाना</a> <span class="latin" style="display:none;">[hilānā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/troubles/troubles-meaning-in-Hindi-English">troubles</a> (noun plural)<br/><a href="/translate/troubled/troubled-meaning-in-Hindi-English">troubled</a> (verb past tense)<br/><a href="/translate/troubling/troubling-meaning-in-Hindi-English">troubling</a> (verb present participle)<br/><a href="/translate/troubles/troubles-meaning-in-Hindi-English">troubles</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of trouble in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>an effort that is inconvenient<br><u><em>Examples</em></u><br>- he won without any trouble<br>- had difficulty walking<br>- finished the test only with great difficulty<br></li><li>a source of difficulty<br><u><em>Example</em></u><br>- what's the problem?<br></li><li>an event causing distress or pain<br><u><em>Example</em></u><br>- heart trouble<br></li><li>an angry disturbance<br><u><em>Examples</em></u><br>- they had labor trouble<br>- a spot of bother<br></li><li>a strong feeling of anxiety<br><u><em>Examples</em></u><br>- it is not work but worry that kills<br>- he wanted to die and end his troubles<br></li><li>an unwanted pregnancy</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>cause bodily suffering to and make sick or indisposed</li><li>disturb in mind or make uneasy or cause to be worried or alarmed</li><li>move deeply<br><u><em>Example</em></u><br>- A troubling thought<br></li><li>take the trouble to do something; concern oneself<br><u><em>Example</em></u><br>- Don't bother, please<br></li><li>to cause inconvenience or discomfort to</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of trouble</h2><p><a href="/translate/difficulty/difficulty-meaning-in-Hindi-English">difficulty</a>, <a href="/translate/trouble/trouble-meaning-in-Hindi-English">trouble</a>, <a href="/translate/problem/problem-meaning-in-Hindi-English">problem</a>, <a href="/translate/bother/bother-meaning-in-Hindi-English">bother</a>, <a href="/translate/fuss/fuss-meaning-in-Hindi-English">fuss</a>, <a href="/translate/hassle/hassle-meaning-in-Hindi-English">hassle</a>, <a href="/translate/worry/worry-meaning-in-Hindi-English">worry</a>, <a href="/translate/ail/ail-meaning-in-Hindi-English">ail</a>, <a href="/translate/pain/pain-meaning-in-Hindi-English">pain</a>, <a href="/translate/cark/cark-meaning-in-Hindi-English">cark</a>, <a href="/translate/disorder/disorder-meaning-in-Hindi-English">disorder</a>, <a href="/translate/disquiet/disquiet-meaning-in-Hindi-English">disquiet</a>, <a href="/translate/distract/distract-meaning-in-Hindi-English">distract</a>, <a href="/translate/perturb/perturb-meaning-in-Hindi-English">perturb</a>, <a href="/translate/unhinge/unhinge-meaning-in-Hindi-English">unhinge</a>, <a href="/translate/disturb/disturb-meaning-in-Hindi-English">disturb</a>, <a href="/translate/upset/upset-meaning-in-Hindi-English">upset</a>, <a href="/translate/inconvenience+oneself/inconvenience+oneself-meaning-in-Hindi-English">inconvenience oneself</a>, <a href="/translate/trouble+oneself/trouble+oneself-meaning-in-Hindi-English">trouble oneself</a>, <a href="/translate/discommode/discommode-meaning-in-Hindi-English">discommode</a>, <a href="/translate/disoblige/disoblige-meaning-in-Hindi-English">disoblige</a>, <a href="/translate/incommode/incommode-meaning-in-Hindi-English">incommode</a>, <a href="/translate/inconvenience/inconvenience-meaning-in-Hindi-English">inconvenience</a>, <a href="/translate/put+out/put+out-meaning-in-Hindi-English">put out</a></p><h2 class="ehr">Antonyms of trouble</h2><p>No matches.</p><h2 class="ehr">More matches for trouble</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trouble maker/trouble maker-meaning-in-Hindi-English">trouble maker</a></td><td class="l"><a class="in l" href="/translate/उपद्रवी/उपद्रवी-meaning-in-Hindi-English">उपद्रवी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trouble shooter/trouble shooter-meaning-in-Hindi-English">trouble shooter</a></td><td class="l"><a class="in l" href="/translate/मुश्किल दूर करने वाला/मुश्किल दूर करने वाला-meaning-in-Hindi-English">मुश्किल दूर करने वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trouble spot/trouble spot-meaning-in-Hindi-English">trouble spot</a></td><td class="l"><a class="in l" href="/translate/अशांत क्षेत्र/अशांत क्षेत्र-meaning-in-Hindi-English">अशांत क्षेत्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trouble spot/trouble spot-meaning-in-Hindi-English">trouble spot</a></td><td class="l"><a class="in l" href="/translate/उपद्रव स्थान/उपद्रव स्थान-meaning-in-Hindi-English">उपद्रव स्थान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troublemaker/troublemaker-meaning-in-Hindi-English">troublemaker</a></td><td class="l"><a class="in l" href="/translate/उपद्रवी/उपद्रवी-meaning-in-Hindi-English">उपद्रवी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubler/troubler-meaning-in-Hindi-English">troubler</a></td><td class="l"><a class="in l" href="/translate/उपद्रवी/उपद्रवी-meaning-in-Hindi-English">उपद्रवी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubleshooter/troubleshooter-meaning-in-Hindi-English">troubleshooter</a></td><td class="l"><a class="in l" href="/translate/मुश्किल दूर करने वाला/मुश्किल दूर करने वाला-meaning-in-Hindi-English">मुश्किल दूर करने वाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubleshooter/troubleshooter-meaning-in-Hindi-English">troubleshooter</a></td><td class="l"><a class="in l" href="/translate/दोष दूर करनेवाला/दोष दूर करनेवाला-meaning-in-Hindi-English">दोष दूर करनेवाला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troublesomeness/troublesomeness-meaning-in-Hindi-English">troublesomeness</a></td><td class="l"><a class="in l" href="/translate/असुविधा/असुविधा-meaning-in-Hindi-English">असुविधा</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/trouble-free/trouble-free-meaning-in-Hindi-English">trouble-free</a></td><td class="l"><a class="in l" href="/translate/निरापद/निरापद-meaning-in-Hindi-English">निरापद</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubled/troubled-meaning-in-Hindi-English">troubled</a></td><td class="l"><a class="in l" href="/translate/अशांत/अशांत-meaning-in-Hindi-English">अशांत</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubled/troubled-meaning-in-Hindi-English">troubled</a></td><td class="l"><a class="in l" href="/translate/तंग/तंग-meaning-in-Hindi-English">तंग</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubled/troubled-meaning-in-Hindi-English">troubled</a></td><td class="l"><a class="in l" href="/translate/परेशान/परेशान-meaning-in-Hindi-English">परेशान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubled/troubled-meaning-in-Hindi-English">troubled</a></td><td class="l"><a class="in l" href="/translate/कष्टमय/कष्टमय-meaning-in-Hindi-English">कष्टमय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troublesome/troublesome-meaning-in-Hindi-English">troublesome</a></td><td class="l"><a class="in l" href="/translate/कष्टकर/कष्टकर-meaning-in-Hindi-English">कष्टकर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troublesome/troublesome-meaning-in-Hindi-English">troublesome</a></td><td class="l"><a class="in l" href="/translate/कष्टप्रद/कष्टप्रद-meaning-in-Hindi-English">कष्टप्रद</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troublesome/troublesome-meaning-in-Hindi-English">troublesome</a></td><td class="l"><a class="in l" href="/translate/क्लेशदायी/क्लेशदायी-meaning-in-Hindi-English">क्लेशदायी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troublesome/troublesome-meaning-in-Hindi-English">troublesome</a></td><td class="l"><a class="in l" href="/translate/दुःखदायी/दुःखदायी-meaning-in-Hindi-English">दुःखदायी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troublesome/troublesome-meaning-in-Hindi-English">troublesome</a></td><td class="l"><a class="in l" href="/translate/तकलीफ़देह/तकलीफ़देह-meaning-in-Hindi-English">तकलीफ़देह</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/troubleshoot/troubleshoot-meaning-in-Hindi-English">troubleshoot</a></td><td class="l"><a class="in l" href="/translate/विध्न निवारण/विध्न निवारण-meaning-in-Hindi-English">विध्न निवारण</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: trouble</h3><p>Meaning and definitions of trouble, translation in Hindi language for trouble with similar and opposite words. Also find spoken pronunciation of trouble in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "trouble"</h3><p>What trouble means in Hindi, trouble meaning in Hindi, trouble definition, examples and pronunciation of trouble in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>present - Meaning in Hindi - present in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="present - Meaning in Hindi, what is meaning of present in Hindi dictionary, audio pronunciation, synonyms and definitions of present in Hindi and English.">
+<meta name="keywords" content="present, meaning of present, English and Hindi for present, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/present/present-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="present" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">present - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of present</h2><i class="fa fa-volume-up fa-lg in au" id="en479334" style=""></i>प्रेज़न्ट / प्रीज़ेन्ट / पर्ज़ेन्ट / प्रेज़न्ट / प्रिज़ेन्ट<div class="page-header"><h2 class="ehr">Meanings of present in Hindi</h2><small>[<a id="t_on" href="/translate/present/present-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-3"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi32474"></i> <a class="in l" href="/translate/संप्रति/संप्रति-meaning-in-Hindi-English">संप्रति</a> <span class="latin" style="display:none;">[samprati]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33348"></i> <a class="in l" href="/translate/समर्पण/समर्पण-meaning-in-Hindi-English">समर्पण</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[samarpaṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi414930"></i> <a class="in l" href="/translate/वर्तमान काल/वर्तमान काल-meaning-in-Hindi-English">वर्तमान काल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[vartamāna kāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi92159"></i> <a class="in l" href="/translate/काग़ज़/काग़ज़-meaning-in-Hindi-English">काग़ज़</a> <span class="latin" style="display:none;">[kāġaza]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi175406"></i> <a class="in l" href="/translate/तोहफ़ा/तोहफ़ा-meaning-in-Hindi-English">तोहफ़ा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[tōhafā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi180424"></i> <a class="in l" href="/translate/दस्तावेज़/दस्तावेज़-meaning-in-Hindi-English">दस्तावेज़</a> <span class="latin" style="display:none;">[dastāvēza]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi197105"></i> <a class="in l" href="/translate/निछावर/निछावर-meaning-in-Hindi-English">निछावर</a> <span class="latin" style="display:none;">[nichāvara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi203126"></i> <a class="in l" href="/translate/न्योछावर/न्योछावर-meaning-in-Hindi-English">न्योछावर</a> <span class="latin" style="display:none;">[n'yōchāvara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2779"></i> <a class="in l" href="/translate/अर्पण/अर्पण-meaning-in-Hindi-English">अर्पण</a> <span class="latin" style="display:none;">[arpaṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi539670"></i> <a class="in l" href="/translate/सकलात/सकलात-meaning-in-Hindi-English">सकलात</a> <span class="latin" style="display:none;">[sakalāta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi799088"></i> <a class="in l" href="/translate/वर्तमान-काल/वर्तमान-काल-meaning-in-Hindi-English">वर्तमान-काल</a> <span class="latin" style="display:none;">[vartamāna-kāla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5557"></i> <a class="in l" href="/translate/उपहार/उपहार-meaning-in-Hindi-English">उपहार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[upahāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16702"></i> <a class="in l" href="/translate/नज़र/नज़र-meaning-in-Hindi-English">नज़र</a> <span class="latin" style="display:none;">[nazara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24857"></i> <a class="in l" href="/translate/भेंट/भेंट-meaning-in-Hindi-English">भेंट</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bhēṇṭa]</span></li></ol></div><div class="col-sm-3"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi27122"></i> <a class="in l" href="/translate/यह/यह-meaning-in-Hindi-English">यह</a> <span class="latin" style="display:none;">[yaha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29341"></i> <a class="in l" href="/translate/वर्तमान/वर्तमान-meaning-in-Hindi-English">वर्तमान</a> <span class="latin" style="display:none;">[vartamāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi29958"></i> <a class="in l" href="/translate/विद्यमान/विद्यमान-meaning-in-Hindi-English">विद्यमान</a> <span class="latin" style="display:none;">[vidyamāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi31438"></i> <a class="in l" href="/translate/शामिल/शामिल-meaning-in-Hindi-English">शामिल</a> <span class="latin" style="display:none;">[śāmila]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi407952"></i> <a class="in l" href="/translate/हाल का/हाल का-meaning-in-Hindi-English">हाल का</a> <span class="latin" style="display:none;">[hāla kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34414"></i> <a class="in l" href="/translate/सावधान/सावधान-meaning-in-Hindi-English">सावधान</a> <span class="latin" style="display:none;">[sāvadhāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi414929"></i> <a class="in l" href="/translate/अभी का/अभी का-meaning-in-Hindi-English">अभी का</a> <span class="latin" style="display:none;">[abhī kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35579"></i> <a class="in l" href="/translate/स्थित/स्थित-meaning-in-Hindi-English">स्थित</a> <span class="latin" style="display:none;">[sthita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi36337"></i> <a class="in l" href="/translate/हाजिर/हाजिर-meaning-in-Hindi-English">हाजिर</a> <span class="latin" style="display:none;">[hājira]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi287946"></i> <a class="in l" href="/translate/मौजूद/मौजूद-meaning-in-Hindi-English">मौजूद</a> <span class="latin" style="display:none;">[maujūda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi345269"></i> <a class="in l" href="/translate/समागत/समागत-meaning-in-Hindi-English">समागत</a> <span class="latin" style="display:none;">[samāgata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi375408"></i> <a class="in l" href="/translate/हाज़िर/हाज़िर-meaning-in-Hindi-English">हाज़िर</a> <span class="latin" style="display:none;">[hāzira]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi445311"></i> <a class="in l" href="/translate/सामने आने योग्य/सामने आने योग्य-meaning-in-Hindi-English">सामने आने योग्य</a> <span class="latin" style="display:none;">[sāmanē ānē yōgya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3954"></i> <a class="in l" href="/translate/आधुनिक/आधुनिक-meaning-in-Hindi-English">आधुनिक</a> <span class="latin" style="display:none;">[ādhunika]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi376377"></i> <a class="in l" href="/translate/हाज़िर/हाज़िर-meaning-in-Hindi-English">हाज़िर</a> <span class="latin" style="display:none;">[hāzira]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5553"></i> <a class="in l" href="/translate/उपस्थित/उपस्थित-meaning-in-Hindi-English">उपस्थित</a> <span class="latin" style="display:none;">[upasthita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14248"></i> <a class="in l" href="/translate/तात्कालिक/तात्कालिक-meaning-in-Hindi-English">तात्कालिक</a> <span class="latin" style="display:none;">[tātkālika]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi14623"></i> <a class="in l" href="/translate/तैयार/तैयार-meaning-in-Hindi-English">तैयार</a> <span class="latin" style="display:none;">[taiyāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi21642"></i> <a class="in l" href="/translate/प्रस्तुत/प्रस्तुत-meaning-in-Hindi-English">प्रस्तुत</a> <span class="latin" style="display:none;">[prastuta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26988"></i> <a class="in l" href="/translate/मौजूदा/मौजूदा-meaning-in-Hindi-English">मौजूदा</a> <span class="latin" style="display:none;">[maujūdā]</span></li></ol></div><div class="col-sm-3"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi346076"></i> <a class="in l" href="/translate/सम्प्रति/सम्प्रति-meaning-in-Hindi-English">सम्प्रति</a> <span class="latin" style="display:none;">[samprati]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3746"></i> <a class="in l" href="/translate/आजकल/आजकल-meaning-in-Hindi-English">आजकल</a> <span class="latin" style="display:none;">[ājakala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20457"></i> <a class="in l" href="/translate/पेश/पेश-meaning-in-Hindi-English">पेश</a> <span class="latin" style="display:none;">[pēśa]</span></li></ol></div><div class="col-sm-3"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi388089"></i> <a class="in l" href="/translate/प्रदर्शित करना/प्रदर्शित करना-meaning-in-Hindi-English">प्रदर्शित करना</a> <span class="latin" style="display:none;">[pradarśita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388721"></i> <a class="in l" href="/translate/उपस्थित रहना/उपस्थित रहना-meaning-in-Hindi-English">उपस्थित रहना</a> <span class="latin" style="display:none;">[upasthita rahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27465"></i> <a class="in l" href="/translate/रखना/रखना-meaning-in-Hindi-English">रखना</a> <span class="latin" style="display:none;">[rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi390236"></i> <a class="in l" href="/translate/अर्पण करना/अर्पण करना-meaning-in-Hindi-English">अर्पण करना</a> <span class="latin" style="display:none;">[arpaṇa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392127"></i> <a class="in l" href="/translate/भेंट करना/भेंट करना-meaning-in-Hindi-English">भेंट करना</a> <span class="latin" style="display:none;">[bhēṇṭa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi394575"></i> <a class="in l" href="/translate/उपहार देना/उपहार देना-meaning-in-Hindi-English">उपहार देना</a> <span class="latin" style="display:none;">[upahāra dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi398865"></i> <a class="in l" href="/translate/सीध बांधना/सीध बांधना-meaning-in-Hindi-English">सीध बांधना</a> <span class="latin" style="display:none;">[sīdha bāndhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34224"></i> <a class="in l" href="/translate/साधना/साधना-meaning-in-Hindi-English">साधना</a> <span class="latin" style="display:none;">[sādhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi408021"></i> <a class="in l" href="/translate/आगे रखना/आगे रखना-meaning-in-Hindi-English">आगे रखना</a> <span class="latin" style="display:none;">[āgē rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi414931"></i> <a class="in l" href="/translate/सामने करना/सामने करना-meaning-in-Hindi-English">सामने करना</a> <span class="latin" style="display:none;">[sāmanē karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi414932"></i> <a class="in l" href="/translate/हवाला करना/हवाला करना-meaning-in-Hindi-English">हवाला करना</a> <span class="latin" style="display:none;">[havālā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi415361"></i> <a class="in l" href="/translate/सामने लाना/सामने लाना-meaning-in-Hindi-English">सामने लाना</a> <span class="latin" style="display:none;">[sāmanē lānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi444814"></i> <a class="in l" href="/translate/अभिनीत करना/अभिनीत करना-meaning-in-Hindi-English">अभिनीत करना</a> <span class="latin" style="display:none;">[abhinīta karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi445303"></i> <a class="in l" href="/translate/निवेदित करना/निवेदित करना-meaning-in-Hindi-English">निवेदित करना</a> <span class="latin" style="display:none;">[nivēdita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi445305"></i> <a class="in l" href="/translate/साक्षात्कर करना/साक्षात्कर करना-meaning-in-Hindi-English">साक्षात्कर करना</a> <span class="latin" style="display:none;">[sākṣātkara karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi445306"></i> <a class="in l" href="/translate/सलामी देना/सलामी देना-meaning-in-Hindi-English">सलामी देना</a> <span class="latin" style="display:none;">[salāmī dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi445307"></i> <a class="in l" href="/translate/समक्ष लाना/समक्ष लाना-meaning-in-Hindi-English">समक्ष लाना</a> <span class="latin" style="display:none;">[samakṣa lānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi445308"></i> <a class="in l" href="/translate/लक्ष्य बाँधना/लक्ष्य बाँधना-meaning-in-Hindi-English">लक्ष्य बाँधना</a> <span class="latin" style="display:none;">[lakṣya bām̐dhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi445309"></i> <a class="in l" href="/translate/समक्ष रखना/समक्ष रखना-meaning-in-Hindi-English">समक्ष रखना</a> <span class="latin" style="display:none;">[samakṣa rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3987"></i> <a class="in l" href="/translate/आना/आना-meaning-in-Hindi-English">आना</a> <span class="latin" style="display:none;">[ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385431"></i> <a class="in l" href="/translate/स्वीकार करना/स्वीकार करना-meaning-in-Hindi-English">स्वीकार करना</a> <span class="latin" style="display:none;">[svīkāra karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi795868"></i> <a class="in l" href="/translate/उत्सर्ग करना/उत्सर्ग करना-meaning-in-Hindi-English">उत्सर्ग करना</a> <span class="latin" style="display:none;">[utsarga karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385923"></i> <a class="in l" href="/translate/प्रदान करना/प्रदान करना-meaning-in-Hindi-English">प्रदान करना</a> <span class="latin" style="display:none;">[pradāna karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386422"></i> <a class="in l" href="/translate/उपस्थित करना/उपस्थित करना-meaning-in-Hindi-English">उपस्थित करना</a> <span class="latin" style="display:none;">[upasthita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi807523"></i> <a class="in l" href="/translate/निशाना लगाने के लिये तैयार होना/निशाना लगाने के लिये तैयार होना-meaning-in-Hindi-English">निशाना लगाने के लिये तैयार होना</a> <span class="latin" style="display:none;">[niśānā lagānē kē liyē taiyāra hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386424"></i> <a class="in l" href="/translate/प्रस्तुत करना/प्रस्तुत करना-meaning-in-Hindi-English">प्रस्तुत करना</a> <span class="latin" style="display:none;">[prastuta karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi807524"></i> <a class="in l" href="/translate/उत्सर्ग देना/उत्सर्ग देना-meaning-in-Hindi-English">उत्सर्ग देना</a> <span class="latin" style="display:none;">[utsarga dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386425"></i> <a class="in l" href="/translate/सामने रखना/सामने रखना-meaning-in-Hindi-English">सामने रखना</a> <span class="latin" style="display:none;">[sāmanē rakhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386661"></i> <a class="in l" href="/translate/पेश करना/पेश करना-meaning-in-Hindi-English">पेश करना</a> <span class="latin" style="display:none;">[pēśa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi15807"></i> <a class="in l" href="/translate/देना/देना-meaning-in-Hindi-English">देना</a> <span class="latin" style="display:none;">[dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386800"></i> <a class="in l" href="/translate/अनुमोदन करना/अनुमोदन करना-meaning-in-Hindi-English">अनुमोदन करना</a> <span class="latin" style="display:none;">[anumōdana karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387048"></i> <a class="in l" href="/translate/निशाना लगाना/निशाना लगाना-meaning-in-Hindi-English">निशाना लगाना</a> <span class="latin" style="display:none;">[niśānā lagānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387927"></i> <a class="in l" href="/translate/उपस्थित होना/उपस्थित होना-meaning-in-Hindi-English">उपस्थित होना</a> <span class="latin" style="display:none;">[upasthita hōnā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/presenter/presenter-meaning-in-Hindi-English">presenter</a> (adjective comparative)<br/><a href="/translate/presents/presents-meaning-in-Hindi-English">presents</a> (noun plural)<br/><a href="/translate/presented/presented-meaning-in-Hindi-English">presented</a> (verb past tense)<br/><a href="/translate/presenting/presenting-meaning-in-Hindi-English">presenting</a> (verb present participle)<br/><a href="/translate/presents/presents-meaning-in-Hindi-English">presents</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of present in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>temporal sense; intermediate between past and future; now existing or happening or in consideration<br><u><em>Examples</em></u><br>- articles for present use<br>- the present topic<br>- the present system<br>- present observations<br></li><li>being or existing in a specified place<br><u><em>Examples</em></u><br>- present at the wedding<br>- present at the creation<br></li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>a verb tense that expresses actions or states at the time of speaking</li><li>something presented as a gift</li><li>the period of time that is happening now; any continuous stretch of time including the moment of speech<br><u><em>Example</em></u><br>- he lives in the present with no thought of tomorrow<br></li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>bring forward and present to the mind<br><u><em>Example</em></u><br>- We cannot represent this knowledge to our formal reason<br></li><li>recognize with a gesture prescribed by a military regulation; assume a prescribed position</li><li>cause to come to know personally<br><u><em>Example</em></u><br>- introduce the new neighbors to the community<br></li><li>formally present a debutante, a representative of a country, etc.</li><li>deliver (a speech, oration, or idea)</li><li>present somebody with something, usually to accuse or criticize<br><u><em>Examples</em></u><br>- He was faced with all the evidence and could no longer deny his actions<br>- An enormous dilemma faces us<br></li><li>represent abstractly, for example in a painting, drawing, or sculpture</li><li>perform (a play), especially on a stage</li><li>give an exhibition of to an interested audience<br><u><em>Example</em></u><br>- We will demo the new software in Washington<br></li><li>give as a present; make a gift of</li><li>give, especially as an honor or reward</li><li>hand over formally</li><li>introduce</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of present</h2><p><a href="/translate/present/present-meaning-in-Hindi-English">present</a>, <a href="/translate/present+tense/present+tense-meaning-in-Hindi-English">present tense</a>, <a href="/translate/nowadays/nowadays-meaning-in-Hindi-English">nowadays</a>, <a href="/translate/lay+out/lay+out-meaning-in-Hindi-English">lay out</a>, <a href="/translate/represent/represent-meaning-in-Hindi-English">represent</a>, <a href="/translate/salute/salute-meaning-in-Hindi-English">salute</a>, <a href="/translate/acquaint/acquaint-meaning-in-Hindi-English">acquaint</a>, <a href="/translate/introduce/introduce-meaning-in-Hindi-English">introduce</a>, <a href="/translate/deliver/deliver-meaning-in-Hindi-English">deliver</a>, <a href="/translate/confront/confront-meaning-in-Hindi-English">confront</a>, <a href="/translate/face/face-meaning-in-Hindi-English">face</a>, <a href="/translate/portray/portray-meaning-in-Hindi-English">portray</a>, <a href="/translate/stage/stage-meaning-in-Hindi-English">stage</a>, <a href="/translate/demo/demo-meaning-in-Hindi-English">demo</a>, <a href="/translate/demonstrate/demonstrate-meaning-in-Hindi-English">demonstrate</a>, <a href="/translate/exhibit/exhibit-meaning-in-Hindi-English">exhibit</a>, <a href="/translate/show/show-meaning-in-Hindi-English">show</a>, <a href="/translate/gift/gift-meaning-in-Hindi-English">gift</a>, <a href="/translate/give/give-meaning-in-Hindi-English">give</a>, <a href="/translate/award/award-meaning-in-Hindi-English">award</a>, <a href="/translate/submit/submit-meaning-in-Hindi-English">submit</a>, <a href="/translate/pose/pose-meaning-in-Hindi-English">pose</a></p><h2 class="ehr">Antonyms of present</h2><p><a href="/translate/future/future-meaning-in-Hindi-English">future</a>, <a href="/translate/past/past-meaning-in-Hindi-English">past</a>, <a href="/translate/absent/absent-meaning-in-Hindi-English">absent</a></p><h2 class="ehr">More matches for present</h2><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present day/present day-meaning-in-Hindi-English">present day</a></td><td class="l"><a class="in l" href="/translate/वर्तमान/वर्तमान-meaning-in-Hindi-English">वर्तमान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present-day/present-day-meaning-in-Hindi-English">present-day</a></td><td class="l"><a class="in l" href="/translate/आधुनिक/आधुनिक-meaning-in-Hindi-English">आधुनिक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present-day/present-day-meaning-in-Hindi-English">present-day</a></td><td class="l"><a class="in l" href="/translate/वर्तमान/वर्तमान-meaning-in-Hindi-English">वर्तमान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present-day/present-day-meaning-in-Hindi-English">present-day</a></td><td class="l"><a class="in l" href="/translate/समकालीन/समकालीन-meaning-in-Hindi-English">समकालीन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentable/presentable-meaning-in-Hindi-English">presentable</a></td><td class="l"><a class="in l" href="/translate/आकर्षक/आकर्षक-meaning-in-Hindi-English">आकर्षक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentable/presentable-meaning-in-Hindi-English">presentable</a></td><td class="l"><a class="in l" href="/translate/प्रस्तुत करने योग्य/प्रस्तुत करने योग्य-meaning-in-Hindi-English">प्रस्तुत करने योग्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentable/presentable-meaning-in-Hindi-English">presentable</a></td><td class="l"><a class="in l" href="/translate/सामने आने योग्य/सामने आने योग्य-meaning-in-Hindi-English">सामने आने योग्य</a></td></tr></table><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present participle/present participle-meaning-in-Hindi-English">present participle</a></td><td class="l"><a class="in l" href="/translate/वर्तमान कालिक विशेषण/वर्तमान कालिक विशेषण-meaning-in-Hindi-English">वर्तमान कालिक विशेषण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present tense/present tense-meaning-in-Hindi-English">present tense</a></td><td class="l"><a class="in l" href="/translate/वर्तमान/वर्तमान-meaning-in-Hindi-English">वर्तमान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present tense/present tense-meaning-in-Hindi-English">present tense</a></td><td class="l"><a class="in l" href="/translate/वर्तमान काल/वर्तमान काल-meaning-in-Hindi-English">वर्तमान काल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/present tense/present tense-meaning-in-Hindi-English">present tense</a></td><td class="l"><a class="in l" href="/translate/वर्तमान-काल/वर्तमान-काल-meaning-in-Hindi-English">वर्तमान-काल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentable/presentable-meaning-in-Hindi-English">presentable</a></td><td class="l"><a class="in l" href="/translate/सामने आने योग्य/सामने आने योग्य-meaning-in-Hindi-English">सामने आने योग्य</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/अर्पण/अर्पण-meaning-in-Hindi-English">अर्पण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/उत्सव/उत्सव-meaning-in-Hindi-English">उत्सव</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/गर्भस्थिति/गर्भस्थिति-meaning-in-Hindi-English">गर्भस्थिति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/दान/दान-meaning-in-Hindi-English">दान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/दिखाव/दिखाव-meaning-in-Hindi-English">दिखाव</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/प्रतिपादन/प्रतिपादन-meaning-in-Hindi-English">प्रतिपादन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/प्रदर्शन/प्रदर्शन-meaning-in-Hindi-English">प्रदर्शन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/प्रस्तुति/प्रस्तुति-meaning-in-Hindi-English">प्रस्तुति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/प्रस्तुतिकरण/प्रस्तुतिकरण-meaning-in-Hindi-English">प्रस्तुतिकरण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/भेंट/भेंट-meaning-in-Hindi-English">भेंट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/व्याख्यान/व्याख्यान-meaning-in-Hindi-English">व्याख्यान</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/पेशकश/पेशकश-meaning-in-Hindi-English">पेशकश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentation/presentation-meaning-in-Hindi-English">presentation</a></td><td class="l"><a class="in l" href="/translate/लोकार्पण/लोकार्पण-meaning-in-Hindi-English">लोकार्पण</a></td></tr></table><h3 class="adverb">adverb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/presentably/presentably-meaning-in-Hindi-English">presentably</a></td><td class="l"><a class="in l" href="/translate/प्रस्तुत करने योग्य ढंग से/प्रस्तुत करने योग्य ढंग से-meaning-in-Hindi-English">प्रस्तुत करने योग्य ढंग से</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: present</h3><p>Meaning and definitions of present, translation in Hindi language for present with similar and opposite words. Also find spoken pronunciation of present in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "present"</h3><p>What present means in Hindi, present meaning in Hindi, present definition, examples and pronunciation of present in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

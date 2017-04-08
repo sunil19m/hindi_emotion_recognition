@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>flood - Meaning in Hindi - flood in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="flood - Meaning in Hindi, what is meaning of flood in Hindi dictionary, audio pronunciation, synonyms and definitions of flood in Hindi and English.">
+<meta name="keywords" content="flood, meaning of flood, English and Hindi for flood, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/flood/flood-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="flood" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">flood - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of flood</h2><i class="fa fa-volume-up fa-lg in au" id="en286358" style=""></i>फ्लड<div class="page-header"><h2 class="ehr">Meanings of flood in Hindi</h2><small>[<a id="t_on" href="/translate/flood/flood-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi23413"></i> <a class="in l" href="/translate/बाढ़/बाढ़-meaning-in-Hindi-English">बाढ़</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bāṛha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35287"></i> <a class="in l" href="/translate/सैलाब/सैलाब-meaning-in-Hindi-English">सैलाब</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sailāba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi143512"></i> <a class="in l" href="/translate/जलप्रलय/जलप्रलय-meaning-in-Hindi-English">जलप्रलय</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jalapralaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi143513"></i> <a class="in l" href="/translate/जलप्रवाह/जलप्रवाह-meaning-in-Hindi-English">जलप्रवाह</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jalapravāha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi402621"></i> <a class="in l" href="/translate/ज्वार का चढ़ाव/ज्वार का चढ़ाव-meaning-in-Hindi-English">ज्वार का चढ़ाव</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jvāra kā caṛhāva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi620273"></i> <a class="in l" href="/translate/विप्लाव/विप्लाव-meaning-in-Hindi-English">विप्लाव</a> <span class="latin" style="display:none;">[viplāva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi798946"></i> <a class="in l" href="/translate/अजस्र जल-प्रवाह/अजस्र जल-प्रवाह-meaning-in-Hindi-English">अजस्र जल-प्रवाह</a> <span class="latin" style="display:none;">[ajasra jala-pravāha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12291"></i> <a class="in l" href="/translate/जलमय/जलमय-meaning-in-Hindi-English">जलमय</a> <span class="latin" style="display:none;">[jalamaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12933"></i> <a class="in l" href="/translate/ज्वार/ज्वार-meaning-in-Hindi-English">ज्वार</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jvāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16725"></i> <a class="in l" href="/translate/नदी/नदी-meaning-in-Hindi-English">नदी</a> <span class="latin" style="display:none;">[nadī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi21423"></i> <a class="in l" href="/translate/प्रलय/प्रलय-meaning-in-Hindi-English">प्रलय</a> <span class="latin" style="display:none;">[pralaya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23055"></i> <a class="in l" href="/translate/बहुतायत/बहुतायत-meaning-in-Hindi-English">बहुतायत</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bahutāyata]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23236"></i> <a class="in l" href="/translate/बाढ़/बाढ़-meaning-in-Hindi-English">बाढ़</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bāṛha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23397"></i> <a class="in l" href="/translate/बाहुल्य/बाहुल्य-meaning-in-Hindi-English">बाहुल्य</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bāhulya]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi24099"></i> <a class="in l" href="/translate/बोरना/बोरना-meaning-in-Hindi-English">बोरना</a> <span class="latin" style="display:none;">[bōranā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24400"></i> <a class="in l" href="/translate/भरना/भरना-meaning-in-Hindi-English">भरना</a> <span class="latin" style="display:none;">[bharanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385498"></i> <a class="in l" href="/translate/बह निकलना/बह निकलना-meaning-in-Hindi-English">बह निकलना</a> <span class="latin" style="display:none;">[baha nikalanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi385502"></i> <a class="in l" href="/translate/भरा रहना/भरा रहना-meaning-in-Hindi-English">भरा रहना</a> <span class="latin" style="display:none;">[bharā rahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi392997"></i> <a class="in l" href="/translate/भर देना/भर देना-meaning-in-Hindi-English">भर देना</a> <span class="latin" style="display:none;">[bhara dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi396146"></i> <a class="in l" href="/translate/भर जाना/भर जाना-meaning-in-Hindi-English">भर जाना</a> <span class="latin" style="display:none;">[bhara jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi402620"></i> <a class="in l" href="/translate/बाढ़ आना/बाढ़ आना-meaning-in-Hindi-English">बाढ़ आना</a> <span class="latin" style="display:none;">[bāṛha ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433252"></i> <a class="in l" href="/translate/बाढ़ आना/बाढ़ आना-meaning-in-Hindi-English">बाढ़ आना</a> <span class="latin" style="display:none;">[bāṛha ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435847"></i> <a class="in l" href="/translate/पानी भर जाना/पानी भर जाना-meaning-in-Hindi-English">पानी भर जाना</a> <span class="latin" style="display:none;">[pānī bhara jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435848"></i> <a class="in l" href="/translate/भर कर बहना/भर कर बहना-meaning-in-Hindi-English">भर कर बहना</a> <span class="latin" style="display:none;">[bhara kara bahanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435849"></i> <a class="in l" href="/translate/पानी से भर देना/पानी से भर देना-meaning-in-Hindi-English">पानी से भर देना</a> <span class="latin" style="display:none;">[pānī sē bhara dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435850"></i> <a class="in l" href="/translate/ज्वार आना/ज्वार आना-meaning-in-Hindi-English">ज्वार आना</a> <span class="latin" style="display:none;">[jvāra ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435851"></i> <a class="in l" href="/translate/सिंचाई करना/सिंचाई करना-meaning-in-Hindi-English">सिंचाई करना</a> <span class="latin" style="display:none;">[sin̄cā'ī karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435853"></i> <a class="in l" href="/translate/अत्यधिक देना/अत्यधिक देना-meaning-in-Hindi-English">अत्यधिक देना</a> <span class="latin" style="display:none;">[atyadhika dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435854"></i> <a class="in l" href="/translate/जलमय करना/जलमय करना-meaning-in-Hindi-English">जलमय करना</a> <span class="latin" style="display:none;">[jalamaya karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435855"></i> <a class="in l" href="/translate/डुबो देना/डुबो देना-meaning-in-Hindi-English">डुबो देना</a> <span class="latin" style="display:none;">[ḍubō dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi435856"></i> <a class="in l" href="/translate/जलप्लावित करना/जलप्लावित करना-meaning-in-Hindi-English">जलप्लावित करना</a> <span class="latin" style="display:none;">[jalaplāvita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13698"></i> <a class="in l" href="/translate/डुबाना/डुबाना-meaning-in-Hindi-English">डुबाना</a> <span class="latin" style="display:none;">[ḍubānā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/flooder/flooder-meaning-in-Hindi-English">flooder</a> (adjective comparative)<br/><a href="/translate/floods/floods-meaning-in-Hindi-English">floods</a> (noun plural)<br/><a href="/translate/flooded/flooded-meaning-in-Hindi-English">flooded</a> (verb past tense)<br/><a href="/translate/flooding/flooding-meaning-in-Hindi-English">flooding</a> (verb present participle)<br/><a href="/translate/floods/floods-meaning-in-Hindi-English">floods</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of flood in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>a large flow</li><li>the act of flooding; filling to overflowing</li><li>light that is a source of artificial illumination having a broad beam; used in photography</li><li>the occurrence of incoming water (between a low tide and the following high tide)</li><li>the rising of a body of water and its overflowing onto normally dry land</li><li>an overwhelming number or amount<br><u><em>Example</em></u><br>- a torrent of abuse<br></li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>cover with liquid, usually water<br><u><em>Example</em></u><br>- The broken vein had flooded blood in her eyes<br></li><li>become filled to overflowing</li><li>fill quickly beyond capacity; as with a liquid<br><u><em>Example</em></u><br>- The images flooded his mind<br></li><li>supply with an excess of<br><u><em>Example</em></u><br>- Glut the country with cheap imports from the Orient<br></li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of flood</h2><p><a href="/translate/flood/flood-meaning-in-Hindi-English">flood</a>, <a href="/translate/outpouring/outpouring-meaning-in-Hindi-English">outpouring</a>, <a href="/translate/overflow/overflow-meaning-in-Hindi-English">overflow</a>, <a href="/translate/flowage/flowage-meaning-in-Hindi-English">flowage</a>, <a href="/translate/flood+lamp/flood+lamp-meaning-in-Hindi-English">flood lamp</a>, <a href="/translate/floodlight/floodlight-meaning-in-Hindi-English">floodlight</a>, <a href="/translate/photoflood/photoflood-meaning-in-Hindi-English">photoflood</a>, <a href="/translate/flood+tide/flood+tide-meaning-in-Hindi-English">flood tide</a>, <a href="/translate/rising+tide/rising+tide-meaning-in-Hindi-English">rising tide</a>, <a href="/translate/alluvion/alluvion-meaning-in-Hindi-English">alluvion</a>, <a href="/translate/deluge/deluge-meaning-in-Hindi-English">deluge</a>, <a href="/translate/inundation/inundation-meaning-in-Hindi-English">inundation</a>, <a href="/translate/torrent/torrent-meaning-in-Hindi-English">torrent</a>, <a href="/translate/inundate/inundate-meaning-in-Hindi-English">inundate</a>, <a href="/translate/swamp/swamp-meaning-in-Hindi-English">swamp</a>, <a href="/translate/glut/glut-meaning-in-Hindi-English">glut</a>, <a href="/translate/oversupply/oversupply-meaning-in-Hindi-English">oversupply</a></p><h2 class="ehr">Antonyms of flood</h2><p>No matches.</p><h2 class="ehr">More matches for flood</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood control/flood control-meaning-in-Hindi-English">flood control</a></td><td class="l"><a class="in l" href="/translate/बाढ़ नियंत्रण/बाढ़ नियंत्रण-meaning-in-Hindi-English">बाढ़ नियंत्रण</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood of tears/flood of tears-meaning-in-Hindi-English">flood of tears</a></td><td class="l"><a class="in l" href="/translate/आँसुओं की बाढ़/आँसुओं की बाढ़-meaning-in-Hindi-English">आँसुओं की बाढ़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood out/flood out-meaning-in-Hindi-English">flood out</a></td><td class="l"><a class="in l" href="/translate/घर छोड़ना/घर छोड़ना-meaning-in-Hindi-English">घर छोड़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood tide/flood tide-meaning-in-Hindi-English">flood tide</a></td><td class="l"><a class="in l" href="/translate/ज्वार/ज्वार-meaning-in-Hindi-English">ज्वार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood tide/flood tide-meaning-in-Hindi-English">flood tide</a></td><td class="l"><a class="in l" href="/translate/ज्वार-भाटा/ज्वार-भाटा-meaning-in-Hindi-English">ज्वार-भाटा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood tide/flood tide-meaning-in-Hindi-English">flood tide</a></td><td class="l"><a class="in l" href="/translate/पूर वेला/पूर वेला-meaning-in-Hindi-English">पूर वेला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood-tide/flood-tide-meaning-in-Hindi-English">flood-tide</a></td><td class="l"><a class="in l" href="/translate/ऊंचा ज्वार/ऊंचा ज्वार-meaning-in-Hindi-English">ऊंचा ज्वार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood-tide/flood-tide-meaning-in-Hindi-English">flood-tide</a></td><td class="l"><a class="in l" href="/translate/ज्वारीय बाढ़/ज्वारीय बाढ़-meaning-in-Hindi-English">ज्वारीय बाढ़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodgate/floodgate-meaning-in-Hindi-English">floodgate</a></td><td class="l"><a class="in l" href="/translate/पूर-द्वार/पूर-द्वार-meaning-in-Hindi-English">पूर-द्वार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodgate/floodgate-meaning-in-Hindi-English">floodgate</a></td><td class="l"><a class="in l" href="/translate/पानी का बहाव रोकने का दरवाज़ा/पानी का बहाव रोकने का दरवाज़ा-meaning-in-Hindi-English">पानी का बहाव रोकने का दरवाज़ा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodgate/floodgate-meaning-in-Hindi-English">floodgate</a></td><td class="l"><a class="in l" href="/translate/जलद्वर/जलद्वर-meaning-in-Hindi-English">जलद्वर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flooding/flooding-meaning-in-Hindi-English">flooding</a></td><td class="l"><a class="in l" href="/translate/बाढ़/बाढ़-meaning-in-Hindi-English">बाढ़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodlight/floodlight-meaning-in-Hindi-English">floodlight</a></td><td class="l"><a class="in l" href="/translate/तेज़ रोशनी वाली लाइट/तेज़ रोशनी वाली लाइट-meaning-in-Hindi-English">तेज़ रोशनी वाली लाइट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodlight/floodlight-meaning-in-Hindi-English">floodlight</a></td><td class="l"><a class="in l" href="/translate/खोज-दीप/खोज-दीप-meaning-in-Hindi-English">खोज-दीप</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodplain/floodplain-meaning-in-Hindi-English">floodplain</a></td><td class="l"><a class="in l" href="/translate/बाढ़ से प्रभावित होने वाली ज़मीन/बाढ़ से प्रभावित होने वाली ज़मीन-meaning-in-Hindi-English">बाढ़ से प्रभावित होने वाली ज़मीन</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flood out/flood out-meaning-in-Hindi-English">flood out</a></td><td class="l"><a class="in l" href="/translate/घर छोड़ना/घर छोड़ना-meaning-in-Hindi-English">घर छोड़ना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodlight/floodlight-meaning-in-Hindi-English">floodlight</a></td><td class="l"><a class="in l" href="/translate/तेज़ रोशनी से प्रकाशित करना/तेज़ रोशनी से प्रकाशित करना-meaning-in-Hindi-English">तेज़ रोशनी से प्रकाशित करना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/floodlight/floodlight-meaning-in-Hindi-English">floodlight</a></td><td class="l"><a class="in l" href="/translate/खोज-दीप से रोशन करना/खोज-दीप से रोशन करना-meaning-in-Hindi-English">खोज-दीप से रोशन करना</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flooded/flooded-meaning-in-Hindi-English">flooded</a></td><td class="l"><a class="in l" href="/translate/जलमग्न/जलमग्न-meaning-in-Hindi-English">जलमग्न</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flooded/flooded-meaning-in-Hindi-English">flooded</a></td><td class="l"><a class="in l" href="/translate/प्लावित/प्लावित-meaning-in-Hindi-English">प्लावित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flooded/flooded-meaning-in-Hindi-English">flooded</a></td><td class="l"><a class="in l" href="/translate/जलप्लावित/जलप्लावित-meaning-in-Hindi-English">जलप्लावित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flooding/flooding-meaning-in-Hindi-English">flooding</a></td><td class="l"><a class="in l" href="/translate/बाढ़/बाढ़-meaning-in-Hindi-English">बाढ़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/flooding/flooding-meaning-in-Hindi-English">flooding</a></td><td class="l"><a class="in l" href="/translate/चढ़ा हुआ/चढ़ा हुआ-meaning-in-Hindi-English">चढ़ा हुआ</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: flood</h3><p>Meaning and definitions of flood, translation in Hindi language for flood with similar and opposite words. Also find spoken pronunciation of flood in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "flood"</h3><p>What flood means in Hindi, flood meaning in Hindi, flood definition, examples and pronunciation of flood in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

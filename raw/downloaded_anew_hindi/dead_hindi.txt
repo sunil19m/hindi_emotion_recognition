@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>dead - Meaning in Hindi - dead in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="dead - Meaning in Hindi, what is meaning of dead in Hindi dictionary, audio pronunciation, synonyms and definitions of dead in Hindi and English.">
+<meta name="keywords" content="dead, meaning of dead, English and Hindi for dead, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/dead/dead-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="dead" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">dead - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-8"><div id=left><h2 class="ehr">Pronunciation of dead</h2><i class="fa fa-volume-up fa-lg in au" id="en231555" style=""></i>डेड<div class="page-header"><h2 class="ehr">Meanings of dead in Hindi</h2><small>[<a id="t_on" href="/translate/dead/dead-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-4"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi33102"></i> <a class="in l" href="/translate/सन्नाटा/सन्नाटा-meaning-in-Hindi-English">सन्नाटा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[sannāṭā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17911"></i> <a class="in l" href="/translate/निस्तब्धता/निस्तब्धता-meaning-in-Hindi-English">निस्तब्धता</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[nistabdhatā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi397314"></i> <a class="in l" href="/translate/जिस समय सुनसान हो/जिस समय सुनसान हो-meaning-in-Hindi-English">जिस समय सुनसान हो</a> <span class="latin" style="display:none;">[jisa samaya sunasāna hō]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433061"></i> <a class="in l" href="/translate/खेल की सीमा के बाहर का/खेल की सीमा के बाहर का-meaning-in-Hindi-English">खेल की सीमा के बाहर का</a> <span class="latin" style="display:none;">[khēla kī sīmā kē bāhara kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433062"></i> <a class="in l" href="/translate/छेद के अति समीप का/छेद के अति समीप का-meaning-in-Hindi-English">छेद के अति समीप का</a> <span class="latin" style="display:none;">[chēda kē ati samīpa kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433063"></i> <a class="in l" href="/translate/बिगड़ा हुआ/बिगड़ा हुआ-meaning-in-Hindi-English">बिगड़ा हुआ</a> <span class="latin" style="display:none;">[bigaṛā hu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433064"></i> <a class="in l" href="/translate/अत्यन्त थका हुआ/अत्यन्त थका हुआ-meaning-in-Hindi-English">अत्यन्त थका हुआ</a> <span class="latin" style="display:none;">[atyanta thakā hu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433065"></i> <a class="in l" href="/translate/खेल से बाहर/खेल से बाहर-meaning-in-Hindi-English">खेल से बाहर</a> <span class="latin" style="display:none;">[khēla sē bāhara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi795657"></i> <a class="in l" href="/translate/मृतक लोग/मृतक लोग-meaning-in-Hindi-English">मृतक लोग</a> <span class="latin" style="display:none;">[mr̥taka lōga]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi795658"></i> <a class="in l" href="/translate/स्वर्गगमी/स्वर्गगमी-meaning-in-Hindi-English">स्वर्गगमी</a> <span class="latin" style="display:none;">[svargagamī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26700"></i> <a class="in l" href="/translate/मृतक/मृतक-meaning-in-Hindi-English">मृतक</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[mr̥taka]</span></li></ol></div><div class="col-sm-4"><h3 class="adjective"><em>adjective&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi13417"></i> <a class="in l" href="/translate/ठंडा/ठंडा-meaning-in-Hindi-English">ठंडा</a> <span class="latin" style="display:none;">[ṭhaṇḍā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33482"></i> <a class="in l" href="/translate/समाप्त/समाप्त-meaning-in-Hindi-English">समाप्त</a> <span class="latin" style="display:none;">[samāpta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi16445"></i> <a class="in l" href="/translate/धीमा/धीमा-meaning-in-Hindi-English">धीमा</a> <span class="latin" style="display:none;">[dhīmā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17495"></i> <a class="in l" href="/translate/निरर्थक/निरर्थक-meaning-in-Hindi-English">निरर्थक</a> <span class="latin" style="display:none;">[nirarthaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34214"></i> <a class="in l" href="/translate/सादा/सादा-meaning-in-Hindi-English">सादा</a> <span class="latin" style="display:none;">[sādā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17597"></i> <a class="in l" href="/translate/निर्जीव/निर्जीव-meaning-in-Hindi-English">निर्जीव</a> <span class="latin" style="display:none;">[nirjīva]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34844"></i> <a class="in l" href="/translate/सुन्न/सुन्न-meaning-in-Hindi-English">सुन्न</a> <span class="latin" style="display:none;">[sunna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17864"></i> <a class="in l" href="/translate/निष्क्रिय/निष्क्रिय-meaning-in-Hindi-English">निष्क्रिय</a> <span class="latin" style="display:none;">[niṣkriya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi35584"></i> <a class="in l" href="/translate/स्थिर/स्थिर-meaning-in-Hindi-English">स्थिर</a> <span class="latin" style="display:none;">[sthira]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17894"></i> <a class="in l" href="/translate/निष्प्रभ/निष्प्रभ-meaning-in-Hindi-English">निष्प्रभ</a> <span class="latin" style="display:none;">[niṣprabha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17901"></i> <a class="in l" href="/translate/निष्प्राण/निष्प्राण-meaning-in-Hindi-English">निष्प्राण</a> <span class="latin" style="display:none;">[niṣprāṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi165307"></i> <a class="in l" href="/translate/डेड/डेड-meaning-in-Hindi-English">डेड</a> <span class="latin" style="display:none;">[ḍēḍa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi199451"></i> <a class="in l" href="/translate/निस्सार/निस्सार-meaning-in-Hindi-English">निस्सार</a> <span class="latin" style="display:none;">[nis'sāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi17918"></i> <a class="in l" href="/translate/निस्तेज/निस्तेज-meaning-in-Hindi-English">निस्तेज</a> <span class="latin" style="display:none;">[nistēja]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi260955"></i> <a class="in l" href="/translate/भावहीन/भावहीन-meaning-in-Hindi-English">भावहीन</a> <span class="latin" style="display:none;">[bhāvahīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20221"></i> <a class="in l" href="/translate/पूरा/पूरा-meaning-in-Hindi-English">पूरा</a> <span class="latin" style="display:none;">[pūrā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi278273"></i> <a class="in l" href="/translate/मुआ/मुआ-meaning-in-Hindi-English">मुआ</a> <span class="latin" style="display:none;">[mu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20229"></i> <a class="in l" href="/translate/पूर्ण/पूर्ण-meaning-in-Hindi-English">पूर्ण</a> <span class="latin" style="display:none;">[pūrṇa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388435"></i> <a class="in l" href="/translate/मरा हुआ/मरा हुआ-meaning-in-Hindi-English">मरा हुआ</a> <span class="latin" style="display:none;">[marā hu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi21718"></i> <a class="in l" href="/translate/प्राणहीन/प्राणहीन-meaning-in-Hindi-English">प्राणहीन</a> <span class="latin" style="display:none;">[prāṇahīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22214"></i> <a class="in l" href="/translate/फीका/फीका-meaning-in-Hindi-English">फीका</a> <span class="latin" style="display:none;">[phīkā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22452"></i> <a class="in l" href="/translate/बंद/बंद-meaning-in-Hindi-English">बंद</a> <span class="latin" style="display:none;">[banda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22774"></i> <a class="in l" href="/translate/बन्द/बन्द-meaning-in-Hindi-English">बन्द</a> <span class="latin" style="display:none;">[banda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433061"></i> <a class="in l" href="/translate/खेल की सीमा के बाहर का/खेल की सीमा के बाहर का-meaning-in-Hindi-English">खेल की सीमा के बाहर का</a> <span class="latin" style="display:none;">[khēla kī sīmā kē bāhara kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433062"></i> <a class="in l" href="/translate/छेद के अति समीप का/छेद के अति समीप का-meaning-in-Hindi-English">छेद के अति समीप का</a> <span class="latin" style="display:none;">[chēda kē ati samīpa kā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23672"></i> <a class="in l" href="/translate/बुरा/बुरा-meaning-in-Hindi-English">बुरा</a> <span class="latin" style="display:none;">[burā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23786"></i> <a class="in l" href="/translate/बेकार/बेकार-meaning-in-Hindi-English">बेकार</a> <span class="latin" style="display:none;">[bēkāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433063"></i> <a class="in l" href="/translate/बिगड़ा हुआ/बिगड़ा हुआ-meaning-in-Hindi-English">बिगड़ा हुआ</a> <span class="latin" style="display:none;">[bigaṛā hu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23820"></i> <a class="in l" href="/translate/बेजान/बेजान-meaning-in-Hindi-English">बेजान</a> <span class="latin" style="display:none;">[bējāna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi578"></i> <a class="in l" href="/translate/अचूक/अचूक-meaning-in-Hindi-English">अचूक</a> <span class="latin" style="display:none;">[acūka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433064"></i> <a class="in l" href="/translate/अत्यन्त थका हुआ/अत्यन्त थका हुआ-meaning-in-Hindi-English">अत्यन्त थका हुआ</a> <span class="latin" style="display:none;">[atyanta thakā hu'ā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2136"></i> <a class="in l" href="/translate/अप्रचलित/अप्रचलित-meaning-in-Hindi-English">अप्रचलित</a> <span class="latin" style="display:none;">[apracalita]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24564"></i> <a class="in l" href="/translate/भावशून्य/भावशून्य-meaning-in-Hindi-English">भावशून्य</a> <span class="latin" style="display:none;">[bhāvaśūn'ya]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2168"></i> <a class="in l" href="/translate/अप्रयुक्त/अप्रयुक्त-meaning-in-Hindi-English">अप्रयुक्त</a> <span class="latin" style="display:none;">[aprayukta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25081"></i> <a class="in l" href="/translate/मंद/मंद-meaning-in-Hindi-English">मंद</a> <span class="latin" style="display:none;">[manda]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi433065"></i> <a class="in l" href="/translate/खेल से बाहर/खेल से बाहर-meaning-in-Hindi-English">खेल से बाहर</a> <span class="latin" style="display:none;">[khēla sē bāhara]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi3480"></i> <a class="in l" href="/translate/अस्पष्ट/अस्पष्ट-meaning-in-Hindi-English">अस्पष्ट</a> <span class="latin" style="display:none;">[aspaṣṭa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26468"></i> <a class="in l" href="/translate/मुरदा/मुरदा-meaning-in-Hindi-English">मुरदा</a> <span class="latin" style="display:none;">[muradā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi776091"></i> <a class="in l" href="/translate/सत्त्वहीन/सत्त्वहीन-meaning-in-Hindi-English">सत्त्वहीन</a> <span class="latin" style="display:none;">[sattvahīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26487"></i> <a class="in l" href="/translate/मुर्दा/मुर्दा-meaning-in-Hindi-English">मुर्दा</a> <span class="latin" style="display:none;">[murdā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi8861"></i> <a class="in l" href="/translate/खराब/खराब-meaning-in-Hindi-English">खराब</a> <span class="latin" style="display:none;">[kharāba]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26699"></i> <a class="in l" href="/translate/मृत/मृत-meaning-in-Hindi-English">मृत</a> <span class="latin" style="display:none;">[mr̥ta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9385"></i> <a class="in l" href="/translate/गतिहीन/गतिहीन-meaning-in-Hindi-English">गतिहीन</a> <span class="latin" style="display:none;">[gatihīna]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi27870"></i> <a class="in l" href="/translate/रिक्त/रिक्त-meaning-in-Hindi-English">रिक्त</a> <span class="latin" style="display:none;">[rikta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9584"></i> <a class="in l" href="/translate/गहरा/गहरा-meaning-in-Hindi-English">गहरा</a> <span class="latin" style="display:none;">[gaharā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9619"></i> <a class="in l" href="/translate/गाढ़ा/गाढ़ा-meaning-in-Hindi-English">गाढ़ा</a> <span class="latin" style="display:none;">[gāṛhā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12004"></i> <a class="in l" href="/translate/जड़/जड़-meaning-in-Hindi-English">जड़</a> <span class="latin" style="display:none;">[jaṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13066"></i> <a class="in l" href="/translate/झिलमिल/झिलमिल-meaning-in-Hindi-English">झिलमिल</a> <span class="latin" style="display:none;">[jhilamila]</span></li></ol></div><div class="col-sm-4"><h3 class="adverb"><em>adverb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi33811"></i> <a class="in l" href="/translate/सर्वथा/सर्वथा-meaning-in-Hindi-English">सर्वथा</a> <span class="latin" style="display:none;">[sarvathā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387207"></i> <a class="in l" href="/translate/पूरी तरह से/पूरी तरह से-meaning-in-Hindi-English">पूरी तरह से</a> <span class="latin" style="display:none;">[pūrī taraha sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi20233"></i> <a class="in l" href="/translate/पूर्णतया/पूर्णतया-meaning-in-Hindi-English">पूर्णतया</a> <span class="latin" style="display:none;">[pūrṇatayā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi388651"></i> <a class="in l" href="/translate/विस्तार से/विस्तार से-meaning-in-Hindi-English">विस्तार से</a> <span class="latin" style="display:none;">[vistāra sē]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi427195"></i> <a class="in l" href="/translate/अचानक ही/अचानक ही-meaning-in-Hindi-English">अचानक ही</a> <span class="latin" style="display:none;">[acānaka hī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23053"></i> <a class="in l" href="/translate/बहुत/बहुत-meaning-in-Hindi-English">बहुत</a> <span class="latin" style="display:none;">[bahuta]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23516"></i> <a class="in l" href="/translate/बिलकुल/बिलकुल-meaning-in-Hindi-English">बिलकुल</a> <span class="latin" style="display:none;">[bilakula]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi573"></i> <a class="in l" href="/translate/अचानक/अचानक-meaning-in-Hindi-English">अचानक</a> <span class="latin" style="display:none;">[acānaka]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24155"></i> <a class="in l" href="/translate/ब्योरेवार/ब्योरेवार-meaning-in-Hindi-English">ब्योरेवार</a> <span class="latin" style="display:none;">[byōrēvāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5937"></i> <a class="in l" href="/translate/एकदम/एकदम-meaning-in-Hindi-English">एकदम</a> <span class="latin" style="display:none;">[ēkadama]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi30670"></i> <a class="in l" href="/translate/विस्तारपूर्वक/विस्तारपूर्वक-meaning-in-Hindi-English">विस्तारपूर्वक</a> <span class="latin" style="display:none;">[vistārapūrvaka]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/deader/deader-meaning-in-Hindi-English">deader</a> (adjective comparative)<br/><a href="/translate/deadest/deadest-meaning-in-Hindi-English">deadest</a> (adjective superlative)<br/><a href="/translate/dead/dead-meaning-in-Hindi-English">dead</a> (noun plural)<br/></p><h2 class="ehr">Definitions and Meaning of dead in English</h2><strong><em>adjective</em></strong></h3><ol class="wnol"><li>devoid of activity</li><li>physically inactive</li><li>no longer having or seeming to have or expecting to have life<br><u><em>Examples</em></u><br>- a dead pallor<br>- he was marked as a dead man by the assassin<br></li><li>not showing characteristics of life especially the capacity to sustain life; no longer exerting force or having energy or heat<br><u><em>Examples</em></u><br>- dead soil<br>- dead coals<br>- the fire is dead<br></li><li>drained of electric charge; discharged<br><u><em>Example</em></u><br>- left the lights on and came back to find the battery drained<br></li><li>complete<br><u><em>Example</em></u><br>- utter seriousness<br></li><li>no longer having force or relevance</li><li>out of use or operation because of a fault or breakdown<br><u><em>Example</em></u><br>- the motor is dead<br></li><li>lacking resilience or bounce</li><li>not surviving in active use</li><li>not circulating or flowing<br><u><em>Examples</em></u><br>- dead water<br>- stagnant water<br></li><li>unerringly accurate<br><u><em>Example</em></u><br>- took dead aim<br></li><li>not yielding a return<br><u><em>Example</em></u><br>- idle funds<br></li><li>lacking acoustic resonance<br><u><em>Example</em></u><br>- the dead wall surfaces of a recording studio<br></li><li>devoid of physical sensation; numb<br><u><em>Examples</em></u><br>- she felt no discomfort as the dentist drilled her deadened tooth<br>- a public desensitized by continuous television coverage of atrocities<br></li><li>(followed by `to') not showing human feeling or sensitivity; unresponsive<br><u><em>Example</em></u><br>- numb to the cries for mercy<br></li><li>very tired<br><u><em>Examples</em></u><br>- so beat I could flop down and go to sleep anywhere<br>- bushed after all that exercise<br>- I'm dead after that long trip<br></li></ol><strong><em>adverb</em></strong></h3><ol class="wnol"><li>completely and without qualification; used informally as intensifiers<br><u><em>Examples</em></u><br>- a perfectly idiotic idea<br>- you're perfectly right<br>- utterly miserable<br>- you can be dead sure of my innocence<br>- was dead tired<br>- dead right<br></li><li>quickly and without warning</li></ol><strong><em>noun</em></strong></h3><ol class="wnol"><li>people who are no longer living</li><li>a time when coldness (or some other quality associated with death) is intense</li></ol></div></div><div class="col-md-4"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_300x250 --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="1602200802"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of dead</h2><p><a href="/translate/dead/dead-meaning-in-Hindi-English">dead</a>, <a href="/translate/drained/drained-meaning-in-Hindi-English">drained</a>, <a href="/translate/utter/utter-meaning-in-Hindi-English">utter</a>, <a href="/translate/stagnant/stagnant-meaning-in-Hindi-English">stagnant</a>, <a href="/translate/idle/idle-meaning-in-Hindi-English">idle</a>, <a href="/translate/deadened/deadened-meaning-in-Hindi-English">deadened</a>, <a href="/translate/numb/numb-meaning-in-Hindi-English">numb</a>, <a href="/translate/all+in/all+in-meaning-in-Hindi-English">all in</a>, <a href="/translate/beat/beat-meaning-in-Hindi-English">beat</a>, <a href="/translate/bushed/bushed-meaning-in-Hindi-English">bushed</a>, <a href="/translate/absolutely/absolutely-meaning-in-Hindi-English">absolutely</a>, <a href="/translate/perfectly/perfectly-meaning-in-Hindi-English">perfectly</a>, <a href="/translate/utterly/utterly-meaning-in-Hindi-English">utterly</a>, <a href="/translate/abruptly/abruptly-meaning-in-Hindi-English">abruptly</a>, <a href="/translate/short/short-meaning-in-Hindi-English">short</a>, <a href="/translate/suddenly/suddenly-meaning-in-Hindi-English">suddenly</a></p><h2 class="ehr">Antonyms of dead</h2><p><a href="/translate/living/living-meaning-in-Hindi-English">living</a>, <a href="/translate/alive/alive-meaning-in-Hindi-English">alive</a>, <a href="/translate/live/live-meaning-in-Hindi-English">live</a></p><h2 class="ehr">More matches for dead</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead account/dead account-meaning-in-Hindi-English">dead account</a></td><td class="l"><a class="in l" href="/translate/निष्क्रिय लेखा/निष्क्रिय लेखा-meaning-in-Hindi-English">निष्क्रिय लेखा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead account/dead account-meaning-in-Hindi-English">dead account</a></td><td class="l"><a class="in l" href="/translate/बन्द खाता/बन्द खाता-meaning-in-Hindi-English">बन्द खाता</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead as a doornail/dead as a doornail-meaning-in-Hindi-English">dead as a doornail</a></td><td class="l"><a class="in l" href="/translate/एकदम मुर्दे की तरह/एकदम मुर्दे की तरह-meaning-in-Hindi-English">एकदम मुर्दे की तरह</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead beat/dead beat-meaning-in-Hindi-English">dead beat</a></td><td class="l"><a class="in l" href="/translate/आलसी/आलसी-meaning-in-Hindi-English">आलसी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead beat/dead beat-meaning-in-Hindi-English">dead beat</a></td><td class="l"><a class="in l" href="/translate/कामचोर/कामचोर-meaning-in-Hindi-English">कामचोर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead beat/dead beat-meaning-in-Hindi-English">dead beat</a></td><td class="l"><a class="in l" href="/translate/परोपजीवी/परोपजीवी-meaning-in-Hindi-English">परोपजीवी</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead beat/dead beat-meaning-in-Hindi-English">dead beat</a></td><td class="l"><a class="in l" href="/translate/थक कर चूर/थक कर चूर-meaning-in-Hindi-English">थक कर चूर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead beat/dead beat-meaning-in-Hindi-English">dead beat</a></td><td class="l"><a class="in l" href="/translate/मुक्कतख़ोर/मुक्कतख़ोर-meaning-in-Hindi-English">मुक्कतख़ोर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead body/dead body-meaning-in-Hindi-English">dead body</a></td><td class="l"><a class="in l" href="/translate/मुरदा/मुरदा-meaning-in-Hindi-English">मुरदा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead body/dead body-meaning-in-Hindi-English">dead body</a></td><td class="l"><a class="in l" href="/translate/लाश/लाश-meaning-in-Hindi-English">लाश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead body/dead body-meaning-in-Hindi-English">dead body</a></td><td class="l"><a class="in l" href="/translate/मृत शरीर/मृत शरीर-meaning-in-Hindi-English">मृत शरीर</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead calm/dead calm-meaning-in-Hindi-English">dead calm</a></td><td class="l"><a class="in l" href="/translate/पूर्ण शान्ति/पूर्ण शान्ति-meaning-in-Hindi-English">पूर्ण शान्ति</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead center/dead center-meaning-in-Hindi-English">dead center</a></td><td class="l"><a class="in l" href="/translate/गतिरोध/गतिरोध-meaning-in-Hindi-English">गतिरोध</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead centre/dead centre-meaning-in-Hindi-English">dead centre</a></td><td class="l"><a class="in l" href="/translate/निष्क्रिय/निष्क्रिय-meaning-in-Hindi-English">निष्क्रिय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead centre/dead centre-meaning-in-Hindi-English">dead centre</a></td><td class="l"><a class="in l" href="/translate/स्थिर केन्द्र/स्थिर केन्द्र-meaning-in-Hindi-English">स्थिर केन्द्र</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead duck/dead duck-meaning-in-Hindi-English">dead duck</a></td><td class="l"><a class="in l" href="/translate/एकदम बेकार/एकदम बेकार-meaning-in-Hindi-English">एकदम बेकार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead end/dead end-meaning-in-Hindi-English">dead end</a></td><td class="l"><a class="in l" href="/translate/गतिरोध/गतिरोध-meaning-in-Hindi-English">गतिरोध</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead end/dead end-meaning-in-Hindi-English">dead end</a></td><td class="l"><a class="in l" href="/translate/चरमान्त/चरमान्त-meaning-in-Hindi-English">चरमान्त</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead end/dead end-meaning-in-Hindi-English">dead end</a></td><td class="l"><a class="in l" href="/translate/बन्द गली/बन्द गली-meaning-in-Hindi-English">बन्द गली</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead end/dead end-meaning-in-Hindi-English">dead end</a></td><td class="l"><a class="in l" href="/translate/बंद गली/बंद गली-meaning-in-Hindi-English">बंद गली</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead end/dead end-meaning-in-Hindi-English">dead end</a></td><td class="l"><a class="in l" href="/translate/अंधी गली/अंधी गली-meaning-in-Hindi-English">अंधी गली</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead end/dead end-meaning-in-Hindi-English">dead end</a></td><td class="l"><a class="in l" href="/translate/ज़िच/ज़िच-meaning-in-Hindi-English">ज़िच</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead end/dead end-meaning-in-Hindi-English">dead end</a></td><td class="l"><a class="in l" href="/translate/एक ही तरफ़ खुला हुआ कूचा/एक ही तरफ़ खुला हुआ कूचा-meaning-in-Hindi-English">एक ही तरफ़ खुला हुआ कूचा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead freight/dead freight-meaning-in-Hindi-English">dead freight</a></td><td class="l"><a class="in l" href="/translate/निरर्थक/निरर्थक-meaning-in-Hindi-English">निरर्थक</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/dead duck/dead duck-meaning-in-Hindi-English">dead duck</a></td><td class="l"><a class="in l" href="/translate/एकदम बेकार/एकदम बेकार-meaning-in-Hindi-English">एकदम बेकार</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: dead</h3><p>Meaning and definitions of dead, translation in Hindi language for dead with similar and opposite words. Also find spoken pronunciation of dead in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "dead"</h3><p>What dead means in Hindi, dead meaning in Hindi, dead definition, examples and pronunciation of dead in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

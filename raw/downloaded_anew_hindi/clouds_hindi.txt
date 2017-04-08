@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>clouds - Meaning in Hindi - clouds in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="clouds - Meaning in Hindi, what is meaning of clouds in Hindi dictionary, audio pronunciation, synonyms and definitions of clouds in Hindi and English.">
+<meta name="keywords" content="clouds, meaning of clouds, English and Hindi for clouds, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/clouds/clouds-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="clouds" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">clouds - meaning in Hindi</h1><p style="font-size:107%;color:red;">Interpreted your input "<a style="color:red;font-weight:bold;" href="/translate/clouds/clouds-meaning-in-Hindi-English">clouds</a>" as "<a style="color:red;font-weight:bold;" href="/translate/cloud/cloud-meaning-in-Hindi-English">cloud</a>".</p><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of cloud</h2><i class="fa fa-volume-up fa-lg in au" id="en204317" style=""></i>क्लाउड<div class="page-header"><h2 class="ehr">Meanings of cloud in Hindi</h2><small>[<a id="t_on" href="/translate/clouds/clouds-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi429526"></i> <a class="in l" href="/translate/ढक देना/ढक देना-meaning-in-Hindi-English">ढक देना</a> <span class="latin" style="display:none;">[ḍhaka dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431624"></i> <a class="in l" href="/translate/किरकिरा करना/किरकिरा करना-meaning-in-Hindi-English">किरकिरा करना</a> <span class="latin" style="display:none;">[kirakirā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi2538"></i> <a class="in l" href="/translate/अभ्र/अभ्र-meaning-in-Hindi-English">अभ्र</a> <span class="latin" style="display:none;">[abhra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5692"></i> <a class="in l" href="/translate/उलझन/उलझन-meaning-in-Hindi-English">उलझन</a> <span class="latin" style="display:none;">[ulajhana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431626"></i> <a class="in l" href="/translate/दुषित करना/दुषित करना-meaning-in-Hindi-English">दुषित करना</a> <span class="latin" style="display:none;">[duṣita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10341"></i> <a class="in l" href="/translate/घटा/घटा-meaning-in-Hindi-English">घटा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ghaṭā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10365"></i> <a class="in l" href="/translate/घन/घन-meaning-in-Hindi-English">घन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[ghana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23251"></i> <a class="in l" href="/translate/बादल/बादल-meaning-in-Hindi-English">बादल</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bādala]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi24658"></i> <a class="in l" href="/translate/भीड़/भीड़-meaning-in-Hindi-English">भीड़</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[bhīṛa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi26761"></i> <a class="in l" href="/translate/मेघ/मेघ-meaning-in-Hindi-English">मेघ</a> <span class="latin" style="display:none;">[mēgha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi33578"></i> <a class="in l" href="/translate/समूह/समूह-meaning-in-Hindi-English">समूह</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[samūha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi121580"></i> <a class="in l" href="/translate/गुबारा/गुबारा-meaning-in-Hindi-English">गुबारा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[gubārā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi199824"></i> <a class="in l" href="/translate/नीरद/नीरद-meaning-in-Hindi-English">नीरद</a> <span class="latin" style="display:none;">[nīrada]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi393716"></i> <a class="in l" href="/translate/अपवाद करना/अपवाद करना-meaning-in-Hindi-English">अपवाद करना</a> <span class="latin" style="display:none;">[apavāda karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi393717"></i> <a class="in l" href="/translate/बादल छा जाना/बादल छा जाना-meaning-in-Hindi-English">बादल छा जाना</a> <span class="latin" style="display:none;">[bādala chā jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi396146"></i> <a class="in l" href="/translate/भर जाना/भर जाना-meaning-in-Hindi-English">भर जाना</a> <span class="latin" style="display:none;">[bhara jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi396975"></i> <a class="in l" href="/translate/उदासी छाना/उदासी छाना-meaning-in-Hindi-English">उदासी छाना</a> <span class="latin" style="display:none;">[udāsī chānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi397385"></i> <a class="in l" href="/translate/कमजोर करना/कमजोर करना-meaning-in-Hindi-English">कमजोर करना</a> <span class="latin" style="display:none;">[kamajōra karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi398754"></i> <a class="in l" href="/translate/धुंधला करना/धुंधला करना-meaning-in-Hindi-English">धुंधला करना</a> <span class="latin" style="display:none;">[dhundhalā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi406255"></i> <a class="in l" href="/translate/खराब करना/खराब करना-meaning-in-Hindi-English">खराब करना</a> <span class="latin" style="display:none;">[kharāba karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi412776"></i> <a class="in l" href="/translate/घिर जाना/घिर जाना-meaning-in-Hindi-English">घिर जाना</a> <span class="latin" style="display:none;">[ghira jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi412777"></i> <a class="in l" href="/translate/छा जाना/छा जाना-meaning-in-Hindi-English">छा जाना</a> <span class="latin" style="display:none;">[chā jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi429526"></i> <a class="in l" href="/translate/ढक देना/ढक देना-meaning-in-Hindi-English">ढक देना</a> <span class="latin" style="display:none;">[ḍhaka dēnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431624"></i> <a class="in l" href="/translate/किरकिरा करना/किरकिरा करना-meaning-in-Hindi-English">किरकिरा करना</a> <span class="latin" style="display:none;">[kirakirā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431625"></i> <a class="in l" href="/translate/बादलों से ढक जाना/बादलों से ढक जाना-meaning-in-Hindi-English">बादलों से ढक जाना</a> <span class="latin" style="display:none;">[bādalōṁ sē ḍhaka jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5697"></i> <a class="in l" href="/translate/उलझाना/उलझाना-meaning-in-Hindi-English">उलझाना</a> <span class="latin" style="display:none;">[ulajhānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431626"></i> <a class="in l" href="/translate/दुषित करना/दुषित करना-meaning-in-Hindi-English">दुषित करना</a> <span class="latin" style="display:none;">[duṣita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi431627"></i> <a class="in l" href="/translate/बादल छाना/बादल छाना-meaning-in-Hindi-English">बादल छाना</a> <span class="latin" style="display:none;">[bādala chānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi794847"></i> <a class="in l" href="/translate/बदल आना/बदल आना-meaning-in-Hindi-English">बदल आना</a> <span class="latin" style="display:none;">[badala ānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10457"></i> <a class="in l" href="/translate/घिरना/घिरना-meaning-in-Hindi-English">घिरना</a> <span class="latin" style="display:none;">[ghiranā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi11750"></i> <a class="in l" href="/translate/छाना/छाना-meaning-in-Hindi-English">छाना</a> <span class="latin" style="display:none;">[chānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi794848"></i> <a class="in l" href="/translate/अंधेरा छाना/अंधेरा छाना-meaning-in-Hindi-English">अंधेरा छाना</a> <span class="latin" style="display:none;">[andhērā chānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi794849"></i> <a class="in l" href="/translate/घटाटोप करना/घटाटोप करना-meaning-in-Hindi-English">घटाटोप करना</a> <span class="latin" style="display:none;">[ghaṭāṭōpa karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi386628"></i> <a class="in l" href="/translate/दूषित करना/दूषित करना-meaning-in-Hindi-English">दूषित करना</a> <span class="latin" style="display:none;">[dūṣita karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi389922"></i> <a class="in l" href="/translate/धुँधला करना/धुँधला करना-meaning-in-Hindi-English">धुँधला करना</a> <span class="latin" style="display:none;">[dhum̐dhalā karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi393711"></i> <a class="in l" href="/translate/उदास हो जाना/उदास हो जाना-meaning-in-Hindi-English">उदास हो जाना</a> <span class="latin" style="display:none;">[udāsa hō jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi393712"></i> <a class="in l" href="/translate/धुँधला करना या हो जाना/धुँधला करना या हो जाना-meaning-in-Hindi-English">धुँधला करना या हो जाना</a> <span class="latin" style="display:none;">[dhum̐dhalā karanā yā hō jānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi393713"></i> <a class="in l" href="/translate/बादल घिरना/बादल घिरना-meaning-in-Hindi-English">बादल घिरना</a> <span class="latin" style="display:none;">[bādala ghiranā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi393714"></i> <a class="in l" href="/translate/अंधेरा होना/अंधेरा होना-meaning-in-Hindi-English">अंधेरा होना</a> <span class="latin" style="display:none;">[andhērā hōnā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi393715"></i> <a class="in l" href="/translate/अंधेरा करना/अंधेरा करना-meaning-in-Hindi-English">अंधेरा करना</a> <span class="latin" style="display:none;">[andhērā karanā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/clouds/clouds-meaning-in-Hindi-English">clouds</a> (noun plural)<br/><a href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a> (verb past tense)<br/><a href="/translate/clouding/clouding-meaning-in-Hindi-English">clouding</a> (verb present participle)<br/><a href="/translate/clouds/clouds-meaning-in-Hindi-English">clouds</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of cloud in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>a group of many things in the air or on the ground<br><u><em>Examples</em></u><br>- clouds of blossoms<br>- it discharged a cloud of spores<br></li><li>a visible mass of water or ice particles suspended at a considerable altitude</li><li>any collection of particles (e.g., smoke or dust) or gases that is visible</li><li>out of touch with reality</li><li>suspicion affecting your reputation</li><li>a cause of worry or gloom or trouble</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>make milky or dull</li><li>colour with streaks or blotches of different shades</li><li>make less clear</li><li>place under suspicion or cast doubt upon</li><li>make gloomy or depressed</li><li>billow up in the form of a cloud</li><li>make less visible or unclear<br><u><em>Example</em></u><br>- the big elm tree obscures our view of the valley<br></li><li>make overcast or cloudy</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of cloud</h2><p><a href="/translate/cloud/cloud-meaning-in-Hindi-English">cloud</a>, <a href="/translate/swarm/swarm-meaning-in-Hindi-English">swarm</a>, <a href="/translate/dapple/dapple-meaning-in-Hindi-English">dapple</a>, <a href="/translate/mottle/mottle-meaning-in-Hindi-English">mottle</a>, <a href="/translate/corrupt/corrupt-meaning-in-Hindi-English">corrupt</a>, <a href="/translate/defile/defile-meaning-in-Hindi-English">defile</a>, <a href="/translate/sully/sully-meaning-in-Hindi-English">sully</a>, <a href="/translate/taint/taint-meaning-in-Hindi-English">taint</a>, <a href="/translate/becloud/becloud-meaning-in-Hindi-English">becloud</a>, <a href="/translate/befog/befog-meaning-in-Hindi-English">befog</a>, <a href="/translate/fog/fog-meaning-in-Hindi-English">fog</a>, <a href="/translate/haze+over/haze+over-meaning-in-Hindi-English">haze over</a>, <a href="/translate/mist/mist-meaning-in-Hindi-English">mist</a>, <a href="/translate/obnubilate/obnubilate-meaning-in-Hindi-English">obnubilate</a>, <a href="/translate/obscure/obscure-meaning-in-Hindi-English">obscure</a>, <a href="/translate/overcast/overcast-meaning-in-Hindi-English">overcast</a></p><h2 class="ehr">Antonyms of cloud</h2><p>No matches.</p><h2 class="ehr">More matches for cloud</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloud nine/cloud nine-meaning-in-Hindi-English">cloud nine</a></td><td class="l"><a class="in l" href="/translate/अत्यधिक प्रसन्नता की अवस्था/अत्यधिक प्रसन्नता की अवस्था-meaning-in-Hindi-English">अत्यधिक प्रसन्नता की अवस्था</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloud over/cloud over-meaning-in-Hindi-English">cloud over</a></td><td class="l"><a class="in l" href="/translate/बादल छाना/बादल छाना-meaning-in-Hindi-English">बादल छाना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloud-cuckoo-land/cloud-cuckoo-land-meaning-in-Hindi-English">cloud-cuckoo-land</a></td><td class="l"><a class="in l" href="/translate/कल्पना-लोक/कल्पना-लोक-meaning-in-Hindi-English">कल्पना-लोक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudburst/cloudburst-meaning-in-Hindi-English">cloudburst</a></td><td class="l"><a class="in l" href="/translate/मूसलधार या मूसलाधार वृष्टि/मूसलधार या मूसलाधार वृष्टि-meaning-in-Hindi-English">मूसलधार या मूसलाधार वृष्टि</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudburst/cloudburst-meaning-in-Hindi-English">cloudburst</a></td><td class="l"><a class="in l" href="/translate/मेघ विस्फोट/मेघ विस्फोट-meaning-in-Hindi-English">मेघ विस्फोट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudburst/cloudburst-meaning-in-Hindi-English">cloudburst</a></td><td class="l"><a class="in l" href="/translate/अचानक बारिश होना/अचानक बारिश होना-meaning-in-Hindi-English">अचानक बारिश होना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudburst/cloudburst-meaning-in-Hindi-English">cloudburst</a></td><td class="l"><a class="in l" href="/translate/मूसलाधार वर्षा/मूसलाधार वर्षा-meaning-in-Hindi-English">मूसलाधार वर्षा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudburst/cloudburst-meaning-in-Hindi-English">cloudburst</a></td><td class="l"><a class="in l" href="/translate/बौछाड़/बौछाड़-meaning-in-Hindi-English">बौछाड़</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudburst/cloudburst-meaning-in-Hindi-English">cloudburst</a></td><td class="l"><a class="in l" href="/translate/मूसलधार बारिश/मूसलधार बारिश-meaning-in-Hindi-English">मूसलधार बारिश</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudburst/cloudburst-meaning-in-Hindi-English">cloudburst</a></td><td class="l"><a class="in l" href="/translate/बादल फटना/बादल फटना-meaning-in-Hindi-English">बादल फटना</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudland/cloudland-meaning-in-Hindi-English">cloudland</a></td><td class="l"><a class="in l" href="/translate/कल्पना-लोक/कल्पना-लोक-meaning-in-Hindi-English">कल्पना-लोक</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudlet/cloudlet-meaning-in-Hindi-English">cloudlet</a></td><td class="l"><a class="in l" href="/translate/बादलिका/बादलिका-meaning-in-Hindi-English">बादलिका</a></td></tr></table><h3 class="verb">verb&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloud over/cloud over-meaning-in-Hindi-English">cloud over</a></td><td class="l"><a class="in l" href="/translate/बादल छाना/बादल छाना-meaning-in-Hindi-English">बादल छाना</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloud-capped/cloud-capped-meaning-in-Hindi-English">cloud-capped</a></td><td class="l"><a class="in l" href="/translate/बादलों से छाया हुआ/बादलों से छाया हुआ-meaning-in-Hindi-English">बादलों से छाया हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/अंधकारमय/अंधकारमय-meaning-in-Hindi-English">अंधकारमय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/अस्पष्ट/अस्पष्ट-meaning-in-Hindi-English">अस्पष्ट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/उदास/उदास-meaning-in-Hindi-English">उदास</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/मलिन/मलिन-meaning-in-Hindi-English">मलिन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/धूमिल/धूमिल-meaning-in-Hindi-English">धूमिल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/मेघमय/मेघमय-meaning-in-Hindi-English">मेघमय</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/छिपा हुआ/छिपा हुआ-meaning-in-Hindi-English">छिपा हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/clouded/clouded-meaning-in-Hindi-English">clouded</a></td><td class="l"><a class="in l" href="/translate/बादलों से घिरा हुआ/बादलों से घिरा हुआ-meaning-in-Hindi-English">बादलों से घिरा हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudless/cloudless-meaning-in-Hindi-English">cloudless</a></td><td class="l"><a class="in l" href="/translate/मेघ रहित/मेघ रहित-meaning-in-Hindi-English">मेघ रहित</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudy/cloudy-meaning-in-Hindi-English">cloudy</a></td><td class="l"><a class="in l" href="/translate/उदास/उदास-meaning-in-Hindi-English">उदास</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudy/cloudy-meaning-in-Hindi-English">cloudy</a></td><td class="l"><a class="in l" href="/translate/धुंधला/धुंधला-meaning-in-Hindi-English">धुंधला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudy/cloudy-meaning-in-Hindi-English">cloudy</a></td><td class="l"><a class="in l" href="/translate/धुन्धला/धुन्धला-meaning-in-Hindi-English">धुन्धला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudy/cloudy-meaning-in-Hindi-English">cloudy</a></td><td class="l"><a class="in l" href="/translate/मटमैला/मटमैला-meaning-in-Hindi-English">मटमैला</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudy/cloudy-meaning-in-Hindi-English">cloudy</a></td><td class="l"><a class="in l" href="/translate/मलिन/मलिन-meaning-in-Hindi-English">मलिन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudy/cloudy-meaning-in-Hindi-English">cloudy</a></td><td class="l"><a class="in l" href="/translate/मेघाच्छन्न/मेघाच्छन्न-meaning-in-Hindi-English">मेघाच्छन्न</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/cloudy/cloudy-meaning-in-Hindi-English">cloudy</a></td><td class="l"><a class="in l" href="/translate/मेघाच्छादित/मेघाच्छादित-meaning-in-Hindi-English">मेघाच्छादित</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: cloud</h3><p>Meaning and definitions of cloud, translation in Hindi language for cloud with similar and opposite words. Also find spoken pronunciation of cloud in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "cloud"</h3><p>What cloud means in Hindi, cloud meaning in Hindi, cloud definition, examples and pronunciation of cloud in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>

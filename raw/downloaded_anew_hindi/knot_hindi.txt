@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<title>knot - Meaning in Hindi - knot in Hindi - Shabdkosh | शब्दकोश : English Hindi Dictionary and Translation </title>
+<meta name="description" content="knot - Meaning in Hindi, what is meaning of knot in Hindi dictionary, audio pronunciation, synonyms and definitions of knot in Hindi and English.">
+<meta name="keywords" content="knot, meaning of knot, English and Hindi for knot, translation, definition, pronunciation">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noarchive">
+<meta name="msApplication-ID" content="SHABDKOSH.COM.Shabdkosh">
+<meta name="msApplication-PackageFamilyName"content="SHABDKOSH.COM.Shabdkosh_p3zta6c2bqxsr">
+<meta name="author" content="Shabdkosh.com">
+<meta name="aiapp" content="app-id=hindienglishdictionaryshabdkosh">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="gpapp" content="app-id=com.shabdkosh.android">
+<meta name="apple-itunes-app" content="app-id=863035886">
+<meta name="google-play-app" content="app-id=com.shabdkosh.android">
+<meta name="wpapp" content="app-id=9a1ada2f-17df-43dd-9726-463744f2f3d9">
+<meta name="mwapp" content="app-id=5361d54d-62a4-40e7-80a5-8e0139024f76">
+<link href="https://plus.google.com/104269101835577929066" rel="publisher">
+<style type="text/css">@-ms-viewport{	width: device-width; }</style>
+<style type="text/css"> 
+@media screen and (max-width: 1024px) { .a2a_floating_style.a2a_vertical_style { display: none; } } 
+@media screen and (min-width: 1025px) { .a2a_floating_style.a2a_default_style { display: none; } } 
+</style>
+<link rel="canonical" href="http://www.shabdkosh.com/translate/knot/knot-meaning-in-Hindi-English">
+<link rel="stylesheet" href="//www.shabdkosh.net/r115/css/style.css">
+<!--[if lt IE 9]>
+  <script src="//www.shabdkosh.net/r115/js/html5shiv.js"></script>
+  <script src="//www.shabdkosh.net/r115/js/respond.min.js"></script>
+<![endif]-->
+<script>
+/* http://mattstow.com/responsive-design-in-ie10-on-windows-phone-8.html */
+(function() {
+  if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+  var msViewportStyle = document.createElement("style");
+  msViewportStyle.appendChild(
+    document.createTextNode("@-ms-viewport{width:auto!important}")
+);
+  document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+}
+})();
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-255300-1', 'shabdkosh.com');
+  ga('send', 'pageview');
+</script>
+</head>
+<body id="hi">
+<!--[if lt IE 7]>
+<div class="old-ie">
+<p>We no longer support the web browser that you are using. Please upgrade to a newer version of Internet Explorer or use another browser when visiting this site.</p>
+<ul>
+<li><a href="http://chrome.com">Chrome</a></li><li><a href="http://firefox.com">Firefox</a></li><li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+</ul>
+</div>
+<![endif]-->
+
+<a class="sr-only" href="#content">Skip to main content</a>
+
+<div class="navbar navbar-default navbar-static-top" role="banner">
+
+  <div class="container">
+    <div class="navbar-header hi0">
+      <button type="button" style="float:left;" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-sub">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-align-justify"></i>
+      </button>
+      <a class="navbar-brand hi0" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a>
+      <button type="button" data-toggle="collapse" class="navbar-toggle btn btn-default" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-font"></i>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" role="navigation" id="navbar-main">
+      <ul class="nav navbar-nav">
+        <li><a class="bn" href="/bn">বাংলা</a></li>
+        <li><a class="gu" href="/gu">ગુજરાતી</a></li>
+        <li><a class="hi" href="/">हिन्दी</a></li>
+        <li><a class="kn" href="/kn">ಕನ್ನಡ</a></li>
+        <li><a class="ml" href="/ml">മലയാളം</a></li>
+        <li><a class="mr" href="/mr">मराठी</a></li>
+        <li><a class="pa" href="/pa">ਪੰਜਾਬੀ</a></li>
+        <li><a class="ta" href="/ta">தமிழ்</a></li>
+        <li><a class="te" href="/te">తెలుగు</a></li>
+      </ul>
+    </div>
+    <div class="row" id="hd">
+      <div class="col-md-6">
+        <h1 class="title"><a class="title fghi0" id="fghi" title="English Hindi Dictionary and Translation" href="http://www.shabdkosh.com/">Shabdkosh</a></h1>
+        <p class="lead">English Hindi Dictionary | अंग्रेज़ी हिन्दी शब्दकोश</p>
+      </div>
+      <div id="sform" class="col-md-6">
+        <form action="/hi/translate" id="dict_search_form" class="form-inline" role="search">
+            <input type="text" lc="hi" lname="Hindi" autofocus placeholder="Enter English or Hindi" class="form-control-user xlit hi1" id="e" name="e" value="knot" title="Enter the word you want to search">
+            <input type="hidden" name="l" id="l" value="hi">
+            <button class="btn btn-default btn-up sbutton" type="submit" title="Search dictionary!"><i class="fa fa-search"></i><span class="sterm"> Search</span></button>
+        </form>
+        <p>
+        <span class="xltlegend">Keyboard: </span><span class="xltb" id="kbdsnh" title="Show or Hide Keyboard">Off</span>
+        <span class="xltlegend">Language: </span><span class="xltb" id="ins_kbd" title="Change Language">English</span>
+        </p>
+        <!--span class="xltb" id="rom_kbd" title="Click to enable/disable Romanized Keyboard" style="display:none">ROMANIZED</span-->
+      </div>
+    </div>
+    <div class="row" id="keyboard" style="display:none;">
+      <div id="kbd0" class="col-md-7">
+        <!-- keyboard -->
+      </div>
+      <div id="kbdhelp" class="col-md-5">
+        <h3>Help</h3>
+        <ol>
+          <li>Note that 'matra' is added after the consonant.</li>
+          <li>To get half characters, use halant which is mapped to 'd' key in INSCRIPT keyboard and to the '/' key in Romanized keyboard.</li>
+        </ol>
+      </div>
+    </div>
+    <div class="collapse navbar-collapse hi0" role="navigation" id="navbar-sub">
+      <ul id="nl" class="nav navbar-nav">
+        <li><a href="/"><i class="fa fa-home"></i></a></li>
+        <li><a href="http://www.shabdkosh.com/about">About</a></li>
+        <li><a href="http://www.shabdkosh.com/browse">Browse</a></li>
+        <li><a href="http://www.shabdkosh.com/word_of_the_day">Word of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/quote_of_the_day">Quote of the Day</a></li>
+        <li><a href="http://www.shabdkosh.com/contribute">Contribute</a></li>
+        <li><a href="/forums">Forums</a></li>
+        
+      </ul>
+    </div>
+  
+  </div>
+</div>
+<div class="container" role="main" id="content">
+
+
+<div id="ehresults"><h1 id="eil">knot - meaning in Hindi</h1><script async src="https://static.addtoany.com/menu/page.js"></script><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-75px;top:200px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_copy_link"></a></div><div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px;right: 0px;line-height:32px;"><a href="https://www.addtoany.com/share"></a><a class="a2a_button_whatsapp"></a><a class="a2a_button_facebook"></a><a class="a2a_button_sms"></a><a class="a2a_button_copy_link"></a></div><div class="row"><div class="col-md-7"><div id=left><h2 class="ehr">Pronunciation of knot</h2><i class="fa fa-volume-up fa-lg in au" id="en365277" style=""></i>नाट<div class="page-header"><h2 class="ehr">Meanings of knot in Hindi</h2><small>[<a id="t_on" href="/translate/knot/knot-meaning-in-Hindi-English">Show Transliteration</a>]</small></h2></div><div class="row"><div class="col-sm-6"><h3 class="noun"><em>noun&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi440248"></i> <a class="in l" href="/translate/समुद्री मील/समुद्री मील-meaning-in-Hindi-English">समुद्री मील</a> <span class="latin" style="display:none;">[samudrī mīla]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi440250"></i> <a class="in l" href="/translate/कठोर अंश/कठोर अंश-meaning-in-Hindi-English">कठोर अंश</a> <span class="latin" style="display:none;">[kaṭhōra anśa]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi440251"></i> <a class="in l" href="/translate/गाँठ बांधना/गाँठ बांधना-meaning-in-Hindi-English">गाँठ बांधना</a> <span class="latin" style="display:none;">[gām̐ṭha bāndhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi802542"></i> <a class="in l" href="/translate/वृक्षसंधि/वृक्षसंधि-meaning-in-Hindi-English">वृक्षसंधि</a> <span class="latin" style="display:none;">[vr̥kṣasandhi]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi95"></i> <a class="in l" href="/translate/अंटी/अंटी-meaning-in-Hindi-English">अंटी</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[aṇṭī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5692"></i> <a class="in l" href="/translate/उलझन/उलझन-meaning-in-Hindi-English">उलझन</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ulajhana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi5695"></i> <a class="in l" href="/translate/उलझना/उलझना-meaning-in-Hindi-English">उलझना</a> <span class="latin" style="display:none;">[ulajhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi6438"></i> <a class="in l" href="/translate/कठिनाई/कठिनाई-meaning-in-Hindi-English">कठिनाई</a> <span class="latin" style="display:none;">[kaṭhinā'ī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9595"></i> <a class="in l" href="/translate/गाँठ/गाँठ-meaning-in-Hindi-English">गाँठ</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[gām̐ṭha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9601"></i> <a class="in l" href="/translate/गांठ/गांठ-meaning-in-Hindi-English">गांठ</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[gāṇṭha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9719"></i> <a class="in l" href="/translate/गिरह/गिरह-meaning-in-Hindi-English">गिरह</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[giraha]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi9773"></i> <a class="in l" href="/translate/गुच्छा/गुच्छा-meaning-in-Hindi-English">गुच्छा</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[gucchā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi10201"></i> <a class="in l" href="/translate/ग्रंथि/ग्रंथि-meaning-in-Hindi-English">ग्रंथि</a> <span class="latin" style="display:none;">[granthi]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi12010"></i> <a class="in l" href="/translate/जत्था/जत्था-meaning-in-Hindi-English">जत्था</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[jat'thā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi13381"></i> <a class="in l" href="/translate/टोली/टोली-meaning-in-Hindi-English">टोली</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[ṭōlī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi22473"></i> <a class="in l" href="/translate/बंधन/बंधन-meaning-in-Hindi-English">बंधन</a> (<span title="Gender">m</span>) <span class="latin" style="display:none;">[bandhana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi25068"></i> <a class="in l" href="/translate/मंडली/मंडली-meaning-in-Hindi-English">मंडली</a> <span class="latin" style="display:none;">[maṇḍalī]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi34346"></i> <a class="in l" href="/translate/सार/सार-meaning-in-Hindi-English">सार</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[sāra]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi69245"></i> <a class="in l" href="/translate/उल्झन/उल्झन-meaning-in-Hindi-English">उल्झन</a> (<span title="Gender">f</span>) <span class="latin" style="display:none;">[uljhana]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi407653"></i> <a class="in l" href="/translate/पेड़ की गांठ जहां से डाल निकलती है/पेड़ की गांठ जहां से डाल निकलती है-meaning-in-Hindi-English">पेड़ की गांठ जहां से डाल निकलती है</a> <span class="latin" style="display:none;">[pēṛa kī gāṇṭha jahāṁ sē ḍāla nikalatī hai]</span></li></ol></div><div class="col-sm-6"><h3 class="verb"><em>verb&nbsp;</em></h3><ol class="eirol"><li><i class="fa fa-volume-up fa-lg in au1" id="hi407654"></i> <a class="in l" href="/translate/गांठ बांधना/गांठ बांधना-meaning-in-Hindi-English">गांठ बांधना</a> <span class="latin" style="display:none;">[gāṇṭha bāndhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi440249"></i> <a class="in l" href="/translate/गाँठ लगना/गाँठ लगना-meaning-in-Hindi-English">गाँठ लगना</a> <span class="latin" style="display:none;">[gām̐ṭha laganā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi440251"></i> <a class="in l" href="/translate/गाँठ बांधना/गाँठ बांधना-meaning-in-Hindi-English">गाँठ बांधना</a> <span class="latin" style="display:none;">[gām̐ṭha bāndhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi23185"></i> <a class="in l" href="/translate/बांधना/बांधना-meaning-in-Hindi-English">बांधना</a> <span class="latin" style="display:none;">[bāndhanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi32927"></i> <a class="in l" href="/translate/सटाना/सटाना-meaning-in-Hindi-English">सटाना</a> <span class="latin" style="display:none;">[saṭānā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi387944"></i> <a class="in l" href="/translate/नत्थी करना/नत्थी करना-meaning-in-Hindi-English">नत्थी करना</a> <span class="latin" style="display:none;">[nat'thī karanā]</span></li><li><i class="fa fa-volume-up fa-lg in au1" id="hi404094"></i> <a class="in l" href="/translate/एक में मिलाना/एक में मिलाना-meaning-in-Hindi-English">एक में मिलाना</a> <span class="latin" style="display:none;">[ēka mēṁ milānā]</span></li></ol></div></div><div style="border-top: dotted 1px lightgray; margin-top:10px;padding-top:5px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- sk_dict_468x60 --><ins class="adsbygoogle" style="display:inline-block;width:468px;height:60px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="4555667203"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Inflected forms</h2><a href="/translate/knots/knots-meaning-in-Hindi-English">knots</a> (noun plural)<br/><a href="/translate/knotted/knotted-meaning-in-Hindi-English">knotted</a> (verb past tense)<br/><a href="/translate/knotting/knotting-meaning-in-Hindi-English">knotting</a> (verb present participle)<br/><a href="/translate/knots/knots-meaning-in-Hindi-English">knots</a> (verb present tense)<br/></p><h2 class="ehr">Definitions and Meaning of knot in English</h2><strong><em>noun</em></strong></h3><ol class="wnol"><li>a sandpiper that breeds in the Arctic and winters in the southern hemisphere</li><li>any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object</li><li>soft lump or unevenness in a yarn; either an imperfection or created by design</li><li>a tight cluster of people or things<br><u><em>Example</em></u><br>- the bird had a knot of feathers forming a crest<br></li><li>a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude</li><li>something twisted and tight and swollen<br><u><em>Examples</em></u><br>- the old man's fists were two great gnarls<br>- his stomach was in knots<br></li><li>a hard cross-grained round piece of wood in a board where a branch emerged</li></ol><strong><em>verb</em></strong></h3><ol class="wnol"><li>tie or fasten into a knot</li><li>tangle or complicate</li><li>make into knots; make knots out of</li></ol></div></div><div class="col-md-5"><div id="right"><div class="hidden-sm hidden-xs"><h3 class="ehr">English to Hindi Dictionary Apps</h3><div class="row">
+    <div class="col-xs-3 col-sm-3"><a href="//play.google.com/store/apps/details?id=com.shabdkosh.android&utm_source=site&utm_medium=web&utm_content=logolink&utm_campaign=resultpage"><i style="color:#A4C639;" class="fa fa-android fa-3x"></i><br/>Android</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.appstore.com/hindienglishdictionaryshabdkosh"><i style="color:#000000;" class="fa fa-apple fa-3x"></i><br/>iOS</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//www.windowsphone.com/s?appId=9a1ada2f-17df-43dd-9726-463744f2f3d9"><i style="color:#9b4f96;" class="fa fa-windows fa-3x"></i><br/>Windows Phone</a></div>
+    <div class="col-xs-3 col-sm-3"><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76"><i style="color:#6DC2E9;" class="fa fa-windows fa-3x"></i><br/>Windows</a></div>
+  </div></div><br/><div class="adbox"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- ad_dict_336x280 --><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2804136533585134" data_ad_slot="6311602001"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><h2 class="ehr">Follow us on Facebook</h2><p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fshabdkosh&amp;width=320&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:320px; height:21px;" allowTransparency="true"></iframe></p><h2 class="ehr">Synonyms of knot</h2><p><a href="/translate/calidris+canutus/calidris+canutus-meaning-in-Hindi-English">calidris canutus</a>, <a href="/translate/grayback/grayback-meaning-in-Hindi-English">grayback</a>, <a href="/translate/greyback/greyback-meaning-in-Hindi-English">greyback</a>, <a href="/translate/knot/knot-meaning-in-Hindi-English">knot</a>, <a href="/translate/burl/burl-meaning-in-Hindi-English">burl</a>, <a href="/translate/slub/slub-meaning-in-Hindi-English">slub</a>, <a href="/translate/air+mile/air+mile-meaning-in-Hindi-English">air mile</a>, <a href="/translate/international+nautical+mile/international+nautical+mile-meaning-in-Hindi-English">international nautical mile</a>, <a href="/translate/mi/mi-meaning-in-Hindi-English">mi</a>, <a href="/translate/mile/mile-meaning-in-Hindi-English">mile</a>, <a href="/translate/naut+mi/naut+mi-meaning-in-Hindi-English">naut mi</a>, <a href="/translate/nautical+mile/nautical+mile-meaning-in-Hindi-English">nautical mile</a>, <a href="/translate/gnarl/gnarl-meaning-in-Hindi-English">gnarl</a>, <a href="/translate/ravel/ravel-meaning-in-Hindi-English">ravel</a>, <a href="/translate/tangle/tangle-meaning-in-Hindi-English">tangle</a></p><h2 class="ehr">Antonyms of knot</h2><p><a href="/translate/unknot/unknot-meaning-in-Hindi-English">unknot</a>, <a href="/translate/unpick/unpick-meaning-in-Hindi-English">unpick</a>, <a href="/translate/unravel/unravel-meaning-in-Hindi-English">unravel</a>, <a href="/translate/unscramble/unscramble-meaning-in-Hindi-English">unscramble</a>, <a href="/translate/untangle/untangle-meaning-in-Hindi-English">untangle</a></p><h2 class="ehr">More matches for knot</h2><h3 class="noun">noun&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knothole/knothole-meaning-in-Hindi-English">knothole</a></td><td class="l"><a class="in l" href="/translate/कोटर/कोटर-meaning-in-Hindi-English">कोटर</a></td></tr></table><h3 class="adjective">adjective&nbsp;</h3><table style="width:100%;" class="ehr"><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotted/knotted-meaning-in-Hindi-English">knotted</a></td><td class="l"><a class="in l" href="/translate/गाँठदार/गाँठदार-meaning-in-Hindi-English">गाँठदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/कठिन/कठिन-meaning-in-Hindi-English">कठिन</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/गांठदार/गांठदार-meaning-in-Hindi-English">गांठदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/जटिल/जटिल-meaning-in-Hindi-English">जटिल</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/दुबेधि/दुबेधि-meaning-in-Hindi-English">दुबेधि</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/पेचीदा/पेचीदा-meaning-in-Hindi-English">पेचीदा</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/विकट/विकट-meaning-in-Hindi-English">विकट</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/गाँठदार/गाँठदार-meaning-in-Hindi-English">गाँठदार</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/उलझा हुआ/उलझा हुआ-meaning-in-Hindi-English">उलझा हुआ</a></td></tr><tr><td class="l" style="width:40%"><a class="in l" href="/translate/knotty/knotty-meaning-in-Hindi-English">knotty</a></td><td class="l"><a class="in l" href="/translate/गिरहदार/गिरहदार-meaning-in-Hindi-English">गिरहदार</a></td></tr></table></div></div></div><hr><h3>English to Hindi Dictionary: knot</h3><p>Meaning and definitions of knot, translation in Hindi language for knot with similar and opposite words. Also find spoken pronunciation of knot in Hindi and in English language. <h3 style="font-size:1em;">Tags for the entry "knot"</h3><p>What knot means in Hindi, knot meaning in Hindi, knot definition, examples and pronunciation of knot in Hindi language.</p><p style="font-size:70%;"></p></div>
+<audio id="au0"></audio>
+<audio id="au1"></audio>
+<div id="audio"></div>
+<div class="row">
+<div class="col-lg-12">
+<ul class="footer-links">
+<li>
+<i class="fa fa-chevron-up fa-lg"></i>
+<a href="#top">Back to top</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="footer hi0">
+  <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h3>Support</h3>
+      <div class="row">
+        <!--div class="col-xs-4 col-sm-12"><i class="fa fa-info-circle fa-lg"></i><a href="http://www.shabdkosh.com/about">About</a></div-->
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-question-circle fa-lg"></i><a href="/help">Help</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-envelope fa-lg"></i><a href="/contact">Contact</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Keep in Touch</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-facebook fa-lg"></i><a target="_blank" href="//facebook.com/shabdkosh">Facebook</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-twitter fa-lg"></i><a target="_blank" href="//twitter.com/shabdkosh">Twitter</a></div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h3>Apps</h3>
+      <div class="row">
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-android fa-lg"></i><a href="https://play.google.com/store/apps/details?id=com.shabdkosh.android">Android</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-apple fa-lg"></i><a href="https://itunes.apple.com/us/app/hindi-english-dictionary-shabdkosh/id863035886">iPhone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//www.windowsphone.com/en-in/store/app/english-hindi-dictionary-shabdkosh/9a1ada2f-17df-43dd-9726-463744f2f3d9">Windows Phone</a></div>
+        <div class="col-xs-4 col-sm-12"><i class="fa fa-windows fa-lg"></i><a href="//apps.microsoft.com/windows/en-in/app/shabdkosh/5361d54d-62a4-40e7-80a5-8e0139024f76">Windows 8</a></div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <br>
+  <ul class="tos list-inline list-unstyled">
+    <li>&copy; 2003-2017 Shabdkosh.com, All rights reserved.</li>
+    <li><a href="/terms">Terms of Service</a></li>
+    <li><a href="/terms">Privacy Policy</a></li>
+  </ul>
+  </div>
+</div>
+<script src="//www.shabdkosh.net/r115/js/script.js"></script>
+
+<script src="//www.shabdkosh.net/r115/js/jquery.ac113.js"></script>
+<script src="//www.shabdkosh.net/r115/js/sk_search.js"></script>
+<script src="//www.shabdkosh.net/r115/js/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+r=new XMLHttpRequest();
+r.open('POST','//www.shabdkosh.com/utils/adbck.php');
+r.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+if(document.getElementById('GmCH'))
+  r.send('block=0');
+else 
+  r.send('block=1');
+</script>
+</body>
+</html>
