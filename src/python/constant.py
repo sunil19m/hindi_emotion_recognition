@@ -14,6 +14,12 @@ if not os.path.exists(RAW_PATH):
 #
 ANEW_ENGLISH_CSV_PATH = os.path.join(BASE_PATH, "raw/anew_english/all.csv")
 
+
+#
+# The folder raw/lyrics/lyrics_urls/ contains files with urls to the songs
+#
+LYRICS_URL_PATH = os.path.join(BASE_PATH, "raw/lyrics/lyrics_urls/")
+
 #
 # All the hindi version of the downloaded anew words along with synonyms are present
 #
@@ -36,6 +42,10 @@ if not os.path.exists(ADVERB_HINDI_PATH):
 
 #LYRICS_150_JSON_PATH = os.path.join(BASE_PATH, "raw/lyrics/150_hindi_song_list_test.json")
 LYRICS_150_JSON_PATH = os.path.join(BASE_PATH, "raw/lyrics/150_hindi_song_list.json")
+
+#LYRICS_PATH = os.path.join(BASE_PATH, "raw/lyrics/")
+LYRICS_PATH = os.path.join(BASE_PATH, "raw/lyrics/")
+
 
 ###################################################################################
 #
