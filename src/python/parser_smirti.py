@@ -2,19 +2,22 @@ import codecs
 import json
 import urllib2
 from bs4 import BeautifulSoup
+from constant import (LYRICS_URL_PATH,
+					  LYRICS_PATH)
 
-url_files = ["output2000.txt", "output2001.txt", "output2002.txt", "output2003.txt", "output2004.txt", "output2005.txt"]
+#url_files = ["output2000.txt", "output2001.txt", "output2002.txt", "output2003.txt", "output2004.txt", "output2005.txt"]
+url_files = ["150_hindi_song_list.txt"]
 
 for file in url_files:
 
 	output_file = file.split(".")
 	output_file = output_file[0] + ".json"
 	print (output_file)
-	fp = open(output_file,"w")
+	fp = codecs.open(LYRICS_PATH + output_file,"wb", encoding="utf-8")
 	songs = {}
 	id = 0
 
-	with open(file,"r") as f:
+	with open(LYRICS_URL_PATH + file,"r") as f:
 		for url in f:
 			id = id + 1
 			songs[id] = {}
@@ -78,9 +81,9 @@ for file in url_files:
 			temp_list = []
 			for line in songLyrics:										# Each <p> tag in the div	
 				for contents in line:									# Each <br> tag in <p> tag
-					temp_list.append(contents.encode("utf8") + " ")		# Append lyrics to a temp list	
+					temp_list.append(contents.encode("utf8") + "\n")	# Append lyrics to a temp list	
 
 			temp_str = ''.join(temp_list)								# Convert the list to a string
-			songs[id]["lyrics"] = temp_str								# Store in the songs dictionary
+			songs[id]["lyrics"] = temp_str.decode("utf-8")   			# Store in the songs dictionary
 							
-	json.dump(songs, fp)
+	json.dump(songs, fp, ensure_ascii=False)

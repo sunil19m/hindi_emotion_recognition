@@ -1,7 +1,7 @@
 import os
 
 # Change this path to your system path
-BASE_PATH = "/home/sunil/nlp_project/"
+BASE_PATH = "/home/sunil/hindi_emotion_recognition/"
 
 # All the raw downloaded files are present here
 RAW_PATH = os.path.join(BASE_PATH, "raw/")
