@@ -47,16 +47,19 @@ def extract_synonyms_shadhakosh_txt(file_lists):
     word_synonym=dict() 
     for file_path in file_lists:
         soup=BeautifulSoup(codecs.open(file_path,encoding="utf-8"), "lxml")
+        lis = soup.find_all("li")
+        synonyms = list()
+        for li in lis:
+            li_soup = BeautifulSoup(str(li), "lxml")
+            if li_soup.find(attrs={"class": "fa fa-volume-up fa-lg in au1"}):
+                val = li_soup.find('a',attrs={'class':'in l'}).getText()
+                if val:
+                    synonyms.append(val)
         file_name = path.basename(file_path)
         anew_word = file_name.split("_")[0]
-        res=soup.find_all('a',attrs={'class':'in l'})
-        synonyms=[]
-        for each in res:
-            txt_val = BeautifulSoup(str(each), "lxml").getText()
-            if is_valid_hindi_word(txt_val):
-                synonyms.append(txt_val)
         word_synonym[anew_word]=synonyms
     return word_synonym
+
 
 def map_anew_with_hindi_synonymns(anew_data, word_synonym_dict):
     hindi_anew_emotion = dict()
@@ -86,7 +89,7 @@ def write_to_file_as_json(data, file_name):
         json.dump(data, file_pointer, ensure_ascii=False)
 
 def main(args):
-    category = "anew_hindi"
+    category = None
     path = ANEW_HINDI_PATH
     for arg in args:
         if '--category' in arg:
@@ -114,6 +117,9 @@ def main(args):
         adverb_synonymns_emotions_dict = map_adverb_with_hindi_synonymns(word_synonym_dict)
         write_to_file_as_json(word_synonym_dict,  MODEL_PATH + "check_adverb_data.txt")
         write_to_file_as_json(adverb_synonymns_emotions_dict, MODEL_PATH + "adverb_model.txt")
-    
+    else:
+        raise Exception("Please give: python3 parser_shadhakosh.py --category=anew_hindi (or)\
+                    python3 parser_shadhakosh.py --category=adverb_hindi")
+
 if __name__ == "__main__":
     main(sys.argv[1:])
