@@ -36,5 +36,6 @@ def hindi_word_stemmer(word):
     return word
 
 def hindi_stemmer(words):
+    #return words
     return ' '.join([hindi_word_stemmer(word) for word in words.split()])
 

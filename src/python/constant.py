@@ -65,6 +65,8 @@ ANHW_MODEL_DATA = os.path.join(RAW_PATH, "model_data/anhw_model.txt")
 # Adverb model data
 ADVERB_MODEL_DATA = os.path.join(RAW_PATH, "model_data/adverb_model.txt")
 
+LYRICS_SENTENCE_MODEL_DATA = os.path.join(RAW_PATH, "model_data/lyrics_sentence_score_model.txt")
+
 ###################################################################################
 # Emotions index constants
 VALENCE_MEAN_INDEX = 0
