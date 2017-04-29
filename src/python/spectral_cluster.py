@@ -42,7 +42,7 @@ def update_value_column_wise(column_number, zero_np, data):
 def convert_to_np_columns(valence, arousal):
 	filtered_valence = list()
 	filtered_arousal = list()
-	filter = 1.7
+	filter = 0
 	for i, value in enumerate(range(len(valence))):
 		if (valence[i] < filter and valence[i] > (-1 * filter)) \
 			or (arousal[i] < filter and arousal[i] > (-1 * filter)):

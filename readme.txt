@@ -47,4 +47,16 @@ python3 -m pip install lxml
 	c. The output printed is the SongID | quadrant number. The final is the result
 
 10) python3 lyrics_score_with_word_count.py; python3 comparision_value.py;
-11) python3 python3 lyrics_score_with_sentence_count.py; python3 comparision_value.py;
+11) python3 lyrics_score_with_sentence_count.py; python3 comparision_value.py;
+
+12) python3 lyrics_score_with_word_count.py ; python3 comparision_value.py; python3 spectral_cluster_avg.py; python3 comparision_value.py;
+	a. This does the weighted average of the cluster based on the word
+
+13) python3 lyrics_score_with_sentence_count.py; python3 comparision_value.py; python3 spectral_cluster_avg.py; python3 comparision_value.py;
+	a. This takes the weighted average of the cluster based on the sentence
+
+12) python3 lyrics_score_with_word_count.py ; python3 comparision_value.py; python3 spectral_cluster.py; python3 comparision_value.py;
+	a. This takes the dominant cluster based on the word
+
+13) python3 lyrics_score_with_sentence_count.py; python3 comparision_value.py; python3 spectral_cluster.py; python3 comparision_value.py;
+	a. This takes the dominant cluster based on the sentence
